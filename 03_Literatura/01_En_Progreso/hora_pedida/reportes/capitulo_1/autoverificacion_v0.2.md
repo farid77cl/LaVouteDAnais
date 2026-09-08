@@ -53,7 +53,7 @@ Escritor-Nivel4 · 2026-09-08 · rework por nota de la Ama (`brief_v0.2.md`) · 
 | # | Métrica | Umbral | Conteo real |
 |---|---|---|---|
 | H1 | Tricolones | ≤2 por escena | living 2 (*«Ningún escritorio, ninguna camilla, ningún diploma»* · *«no volvió a mirar… no le preguntó… no dijo»*) · cajón 2 (*«No apretó, no masajeó, no empujó»* · *«Ni el vidrio, ni la vibración, nada»*) · casa 1 · lavatorio 1 |
-| H2 | «no era X, era Y» | ≤1 por cap | **2**, ambos cuerpo corrigiendo cabeza: *«no le subió a la cara. Le bajó»* · *«no fue por el ruido. Fue por el muslo»* (un tercero eliminado en la pasada). Criterio §2 del voz_autoral |
+| H2 | «no era X, era Y» | ≤1 por cap | **1** (medido con Grep amplio `[Nn]o (era\|fue\|es\|tenía\|había)…(, \|\. )(era\|fue\|es\|tenía\|sino)` tras la pasada correctiva): *«no fue por el ruido. Fue por el muslo»* — cuerpo corrigiendo cabeza. **Corrección de mi reporte anterior:** dije «2» con un grep angosto y Loreto contó 5; los cinco reales eran L21 *«no le subió a la cara. Le bajó»*, L111 *«No es que no quiera, es que no puedo»*, L215 *«No es nada. Es que me senté»*, L283 *«no era su boca…, era una boca»*, L297 *«no tenía forma de frase, tenía forma de boca»* (+ L189 *«No es que le crea. Es que…»* en diálogo). Deshechos los seis; sobrevive uno |
 | H3 | Frases-remate aforísticas | ≤6 por cap | 4 (*«Lenta de las que no están atrasadas para nada»* · *«La frase le duró lo que dura una frase»* · *«Eso fue lo peor»* · *«porque la palabra ya estaba adentro»*) |
 | H4 | Abstractos que nombran el tema | 0 | 0 (ni *rendición*, ni *sumisión*, ni *deseo*, ni *control*) |
 | H5 | «algo» como comodín | ≤2 por cap | 1 en narración (*«forrado por dentro en algo oscuro»* — se resuelve después como terciopelo); el resto en diálogo/cursiva |
@@ -66,6 +66,14 @@ Escritor-Nivel4 · 2026-09-08 · rework por nota de la Ama (`brief_v0.2.md`) · 
 | H12 | «como si / como quien» | 0 | **0** (grep sin resultados; un *«como se frota una picadura»* es símil de gesto, no molde) |
 | H13 | Recibo de excitación al cierre de párrafo | 0 | 0 — revisé cada párrafo del lavatorio y del sillón; ninguno cierra certificando (*«y eso la mojó»*) |
 | H14 | Habla real | presente | 65 parlamentos · 15 cortes con «…» · ≥6 interrupciones con raya · 2 respuestas a otra cosa |
+
+## Pasada correctiva (08/09/2026, tras la primera medición de Loreto sobre v0.2)
+Loreto midió contra v0.1: narración con cuerpo 34,4% → 24,8% · apertura T8 34,6% → 22,9% · deciles 2-3 en 16,4% y 12,1% · H2 = 5. Lo corregido, **sin tocar cierre, calentón con cara, rampa ni curva**, y sumando ~+110 palabras netas al primer tercio:
+- **T8 (primeras 500 palabras):** la lista mental ahora pasa por el cuerpo ítem por ítem (*«Leche, y los molares… el cordón de la credencial rozándole la nuca donde ya tenía la marca… el muslo otra vez, sin zumbido, apretándose solo… y el estómago»*); timbre *«con el muslo tenso, la boca seca»*; la mirada de la puerta endereza la espalda y hace crujir la mandíbula; el olor de Renée *«se le quedó en la garganta seca»*.
+- **Deciles 2-3:** luz en la cara al entrar y hombros subiendo al buscar dónde sentarse derecha · manos cerradas sobre el bolso y muslos apretados al formular el problema · lengua por los dientes, molares juntos y moño tirando en *«Es eso, nada más»* · *mi amor* calienta las orejas antes de que la cabeza se ofenda · muñeca fría de golpe donde estuvieron las yemas · mandíbula crujiendo en cada cargo y pulso golpeando en la muñeca abierta durante el relato de la reunión.
+- **H2:** de 5 (6 contando diálogo) a **1**, verificado con Grep amplio — ver tabla.
+- **Costura revisada:** ninguna de las inserciones mete día, objeto, prenda o evento nuevo; *«la marca»* del cordón en la nuca es la misma que el auto se frota después. Repeticiones ≥9: revisadas las frases nuevas con Grep (*«desde las siete de la mañana»*, *«el cuero cabelludo»*, *«garganta seca»*, *«boca seca»* — una vez cada una; *«la bisagra»* había quedado ×2 y bajó a ×1).
+- **Lo que no puedo medir sin Loreto:** el % exacto de narración con cuerpo y los deciles. Estimo que las inserciones suben decil 1-3 porque todas van en narración (no en diálogo), que es lo que la métrica cuenta.
 
 ## Notas internas del Escritor
 - **La S2 no está.** Es la única desviación del canon §6 (Cap 1 = S1+S2, P1+P2, cliffhanger *«¿Cuándo puedo volver?»*). Seguí el plan de tres tramos del Orquestador, que cerraba en la noche + gancho; el gancho *«¿Tiene algo antes?» / «Mañana a las cuatro, doctora»* es el mismo beat del canon (vino por algo puntual, pide volver antes) transpuesto a la pantalla. Recomiendo que S2 abra el Cap 2 (o un tramo 4 corto si la Ama quiere P2 dentro del Cap 1) — es decisión de ella/el Orquestador, no mía, y la dejé marcada en cronología [4].

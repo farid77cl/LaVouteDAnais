@@ -6,7 +6,7 @@ Adentro de la cabeza la lista seguía andando sola, y cada cosa de la lista le p
 
 Tocó el timbre con el muslo tenso, la boca seca y el problema ya formulado. *Es algo acotado. Dos sesiones, tres máximo. No tengo tiempo para más.*
 
-La puerta se abrió antes de que terminara la frase, y la mujer que abrió la miró de arriba abajo sin disimular, despacio, del moño a los tacos y de vuelta, un segundo entero, y la doctora sintió la mirada pasarle por el cuerpo con el peso de una mano, y la espalda se le enderezó sola debajo, y tragó, y la bisagra crujió.
+La puerta se abrió antes de que terminara la frase, y la mujer que abrió la miró de arriba abajo sin disimular, despacio, del moño a los tacos y de vuelta, un segundo entero, y la doctora sintió la mirada pasarle por el cuerpo con el peso de una mano, y la espalda se le enderezó sola debajo, y tragó, y le crujió la mandíbula.
 
 —Doctora. —Sonrió con una boca sin brillo, nude, mate, una boca que no había ido a ninguna parte en todo el día—. Uy, pobrecita. Mírate. Vienes con los hombros puestos en las orejas. ¿Desde qué hora?
 
@@ -32,7 +32,7 @@ Se sentó. El bolso en la falda, las rodillas juntas, los tacos plantados en la 
 
 —Es que de allá no te veo bien —dijo—. Y yo quiero verte.
 
-—Vengo por algo acotado —dijo la doctora, y lo dijo hacia adelante, hacia la tetera, para no decírselo a las rodillas—. Se lo digo al tiro para no…
+—Vengo por algo acotado —dijo la doctora, y lo dijo hacia adelante, hacia la tetera, para no decírselo a las rodillas, con las dos manos cerradas sobre el bolso y los muslos apretados uno contra el otro—. Se lo digo al tiro para no…
 
 —Para no perderme tiempo. Ya sé. Cuéntame igual.
 
@@ -40,7 +40,7 @@ Se sentó. El bolso en la falda, las rodillas juntas, los tacos plantados en la 
 
 —Sin que suene a qué.
 
-—A que no puedo. Sí puedo. Es que me aprieto entera, me aprieto y después no me suelto en todo el día, llego a la casa apretada, me acuesto apretada. Necesito ordenar eso. Es eso, nada más.
+—A que no puedo. Sí puedo. Es que me aprieto entera, me aprieto y después no me suelto en todo el día, llego a la casa apretada, me acuesto apretada. Necesito ordenar eso. —Se pasó la lengua por los dientes, con los molares juntos y el moño tirándole el cuero cabelludo hacia atrás desde las siete de la mañana—. Es eso, nada más.
 
 —Ya.
 
@@ -54,7 +54,7 @@ No dijo nada de eso. Dejó la taza.
 
 —Ya. —Le acercó la otra taza por la mesita, sin ponérsela en la mano—. Ya, respira. Empecemos por algo chiquitito, ¿ya, mi amor?
 
-La palabra le pegó en la cara.
+La palabra le pegó en la cara, y le calentó las orejas, y la cabeza llegó a ofenderse después que las orejas.
 
 —No soy su «mi amor» —dijo—. Gracias. Prefiero que me trate de doctora, si no le importa. O por el nombre. Pero eso no.
 
@@ -74,15 +74,15 @@ El pulgar de Renée se movió. Un centímetro, hacia arriba por la cara interna 
 
 —Ciento diez —dijo Renée, y no le soltó la muñeca—. Sentada. Con el sol en la nuca y una taza de té al lado. Y no te subió cuando te tomé, doctora, te subió cuando te miré, que es distinto. Yo no dije nada, ¿o sí? No dije ni una palabra. Mírame. Ahí está otra vez. Ya, no importa, no me lo expliques, si yo no vine a que me expliques nada.
 
-Le soltó la muñeca. Se la dejó boca arriba sobre la rodilla, abierta, y volvió a su taza.
+Le soltó la muñeca. Se la dejó boca arriba sobre la rodilla, abierta, y volvió a su taza, y la piel de adentro de la muñeca se le quedó fría de golpe donde habían estado las yemas.
 
 *no sueltes.*
 
-Lo pensó abajo, en minúscula, en un lugar que no era la cabeza, y arriba lo tachó al tiro. Cerró la mano. Se la puso sobre el bolso.
+Lo pensó abajo, en minúscula, en un lugar bastante más abajo que la cabeza, y arriba lo tachó al tiro. Cerró la mano. Se la puso sobre el bolso.
 
 —¿Y cómo es esa reunión? —preguntó Renée—. Cuéntamela. Con todo, con los nombres, con quién se sienta dónde.
 
-Le contó. Le contó bien, en orden, con los cargos y no con los nombres, la sala del tercer piso, el jefe de servicio con la planilla, la palabra rendimiento dicha cuatro veces en veinte minutos, y mientras hablaba iba armando el problema con las dos manos, cuadrado, con bordes, un problema que cabía en una carpeta. Renée la escuchaba con la taza entre los dedos. Asentía. No anotaba. Y a los cinco minutos, seis, cuando la doctora iba en lo del presupuesto, Renée la interrumpió a la mitad de una frase.
+Le contó. Le contó bien, en orden, con los cargos y no con los nombres, la sala del tercer piso, el jefe de servicio con la planilla, la palabra rendimiento dicha cuatro veces en veinte minutos, y mientras hablaba iba armando el problema con las dos manos, cuadrado, con bordes, un problema que cabía en una carpeta, y la mandíbula le crujía en cada cargo, y en la muñeca abierta sobre el bolso el pulso seguía golpeando donde habían estado los dedos. Renée la escuchaba con la taza entre los dedos. Asentía. No anotaba. Y a los cinco minutos, seis, cuando la doctora iba en lo del presupuesto, Renée la interrumpió a la mitad de una frase.
 
 —Ahí se fue uno.
 
@@ -108,7 +108,7 @@ Metió la mano al bolsillo por reflejo, lo sacó, miró la pantalla, era del ser
 
 —Es una pregunta.
 
-—No, o sea… ¿para qué? —Le salió más alto de lo que quería—. Es el teléfono del servicio. No es que no quiera, es que no puedo, si pasa algo en el turno yo tengo que… no es un tema de que… Es del servicio, no es mío. No puedo estar sin… —Se calló. Se escuchó, y se calló, y apretó la mano sobre la pantalla—. No.
+—No, o sea… ¿para qué? —Le salió más alto de lo que quería—. Es el teléfono del servicio. Querer, quiero, pero no puedo, si pasa algo en el turno yo tengo que… no es un tema de que… Es del servicio, no es mío. No puedo estar sin… —Se calló. Se escuchó, y se calló, y apretó la mano sobre la pantalla—. No.
 
 —Ya.
 
@@ -186,7 +186,7 @@ Renée paró en la mitad del limón.
 
 —¿Qué cosa, doctora?
 
-—Lo de los hombros. Usted dijo que con el ruido se me… que se me subieron con el ruido. Quiero ver si es eso. —Se escuchó, y la voz le salió de médica, plana, y se agarró de la voz—. No es que le crea. Es que quiero verlo. Si saco el… si no está, y se bajan, es eso. Y si no se bajan, no era eso y no perdemos más tiempo.
+—Lo de los hombros. Usted dijo que con el ruido se me… que se me subieron con el ruido. Quiero ver si es eso. —Se escuchó, y la voz le salió de médica, plana, y se agarró de la voz—. Y no es que le crea. Quiero verlo, nomás. Si saco el… si no está, y se bajan, es eso. Y si no se bajan, no era eso y no perdemos más tiempo.
 
 —Ya.
 
@@ -212,7 +212,7 @@ Fue eso. El músculo de la pierna derecha, el de adentro, tenso, listo, apretado
 
 Se soltó hacia abajo. Se le fue soltando la pierna desde la ingle hasta la rodilla, la cara interna del muslo blanda contra el otro muslo, y las rodillas se le separaron apenas bajo el pantalón, y ella las juntó. Las juntó, y se le volvieron a separar solas cuando el teléfono zumbó otra vez adentro del cajón y no le llegó, y esta vez las dejó. Y los hombros no subieron. Los sintió no subir. Los sintió quedarse abajo, donde las manos de Renée los habían dejado, sin las manos.
 
-*No es nada. Es que me senté. Llevo doce horas parada y me senté.*
+*Nada. Me senté, nomás. Llevo doce horas parada y me senté.*
 
 La frase le sirvió para los hombros. Para las rodillas, que seguían separadas, y para la pierna blanda contra la otra pierna, y para lo que se le estaba juntando abajo, tibio, entre los muslos, sin apuro, no le sirvió, y ella no la reemplazó por otra. La dejó ahí, sin servir, y contestó lo del limón.
 
@@ -280,7 +280,7 @@ Se apoyó en el lavatorio con la otra mano, al lado de la credencial. Sacó el d
 
 *déjame a mí.*
 
-De abajo. Con la voz de la otra. Y la mano se movió, un círculo lento con la yema, y los muslos se le fueron juntando alrededor de la mano apretándola, y ella se abrió las piernas a propósito y a los dos círculos las tenía cerradas otra vez, y en el espejo tenía la boca abierta, y la boca abierta le dijo una palabra sin voz. La vio decirla. Se vio los labios armarla, do-, la lengua contra los dientes, -tora, y no era su boca la que la estaba diciendo, era una boca mate sin brillo diciéndosela al oído con las manos en los hombros, y el coño se le cerró sobre el dedo con la palabra.
+De abajo. Con la voz de la otra. Y la mano se movió, un círculo lento con la yema, y los muslos se le fueron juntando alrededor de la mano apretándola, y ella se abrió las piernas a propósito y a los dos círculos las tenía cerradas otra vez, y en el espejo tenía la boca abierta, y la boca abierta le dijo una palabra sin voz. La vio decirla. Se vio los labios armarla, do-, la lengua contra los dientes, -tora, y la que la estaba diciendo ya era otra boca, una boca mate sin brillo diciéndosela al oído con las manos en los hombros, y el coño se le cerró sobre el dedo con la palabra.
 
 *No. Es el cajón. Es el ruidito del cajón y la prueba y…*
 
@@ -294,7 +294,7 @@ Le vino desde los pies. Los dedos de los pies engarfiados contra la cerámica fr
 
 Se corrió. Con la frente apoyada en el vidrio del espejo, empañándolo con la boca abierta, el coño cerrándosele alrededor de los dedos una vez, otra, largas, tan fuertes que se los sintió apretados hasta el dolor, y las contó, porque ella contaba todo, cuatro, cinco, seis, y a la séptima dejó de contar y se dobló sobre el lavatorio con las rodillas temblando y la humedad corriéndole por la muñeca, y la credencial se cayó al suelo con el codo. La sintió caer. No la miró. Se quedó doblada con la mano adentro y el pelo en la cara y el agua corriendo, respirando contra el vidrio, y con cada contracción que le venía, más despacio, más larga, los hombros se le iban bajando otro poco, hasta que se le bajaron enteros. Por primera vez desde el espejo de cobre. Sin manos encima.
 
-Cuando pudo, sacó la mano. Se la lavó con el agua que había dejado corriendo para taparse, y ahí, con las manos bajo la llave y la cabeza gacha, le llegó la vergüenza completa, la fría, y traía otra debajo. La del teléfono la tenía lista, se la sabía, cuarenta y un años, una desconocida, el del servicio en un cajón. Esa la podía cargar. La otra le llegó por debajo de esa, más pesada, y no tenía forma de frase, tenía forma de boca. De una boca sin brillo diciéndole doctora mientras ella se corría con la suya abierta, y de que hubiera sido eso. Que no hubiera sido el cajón. Se agachó a recoger la credencial del suelo y se quedó agachada con la credencial en la mano un rato, mirando la foto de hace cuatro años, la cara de antes, y se levantó, y en el espejo se vio despeinada, roja, con la boca hinchada de mordérsela y las tetas afuera, y se gustó. Eso fue lo peor. Se gustó con la boca así, y no se hizo el moño, y no se guardó las tetas hasta que no tuvo que abrir la puerta.
+Cuando pudo, sacó la mano. Se la lavó con el agua que había dejado corriendo para taparse, y ahí, con las manos bajo la llave y la cabeza gacha, le llegó la vergüenza completa, la fría, y traía otra debajo. La del teléfono la tenía lista, se la sabía, cuarenta y un años, una desconocida, el del servicio en un cajón. Esa la podía cargar. La otra le llegó por debajo de esa, más pesada, y en vez de forma de frase tenía forma de boca. De una boca sin brillo diciéndole doctora mientras ella se corría con la suya abierta, y de que hubiera sido eso. Que no hubiera sido el cajón. Se agachó a recoger la credencial del suelo y se quedó agachada con la credencial en la mano un rato, mirando la foto de hace cuatro años, la cara de antes, y se levantó, y en el espejo se vio despeinada, roja, con la boca hinchada de mordérsela y las tetas afuera, y se gustó. Eso fue lo peor. Se gustó con la boca así, y no se hizo el moño, y no se guardó las tetas hasta que no tuvo que abrir la puerta.
 
 *Fue el cajón*, se dijo, abotonándose. *Fue el ruido del cajón, estoy cansada, cualquiera se toca cuando está cansada.* La boca en el espejo no se lo creyó. Apagó la luz. Cerró la llave.
 
