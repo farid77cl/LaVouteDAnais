@@ -37,7 +37,18 @@ De ahí que sean cuatro y no dos. Esto quedó verificado contra la API el 07/09/
    - **Application website** → `https://lavoutedeanais.tumblr.com`
    - **Default callback URL** → `https://lavoutedeanais.tumblr.com`
      *(no lo vamos a usar para nada, pero el formulario lo exige.)*
+   - **OAuth2 redirect URLs (space separate)** → `https://lavoutedeanais.tumblr.com`
    - **Application description** → una línea cualquiera.
+
+   > 🩹 **Corregido el 08/09/2026, con la Ama al teléfono y el formulario abierto.** El campo
+   > **OAuth2 redirect URLs** no estaba en esta guía: Tumblr agregó los campos de OAuth2 al
+   > formulario y yo la escribí con lo que había en el repo, sin abrir la página. Ella lo encontró
+   > llenándola.
+   >
+   > **Ese campo no se usa en este flujo** — nosotras firmamos con **OAuth 1.0a**, la de
+   > `api.tumblr.com/console`, que es la que entrega Token y Token Secret. El formulario lo exige
+   > igual, así que se repite la misma URL del blog. Acepta varias separadas por espacio; con una
+   > basta. Debe ir con `https://` completo; si el formulario reclama, probar con la barra final.
 4. Guardar. La app queda listada en esa misma página.
 5. Ahí aparecen, bajo el nombre de la app:
    - **OAuth Consumer Key** → una cadena larga, visible directamente.
