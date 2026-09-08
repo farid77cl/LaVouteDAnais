@@ -4,9 +4,13 @@
 >
 > **Los tres candados en una línea:** la prenda se declara **en positivo y sobre el cuerpo** · **nunca se nombra lo prohibido, ni para prohibirlo** (una línea `no nudity…` hace rebotar el prompt entero) · si el cuerpo sale desnudo igual, **el problema es la cámara**, no el vocabulario.
 >
-> **Técnico:** Gemini no genera 2:3 ni 3:1 → pedir **3:4** (portada) y **16:9** (banner) y recortar. Si el título sale con una letra comida, usar la variante sin texto y componer la tipografía después.
+> ⚠️ **Lo de arriba vale para WATTPAD, no para el blog.** Las imágenes del blog las gobierna el
+> [estilo cómic pop](../../../01_Canon/Guias_Especializadas/estilo_comic_pop_v1.md) desde el
+> 07/09/2026: **cero texto dentro de la imagen** (nada de serif dorada ni firma quemada — el título
+> lo pone Tumblr en el post, donde además es buscable) y **paleta de Anaïs** (oro viejo, bronce
+> antiguo, rosa polvo, borgoña, marfil), no el neón magenta del texto del relato.
 >
-> **Identidad del relato:** a diferencia del resto del catálogo de Anaïs (caoba + dorado), «Café con Piernas» tiene paleta propia y reconocible del propio texto — neón magenta/violeta, cromo, pelo platinado — que se conserva en escena. La tipografía (serif dorada + firma small-caps «ANAÏS BELLAND») se mantiene como marca constante de catálogo sobre esa paleta.
+> **Técnico:** Gemini no entrega 4:5 directo — pedir vertical y recortar a 1080 × 1350 antes de guardar.
 >
 > ⚠️ **Ninguna escena del minuto feliz (pechos al aire) es publicable en imagen** — es la escena más caliente del relato y, por norma de este kit, la menos compatible con Wattpad. Todas las escenas elegidas abajo evitan desnudez mostrando figura completamente vestida, silueta a contraluz, o encuadre que corta antes del pecho.
 
@@ -28,9 +32,6 @@
 
 ### Capítulo 4 — ¿Cuánto es?
 `#ControlMental` `#Bimboficación` `#TransformaciónPsicológica` `#Cierre` `#DeCondicionadaACondicionadora`
-
----
-
 
 ---
 
@@ -93,7 +94,24 @@ anaisbelland
 > 📐 Todos en **4:5 vertical** (1080 × 1350), que es lo que se lee bien en el feed de Tumblr.
 > 🚫 Sin bloque negativo y **sin pesos `:1.4`**: acá son texto inerte y el filtro lee tokens.
 
+### 📁 Cómo se llama cada archivo y dónde va
+
+> La Ama las genera y las guarda **a mano en este repo** (no por la app). Los nombres son estos y
+> no otros: la galería y el post los buscan así.
+
+| # | Post | Archivo |
+|---|---|---|
+| 1 | Fijado del blog | `05_Imagenes/portadas/portada_cafe_con_piernas.png` |
+| 2 | Gancho Cap 1 | `05_Imagenes/historias/cafe_con_piernas/imagen1_puerta.png` |
+| 3 | Gancho Cap 2 | `05_Imagenes/historias/cafe_con_piernas/imagen2_pasillo.png` |
+| 4 | Gancho Cap 3 | `05_Imagenes/historias/cafe_con_piernas/imagen3_plato.png` |
+| 5 | Gancho Cap 4 | `05_Imagenes/historias/cafe_con_piernas/imagen4_espejo.png` |
+
+**PNG, 4:5 vertical (1080 × 1350).** Si Gemini entrega otra proporción, se recorta a 4:5 antes de guardar.
+
 ## 1 · Post fijado — la puerta del blog
+
+📁 **Guardar como:** `05_Imagenes/portadas/portada_cafe_con_piernas.png`
 
 ```
 1960s romance comic book illustration, vintage newsprint aesthetic, bold black ink
@@ -121,6 +139,8 @@ frontal, inviting and unbothered.
 
 ## 2 · Gancho Cap 1 — «Mi Primer Turno»
 
+📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen1_puerta.png`
+
 ```
 [BLOQUE ESTILO verbatim, igual que arriba]
 
@@ -139,6 +159,8 @@ MOOD: the last second before deciding. Nothing has happened yet.
 
 ## 3 · Gancho Cap 2 — «Entrenada para Servir»
 
+📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen2_pasillo.png`
+
 ```
 [BLOQUE ESTILO verbatim]
 
@@ -155,6 +177,8 @@ MOOD: she is carrying a secret through a room where nobody notices anything.
 ```
 
 ## 4 · Gancho Cap 3 — «El Minuto Feliz»
+
+📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen3_plato.png`
 
 ```
 [BLOQUE ESTILO verbatim]
@@ -173,6 +197,8 @@ MOOD: a room full of watching and one woman deciding how much of it she allows.
 ```
 
 ## 5 · Gancho Cap 4 — «¿Cuánto es?»
+
+📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen4_espejo.png`
 
 ```
 [BLOQUE ESTILO verbatim]
