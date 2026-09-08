@@ -2,11 +2,11 @@
 
 El muslo le avisó antes que el teléfono. Fue en el ascensor, entre el segundo y el tercer piso, el músculo de adentro de la pierna derecha poniéndosele duro solo, medio segundo antes de que el aparato vibrara en el bolsillo del pantalón, y recién después el zumbido, corto, y otro, y el muslo recibiéndolo apretado igual que recibía cada uno desde hacía años. Sabía de quién era sin mirar. El grupo del servicio. El marido con lo de la tarde. El colegio con la circular. No lo sacó. Se quedó con la mano plana sobre el bolsillo, tapándolo, mirándose en el espejo de cobre del ascensor, y lo que el cobre le devolvió fue una mujer con el moño tirante hasta las sienes, la chaqueta cruzada de arriba abajo por la marca del cinturón de seguridad y la credencial colgando torcida sobre el segundo botón de la blusa. Tres letras. Una foto de hace cuatro años. Se la enderezó con la uña del pulgar. La mandíbula le crujió al tragar, la bisagra de siempre, la que venía apretando desde el semáforo de Tobalaba, desde la reunión de servicio, desde antes, y los hombros los traía pegados a las orejas sin haberse dado cuenta hasta que se vio.
 
-Adentro de la cabeza la lista seguía andando sola. Leche. La receta de la mamá, que había que renovar en persona. Confirmar lo del colegio. La tesis de la alumna con el lápiz rojo encima. Contestarle al jefe antes de las siete. Leche otra vez, porque ya no se acordaba si la había anotado.
+Adentro de la cabeza la lista seguía andando sola, y cada cosa de la lista le pasaba por alguna parte del cuerpo antes de irse. Leche, y los molares. La receta de la mamá, que había que renovar en persona, y el cordón de la credencial rozándole la nuca donde ya tenía la marca. Confirmar lo del colegio, y el muslo otra vez, sin zumbido, apretándose solo. La tesis de la alumna con el lápiz rojo encima. Contestarle al jefe antes de las siete, y el estómago. Leche otra vez, porque ya no se acordaba si la había anotado, y la mano bajando a tapar el bolsillo por si acaso.
 
-Tocó el timbre con el muslo tenso y el problema ya formulado. *Es algo acotado. Dos sesiones, tres máximo. No tengo tiempo para más.*
+Tocó el timbre con el muslo tenso, la boca seca y el problema ya formulado. *Es algo acotado. Dos sesiones, tres máximo. No tengo tiempo para más.*
 
-La puerta se abrió antes de que terminara la frase, y la mujer que abrió la miró de arriba abajo sin disimular, despacio, del moño a los tacos y de vuelta, un segundo entero, y la doctora sintió la mirada pasarle por el cuerpo con el peso de una mano.
+La puerta se abrió antes de que terminara la frase, y la mujer que abrió la miró de arriba abajo sin disimular, despacio, del moño a los tacos y de vuelta, un segundo entero, y la doctora sintió la mirada pasarle por el cuerpo con el peso de una mano, y la espalda se le enderezó sola debajo, y tragó, y la bisagra crujió.
 
 —Doctora. —Sonrió con una boca sin brillo, nude, mate, una boca que no había ido a ninguna parte en todo el día—. Uy, pobrecita. Mírate. Vienes con los hombros puestos en las orejas. ¿Desde qué hora?
 
@@ -14,17 +14,17 @@ La puerta se abrió antes de que terminara la frase, y la mujer que abrió la mi
 
 —Ya. Pasa.
 
-Tenía el pelo negro suelto, negro de verdad, azabache, cayéndole despeinado sobre un vestido de punto que no le marcaba nada y se lo marcaba todo, y estaba descalza, y en la garganta, ajustado, sin holgura, un collar de perlas a la altura exacta en que un collar de perlas deja de ser un collar de perlas. Olía a té y a piel tibia, a piel sin perfume encima. La doctora la registró entera en lo que duró la puerta, la boca, el cuello, los pies, la tela pegada a la cadera, y lo que le quedó en el estómago fue una envidia chiquita y exacta. *Está descansada. Eso es. Hace años que yo no me veo así.* La frase le sirvió para el estómago. Para lo otro, lo que se le había quedado colgado en la boca mate un segundo más de la cuenta, no le sirvió, y lo dejó pasar sin nombre.
+Tenía el pelo negro suelto, negro de verdad, azabache, cayéndole despeinado sobre un vestido de punto que no le marcaba nada y se lo marcaba todo, y estaba descalza, y en la garganta, ajustado, sin holgura, un collar de perlas a la altura exacta en que un collar de perlas deja de ser un collar de perlas. Olía a té y a piel tibia, a piel sin perfume encima, y el olor le entró por la nariz y se le quedó en la garganta seca. La doctora la registró entera en lo que duró la puerta, la boca, el cuello, los pies, la tela pegada a la cadera, y lo que le quedó en el estómago fue una envidia chiquita y exacta. *Está descansada. Eso es. Hace años que yo no me veo así.* La frase le sirvió para el estómago. Para lo otro, lo que se le había quedado colgado en la boca mate un segundo más de la cuenta, no le sirvió, y lo dejó pasar sin nombre.
 
 —Espera. —Renée la paró en el pasillo con la voz nomás, sin tocarla todavía—. Tienes esto.
 
-Y le metió detrás de la oreja un mechón que se le había escapado del moño. Lo hizo con la uña, despacio, y el nudillo le rozó el lóbulo, y el calor no le subió a la cara. Le bajó. Le entró por la oreja y se le fue por el costado del cuello hasta abajo del cuello de la blusa, y la doctora se quedó quieta un segundo más de lo que se queda una persona a la que le acomodan el pelo.
+Y le metió detrás de la oreja un mechón que se le había escapado del moño. Lo hizo con la uña, despacio, y el nudillo le rozó el lóbulo, y el calor, en vez de subirle a la cara, le bajó. Le entró por la oreja y se le fue por el costado del cuello hasta abajo del cuello de la blusa, y la doctora se quedó quieta un segundo más de lo que se queda una persona a la que le acomodan el pelo.
 
 —Ahí. Ahora sí.
 
-Tenía la voz lenta. Lenta de las que no están atrasadas para nada.
+Tenía la voz lenta. Lenta de las que no están atrasadas para nada, y le llegó por la oreja que todavía tenía caliente.
 
-El living era chico y la luz de la tarde entraba de costado por una ventana alta, cortada en franjas por la persiana. Dos sillones bajos de tela, enfrentados. Una mesita con una tetera de porcelana que todavía echaba vapor. Ningún escritorio, ninguna camilla, ningún diploma. La doctora buscó dónde sentarse derecha y no había.
+El living era chico y la luz de la tarde entraba de costado por una ventana alta, cortada en franjas por la persiana, y le dio en la cara al entrar y la hizo entrecerrar los ojos. Dos sillones bajos de tela, enfrentados. Una mesita con una tetera de porcelana que todavía echaba vapor. Ningún escritorio, ninguna camilla, ningún diploma. La doctora buscó dónde sentarse derecha y no había, y los hombros se le subieron otro poco buscándolo.
 
 —Ahí —dijo Renée, y le señaló con la barbilla el sillón que daba la espalda a la ventana—. Que te dé el sol en la nuca. Te va a hacer bien, ya vas a ver.
 
@@ -208,7 +208,7 @@ La vergüenza le llegó de inmediato. A las orejas, caliente, las dos orejas ard
 
 Y entonces el muslo esperó.
 
-Fue eso. El músculo de adentro de la pierna derecha, tenso, listo, apretado alrededor de un zumbido que no vino. Esperó con toda la pierna. Adentro del cajón el teléfono vibró una vez contra el terciopelo y la madera, ahogado, lejos, un ruido de otro departamento, y el muslo no recibió nada. Ni el vidrio, ni la vibración por el pantalón, nada. La mano derecha estaba abierta sobre el bolso sin nada debajo, y la palma sudada se le empezó a secar al aire, y el músculo, que llevaba años sin quedarse quieto, se quedó quieto.
+Fue eso. El músculo de la pierna derecha, el de adentro, tenso, listo, apretado alrededor de un zumbido que no vino. Esperó con toda la pierna. Adentro del cajón el teléfono vibró una vez contra el terciopelo y la madera, ahogado, lejos, un ruido de otro departamento, y el muslo no recibió nada. Ni el vidrio, ni la vibración por el pantalón, nada. La mano derecha estaba abierta sobre el bolso sin nada debajo, y la palma sudada se le empezó a secar al aire, y el músculo, que llevaba años sin quedarse quieto, se quedó quieto.
 
 Se soltó hacia abajo. Se le fue soltando la pierna desde la ingle hasta la rodilla, la cara interna del muslo blanda contra el otro muslo, y las rodillas se le separaron apenas bajo el pantalón, y ella las juntó. Las juntó, y se le volvieron a separar solas cuando el teléfono zumbó otra vez adentro del cajón y no le llegó, y esta vez las dejó. Y los hombros no subieron. Los sintió no subir. Los sintió quedarse abajo, donde las manos de Renée los habían dejado, sin las manos.
 
@@ -225,3 +225,91 @@ La frase le sirvió para los hombros. Para las rodillas, que seguían separadas,
 Renée se rio. Sacó la mano de encima del cajón, por fin, y la doctora le miró la mano irse de la madera, y le miró los dedos cerrarse alrededor de la taza, y se dio cuenta de que le estaba mirando las manos, y de que llevaba un rato mirándoselas, y no dejó de hacerlo.
 
 —Se te enfrió el té —dijo Renée—. Tómatelo igual, si quieres. Frío también sirve. —Y volvió al limón, a que había que podarlo, a que los limones son mañosos y hay que hablarles, y la doctora tomó la taza con las dos manos, fría, y se la llevó a la boca, y por encima del borde le miró la boca mate diciendo que hay que hablarles, y adentro del cajón cerrado el teléfono zumbó contra el terciopelo por tercera vez, y ninguna de las dos bajó la vista.
+
+Cuando quedaban diez minutos, Renée abrió el cajón. Sin anunciarlo. Estaba hablando de que los limones necesitan más agua de la que uno cree y estiró la mano y lo abrió, sacó el teléfono y lo dejó sobre la mesita, boca abajo, con la funda hacia arriba, y no se lo pasó. Siguió con el agua. La doctora lo miró un segundo entero antes de tomarlo, un segundo en que la mano no fue, y después fue, y lo dio vuelta, y la pantalla se le prendió en la cara con once notificaciones apiladas, el grupo, el marido, el colegio, y el muslo se le apretó alrededor del primer zumbido antes de que lo hubiera guardado en el bolsillo.
+
+—Se nos fue la hora, doctora. —Renée se levantó a buscar una agenda de papel y la abrió sobre la mesita, de pie, inclinada, con el pelo cayéndole hacia el lado de ella—. La misma hora te la dejo. Ahora, si quieres otra… eso no lo decido yo. Lo consulto y te confirmo.
+
+—¿Lo consulta con quién?
+
+—Te confirmo —dijo Renée, y cerró la agenda, y sonrió, y no dijo más.
+
+Los tacos los buscó con los pies, a ciegas, bajo el sillón. El primero entró. El segundo no quería, el pie había cambiado de forma en cincuenta minutos, y tuvo que agacharse y meterlo con la mano, con el dedo en el contrafuerte, y cuando se enderezó Renée estaba parada delante de ella, cerca, mirándole el pecho.
+
+—Tienes esto torcido.
+
+Y le tomó la credencial. La levantó de la blusa con los dedos, la dio vuelta para leerla, tres letras y una foto de hace cuatro años, y la dejó caer derecha sobre el segundo botón, y los nudillos le rozaron el esternón a través de la tela al soltarla.
+
+—Ahí. Ahora sí, doctora.
+
+En la puerta no la tocó. Le sostuvo la puerta, descalza, con la luz de la tarde ya casi horizontal cruzándole la cara, y la doctora salió al pasillo con el bolso al hombro y el teléfono zumbando contra el muslo y el esternón todavía tibio donde habían estado los nudillos.
+
+En la vereda hacía frío y el teléfono vibró contra la palma, corto, otro, corto, y ella contestó dos mensajes caminando hacia el auto con los tacos golpeando el cemento y la mandíbula apretada de nuevo, y la lista se le prendió donde la había dejado, leche, la receta, confirmar lo del colegio. Se sentó al volante. Puso el teléfono boca arriba sobre el tablero. Iba a decirse que había sido una tontera, una señora con té y un cajón, y se lo dijo, y mientras se lo decía se llevó la mano a la nuca por debajo del moño, al lugar donde habían pasado las perlas, y se lo frotó con los dedos como se frota una picadura. No había nada. Manejó con las once notificaciones mirándola desde el tablero y la mano yendo sola a la nuca en cada semáforo.
+
+La casa se le vino encima desde el pasillo. La tele en el living, el olor de una comida que alguien había empezado y nadie había terminado, el marido diciendo desde la cocina una cosa que ella contestó sin escucharla, los niños llamándola con la misma palabra desde dos piezas distintas sin que ninguno se levantara a buscarla. Dejó el bolso en la silla del bolso. Puso el teléfono en la mesa del comedor, boca arriba, al lado del frutero, en el lugar de siempre, y la pantalla se prendió sola con el grupo del servicio y ella lo leyó de pie, con la chaqueta puesta y la credencial colgando, y contestó con el pulgar mientras con la otra mano abría el refrigerador para ver qué había. No había limones. Se rio sola, con la puerta del refrigerador abierta, un segundo, y se le cortó.
+
+No se cambió. No alcanzó. Comida, mochilas, la fiebre de uno que resultó no ser fiebre, el marido con lo del auto, y cuando por fin se sentó a la mesa del comedor con la tesis de la alumna y el lápiz rojo era más de medianoche y la casa estaba dormida y ella seguía con la blusa abotonada hasta arriba y la credencial encima del segundo botón, derecha, donde se la habían dejado. La lámpara de la cocina prendida porque la del comedor tenía la ampolleta quemada. El teléfono al lado del codo, boca arriba, mostrándole la hora.
+
+Corregía. Tachaba una frase de la alumna y la escribía de nuevo al margen, mejor, y el teléfono zumbó contra la madera de la mesa y ella lo miró, el grupo, alguien preguntando por un turno que no era de ella, y lo dejó. Zumbó de nuevo. Miró. Zumbó de nuevo, y ella volvió a la tesis, y a la tercera frase tachada el teléfono estaba boca abajo.
+
+No supo cuándo. La mano izquierda estaba encima, plana, tapando la funda, y la derecha seguía con el lápiz, y se quedó mirando la izquierda un rato largo. Era su mano. Lo había dado vuelta ella, en su comedor, sin sillón, sin nadie parado atrás, y ahora estaba ahí, boca abajo sobre la madera, un rectángulo negro sin nada que decirle.
+
+Zumbó. Contra la madera, ahogado, de otra pieza, y el sonido le entró por la mesa hasta el codo, y del codo se le fue abajo por un camino que ella no conocía, y el muslo esperó y no recibió nada. Los glúteos contra la silla. El vientre. Las rodillas, que se le abrieron bajo la mesa, y la espalda, que se fue contra el respaldo por primera vez en la noche, y ahí, con la espalda apoyada y las manos abiertas sobre la tesis, sintió que se le abría el coño. Así. Sentada. Se le abrió y se le mojó, despacio, un peso tibio juntándosele en los labios de abajo y corriéndosele hacia atrás por el calzón, y ella se quedó quieta sintiéndolo correrse.
+
+*Es el ruido. Es el mismo ruido que en el cajón, es un reflejo, es que llevo todo el día…*
+
+La frase le duró hasta que le llegó la cara.
+
+Le llegó entera, sin que la llamara. La boca sin brillo diciendo pobrecita en la puerta, y los ojos bajándole del moño a los tacos y subiendo de nuevo, y el pulgar pasándose por el labio de abajo de una comisura a la otra en la mitad de lo de la ampolleta, y la doctora cerró los ojos para sacársela y con los ojos cerrados la tuvo más cerca, y el coño le contestó a la cara con una contracción sola, honda, que le hizo apretar las rodillas bajo la mesa.
+
+*No. Es el cajón. Es el cajón que se cierra, es el ruido, no es…*
+
+*mírate.*
+
+Le subió de abajo, en minúscula, con la voz lenta de la otra, y la doctora se levantó de la silla con las piernas blandas y cruzó el pasillo a oscuras pisando donde pisaba todas las noches para que la madera no sonara, y cerró la puerta del baño, y puso el pestillo. El pestillo no lo ponía nunca. Prendió la luz del espejo y abrió la llave del lavatorio para que se escuchara agua, y se miró.
+
+Se miró la boca primero. Cerrada, apretada, la boca del tercer piso con la mandíbula trabada debajo, y la abrió. La dejó abierta, sin brillo, sin nada, respirando por ella, y se la miró abierta en el espejo y le pareció otra boca. Las manos ya estaban arriba. La derecha en el moño, tirando del elástico, y el pelo le cayó de golpe hasta los hombros con un dolor de sangre que vuelve, y la izquierda en el primer botón de la blusa, y en el segundo, y en el segundo se le trabó con la credencial. La sacó por encima de la cabeza. La dejó en el borde del lavatorio con la foto hacia abajo, y la blusa se abrió, y se metió la mano adentro del sostén.
+
+La teta pesaba. La sopesó con la palma abierta, a ver cuánto pesa, se dijo con la voz de la otra sin querer decírsela, y la sacó del sostén para verla en el espejo, blanca, con la marca del aro clavada abajo, el pezón oscuro poniéndosele duro contra el aire del baño antes de que ella lo tocara. Lo tocó. Se lo apretó entre los dedos y el coño le contestó desde abajo, seco, una vez, y se le doblaron las rodillas, y sacó la otra teta también y se las miró las dos, pesadas, caídas de cuarenta y un años y de dos partos, con las manos debajo levantándoselas, y con la boca abierta y el pelo suelto y las dos tetas en las manos se encontró linda. Fea de cansancio y linda. Se ladeó para verse el cuello, y le gustó cómo se le veía el cuello con la cabeza así.
+
+*Cuarenta y un años, jefa de turno, sopesándome las tetas en el baño con la credencial boca abajo en el lavatorio.*
+
+La mano derecha bajó sola. Por adentro del pantalón del hospital, por adentro del calzón, y los dedos encontraron el vello corto, descuidado, y debajo del vello estaba chorreando. Chorreando, la humedad corriéndole por los labios hasta el pliegue del muslo, tibia y espesa, y cuando el dedo del medio se hundió entró hasta el nudillo sin ningún esfuerzo, y ella hizo un ruido contra el ruido del agua y en el espejo se vio hacerlo.
+
+Se apoyó en el lavatorio con la otra mano, al lado de la credencial. Sacó el dedo. Lo subió, mojado, hasta el clítoris hinchado, duro, y lo apoyó ahí sin moverlo, y dolía de lo bueno que era, y se quedó así con la boca abierta en el espejo esperando que alguien la dejara moverse.
+
+*déjame a mí.*
+
+De abajo. Con la voz de la otra. Y la mano se movió, un círculo lento con la yema, y los muslos se le fueron juntando alrededor de la mano apretándola, y ella se abrió las piernas a propósito y a los dos círculos las tenía cerradas otra vez, y en el espejo tenía la boca abierta, y la boca abierta le dijo una palabra sin voz. La vio decirla. Se vio los labios armarla, do-, la lengua contra los dientes, -tora, y no era su boca la que la estaba diciendo, era una boca mate sin brillo diciéndosela al oído con las manos en los hombros, y el coño se le cerró sobre el dedo con la palabra.
+
+*No. Es el cajón. Es el ruidito del cajón y la prueba y…*
+
+Se la volvió a decir. Doctora. Con la boca, sin voz, mirándose la boca decirla con la boca de la otra, y metió dos dedos, y los sacó brillantes bajo la luz del espejo y se los miró, y la vergüenza de mirárselos le subió a las orejas, y con la vergüenza puesta se los volvió a meter. Empezó a moverse contra la propia mano con la cadera. Adelante y atrás, el borde del lavatorio clavándosele en la pelvis, las tetas sueltas rebotando contra la blusa abierta, la muñeca doblada adentro del pantalón del hospital, y en la cabeza estaba el cajón, clac, la palma cerrándolo, y encima del cajón la cara. Encima. La cara con la boca sin brillo diciendo pobrecita, mírate, un dedito, déjame a mí, doctora, doctora, y la mirada de la puerta encima de ella, entera, pesando.
+
+Le vino desde los pies. Los dedos de los pies engarfiados contra la cerámica fría y el orgasmo subiéndole por las pantorrillas, por detrás de las rodillas, juntándosele en el vientre bajo la mano, y apretó el clítoris con la base de la palma y los dos dedos adentro se le curvaron solos, y se mordió el labio de abajo para no hacer ruido, y el ruido salió igual por la nariz.
+
+*Me estoy corriendo en el baño de mi casa por el cajón de una señora.*
+
+*doctora.*
+
+Se corrió. Con la frente apoyada en el vidrio del espejo, empañándolo con la boca abierta, el coño cerrándosele alrededor de los dedos una vez, otra, largas, tan fuertes que se los sintió apretados hasta el dolor, y las contó, porque ella contaba todo, cuatro, cinco, seis, y a la séptima dejó de contar y se dobló sobre el lavatorio con las rodillas temblando y la humedad corriéndole por la muñeca, y la credencial se cayó al suelo con el codo. La sintió caer. No la miró. Se quedó doblada con la mano adentro y el pelo en la cara y el agua corriendo, respirando contra el vidrio, y con cada contracción que le venía, más despacio, más larga, los hombros se le iban bajando otro poco, hasta que se le bajaron enteros. Por primera vez desde el espejo de cobre. Sin manos encima.
+
+Cuando pudo, sacó la mano. Se la lavó con el agua que había dejado corriendo para taparse, y ahí, con las manos bajo la llave y la cabeza gacha, le llegó la vergüenza completa, la fría, y traía otra debajo. La del teléfono la tenía lista, se la sabía, cuarenta y un años, una desconocida, el del servicio en un cajón. Esa la podía cargar. La otra le llegó por debajo de esa, más pesada, y no tenía forma de frase, tenía forma de boca. De una boca sin brillo diciéndole doctora mientras ella se corría con la suya abierta, y de que hubiera sido eso. Que no hubiera sido el cajón. Se agachó a recoger la credencial del suelo y se quedó agachada con la credencial en la mano un rato, mirando la foto de hace cuatro años, la cara de antes, y se levantó, y en el espejo se vio despeinada, roja, con la boca hinchada de mordérsela y las tetas afuera, y se gustó. Eso fue lo peor. Se gustó con la boca así, y no se hizo el moño, y no se guardó las tetas hasta que no tuvo que abrir la puerta.
+
+*Fue el cajón*, se dijo, abotonándose. *Fue el ruido del cajón, estoy cansada, cualquiera se toca cuando está cansada.* La boca en el espejo no se lo creyó. Apagó la luz. Cerró la llave.
+
+Volvió al comedor pisando en los mismos lugares. La tesis estaba donde la había dejado, con la frase de la alumna tachada a la mitad, y el teléfono donde lo había dejado, boca abajo, sin decirle nada. Se sentó. Lo tomó, porque era del servicio y había que mirarlo, y lo dio vuelta, y la pantalla se le encendió con el grupo y el marido y el colegio, y lo leyó, y contestó lo del turno con el pulgar, y no lo dejó boca arriba. Se quedó con él en la mano. Y con el mismo pulgar, sin que la cabeza hubiera terminado de llegar, abrió la conversación de más arriba, la que decía Renée y tenía un solo mensaje de ella confirmándole la hora hacía una semana, y escribió, con las piernas todavía blandas bajo la mesa y el coño latiéndole despacio contra el calzón mojado.
+
+*¿Tiene algo antes?*
+
+Lo mandó. Se vio mandarlo, la una y media de la mañana, con la blusa mal abotonada y el pelo suelto, a una señora que le había guardado el teléfono, y la vergüenza le volvió a las orejas y no borró nada, porque ya no se podía. Se dijo que era para cerrar el tema. Para no llegar a la otra hora con esto encima, para decírselo de una vez y terminar, y se lo creyó a medias, y dejó el teléfono boca arriba sobre la tesis mirándola.
+
+Se prendió. Al tiro. La una y treinta y dos.
+
+*Un segundito.*
+
+Y la doctora se quedó mirando esas dos palabras con el pulso en el cuello, sin entender a quién le estaba pidiendo un segundito una mujer despierta a la una y media de la mañana, y el teléfono se apagó, y se volvió a prender.
+
+*Mañana a las cuatro, doctora.*
+
+El coño se le contrajo con la palabra. Una vez, sola, honda, sobre el calzón mojado, leyéndola en la pantalla con la voz lenta de la otra, y ella cerró las piernas bajo la mesa y no le sirvió de nada, porque la palabra ya estaba adentro.
