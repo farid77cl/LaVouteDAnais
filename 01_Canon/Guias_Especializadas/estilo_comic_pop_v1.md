@@ -174,3 +174,25 @@ Mismo día, defecto aparte: el prompt del Cap 1 salió como **una tira angosta f
 con dos franjas de fondo vacío a los lados — en el feed se lee diminuta. Añadido al BLOQUE ESTILO:
 `the comic panel FILLS THE WHOLE IMAGE edge to edge with only a thin dark border — no empty margin,
 no small panel floating inside a larger blank field`.
+
+### 4.2 🚫 Tokens que hicieron rebotar un prompt de este blog (08/09/2026)
+
+La portada de «Café con Piernas» **rebotó** al vestirla con el uniforme del canon. La versión
+anterior de ese mismo prompt —misma pose, misma escena, cuello alto de lana— **había generado sin
+problema**, así que el rebote está en el delta.
+
+| Sospechoso | Por qué | Reemplazo que sí pasa |
+|---|---|---|
+| `charging for it` | Lee a **trabajo sexual**, no a erotismo. Y no aportaba imagen: era una frase de ambiente en el `MOOD` | quitarlo |
+| `bustier` · `garter straps` | Dos palabras de **lencería** juntas | `fitted patent vinyl sleeveless bodice` + `wide vinyl waist band` |
+| `halter` | Misma familia | `sleeveless bodice` |
+| `dim` (night cafe) | Refuerza el registro de local nocturno | `night cafe` a secas |
+
+> ⚠️ **No se bisecó.** Los cuatro se retiraron **juntos** para no gastarle cuota a la Ama, así que
+> **no está probado cuál era**. Si algún prompt vuelve a rebotar, el orden de sospecha es el de la
+> tabla. Este repo ya se equivocó una vez concediendo de más al leer un solo pase (§bisección del
+> filtro L80, regla 09): **un pase no prueba la causa.**
+
+**Lo que sí está probado y sigue pasando**, porque las tres muñecas generan con esto a diario:
+`vinyl`, `patent`, `high-shine`, `corset belt`, `choker`, `opera gloves`, `platform`, `sculpted
+figure`, `glamorous`, `sensual`, `alluring`.
