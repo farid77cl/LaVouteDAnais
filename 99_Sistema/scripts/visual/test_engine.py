@@ -479,6 +479,21 @@ check("banda: solo se culpa a los looks DEL LOTE, no a la historia",
 check("banda: un historico declarado no frena el lote",
       audit_banda_cuota(_sec([0,0,0,0,0, 0,0,0,0,0]),
                         dict(_BANDA, historicos_declarados=list(range(91, 96))), _LOTE) == [])
+# VETO DE CORSETERIA (Ama 08/09/2026, misma tarde que la banda).
+# "bloquea ese outfit, corset y tanga. si quieres hacer lenceria haz lenceria
+# tipo la perla para anais". La banda duro una hora: el techo no bastaba porque
+# el problema no era CUANTA corseteria era LA corseteria. Un veto es la misma
+# maquinaria con techo 0 sobre ventana 1 — no hace falta un chequeo nuevo.
+_VETO_C = {"techo": [{"cada": 1, "maximo": 0}], "desde_look": 91}
+check("veto: una sola corseteria en el lote ya lo frena",
+      len(audit_banda_cuota(_sec([0]*5 + [0,1,0,0,0]), _VETO_C, _LOTE)) == 1)
+check("veto: un lote sin corseteria pasa limpio",
+      audit_banda_cuota(_sec([0]*5 + [0,0,0,0,0]), _VETO_C, _LOTE) == [])
+check("veto: la corseteria historica anterior al corte NO frena nada",
+      audit_banda_cuota(_sec([1,1,1,1,1] + [0,0,0,0,0]), _VETO_C, _LOTE) == [])
+check("veto: sin piso declarado no se exige minimo",
+      not any("piso" in m for m in audit_banda_cuota(_sec([0]*10), _VETO_C, _LOTE)))
+
 check("banda: sin cuota declarada no hay banda",
       audit_banda_cuota(_sec([0]*10), {}, _LOTE) == [])
 

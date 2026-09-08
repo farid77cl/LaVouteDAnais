@@ -1,0 +1,39 @@
+{
+  "_dueno_unico": "Datos del batch. El BLOQUE A lo lee el motor del perfil visual (02_Personajes/_perfiles_visuales/anais.md §2).",
+  "_origen": "Ama 08/09/2026: 'deja tu look de reemplazo como look 91'. Es el teddy que se habia diseñado para reemplazar al L90 y que se revirtio al descubrir que el L90 ya tenia sus 7 imagenes generadas. No se pierde: se estrena aca.",
+  "_estreno": "PRIMER LOOK DEL REGISTRO §5.6bis y primero bajo el VETO de corseteria. Ama 08/09: 'bloquea ese outfit, corset y tanga. si quieres hacer lenceria haz lenceria tipo la perla para anais'. Arquitectura A11 (body de encaje) -- encaje Leavers fino, copa BLANDA sin estructura, cero ballenas, cero busk, cero cordon. La prenda acompaña el cuerpo en vez de rehacerlo, que es la linea entera entre los dos registros. ⚠️ La MARCA no viaja al prompt: su §I prohibe la atribucion de diseñador. Viaja el vocabulario.",
+  "_deficit": "Medido el 08/09 sobre los 50 looks del conteo: Noche 32,0% vs 33% y Boudoir 26,0% vs 27% EMPATAN en -1,0. El desempate del §6 dice Noche, y se elige BOUDOIR igual: este look estrena un registro de LENCERIA y Boudoir es su casa. El abrigo abierto que llevaba en su version L90 existia para que un teddy se leyera como Noche -- una vez que el arquetipo es el correcto, esa muleta sobra. Se conserva la piel porque paga cuota, no porque disfrace nada.",
+  "_step_0": "Arquitecturas de la ventana de 5 (L86-L90) = M6, M10, M4/A7, M3, M4/A6. M7 esta libre ahi Y contra el lote anterior. El look nacio como M1 (body solo) y la puerta lo freno por la cuota de silueta cubierta: L88, L89 y L90 son tres arquitecturas de piel seguidas y la ventana de 4 se cerraba aca. La falda de encaje lo convierte en M7 sin sacarlo del registro.",
+  "_cuota_piel": "Astracan. El ultimo fue marta cibelina (L89) y antes zorro plateado (L85): tres tipos distintos seguidos, que es lo que pide su §5.1b. Va como abrigo ABIERTO, la forma que su §5.1b marca como obligatoria para el abrigo.",
+  "_colorimetria": "ESMERALDA, que su §5.2b llama el complementario de libro de su rubio miel y su familia mas desaprovechada. Libre en la ventana de 5 (marfil, rosa polvo, bronce, negro) y NO pegada al negro del L90, que es lo que el tope prohibe. Modo Contraste con el astracan negro.",
+  "_medias": "SIN MEDIAS. L88, L89 y L90 llevan las tres, y medido el 07/09 sus veinte looks de batch traian medias en 16 de 20. Ninguna regla suya lo limita todavia, pero tres seguidas ya es molde.",
+  "_su_canon": "Vintage Noir V2.3. Lunar obligatorio, iris miel ambar, labio crimson fijo. Calzado 12cm exactos, SIN plataforma, suela roja.",
+  "personaje": "anais",
+  "batch": "El Registro Nuevo -- Encaje Italiano y Astracan",
+  "fecha": "08/09/2026",
+  "categoria": "Mix",
+  "rango": "91",
+  "tags_comunes": [
+    "laperla",
+    "V7poses",
+    "batchL91"
+  ],
+  "negative_extra": "modern clothing, contemporary streetwear, plastic, neon, cyberpunk, athleisure, chrome highlighter, silver strobing, metallic mirror highlight, cool pink blush, platform sole, visible platform, corset, boning, busk, lacing, waspie, structured moulded cups",
+  "looks": {
+    "91": {
+      "titulo": "Encaje Esmeralda y Astracan",
+      "codigo": "B5",
+      "polo": "Boudoir / Lencería",
+      "concepto": "Boudoir/Lenceria (26,0% contra meta 27%). **PRIMER LOOK BAJO EL VETO DE CORSETERIA** y estreno de la §5.6bis: arquitectura A11 (body de encaje) -- encaje Leavers fino, copa BLANDA sin estructura, cero ballenas, cero busk, cero cordon de espalda. La diferencia con lo que se acaba de vetar no es de cantidad sino de naturaleza: aca la prenda ACOMPAÑA el cuerpo, la corseteria lo REHACE. 🩹 Lleva ademas una falda de encaje al suelo, y no es adorno: la puerta lo freno sin ella. Sus L88, L89 y L90 son TRES arquitecturas de piel seguidas, asi que la cuota de silueta cubierta (1 de cada 4) se cerraba exactamente en este slot -- y la §5.6 es explicita en que la capa abierta NO paga esa cuota: el astracan enmarca, no cubre. Con la falda el look pasa a M7, libre en la ventana de 5 (M6, M10, M4/A7, M3, M4/A6) y contra el lote anterior. La falda de encaje transparente es del mismo registro italiano que el body, asi que no desvirtua el diseño: lo completa. Esmeralda, el complementario de su rubio miel segun su §5.2b y su familia mas desaprovechada, y no pegado al negro del L90. Paga la cuota de pieles con astracan -- tercer tipo distinto seguido tras zorro y marta. Modo Contraste. Sin medias: corta las tres seguidas de L88-L90. Manos desnudas, asi que va el token de manicura.",
+      "bloque_b": "a one-piece bodysuit in fine deep emerald Leavers lace, its cups SOFT and unstructured with no boning and no moulding anywhere, shaped only by a scalloped lace edge that runs into a deep V at the centre front, thin emerald satin straps set narrow on the shoulder, the lace over the ribs worked as open filigree and the back left bare to the waist beneath two fine crossing straps; over it a floor-length sheer emerald lace skirt falling straight from a narrow satin waistband, its fabric an unlined open lace worked in the same Leavers pattern, with no slit; its crotch cut as a thong, the front a narrow tapered panel of solid lace and the back a single fine cord; over it a floor-length astrakhan coat in dense black curled fur worn fully open and pushed back off both shoulders, its wide shawl collar falling to the waist and its sleeves reaching the wrist; bare legs, no hosiery and no suspender belt; bare hands, no gloves; a fine emerald silk ribbon at the throat tied at the side and long faceted emerald drop earrings; fingernails almond-shaped, filed short of the fingertip and lacquered in pale antique gold; 12cm T-strap stiletto sandal in black patent leather, open toe, a red lacquered sole",
+      "setting": "8k ultra cinematic intimate boudoir portrait, warm amber candlelight chiaroscuro, her bedchamber late at night, the bed dressed in emerald silk, a low fire burning down in a marble grate and a branch of candles guttering on the mantel",
+      "props": {
+        "seat": "the low emerald silk bench at the foot of the bed",
+        "wall": "the carved marble chimneypiece",
+        "surface": "the marble mantel with its branch of candles",
+        "upright": "the carved bedpost"
+      }
+    }
+  },
+  "_cuota_cubierta": "La paga la falda de encaje al suelo (M7). El astracan NO la paga: §5.6 dice textual que la capa abierta enmarca y no cubre, y se cuenta lo que hay debajo."
+}

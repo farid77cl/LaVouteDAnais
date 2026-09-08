@@ -728,27 +728,20 @@
         ]
       },
       "cuota_corseteria": {
-        "_dueno_unico": "02_Personajes/_perfiles_visuales/anais.md §8, fila «Corsé + tanga». Copia maquina-legible. Si se edita un lado, editar el otro.",
-        "_porque": "Ama 08/09/2026: 'de nuevo Anais con corset y tanga'. Medido: 5 de sus ultimos 10 looks eran corseteria (50%). La prosa NO estaba clonada -- el reclamo era volumen, no repeticion. Causa: la cuota decia '>=2 de cada 5', un PISO SIN TECHO, aplicado como meta sobre una ventana que ya traia 3. La regla existia y empujaba en una sola direccion.",
+        "_dueno_unico": "02_Personajes/_perfiles_visuales/anais.md §8 (fila «Corse + tanga — BLOQUEADO») + §5.6bis. Copia maquina-legible.",
+        "_porque": "Ama 08/09/2026, dos ordenes el mismo dia. Primero 'de nuevo Anais con corset y tanga' -- medido: 5 de sus ultimos 10 looks eran corseteria (50%), no por prosa clonada (los seis pares dieron cero rojos) sino por VOLUMEN, porque su §8 pedia '>=2 de cada 5', un piso sin techo, sobre una ventana que ya traia 3. Se convirtio en banda. Una hora despues: 'bloquea ese outfit, corset y tanga. si quieres hacer lenceria haz lenceria tipo la perla para anais'. El techo no bastaba porque el problema no era CUANTA corseteria era LA corseteria. Queda VETADA.",
         "_prefijos_arquitectura": [
           "M4"
         ],
-        "piso": {
-          "cada": 5,
-          "minimo": 1
-        },
         "techo": [
           {
-            "cada": 5,
-            "maximo": 2
-          },
-          {
-            "cada": 10,
-            "maximo": 3
+            "cada": 1,
+            "maximo": 0
           }
         ],
         "desde_look": 91,
-        "_desde_look_porque": "L81-L90 ya estan escritos en la galeria. Retrofit-al-tocar: la banda rige hacia adelante, no se rehacen lotes viejos. El L90 SI se rediseña, pero por orden expresa de la Ama y porque esta 0/7."
+        "_desde_look_porque": "L81-L90 quedan intactos: ya estan escritos y el L90 tiene sus 7 imagenes generadas por la Ama (llegaron 05:57-06:07 del 08/09). Retrofit-al-tocar. El veto rige hacia adelante.",
+        "_sustituto": "No se quita sin reponer: si el look pide lenceria, va el registro de alta costura italiana del §5.6bis (A11 body de encaje, A12 slip de seda, A13 camisola + culotte, mas A1/A2/A3/A8/A9/A10 que siguen vivas). La MARCA no se nombra en el prompt -- su §I prohibe la atribucion de diseñador; viaja el vocabulario del registro, nunca el nombre."
       }
     }
   }

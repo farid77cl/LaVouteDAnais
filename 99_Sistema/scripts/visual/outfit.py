@@ -504,11 +504,18 @@ def cmd_generar(args):
             secu = [(n, bool(cod) and cod.startswith(pref)) for n, cod, _cu in clasif]
             duros_b = audit_banda_cuota(secu, cb, nums_batch)
             if duros_b:
-                print("\n  \U0001f534 BANDA DE CORSETERIA — el batch no se escribe:")
+                veta = any(l.get("maximo") == 0 for l in (cb.get("techo") or []))
+                print("\n  \U0001f534 %s — el batch no se escribe:"
+                      % ("CORSETERIA VETADA" if veta else "BANDA DE CORSETERIA"))
                 for d in duros_b:
                     print("     %s" % d)
-                print("\n     La cuota es una BANDA, no un piso: el corse tiene que aparecer")
-                print("     seguido y NO puede volverse el default. Ama 08/09/2026.")
+                if veta:
+                    print("\n     Ama 08/09/2026: \"bloquea ese outfit, corset y tanga. si quieres")
+                    print("     hacer lenceria haz lenceria tipo la perla\". No se quita sin")
+                    print("     reponer: %s" % (cb.get("_sustituto") or "ver el perfil")[:150])
+                else:
+                    print("\n     La cuota es una BANDA, no un piso: tiene que aparecer seguido")
+                    print("     y NO puede volverse el default.")
                 return 1
 
         # ---- ARQUITECTURA REPETIDA CONTRA EL LOTE ANTERIOR (07/09/2026) ----

@@ -398,6 +398,39 @@ Corrección directa sobre el batch L26-L30: *"la ropa interior rica en encaje y 
 >
 > ✏️ **Conflicto detectado 11/08/2026, corrección revertida por la Ama — "guantes sin dedos NO".** Los guantes de Anaïs siguen siendo los normales de siempre (opera length hasta el codo, cerrados, sin variante sin-dedos forzada). El error no era el guante — era mío, por meter el token de manicura de todos modos en un prompt donde las manos van tapadas. **Regla correcta: si el look lleva guantes que cubren los dedos, se OMITE el token de uñas de mano en ese prompt** (no se ve, no se describe). El token de manicura solo va cuando las manos están visiblemente desnudas.
 
+### 5.6bis · 🕊️ Lencería de lujo italiana — el registro que reemplaza a la corsetería (Ama 08/09/2026)
+
+> *«bloquea ese outfit, corset y tanga. si quieres hacer lencería haz lencería tipo la perla para anais»*
+
+**Qué murió y qué nació.** La corsetería visible como pieza central (§5.6 A4-A7: merry widow, guêpière, waspie, corselette, corsé overbust) queda **vetada** desde el L91. No es que sobrara: es que era el registro equivocado. La orden de la Ama sustituye una cosa por otra, no quita sin reponer — **si el look pide lencería, la lencería es de alta costura italiana.**
+
+**🚫 La marca NO se nombra en el prompt.** Su §I prohíbe la atribución de diseñador («sin atribución de diseñador») y el generador además la ignora o la caricaturiza. Lo que viaja al prompt es el **vocabulario del registro**, nunca el nombre. La Perla es la referencia para *nosotras*, no una palabra del BLOQUE B.
+
+**Qué significa ese registro, traducido a prenda:**
+
+| Sí | No |
+|---|---|
+| Encaje Leavers fino, tul bordado, guipur delicado | Ballenas a la vista, canales de acero, ojales de cordón |
+| Copa **blanda** sin estructura, o aro finísimo forrado | Copa cónica, copa moldeada rígida, busto empujado por arquitectura |
+| Seda charmeuse, georgette, gasa, satén ligero | Charol, látex, cuero como pieza principal |
+| Silueta que **cae y se adhiere**: body, slip, camisola, culotte de encaje, kimono corto de seda | Silueta que **construye**: corsé, waspie, merry widow, guêpière |
+| Tirante fino, ribete de satén, detalle de bordado, transparencia por tejido | Herrajes, hebillas, anillas, cierres a la vista |
+| El cuerpo se lee **a través** de la tela | El cuerpo se lee **moldeado por** la prenda |
+
+**La regla de fondo, en una línea:** en La Perla la prenda **acompaña** el cuerpo; en la corsetería lo **rehace**. Anaïs es aristocracia, no arquitectura.
+
+**Arquitecturas vivas de la §5.6 tras el veto:** A1 quarter-cup · A2 bullet bra *(sigue válida — es sostén, no corsetería)* · A3 plunge demi-cup · A8 bodystocking de red · A9 peignoir de gasa · A10 balconette. **Muertas: A4, A5, A6, A7.** Y se suman tres de este registro:
+
+| # | Arquitectura | Token base |
+|---|---|---|
+| **A11** | **Body de encaje** | `one-piece lace bodysuit in fine Leavers lace, soft unstructured cups, the lace worked as open filigree over the ribs, no boning anywhere` |
+| **A12** | **Slip de seda con encaje** | `bias-cut silk charmeuse slip with a deep lace panel at the bust and hem, thin satin straps, the fabric skimming the body` |
+| **A13** | **Camisola + culotte de encaje** | `sheer embroidered-tulle camisole with a satin-bound hem over a matching lace culotte cut high on the hip` |
+
+> ⚠️ **A13 y `BOTTOM_CUT_LOCK`:** el culotte de encaje **no** es el «culotte de cobertura total» que su §5.4 prohíbe — ahí la palabra nombra un calzón de talle alto que tapa el asiento. Aquí es la pieza de encaje de corte alto del registro italiano, y **igual se escribe su corte con todas sus letras** (`cut high on the hip, the back a narrow panel`). El atributo que no se nombra lo resuelve el generador.
+
+---
+
 ### 5.5 · Campos obligatorios de descripción
 
 Describir **en este orden**:
@@ -464,7 +497,7 @@ Describir **en este orden**:
 | **🦊 Pieles** *(nueva 11/08/2026)* | **≥ 1 de cada 4 looks nuevos** | Transversal a todos los arquetipos. Chequeo pre-diseño: si los últimos 3 looks no llevaron piel, el que se está diseñando **debe** llevarla. No repetir el mismo tipo (visón/zorro/marta/astracán/chinchilla) en dos apariciones consecutivas. Ver §5.1b |
 | **👘 Bata abierta** *(nueva 12/08/2026)* | **≥ 1 de cada 2 looks nuevos de Boudoir/Lencería** | Exclusiva de ese arquetipo — no aplica a Noche/Látex/Sesión Literaria/Ejecutivo. Piso medido sobre el reset (2/4 actual); no baja hacia adelante. Alterna con silueta sin bata (sujetador+liguero directo, corsé+bota). Ver §5.1c |
 | **🐆 Animal print** *(nueva 23/08/2026)* | **≥ 1 de cada 8 looks nuevos** | Transversal a todos los arquetipos, solo en tejido noble (§5.2). Prioridad de aparición: Ejecutivo de Poder (firma del arquetipo reescrito) > el resto por déficit normal |
-| **🖤 Corsé + tanga** *(nueva 05/09/2026 — gusto declarado de la Ama · **rev. 08/09/2026: pasa de PISO a BANDA**)* | **≥ 1 y ≤ 2 de cada 5 · ≤ 3 de cada 10** | Transversal a los cinco arquetipos: la corsetería no es exclusiva de Boudoir — la dueña de La Voûte en corsé es Noche de pleno derecho, y el arquetipo Látex la nombra explícitamente. **Corsetería VISIBLE como pieza central** (overbust, merry widow, guêpière, waspie, corselette — §5.6 A4-A7), no una costura integrada dentro de un vestido. **Cada aparición con una arquitectura distinta de §5.6:** dos corsés seguidos de la misma familia son el mismo look con otro color, que es justo el reclamo que creó esta cuota  · 🔴 **Por qué ganó techo (Ama 08/09/2026: «de nuevo Anaïs con corset y tanga»).** Medido ese día: **5 de sus últimos 10 looks eran corsé + tanga (50%)** — L80 A6, L81 A4, L82 A2, L84 A5, L88 A7, L90 A6. La prosa **no** estaba clonada (medido par por par: cero rojos, seis arquitecturas realmente distintas), así que el reclamo no era «el mismo párrafo con otro color»: era **volumen**. La causa fue la redacción de esta misma fila: decía «≥ 2 de cada 5», un **piso sin techo**, y se aplicó como meta sobre una ventana que ya traía 3. Piso + piso = 50%. Es exactamente el defecto que la Ama tuvo que arreglar el 05/09 en la §5.2 de Miss Doll poniéndole **techo propio** a la familia firma. El piso baja a 1 porque con techo de 2 no pueden coexistir dos números iguales: si el techo es 2 y el piso también, un lote que ya viene con 3 detrás no tiene salida legal. Ejecutor: `anclas_universales.json → personajes.anais.cuota_corseteria`, que corre en `outfit.py generar` ANTES de escribir. **L81-L90 quedan como históricos declarados** (ya escritos); la banda rige desde el L91. |
+| **⛔ Corsé + tanga — BLOQUEADO** *(nace 05/09/2026 como cuota · pasa a banda 08/09 · **VETADO el mismo día**)* | **0. Ninguno.** | Transversal a los cinco arquetipos: la corsetería no es exclusiva de Boudoir — la dueña de La Voûte en corsé es Noche de pleno derecho, y el arquetipo Látex la nombra explícitamente. **Corsetería VISIBLE como pieza central** (overbust, merry widow, guêpière, waspie, corselette — §5.6 A4-A7), no una costura integrada dentro de un vestido. **Cada aparición con una arquitectura distinta de §5.6:** dos corsés seguidos de la misma familia son el mismo look con otro color, que es justo el reclamo que creó esta cuota  · 🔴 **Por qué ganó techo (Ama 08/09/2026: «de nuevo Anaïs con corset y tanga»).** Medido ese día: **5 de sus últimos 10 looks eran corsé + tanga (50%)** — L80 A6, L81 A4, L82 A2, L84 A5, L88 A7, L90 A6. La prosa **no** estaba clonada (medido par por par: cero rojos, seis arquitecturas realmente distintas), así que el reclamo no era «el mismo párrafo con otro color»: era **volumen**. La causa fue la redacción de esta misma fila: decía «≥ 2 de cada 5», un **piso sin techo**, y se aplicó como meta sobre una ventana que ya traía 3. Piso + piso = 50%. Es exactamente el defecto que la Ama tuvo que arreglar el 05/09 en la §5.2 de Miss Doll poniéndole **techo propio** a la familia firma. El piso baja a 1 porque con techo de 2 no pueden coexistir dos números iguales: si el techo es 2 y el piso también, un lote que ya viene con 3 detrás no tiene salida legal. ⛔ **Y el mismo día la Ama la derogó entera:** *«bloquea ese outfit, corset y tanga. si quieres hacer lencería haz lencería tipo la perla para anais»*. La banda duró una hora: el techo no era suficiente porque el problema no era **cuánta** corsetería, era **la corsetería**. Desde el **L91 la corsetería visible como pieza central queda PROHIBIDA** para Anaïs — nada de ballenas a la vista, busk, cordón de espalda ni waspie. Su lencería cambia de registro entero: ver **§5.6bis**. **L81-L90 quedan intactos** (ya escritos, y el L90 con sus 7 imágenes generadas). Ejecutor: `anclas_universales.json → personajes.anais.cuota_corseteria`, que ahora lleva `maximo: 0` y corre en `outfit.py generar` ANTES de escribir. |
 
 ---
 
