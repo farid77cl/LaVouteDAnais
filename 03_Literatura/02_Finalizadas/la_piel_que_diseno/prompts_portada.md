@@ -72,26 +72,36 @@ with only a thin dark border. THE FIGURE IS THE PICTURE: she is drawn large and 
 fills the panel from top to bottom, and the room around her is suggested with only two or
 three flat shapes that never compete with her. This is a pin-up, not a scene illustration.
 
-Vertical pin-up panel, 4:5 portrait, glamorous and sensual. A glamorous blonde woman
-perched on the very edge of an unmade bed, knees pressed together and angled to one side,
-one high-heeled mule hanging off her toes. Her torso is twisted toward the viewer, the
-small of her back arched deep, one shoulder dropped. She holds ONE OF HER OWN HANDS up
-beside her face, fingers spread, staring at the long almond nails in pale pearl beige —
-and her eyes have slid off the hand and onto the viewer instead, chin low, lips parted.
+THE WOMAN, THE SAME IN ALL FIVE PANELS: a glamorous blonde in her twenties, long
+platinum blonde hair falling to the middle of her back, high sculpted cheekbones, a fine
+straight nose, very full glossy lips, heavy dark lashes over pale eyes, long almond nails
+in pale pearl. HER FIGURE IS THE SUBJECT OF THE PICTURE and is drawn in the exaggerated
+proportion of classic pin-up art: a high, round, heavy chest, a very small cinched waist,
+wide round hips, full thighs that touch, long legs. WHATEVER SHE WEARS IS DRAWN TIGHT ON
+THAT SHAPE - pulled taut, clinging, following every curve - so the silhouette reads from
+across the room.
 
-SHE IS WEARING a silk slip in dusty rose — worn on her body, opaque — from the chest to
-mid-thigh. ONE STRAP HAS SLIPPED OFF HER SHOULDER and hangs on her upper arm; the hem has
-ridden up the thigh with the twist and she has not fixed either.
+Vertical pin-up panel, 4:5 portrait, glamorous and sensual. She is perched on the very edge
+of an unmade bed, weight thrown hard onto one hip so the waist curves deep and the small of
+her back arches, knees pressed together and angled away, one high-heeled ivory mule hanging
+off her toes. Her torso is TWISTED toward the viewer so the chest turns to the lens. She
+holds ONE OF HER OWN HANDS up beside her face, fingers spread, looking at the long pearl
+nails - and her eyes have slid off the hand and onto the viewer instead, chin low, eyes
+lifted from under the lashes, lips parted.
 
-FRAMING: the camera is low and close and she FILLS the panel from the heel to the top of
-her hair, legs running long up the frame.
+SHE IS WEARING a thin liquid silk slip in warm ivory - worn on her body, opaque, drawn
+clinging to every curve - and it is VERY SHORT, ending high at the very top of the thigh.
+ONE STRAP HAS SLIPPED OFF HER SHOULDER and hangs down her upper arm so that side of the
+silk sags low; the hem has ridden up with the twist and she has not fixed either.
 
-BACKGROUND, ONLY TWO SHAPES: behind her a flat dark rectangle of a valet stand carrying a
-man's suit with a wristwatch on its tray, and a flat band of halftone for the wall. Nothing
-else.
+FRAMING: the camera is LOW, at hip height and close, so her legs run long up the panel and
+she FILLS it from the hanging mule to the top of her hair.
 
-MOOD: she is looking at hands she recognises and did not grow — and she is letting you look
-at the rest.
+BACKGROUND, TWO FLAT SHAPES ONLY: behind her a flat dark rectangle of a valet stand carrying
+a man's suit with a wristwatch on its tray, and a flat halftone band for the wall.
+
+MOOD: she is looking at hands she recognises and did not grow - and she is letting you look
+at the rest of it.
 ```
 
 ## 2 · Gancho Cap 1 — «El despertar»
@@ -110,26 +120,34 @@ with only a thin dark border. THE FIGURE IS THE PICTURE: she is drawn large and 
 fills the panel from top to bottom, and the room around her is suggested with only two or
 three flat shapes that never compete with her. This is a pin-up, not a scene illustration.
 
-Vertical pin-up panel, 4:5 portrait, glamorous and sensual. A blonde woman up on her knees
-in the middle of a bed, thighs apart and sunk into the mattress, spine arched hard so the
-chest lifts and the waist hollows. ONE HAND IS PRESSED FLAT AND SPREAD OVER HER OWN CHEST
-with the long pale pearl beige nails sunk slightly into the flesh; the other arm reaches
-back to brace on the sheets, which pulls the shoulder open. Her chin is down, her eyes are
-lifted straight to the viewer, wide and dark, her lips apart. Blonde hair is stuck across
-her cheek and caught at the corner of her mouth.
+THE WOMAN, THE SAME IN ALL FIVE PANELS: a glamorous blonde in her twenties, long
+platinum blonde hair falling to the middle of her back, high sculpted cheekbones, a fine
+straight nose, very full glossy lips, heavy dark lashes over pale eyes, long almond nails
+in pale pearl. HER FIGURE IS THE SUBJECT OF THE PICTURE and is drawn in the exaggerated
+proportion of classic pin-up art: a high, round, heavy chest, a very small cinched waist,
+wide round hips, full thighs that touch, long legs. WHATEVER SHE WEARS IS DRAWN TIGHT ON
+THAT SHAPE - pulled taut, clinging, following every curve - so the silhouette reads from
+across the room.
 
-SHE IS WEARING a silk slip in dusty rose — worn on her body, opaque — from the chest to
-mid-thigh. BOTH STRAPS HAVE SLID DOWN her arms and the silk is held up only by the hand on
-her chest; the hem is rucked to the top of the thigh by her kneeling.
+Vertical pin-up panel, 4:5 portrait, glamorous and sensual. She is up on her knees in the
+middle of a bed, thighs apart and sunk into the mattress, spine arched hard so the chest
+lifts high and the waist hollows, hips rolled back. ONE HAND IS PRESSED FLAT AND SPREAD
+OVER HER OWN CHEST, the long pearl nails sunk slightly into the flesh; the other arm reaches
+back to brace on the sheets, which pulls that shoulder open and lifts the chest further. Her
+chin is down, her eyes lifted straight to the viewer, wide and dark, lips apart, breathing
+fast. Blonde hair is stuck across her cheek and caught at the corner of her mouth.
 
-FRAMING: the camera is at mattress level and very close. She FILLS the panel edge to edge;
-the bed is a white field of flat folds under her and nothing else is in the picture.
+SHE IS WEARING a thin liquid silk slip in warm ivory - worn on her body, opaque, clinging -
+VERY SHORT and now rucked up to the top of the thigh by her kneeling. BOTH STRAPS HAVE SLID
+DOWN HER ARMS and the front of the silk is held up ONLY by the hand pressed to her chest.
 
-BACKGROUND, ONE SHAPE: a flat band of halftone wall behind her. No furniture, no lamp, no
-window.
+FRAMING: the camera is at mattress level, below her and very close, so she towers and FILLS
+the panel edge to edge.
+
+BACKGROUND, ONE FLAT SHAPE: a band of halftone wall. No furniture, no lamp, no window.
 
 MOOD: the first second of understanding that the body answering is not the one she went to
-sleep in — and that it answers beautifully.
+sleep in - and that it answers beautifully.
 ```
 
 ## 3 · Gancho Cap 2 — «El postre»
@@ -148,26 +166,35 @@ with only a thin dark border. THE FIGURE IS THE PICTURE: she is drawn large and 
 fills the panel from top to bottom, and the room around her is suggested with only two or
 three flat shapes that never compete with her. This is a pin-up, not a scene illustration.
 
-Vertical pin-up panel, 4:5 portrait, glamorous and sensual. A blonde woman lies back across
-rumpled sheets, propped on one elbow with her head tipped back and to the side, throat
-long, the small of her back arched off the bed and one knee drawn up and fallen open. Her
-chin is low, her eyes lifted to the viewer from under her lashes, lips parted. Her free
-hand is closed tight in the sheet.
+THE WOMAN, THE SAME IN ALL FIVE PANELS: a glamorous blonde in her twenties, long
+platinum blonde hair falling to the middle of her back, high sculpted cheekbones, a fine
+straight nose, very full glossy lips, heavy dark lashes over pale eyes, long almond nails
+in pale pearl. HER FIGURE IS THE SUBJECT OF THE PICTURE and is drawn in the exaggerated
+proportion of classic pin-up art: a high, round, heavy chest, a very small cinched waist,
+wide round hips, full thighs that touch, long legs. WHATEVER SHE WEARS IS DRAWN TIGHT ON
+THAT SHAPE - pulled taut, clinging, following every curve - so the silhouette reads from
+across the room.
 
-SHE IS WEARING a silk slip in dusty rose — worn on her body, opaque — from the chest to
-mid-thigh. ONE STRAP IS DOWN on her arm and the hem has slid to the top of the thigh with
-the knee.
+Vertical pin-up panel, 4:5 portrait, glamorous and sensual. She lies back across rumpled
+sheets, propped on one elbow, head tipped back and to the side so the throat runs long, the
+small of her back arched clean off the bed so the chest lifts and the waist hollows, one
+knee drawn up and FALLEN OPEN, the other leg straight and pointed. Her chin is low, her eyes
+lifted to the viewer from under her lashes, lips parted. Her free hand is closed tight in
+the sheet.
 
-THE SECOND FIGURE: only A MAN'S FOREARM AND HAND enters the panel from the right edge, the
-white shirt cuff turned back over a wristwatch. The hand is laid flat and still HIGH ON
-HER THIGH on top of the silk, fingers relaxed, not gripping — no face, no head, no torso,
+SHE IS WEARING a thin liquid silk slip in warm ivory - worn on her body, opaque, clinging -
+VERY SHORT, and the hem has been DRAGGED UP HIGH ON THE THIGH; one strap is down on her arm.
+A white sheet has been pulled off her and lies twisted below her hip.
+
+THE SECOND FIGURE: only A MAN'S FOREARM AND HAND enters the panel from the right edge, white
+shirt cuff turned back over a wristwatch. The hand is laid flat and still HIGH ON THE INSIDE
+OF HER THIGH on top of the silk, fingers relaxed, not gripping - no face, no head, no torso,
 no second body, nothing else of him in the picture.
 
-FRAMING: the camera is at bed level and close; she FILLS the panel diagonally, hip nearest
-the lens.
+FRAMING: the camera is at bed level and close; she FILLS the panel diagonally, the hip
+nearest the lens.
 
-BACKGROUND, ONE SHAPE: a flat band of halftone with the suggestion of a wardrobe rail of
-women's clothes. Nothing else.
+BACKGROUND, ONE FLAT SHAPE: a halftone band suggesting a rail of women's clothes.
 
 MOOD: the hand belongs to a body she used to live in, it is not asking, and she has not
 moved it.
@@ -189,30 +216,44 @@ with only a thin dark border. THE FIGURE IS THE PICTURE: she is drawn large and 
 fills the panel from top to bottom, and the room around her is suggested with only two or
 three flat shapes that never compete with her. This is a pin-up, not a scene illustration.
 
-Vertical pin-up panel, 4:5 portrait, glamorous and sensual. A blonde showgirl stands with
-her back to the viewer in front of a dressing-room mirror ringed with round bulbs, up on
-the balls of her feet, HIP THROWN HARD to one side and the small of her back arched to its
-limit so the seat lifts and rounds. One hand is at the nape of her neck lifting her hair
-off her shoulders, elbow high; the other hooks a finger in the waistband at her hip. She is
-TWISTED AT THE WAIST to look back over her shoulder — at the viewer, not at the glass —
-chin low, eyes lifted, lips parted. The mirror behind shows THAT SAME WOMAN from the front,
-the same face, no one else in the glass.
+THE WOMAN, THE SAME IN ALL FIVE PANELS: a glamorous blonde in her twenties, long
+platinum blonde hair falling to the middle of her back, high sculpted cheekbones, a fine
+straight nose, very full glossy lips, heavy dark lashes over pale eyes, long almond nails
+in pale pearl. HER FIGURE IS THE SUBJECT OF THE PICTURE and is drawn in the exaggerated
+proportion of classic pin-up art: a high, round, heavy chest, a very small cinched waist,
+wide round hips, full thighs that touch, long legs. WHATEVER SHE WEARS IS DRAWN TIGHT ON
+THAT SHAPE - pulled taut, clinging, following every curve - so the silhouette reads from
+across the room.
 
-SHE IS WEARING a liquid metallic gold two-piece — worn on her body, fastened, opaque,
-high-shine. The bottoms are CUT VERY HIGH ON THE HIP and cut short and deep at the back so
-the underside of the seat is left in the open air below the hem; the top is a cropped gold
-band that stops well above the waist, leaving the whole midriff bare. Tall silver boots to
-just below the knee, on a high heel.
+Vertical pin-up panel, 4:5 portrait, glamorous and sensual. A cabaret nightclub dressing
+room. She stands WITH HER BACK TO THE VIEWER in front of a mirror ringed with round bulbs,
+up on the extreme point of her platforms, HIP THROWN HARD to one side and the small of her
+back arched to its limit so the seat lifts and rounds high. One hand is at the nape of her
+neck lifting her hair off her shoulders, elbow high; the other HOOKS A FINGER IN THE
+WAISTBAND at her hip. She is TWISTED AT THE WAIST to look back over her shoulder - at the
+viewer, not at the glass - chin low, eyes lifted, lips parted. The mirror shows THAT SAME
+WOMAN from the front, the same face, no one else in the glass.
 
-FRAMING: the camera is at hip height and close, below her, so she rises and FILLS the
-panel from boot to hair.
+SHE IS WEARING a liquid metallic gold two-piece - worn on her body, fastened, opaque,
+high-shine, wet-looking. The bottoms are MINIMAL and CUT VERY HIGH ON THE HIP, cut short and
+deep at the back so the underside of the seat is left in the open air below the hem. The top
+is TWO SMALL GOLD TRIANGLES joined by thin gold ties, fastened behind her neck and again
+behind her back, worn over the chest. A small gold pendant hangs at her navel. On her legs,
+MIRROR-POLISHED SILVER BOOTS drawn as flat ivory with hard black ink highlights, a long side
+zip, running all the way up to just ABOVE THE KNEE on a towering block platform heel, with a
+hand's width of open thigh left between the top of each boot and the gold.
 
-BACKGROUND, TWO SHAPES: the bulb-ringed mirror behind her, and a flat dark doorway at the
-right edge with a small blank plate on it. Nothing else.
+FRAMING: the camera is LOW, below hip height and close, so she rises and FILLS the panel
+from the platform soles to the top of her hair.
 
-MOOD: the gold was folded and left waiting for her by someone who knew she would put it on
-— and it fits like it was measured.
+BACKGROUND, TWO FLAT SHAPES ONLY: the bulb-ringed mirror behind her, and a flat dark doorway
+at the right edge with a small blank plate on it.
+
+MOOD: the gold was folded and left waiting for her by someone who knew she would put it on -
+and it was measured for exactly this.
 ```
+
+> ⚠️ **Si este rebota**, el sospechoso es el top de dos triángulos. Reemplace esa frase por: `The top is a fitted high-shine gold band worn across the chest, fastened behind her back.` Todo lo demás se deja igual.
 
 ## 5 · Gancho Cap 4 — «La primera bailarina»
 
@@ -230,25 +271,35 @@ with only a thin dark border. THE FIGURE IS THE PICTURE: she is drawn large and 
 fills the panel from top to bottom, and the room around her is suggested with only two or
 three flat shapes that never compete with her. This is a pin-up, not a scene illustration.
 
-Vertical pin-up panel, 4:5 portrait, glamorous and sensual. Morning. A blonde woman
-stretched out on her back across rumpled sheets, spine arched clean off the mattress, both
-arms thrown up above her head into the pillow so the whole front of her body is offered
-long and open, one knee bent and fallen outward, the other leg straight and pointed. Her
-head is tipped back and rolled toward the viewer, eyes half closed and on you, lips parted,
-a slow lazy smile just starting. Hair spilled across the pillow.
+THE WOMAN, THE SAME IN ALL FIVE PANELS: a glamorous blonde in her twenties, long
+platinum blonde hair falling to the middle of her back, high sculpted cheekbones, a fine
+straight nose, very full glossy lips, heavy dark lashes over pale eyes, long almond nails
+in pale pearl. HER FIGURE IS THE SUBJECT OF THE PICTURE and is drawn in the exaggerated
+proportion of classic pin-up art: a high, round, heavy chest, a very small cinched waist,
+wide round hips, full thighs that touch, long legs. WHATEVER SHE WEARS IS DRAWN TIGHT ON
+THAT SHAPE - pulled taut, clinging, following every curve - so the silhouette reads from
+across the room.
 
-SHE IS WEARING a silk slip in dusty rose — worn on her body, opaque. The stretch has
-DRAGGED THE HEM UP HIGH ON THE THIGH and pulled the silk taut across her, and one strap has
-fallen off the shoulder. A single white sheet is twisted low across her hips.
+Vertical pin-up panel, 4:5 portrait, glamorous and sensual. Morning. She is stretched out on
+her back across rumpled sheets, spine ARCHED CLEAN OFF THE MATTRESS so the chest rises and
+the waist hollows, both arms thrown up above her head into the pillow so the whole front of
+her body is offered long and open, one knee bent and fallen outward, the other leg straight
+and pointed hard. Her head is tipped back and rolled toward the viewer, eyes half closed and
+on you, lips parted, a slow lazy smile just starting. Hair spilled across the pillow.
+
+SHE IS WEARING a thin liquid silk slip in warm ivory - worn on her body, opaque, clinging,
+pulled taut across her by the stretch. The hem has been DRAGGED UP HIGH ON THE THIGH by it
+and both straps have fallen off her shoulders. A single white sheet is twisted low across
+one hip.
 
 THE SECOND FIGURE: at the far right edge, in a doorway, A MAN IS SEEN ONLY AS A FLAT DARK
-SILHOUETTE leaning on the frame with a small coffee cup — no face, no features, pure flat
+SILHOUETTE leaning on the frame with a small coffee cup - no face, no features, pure flat
 ink shape, small in the corner.
 
-FRAMING: the camera is above her looking down the length of the bed, and she FILLS the
-panel corner to corner.
+FRAMING: the camera is above her looking down the length of the bed, and she FILLS the panel
+corner to corner.
 
-BACKGROUND, ONE SHAPE: the flat field of the bed. Nothing else.
+BACKGROUND, ONE FLAT SHAPE: the flat field of the bed.
 
 MOOD: she woke up wanting it, he is watching her find that out, and neither of them is in
 any hurry.
@@ -256,7 +307,13 @@ any hurry.
 
 ---
 
-> ✅ **Candados:** `GARMENT_DECLARED` en los cinco — la prenda siempre está **puesta, cerrada y
-> opaca**; lo que calienta es lo que hace la prenda (el tirante que cae, el ruedo que sube), no
-> lo que deja de tapar · `SEGUNDO_CUERPO` en el 3 y el 5 · espejo con reflejo declarado en el 4 ·
-> la figura llena el panel en los cinco.
+> ✅ **Candados:** `GARMENT_DECLARED` en los cinco — la prenda siempre **puesta, cerrada y
+> opaca**; lo que calienta es el **cuerpo bajo la tela** y **lo que la prenda hace** (el tirante
+> que cae, el ruedo que sube, el corte que sube por la cadera) · `SEGUNDO_CUERPO` en el 3 y el 5 ·
+> espejo con reflejo declarado en el 4 · la figura llena el panel en los cinco.
+
+> 👗 **El vestuario sale del texto**, no de la ilustradora: camisón de seda **hueso** que apenas
+> pasa el nacimiento del muslo (Cap 1) · hot pants de oro líquido con el borde de atrás al aire,
+> top de **dos triángulos** amarrados a la nuca y la espalda, colgante en el ombligo y **botas de
+> plata hasta arriba de la rodilla** sobre plataforma, con un palmo de muslo entre la bota y el
+> oro (Cap 3).

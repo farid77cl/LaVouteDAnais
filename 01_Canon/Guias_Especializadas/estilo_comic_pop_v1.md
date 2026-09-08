@@ -290,3 +290,35 @@ opaca**. Por eso la insinuación además **nunca rebota** — no hay piel que no
 prompt te aviso; si no, hazlo lo más caliente posible»*. **La cautela no es una virtud acá**: se
 escribe al máximo, ella reporta el rebote, y recién ahí se baja un escalón — con el orden de
 sospecha de §4.2 en la mano.
+
+### 7.1 💃 El CUERPO también se declara — la postura sola no basta (Ama 08/09/2026)
+
+> *"trata de ser más picante con el vestuario y con el cuerpo, sobre todo en este relato, el
+> cuerpo acá es parte importante del relato"*
+
+**El hueco de §6.** Esa tabla dio **palancas de postura** —torsión, mirada, boca, manos— y las cinco
+imágenes de «La Piel que Diseñé» las tenían todas. Seguían frías. Medido sobre los prompts: ninguno
+de los cinco **decía qué cuerpo dibujar**. El generador rellenó con su figura por defecto, que es
+delgada y neutra, y después le puso encima una pose de pin-up. Una pose de pin-up sobre un cuerpo
+de catálogo de ropa **no es un pin-up**: la exageración de proporción es el género, no un extra.
+
+**Se declara una vez, en un BLOQUE PERSONAJE que viaja idéntico en todas las imágenes del relato**,
+justo después del BLOQUE ESTILO — así además las cinco se ven de la misma mujer:
+
+> `HER FIGURE IS THE SUBJECT OF THE PICTURE and is drawn in the exaggerated proportion of classic
+> pin-up art: a high, round, heavy chest, a very small cinched waist, wide round hips, full thighs
+> that touch, long legs. WHATEVER SHE WEARS IS DRAWN TIGHT ON THAT SHAPE - pulled taut, clinging,
+> following every curve - so the silhouette reads from across the room.`
+
+Todo eso **pasa el filtro**: describe forma y tela, no piel. `sculpted figure` ya estaba probado
+(§4.2); `augmented bust` sigue vetado y no hace falta.
+
+**Y el vestuario sale del texto, no de la ilustradora.** Segunda mitad de la misma orden. En «La
+Piel que Diseñé» el relato dice camisón **hueso** que *«apenas me tapaba el principio de los
+muslos»* y botas de plata *«hasta justo arriba de la rodilla»* con plataforma; los prompts decían
+rosa polvo hasta media pierna y taco alto bajo la rodilla. **Yo la había vestido más recatada que
+su propia autora.** Antes de escribir un prompt se releen los párrafos donde el personaje se viste,
+y la prenda se copia de ahí — corte, color y largo incluidos.
+
+> 📌 **Regla:** un prompt de publicación sin BLOQUE PERSONAJE con la figura declarada está
+> incompleto, aunque tenga las tres palancas de §6.
