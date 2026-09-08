@@ -55,7 +55,7 @@ desactualizado la misma noche que se escribió. Ver §Los tags, abajo.
 
 ### Tags
 
-`#corruption kink` `#transformation` `#tf` `#smut` `#LaVoûtedAnaïs` `#LaPielQueDiseñé`
+`#corruption kink` `#body swap` `#genderswap` `#transformation` `#tf` `#smut` `#LaVoûtedAnaïs` `#LaPielQueDiseñé`
 
 ### Por qué este fragmento y no otro
 
@@ -93,7 +93,7 @@ prefiere un solo fijado en el blog, este se convierte en el post 0 de la serie y
 
 ### Tags
 
-`#corruption kink` `#transformation` `#tf` `#smut` `#LaVoûtedAnaïs` `#LaPielQueDiseñé` `#ElDespertar`
+`#corruption kink` `#body swap` `#genderswap` `#transformation` `#tf` `#smut` `#LaVoûtedAnaïs` `#LaPielQueDiseñé` `#ElDespertar`
 
 ### Por qué este fragmento y no otro
 
@@ -129,7 +129,7 @@ reescribirla.
 
 ### Tags
 
-`#corruption kink` `#bimbo training` `#transformation` `#tf` `#smut` `#LaVoûtedAnaïs` `#LaPielQueDiseñé` `#ElPostre`
+`#corruption kink` `#body swap` `#genderswap` `#bimbo training` `#transformation` `#tf` `#smut` `#LaVoûtedAnaïs` `#LaPielQueDiseñé` `#ElPostre`
 
 ### Por qué este fragmento y no otro
 
@@ -167,7 +167,7 @@ por eso mismo no se regala fuera del capítulo.
 
 ### Tags
 
-`#corruption kink` `#bimbo training` `#transformation` `#tf` `#smut` `#LaVoûtedAnaïs` `#LaPielQueDiseñé` `#ElCuerpoQueSabe`
+`#corruption kink` `#body swap` `#genderswap` `#bimbo training` `#transformation` `#tf` `#smut` `#LaVoûtedAnaïs` `#LaPielQueDiseñé` `#ElCuerpoQueSabe`
 
 ### Por qué este fragmento y no otro
 
@@ -204,7 +204,7 @@ gancho que anuncia el final del capítulo trabaja en contra del capítulo.
 
 ### Tags
 
-`#corruption kink` `#dumbification` `#transformation` `#tf` `#smut` `#LaVoûtedAnaïs` `#LaPielQueDiseñé` `#LaPrimeraBailarina`
+`#corruption kink` `#body swap` `#genderswap` `#dumbification` `#transformation` `#tf` `#smut` `#LaVoûtedAnaïs` `#LaPielQueDiseñé` `#LaPrimeraBailarina`
 
 ### Por qué este fragmento y no otro
 

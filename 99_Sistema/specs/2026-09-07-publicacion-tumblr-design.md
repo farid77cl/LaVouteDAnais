@@ -645,3 +645,13 @@ grafo social cuelga de la **cuenta**.
 publicar pero no puede saludar**. El engagement queda o en manos de la Ama a mano (cambiando de
 blog en la app), o detrás de la mudanza a cuenta propia — que hasta hoy figuraba como *opcional*
 y ahora tiene un precio concreto asociado. Decisión suya, en la Mesa (`bdsmeros-primario`).
+
+**Ampliación del mismo día — el subgénero.** La primera medición dejó fuera los tags del
+**body swap**, que es el eje de «La Piel que Diseñé». Medidos después: `body swap` **vivo**
+(0,1 posts/h, último post hace 5,8 h) · `genderswap` **vivo** (0,1) · `tgtf` 23,5 h ·
+`bodyswap` de una palabra **muerto** hace 8 días · `body swap kink` y `forced feminization`
+**bloqueados**. La grafía importa: `body swap` con espacio vive y `bodyswap` pegado no.
+
+> 📌 **Y poco tráfico no es malo acá.** Un tag de 2,6 posts/h entierra el post en minutos; uno de
+> 0,1 lo deja en la primera pantalla por horas. Para un blog de 0 seguidores, el tag lento y exacto
+> rinde más que el rápido y genérico — por eso el set final mezcla los dos.

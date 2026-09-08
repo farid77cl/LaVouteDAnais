@@ -25,6 +25,13 @@ La línea de la fuente va anotada en cada bloque para que se pueda re-verificar 
 ⚠️ **Los enlaces van como `[enlace al Capítulo N]`** porque solo el Cap 1 está publicado en el
 blog y su URL no está registrada en ninguna parte del repo (ver §Pendientes al final).
 
+> ⚠️ **Tags corregidos el 08/09/2026, después de medirlos.** Este archivo nació llevando
+> `#ControlMental` y `#Bimboficación` **de primeros** en los cinco posts. Esa noche se midió el
+> ritmo real de 25 tags: **los de español están muertos** —`ControlMental` lleva 184 días sin un
+> post— y los cinco posts encolados los llevaban adelante. Se corrigieron **los posts en cola y
+> también este archivo**, porque un documento que sigue predicando el error lo reproduce en el
+> relato siguiente. Medición y método: [spec de publicación](../../../99_Sistema/specs/2026-09-07-publicacion-tumblr-design.md), ADENDA 8.
+
 ---
 
 # 1 · Gancho — Capítulo 1, «Mi Primer Turno»
@@ -47,7 +54,7 @@ blog y su URL no está registrada en ninguna parte del repo (ver §Pendientes al
 
 ### Tags
 
-`#ControlMental` `#Bimboficación` `#AmigaDesaparecida` `#CaféConPiernas` `#Santiago` `#PrimerTurno`
+`#corruption kink` `#dumbification` `#brainwashing` `#bimbo training` `#transformation` `#tf` `#mind control` `#smut` `#AmigaDesaparecida` `#CaféConPiernas` `#LaVoûtedAnaïs`
 
 ### Por qué este fragmento y no otro
 
@@ -80,7 +87,7 @@ Voûte. Es además la forma exacta que el nicho premia (`§5.2`: 1-3 frases, doc
 
 ### Tags
 
-`#ControlMental` `#Bimboficación` `#Sumisión` `#Oficina` `#SalaDeDirectorio` `#DobleVida`
+`#corruption kink` `#dumbification` `#brainwashing` `#bimbo training` `#transformation` `#tf` `#mind control` `#smut` `#Oficina` `#SalaDeDirectorio` `#LaVoûtedAnaïs`
 
 ### Por qué este fragmento y no otro
 
@@ -117,7 +124,7 @@ existir, y un gancho que necesita explicación no es un gancho.
 
 ### Tags
 
-`#ControlMental` `#Bimboficación` `#Degradación` `#StripteaseRitual` `#PoderYPlata`
+`#corruption kink` `#dumbification` `#brainwashing` `#bimbo training` `#transformation` `#tf` `#mind control` `#smut` `#StripteaseRitual` `#PoderYPlata` `#LaVoûtedAnaïs`
 
 ### Por qué este fragmento y no otro
 
@@ -149,7 +156,7 @@ demasiado bueno para regalarlo fuera del capítulo.
 
 ### Tags
 
-`#ControlMental` `#Bimboficación` `#TransformaciónPsicológica` `#Cierre` `#DeCondicionadaACondicionadora`
+`#corruption kink` `#dumbification` `#brainwashing` `#bimbo training` `#transformation` `#tf` `#mind control` `#smut` `#Cierre` `#DeCondicionadaACondicionadora` `#LaVoûtedAnaïs`
 
 ### Por qué este fragmento y no otro
 
@@ -195,7 +202,7 @@ moderador). No cita prosa del catálogo.
 
 ### Tags
 
-⚠️ **No hay un set de tags con dueño para el post fijado.** `prompts_portada.md` es dueño de los
+`#corruption kink` `#dumbification` `#brainwashing` `#bimbo training` `#transformation` `#tf` `#mind control` `#smut` `#LaVoûtedAnaïs`
 tags de «Café con Piernas», no del blog. Lo más cercano que existe, y por eso lo propongo sin
 inventar nada, es su set de **relato completo**:
 
