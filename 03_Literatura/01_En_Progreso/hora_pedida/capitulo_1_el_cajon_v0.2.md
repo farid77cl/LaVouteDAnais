@@ -121,3 +121,107 @@ Y la doctora le contó de la receta. De la mamá, del medicamento que había que
 *No le estoy mirando nada. Estoy pensando en la receta.*
 
 La frase le duró lo que dura una frase. El teléfono zumbó de nuevo bajo la palma, y el muslo lo apretó, y Renée dijo tres semanas es harto, pobrecita tu mamá, sin mover la boca casi, y la doctora asintió mirándole la boca no moverse.
+
+—¿Y quién cocina en tu casa?
+
+—Yo.
+
+—¿Siempre?
+
+—Siempre. O sea, no siempre, a veces el… a veces pedimos. Pero pedir también lo hago yo, hay que elegir, hay que llamar, hay que estar ahí cuando llegan. —Se rio, corto, por la nariz—. Es lo mismo.
+
+—Es lo mismo —dijo Renée, y no se rio—. ¿Y qué vas a hacer hoy?
+
+—No sé.
+
+El teléfono zumbó bajo la mano. La doctora no lo miró. Lo sintió en la palma y en el muslo al mismo tiempo, el vidrio vibrándole contra la piel de la mano y la vibración pasándole por el pantalón a la pierna, y la mano se le puso a sudar sobre la pantalla, y la luz siguió saliéndole entre los dedos, blanca, en franjas, igual que la de la persiana. Renée no miró tampoco. Tenía los ojos en la cara de ella y los dejó ahí, y el zumbido se terminó solo, y ninguna de las dos había bajado la vista.
+
+—No sabes qué vas a hacer de comida —dijo Renée.
+
+—No.
+
+—Ya. Está bien no saber. Me gusta que no sepas.
+
+Le contó de la cocina igual, porque Renée le preguntó por la cocina, cómo era, cuánta luz tenía, si la mesa del comedor daba a la cocina o a la ventana, y la doctora contestó todo, la mesa, la ampolleta quemada del comedor que nadie cambiaba, la tesis de la alumna encima de la mesa con el lápiz rojo, y a la tercera respuesta se dio cuenta de que estaba describiendo su casa como se describe un lugar en el que una no vive. Renée escuchaba con la cabeza un poco ladeada y el pelo cayéndole por ese lado, y una vez, en la mitad de lo de la ampolleta, se pasó el pulgar por el labio de abajo, despacio, de una comisura a la otra, y la doctora perdió lo de la ampolleta y tuvo que volver a empezar.
+
+—Perdón, ¿qué le…?
+
+—La ampolleta. Que nadie la cambia.
+
+—Que nadie la cambia. —Tragó. La mandíbula crujió—. Es que si no la cambio yo…
+
+—Ya sé, linda. Si no la cambias tú no la cambia nadie. Ya me lo dijiste con el teléfono, con la comida y con la receta de tu mamá. Me lo has dicho cuatro veces con cuatro cosas distintas y todavía no te has dado cuenta de que es la misma frase. —Se levantó. Lo hizo despacio, desenrollando las piernas de abajo del vestido, y la doctora le vio los pies desnudos pasar al lado de sus tacos ladeados y seguir de largo, y perderla de vista—. No te des vuelta. Es que quiero ver una cosa desde acá.
+
+La tenía atrás. La doctora se quedó mirando la tetera con la espalda derecha y el sol en la nuca, y sintió a Renée quedarse parada detrás del sillón sin tocarlo, y después sintió el olor, té y piel, bajar hasta ella, y después las manos.
+
+Se las puso en los hombros. Las dos, abiertas, tibias a través de la chaqueta, sin apretar, apoyadas nomás, y la doctora sintió la chaqueta hundirse un poco bajo el peso de las manos y los hombros subir contra ellas por reflejo, defendiéndose de una cosa que no estaba atacando.
+
+—Acá —dijo Renée, arriba, cerca—. ¿Sientes dónde los tienes? No, no me contestes con la boca, contéstame con esto. Mira dónde están. Yo no te los estoy empujando, mi… doctora, perdón. Solo los tengo. Y se te subieron cuando te toqué, ¿te fijaste? Pobrecita. Si hasta con las manos encima te apretas. ¿Cuánto pesan? Déjame a mí un ratito, a ver cuánto pesan.
+
+No hizo nada. No apretó, no masajeó, no empujó hacia abajo. Dejó las manos ahí, y el peso de las manos hizo lo que las manos no estaban haciendo, y la doctora sintió los hombros irse. Un dedo. Se le bajaron un dedo bajo las palmas de una desconocida, y las palmas bajaron con ellos, siguiéndolos, sin soltarlos, y Renée se inclinó para decírselo al oído, y al inclinarse el collar le rozó la nuca. Frío. Las perlas frías contra la piel caliente de la nuca, un roce de cuentas duras arrastrándose de un lado al otro por encima del elástico del moño, y el frío le bajó por la columna entera hasta la silla del sillón y ahí se quedó, entre los glúteos apretados contra la tela, latiendo.
+
+—Ahí —le dijo Renée en el oído—. Un dedito. ¿Viste?
+
+*quédate.*
+
+Lo pensó abajo, en el mismo lugar de antes, y arriba no alcanzó a tacharlo porque el teléfono zumbó.
+
+Contra la palma, contra el muslo, dos veces, y los hombros se le subieron de golpe bajo las manos de Renée, enteros, hasta las orejas, y las manos de Renée se los dejaron subir sin retenerlos y se quedaron encima de nuevo, arriba, donde habían estado al principio.
+
+—Ahí volvieron —dijo Renée. Suave. Sin sorpresa—. Con el ruidito. Uy. Mira tú.
+
+Le sacó las manos. Le sacó también el collar de la nuca, y el olor, y volvió por delante del sillón con los pies desnudos por la alfombra y se sentó en el suyo, de lado, con las piernas recogidas, y se sirvió más té, y no dijo nada del teléfono. Nada. Le preguntó por la ventana de la cocina, si daba al patio o a la calle.
+
+Al patio, dijo la doctora, y el muslo se le puso duro antes del zumbido siguiente, y el zumbido vino, y la mano se le cerró sobre el vidrio sudado, y Renée le preguntó qué había en el patio. Nada, un limón. Un limón que no daba limones. Renée se rio de eso, con la boca cerrada, y la doctora se escuchó reírse también, y a la mitad de la risa el teléfono zumbó otra vez y la risa se le cortó, y no fue por el ruido. Fue por el muslo. Por la pierna apretándose sola contra la vibración, tensa, lista, mientras arriba ella se reía de un limón, y por primera vez en años sintió las dos cosas al mismo tiempo, la pierna dura y la boca abierta riéndose, y el músculo le pareció más ridículo que el teléfono.
+
+*Cuatro zumbidos en cinco minutos y ninguna de las dos lo ha mirado. Ella no lo va a nombrar. Lo dejó ahí a propósito, para que lo tenga yo.*
+
+Se miró la mano. La tenía blanca de apretar, con los nudillos marcados sobre la funda, y por debajo de la mano el vidrio estaba tibio y húmedo, y la luz seguía saliéndole entre los dedos cada vez. Y Renée hablando del limón. Con las rodillas dobladas bajo el vestido y la boca sin brillo y los ojos puestos en la cara de ella y en ninguna otra parte, y esa era la cosa, que no le miraba la mano, que llevaba media hora sin mirarle la mano, y que la doctora sabía exactamente cuánto rato llevaba sin mirársela.
+
+Pensó en los hombros. En el dedo que se habían bajado bajo las manos y en cómo se habían subido de golpe con el ruido, y lo pensó como pensaba las cosas en el tercer piso, con la ficha delante, aislando. Una variable. Sacas la variable y ves qué pasa. Era lo que hacía todos los días con todo el mundo, y lo tenía tan sabido que la frase le llegó armada, limpia, sin vergüenza ninguna, y se la creyó entera.
+
+—Es para ver una cosa —dijo.
+
+Renée paró en la mitad del limón.
+
+—¿Qué cosa, doctora?
+
+—Lo de los hombros. Usted dijo que con el ruido se me… que se me subieron con el ruido. Quiero ver si es eso. —Se escuchó, y la voz le salió de médica, plana, y se agarró de la voz—. No es que le crea. Es que quiero verlo. Si saco el… si no está, y se bajan, es eso. Y si no se bajan, no era eso y no perdemos más tiempo.
+
+—Ya.
+
+—Es una prueba.
+
+—Claro. Una prueba.
+
+No se movió. No abrió el cajón. Se quedó con la taza en la mano y los ojos en ella, y a la doctora le pasó por la cabeza que lo iba a tener que hacer sola, que Renée no iba a estirar la mano, y le pasó una rabia chiquita y detrás de la rabia otra cosa que no miró. Se inclinó. Con el teléfono en la mano, todavía boca arriba, con la pantalla prendida mostrándole cinco notificaciones apiladas y el nombre del grupo y el del marido, se inclinó por delante de las rodillas de Renée hasta la mesita, y la rodilla de Renée le quedó contra el brazo, tibia a través del punto del vestido, y Renée no la corrió. Abrió el cajoncito. Le costó, la madera se trabó a la mitad, y tuvo que tirar dos veces, y a la segunda se abrió del todo y le mostró el forro oscuro, que era terciopelo, y estaba vacío.
+
+Lo dio vuelta. Vio pasar su cara en el vidrio negro de atrás, la cara del tercer piso, el moño, y lo puso. Boca abajo sobre el terciopelo, con la mano abierta, y sacó la mano, y la mano se quedó un segundo en el aire sobre el cajón abierto sin saber a dónde ir.
+
+Renée lo cerró. Con la palma, sin ruido casi, un golpe blando de madera contra madera, y dejó la mano ahí encima.
+
+Clac.
+
+La vergüenza le llegó de inmediato. A las orejas, caliente, las dos orejas ardiéndole a la vez, y se enderezó en el sillón con el brazo todavía tibio donde había tenido la rodilla de Renée. *Lo puse yo. Con mi mano, en el cajón de una señora, y le dije que era una prueba.* Se lo dijo con esas palabras y la palabra prueba se le quedó pegada al paladar, y tragó, y la mandíbula crujió. Iba a decir cualquier cosa. Abrió la boca para decirla.
+
+—Mira tú —dijo Renée, antes—. La doctora haciendo un experimento en mi living. Con la variable y todo. —No se reía de ella. Tenía la boca mate quieta y la mano quieta sobre la madera del cajón, los dedos abiertos, y la voz más baja que antes—. No te lo voy a agradecer, ¿ya? Porque no lo hiciste por mí, lo hiciste para ver, y eso es tuyo. Y no te voy a decir nada de las orejas tampoco, aunque las tienes rojas rojas, pobrecita, se te ve desde acá. Ahora cuéntame del limón. ¿Desde cuándo no da?
+
+Y entonces el muslo esperó.
+
+Fue eso. El músculo de adentro de la pierna derecha, tenso, listo, apretado alrededor de un zumbido que no vino. Esperó con toda la pierna. Adentro del cajón el teléfono vibró una vez contra el terciopelo y la madera, ahogado, lejos, un ruido de otro departamento, y el muslo no recibió nada. Ni el vidrio, ni la vibración por el pantalón, nada. La mano derecha estaba abierta sobre el bolso sin nada debajo, y la palma sudada se le empezó a secar al aire, y el músculo, que llevaba años sin quedarse quieto, se quedó quieto.
+
+Se soltó hacia abajo. Se le fue soltando la pierna desde la ingle hasta la rodilla, la cara interna del muslo blanda contra el otro muslo, y las rodillas se le separaron apenas bajo el pantalón, y ella las juntó. Las juntó, y se le volvieron a separar solas cuando el teléfono zumbó otra vez adentro del cajón y no le llegó, y esta vez las dejó. Y los hombros no subieron. Los sintió no subir. Los sintió quedarse abajo, donde las manos de Renée los habían dejado, sin las manos.
+
+*No es nada. Es que me senté. Llevo doce horas parada y me senté.*
+
+La frase le sirvió para los hombros. Para las rodillas, que seguían separadas, y para la pierna blanda contra la otra pierna, y para lo que se le estaba juntando abajo, tibio, entre los muslos, sin apuro, no le sirvió, y ella no la reemplazó por otra. La dejó ahí, sin servir, y contestó lo del limón.
+
+—Desde que lo plantamos. Nunca ha dado.
+
+—Y lo riegas igual.
+
+—Lo riego igual.
+
+Renée se rio. Sacó la mano de encima del cajón, por fin, y la doctora le miró la mano irse de la madera, y le miró los dedos cerrarse alrededor de la taza, y se dio cuenta de que le estaba mirando las manos, y de que llevaba un rato mirándoselas, y no dejó de hacerlo.
+
+—Se te enfrió el té —dijo Renée—. Tómatelo igual, si quieres. Frío también sirve. —Y volvió al limón, a que había que podarlo, a que los limones son mañosos y hay que hablarles, y la doctora tomó la taza con las dos manos, fría, y se la llevó a la boca, y por encima del borde le miró la boca mate diciendo que hay que hablarles, y adentro del cajón cerrado el teléfono zumbó contra el terciopelo por tercera vez, y ninguna de las dos bajó la vista.
