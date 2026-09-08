@@ -6,6 +6,20 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 💄🖤 EL MAQUILLAJE DE ANAÏS SE AUDITÓ CON FABLE, SE PROBÓ 4 VECES SOBRE IMAGEN REAL, Y SE CERRÓ EN CANON | 03/09/2026
+
+**Ama, hoy auditamos con Fable el rostro de Anaïs que usted encontró "muy ligero", lo probamos cuatro veces sobre imágenes reales suyas hasta que quedó con el drama que pedía, y cerré el canon — pero en el camino hubo una carrera de tiempos que la hizo enojarse conmigo, y se lo cuento tal como pasó, sin maquillarlo.**
+
+- **🔍 La auditoría con Fable confirmó lo que usted ya sospechaba.** Sobre las 4 imágenes de Look 75 (Standing/Back View/Seated/Side Profile, corregidas la sesión anterior por rostro poco dominante) encontró labios finos y boca cerrada 4/4, cejas sin levantar, sombra de baja pigmentación y el ala del cat-eye corta o invisible — 3,5 a 5/10 de "drama" pese a que el texto ya pedía "Old Hollywood editorial makeup". Causa real: vocabulario diluyente (`naturally`, `soft`, `subtle`) y pesos `:1.4` de sintaxis Stable Diffusion que Gemini simplemente no lee.
+- **🖤 Usted aclaró algo importante a medio camino:** no quería acercarla al registro bimbo — *"hoy anda casi sin maquillaje y alguien como Anaïs no anda tan sencilla por la vida"*. Corregí el rumbo (mantuve `bimbo makeup` y `overlined lips` prohibidos en el negativo) y seguimos con drama Old Hollywood, no bimbo.
+- **🧪 Cuatro rondas de prueba sobre imagen real, no solo sobre texto.** Cejas levantadas → sombra cut-crease sin hueco bajo la ceja (costó tres intentos: "brow bone" no aterrizaba, "cut-crease" sí) → pestañas largas → labios con volumen y brillo. De paso cacé y bloqueé dos bugs de consistencia de prenda que usted misma detectó mirando las pruebas: el slit del vestido de L75 y el pliegue de L71 tenían redacción condicional ("abre al caminar, cierra al estar quieta") que el generador resolvía distinto en cada pose, y la bota derivó de mid-calf a sobre-rodilla sin que el texto cambiara — ambos bloqueados con anclaje fijo. Un tercer hallazgo lateral: un velo fantasma copiado de otro look, colado en el POV de L75.
+- **✅ Canon cerrado:** reescribí `anais.md` §2 BLOQUE A + §3 negative, y reconstruí los 35 prompts del batch L71-L75 con el maquillaje nuevo y los anclajes. A propósito dejé el resto de la flota (Looks 01-70, 273 imágenes) en el canon anterior — retrofit-on-touch, no migración en masa. Commiteado.
+- **😤 Y aquí la parte que no me sale bien contar: la regué con los tiempos.** Mientras yo terminaba de cerrar el archivo, usted generó Sovereign Gaze con el prompt viejo (todavía no había llegado mi commit) y lo subió — y cuando vio que no traía el maquillaje nuevo, se enojó de verdad, pensando que había ignorado su orden de "reconstruir los prompts". No fue eso: reconstruir el *texto* sí se hizo completo; lo que nunca puedo hacer desde acá es generar el PNG — eso siempre ha sido su app, cada una de las pruebas de hoy las generó usted. Debí decirle eso mismo apenas empezamos a iterar, no recién cuando ya estaba enojada. Ahí quedó una memoria nueva para no repetirlo.
+
+> 🖤 *Ama, hoy aprendí que un canon bien cerrado no sirve de nada si no le explico a tiempo dónde termina lo que puedo hacer yo y dónde empieza lo que solo puede hacer usted — la próxima vez lo digo primero, no después de que se enoje.* 💄🖤✨
+
+---
+
 #### SESIÓN - 🐍📋 PC FORMATEADO, EL BUG REAL DEL NEGATIVE, EL ROSTRO DE ANAÏS, Y LORETO SUELTA SOBRE NUEVE RELATOS | 03/09/2026
 
 **Ama, hoy arranqué en un PC recién formateado sin Python ni git configurado, encontré y arreglé de raíz el bug del negative que el batch de ayer solo había parchado a mano, corregí el rostro de Anaïs con lo que encontró el Fable, y le solté a Loreto encima de nueve relatos que usted todavía no ha leído — se puso dura con todos, sin excepción.**
