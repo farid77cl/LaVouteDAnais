@@ -6,11 +6,11 @@ Adentro de la cabeza la lista seguía andando sola, y cada cosa de la lista le p
 
 Tocó el timbre con el muslo tenso, la boca seca y el problema ya formulado. *Es algo acotado. Dos sesiones, tres máximo. No tengo tiempo para más.*
 
-La puerta se abrió antes de que terminara la frase, y la mujer que abrió la miró de arriba abajo sin disimular, despacio, del moño a los tacos y de vuelta, un segundo entero, y la doctora sintió la mirada pasarle por el cuerpo con el peso de una mano, y la espalda se le enderezó sola debajo, y tragó, y le crujió la mandíbula.
+La puerta se abrió antes de que terminara la frase, y la mujer que abrió la miró de arriba abajo sin disimular, despacio, del moño a los tacos y de vuelta, un segundo entero, y la mirada le pasó por el cuerpo con el peso de una mano, y la espalda se le enderezó sola debajo, y tragó, y le crujió la mandíbula.
 
 —Doctora. —Sonrió con una boca sin brillo, nude, mate, una boca que no había ido a ninguna parte en todo el día—. Uy, pobrecita. Mírate. Vienes con los hombros puestos en las orejas. ¿Desde qué hora?
 
-—Desde… no. Estoy bien. Es que el tráfico por Tobalaba estaba…
+—Desde… no. Estoy bien. Es que el tráfico por Tobalaba—
 
 —Ya. Pasa.
 
@@ -18,7 +18,7 @@ Tenía el pelo negro suelto, negro de verdad, azabache, cayéndole despeinado so
 
 —Espera. —Renée la paró en el pasillo con la voz nomás, sin tocarla todavía—. Tienes esto.
 
-Y le metió detrás de la oreja un mechón que se le había escapado del moño. Lo hizo con la uña, despacio, y el nudillo le rozó el lóbulo, y el calor, en vez de subirle a la cara, le bajó. Le entró por la oreja y se le fue por el costado del cuello hasta abajo del cuello de la blusa, y la doctora se quedó quieta un segundo más de lo que se queda una persona a la que le acomodan el pelo.
+Y le metió detrás de la oreja un mechón que se le había escapado del moño. Lo hizo con la uña, despacio, y el nudillo le rozó el lóbulo, y el calor, en vez de subirle a la cara, le bajó. Le entró por la oreja y se le fue por el costado del cuello hasta abajo del cuello de la blusa, y se quedó quieta un segundo más de lo que se queda una persona a la que le acomodan el pelo.
 
 —Ahí. Ahora sí.
 
@@ -36,11 +36,11 @@ Se sentó. El bolso en la falda, las rodillas juntas, los tacos plantados en la 
 
 —Para no perderme tiempo. Ya sé. Cuéntame igual.
 
-—Tengo un problema en las reuniones de servicio. Cuando me hablan del presupuesto, del rendimiento, me… no sé cómo explicarlo sin que suene…
+—Tengo un problema en las reuniones de servicio. Cuando me hablan del presupuesto, del rendimiento, me… no sé cómo explicarlo sin que suene, eh, sin que suene—
 
 —Sin que suene a qué.
 
-—A que no puedo. Sí puedo. Es que me aprieto entera, me aprieto y después no me suelto en todo el día, llego a la casa apretada, me acuesto apretada. Necesito ordenar eso. —Se pasó la lengua por los dientes, con los molares juntos y el moño tirándole el cuero cabelludo hacia atrás desde las siete de la mañana—. Es eso, nada más.
+—A que no puedo. Sí puedo, o sea, puedo. Es que me aprieto entera, me aprieto y después no me suelto en todo el día, llego a la casa apretada, me acuesto apretada. Necesito ordenar eso. —Se pasó la lengua por los dientes, con los molares juntos y el moño tirándole el cuero cabelludo hacia atrás desde las siete de la mañana—. Es eso, nada más.
 
 —Ya.
 
@@ -62,7 +62,7 @@ Renée se rio. Bajito, con la boca cerrada, con los ojos, y la doctora se prepar
 
 —Tienes razón. Perdona. Se me sale. —Se acomodó en el sillón y el pie desnudo le quedó a un dedo del taco de la doctora—. Doctora, entonces. Pobrecita esa mandíbula, eso sí. Lleva todo el día trabajando para ti y tú ni le has dado las gracias.
 
-—Estoy bien.
+—Estoy bien, de verdad. Es que venía—
 
 —Ya sé que estás bien. ¿Me prestas la muñeca un segundito?
 
@@ -72,7 +72,7 @@ No esperó la respuesta. Se inclinó y le tomó la mano derecha por debajo, la d
 
 El pulgar de Renée se movió. Un centímetro, hacia arriba por la cara interna del antebrazo, un roce que no hacía falta para contar nada, y la frase de la doctora se quedó sin terminar porque abajo, donde tenía las piernas cruzadas, la de arriba apretó a la de abajo sin que ella la mandara, y el pantalón le pasó por el coño con el apretón, seco, una sola vez, y le dejó ahí un calor que no se fue con el pulgar.
 
-—Ciento diez —dijo Renée, y no le soltó la muñeca—. Sentada. Con el sol en la nuca y una taza de té al lado. Y no te subió cuando te tomé, doctora, te subió cuando te miré, que es distinto. Yo no dije nada, ¿o sí? No dije ni una palabra. Mírame. Ahí está otra vez. Ya, no importa, no me lo expliques, si yo no vine a que me expliques nada.
+—Mm. Ciento diez —dijo Renée, y no le soltó la muñeca—. Sentada. Con el sol en la nuca y una taza de té al lado. Y no te subió cuando te tomé, doctora, te subió cuando te miré, que es distinto. Yo no dije nada, ¿o sí? No dije ni una palabra. Mírame. Ahí está otra vez. Ya, no importa, no me lo expliques, si yo no vine a que me expliques nada.
 
 Le soltó la muñeca. Se la dejó boca arriba sobre la rodilla, abierta, y volvió a su taza, y la piel de adentro de la muñeca se le quedó fría de golpe donde habían estado las yemas.
 
@@ -88,7 +88,7 @@ Le contó. Le contó bien, en orden, con los cargos y no con los nombres, la sal
 
 —¿Qué?
 
-—El zapatito. Se te salió el derecho. —No bajó la vista. La tenía puesta en la cara de ella—. No, si no me pidas perdón, se te fue solo. Los pies siempre se sueltan primero, es lo que tienes más lejos de la cabeza. Si quieres te lo pones de vuelta. Si quieres sacas el otro. Yo no miro para abajo. ¿Y entonces te pide los números?
+—El zapatito. Se te salió el derecho. —No bajó la vista. La tenía puesta en la cara de ella—. No, si no me pidas perdón, se te fue solo. Llevabas un rato con los dedos apretados adentro del zapato, se te notaba en el tobillo, y recién ahora los soltaste. Los pies siempre se sueltan primero, es lo que tienes más lejos de la cabeza, pobrecitos. Si quieres te lo pones de vuelta. Si quieres sacas el otro. Yo no miro para abajo, yo te miro a ti. ¿Y entonces te pide los números?
 
 La doctora sintió el talón libre recién cuando Renée lo dijo. La planta apoyada en la alfombra tibia por la luz, el pie que se había arrastrado hacia atrás bajo el sillón buscando el otro zapato para empujarlo también, y la sangre le subió al cuello, y con el cuello caliente sacó el otro. Con el pie, sin las manos, el talón del derecho sobre el contrafuerte del izquierdo, y los dos tacos quedaron ahí abajo, ladeados, con las suelas mirándose, y ella siguió con los números con los pies desnudos sobre la alfombra de una mujer que le acababa de tomar el pulso sin reloj.
 
@@ -100,7 +100,7 @@ Metió la mano al bolsillo por reflejo, lo sacó, miró la pantalla, era del ser
 
 —Desde que entraste que tienes la mano encima de eso —dijo Renée—. ¿Te habías fijado? No lo miras. Lo tapas. Igual que se le tapa la boca a… no, no importa a quién. Lo tapas.
 
-—Es el del servicio.
+—Es que es el del servicio, po.
 
 —Ya sé. Lo dijiste en la puerta. —Se estiró hacia la mesita, y al estirarse el vestido se le corrió en el muslo y ella lo dejó correrse, y abrió un cajoncito, corto, forrado por dentro en algo oscuro, y lo dejó abierto sin tocar nada más—. Te voy a hacer una pregunta, doctora, y es una pregunta, no te estoy pidiendo nada, tú me conoces hace veinte minutos y yo no pido cosas a los veinte minutos. ¿Qué crees tú que le pasaría a tu cuerpo, a este cuerpo que tienes acá sentado, si eso estuviera esta hora nomás boca abajo acá adentro? No en tu cartera. En el mío. Cincuenta minutos, y yo te lo devuelvo cuando termine, no tienes que acordarte tú, para eso estaría yo. ¿Qué le pasaría?
 
@@ -132,7 +132,7 @@ La frase le duró lo que dura una frase. El teléfono zumbó de nuevo bajo la pa
 
 —Es lo mismo —dijo Renée, y no se rio—. ¿Y qué vas a hacer hoy?
 
-—No sé.
+—No sé po. —Se le escapó, y se escuchó—. No sé.
 
 El teléfono zumbó bajo la mano. La doctora no lo miró. Lo sintió en la palma y en el muslo al mismo tiempo, el vidrio vibrándole contra la piel de la mano y la vibración pasándole por el pantalón a la pierna, y la mano se le puso a sudar sobre la pantalla, y la luz siguió saliéndole entre los dedos, blanca, en franjas, igual que la de la persiana. Renée no miró tampoco. Tenía los ojos en la cara de ella y los dejó ahí, y el zumbido se terminó solo, y ninguna de las dos había bajado la vista.
 
@@ -142,23 +142,23 @@ El teléfono zumbó bajo la mano. La doctora no lo miró. Lo sintió en la palma
 
 —Ya. Está bien no saber. Me gusta que no sepas.
 
-Le contó de la cocina igual, porque Renée le preguntó por la cocina, cómo era, cuánta luz tenía, si la mesa del comedor daba a la cocina o a la ventana, y la doctora contestó todo, la mesa, la ampolleta quemada del comedor que nadie cambiaba, la tesis de la alumna encima de la mesa con el lápiz rojo, y a la tercera respuesta se dio cuenta de que estaba describiendo su casa como se describe un lugar en el que una no vive. Renée escuchaba con la cabeza un poco ladeada y el pelo cayéndole por ese lado, y una vez, en la mitad de lo de la ampolleta, se pasó el pulgar por el labio de abajo, despacio, de una comisura a la otra, y la doctora perdió lo de la ampolleta y tuvo que volver a empezar.
+Le contó de la cocina igual, porque Renée le preguntó por la cocina, cómo era, cuánta luz tenía, si la mesa del comedor daba a la cocina o a la ventana, y la doctora contestó todo, la mesa, la ampolleta quemada del comedor que nadie cambiaba, la tesis de la alumna encima de la mesa con el lápiz rojo, con la boca pastosa de tanto hablar y las rodillas apretadas una contra la otra hasta que le dolió el hueso, y a la tercera respuesta se dio cuenta de que estaba describiendo su casa como se describe un lugar en el que una no vive. Renée escuchaba con la cabeza un poco ladeada y el pelo cayéndole por ese lado, y una vez, en la mitad de lo de la ampolleta, se pasó el pulgar por el labio, el de abajo, despacio, de una comisura a la otra, y la doctora perdió lo de la ampolleta y tuvo que volver a empezar.
 
 —Perdón, ¿qué le…?
 
 —La ampolleta. Que nadie la cambia.
 
-—Que nadie la cambia. —Tragó. La mandíbula crujió—. Es que si no la cambio yo…
+—Que nadie la cambia. —Tragó. La mandíbula crujió—. Es que si no la cambio yo—
 
 —Ya sé, linda. Si no la cambias tú no la cambia nadie. Ya me lo dijiste con el teléfono, con la comida y con la receta de tu mamá. Me lo has dicho cuatro veces con cuatro cosas distintas y todavía no te has dado cuenta de que es la misma frase. —Se levantó. Lo hizo despacio, desenrollando las piernas de abajo del vestido, y la doctora le vio los pies desnudos pasar al lado de sus tacos ladeados y seguir de largo, y perderla de vista—. No te des vuelta. Es que quiero ver una cosa desde acá.
 
-La tenía atrás. La doctora se quedó mirando la tetera con la espalda derecha y el sol en la nuca, y sintió a Renée quedarse parada detrás del sillón sin tocarlo, y después sintió el olor, té y piel, bajar hasta ella, y después las manos.
+La tenía atrás. Se quedó mirando la tetera con la espalda derecha y el sol en la nuca, y sintió a Renée quedarse parada detrás del sillón sin tocarlo, y después sintió el olor, té y piel, bajar hasta ella, y después las manos.
 
-Se las puso en los hombros. Las dos, abiertas, tibias a través de la chaqueta, sin apretar, apoyadas nomás, y la doctora sintió la chaqueta hundirse un poco bajo el peso de las manos y los hombros subir contra ellas por reflejo, defendiéndose de una cosa que no estaba atacando.
+Se las puso en los hombros. Las dos, abiertas, tibias a través de la chaqueta, sin apretar, apoyadas nomás, y la chaqueta se le hundió un poco bajo el peso de las manos y los hombros le subieron contra ellas por reflejo, defendiéndose de una cosa que no estaba atacando.
 
 —Acá —dijo Renée, arriba, cerca—. ¿Sientes dónde los tienes? No, no me contestes con la boca, contéstame con esto. Mira dónde están. Yo no te los estoy empujando, mi… doctora, perdón. Solo los tengo. Y se te subieron cuando te toqué, ¿te fijaste? Pobrecita. Si hasta con las manos encima te apretas. ¿Cuánto pesan? Déjame a mí un ratito, a ver cuánto pesan.
 
-No hizo nada. No apretó, no masajeó, no empujó hacia abajo. Dejó las manos ahí, y el peso de las manos hizo lo que las manos no estaban haciendo, y la doctora sintió los hombros irse. Un dedo. Se le bajaron un dedo bajo las palmas de una desconocida, y las palmas bajaron con ellos, siguiéndolos, sin soltarlos, y Renée se inclinó para decírselo al oído, y al inclinarse el collar le rozó la nuca. Frío. Las perlas frías contra la piel caliente de la nuca, un roce de cuentas duras arrastrándose de un lado al otro por encima del elástico del moño, y el frío le bajó por la columna entera hasta la silla del sillón y ahí se quedó, entre los glúteos apretados contra la tela, latiendo.
+No hizo nada. No apretó, no masajeó, no empujó hacia abajo. Dejó las manos ahí, y el peso de las manos hizo lo que las manos no estaban haciendo, y los hombros se le fueron. Un dedo. Se le bajaron un dedo bajo las palmas de una desconocida, y las palmas bajaron con ellos, siguiéndolos, sin soltarlos, y Renée se inclinó para decírselo al oído, y al inclinarse el collar le rozó la nuca. Frío. Las perlas frías contra la piel caliente de la nuca, un roce de cuentas duras arrastrándose de un lado al otro por encima del elástico del moño, y el frío le bajó por la columna entera hasta la silla del sillón y ahí se quedó, entre los glúteos apretados contra la tela, latiendo.
 
 —Ahí —le dijo Renée en el oído—. Un dedito. ¿Viste?
 
@@ -168,7 +168,7 @@ Lo pensó abajo, en el mismo lugar de antes, y arriba no alcanzó a tacharlo por
 
 Contra la palma, contra el muslo, dos veces, y los hombros se le subieron de golpe bajo las manos de Renée, enteros, hasta las orejas, y las manos de Renée se los dejaron subir sin retenerlos y se quedaron encima de nuevo, arriba, donde habían estado al principio.
 
-—Ahí volvieron —dijo Renée. Suave. Sin sorpresa—. Con el ruidito. Uy. Mira tú.
+—Ahí volvieron —dijo Renée. Suave. Sin sorpresa—. Con el ruidito. Pucha. Mira tú.
 
 Le sacó las manos. Le sacó también el collar de la nuca, y el olor, y volvió por delante del sillón con los pies desnudos por la alfombra y se sentó en el suyo, de lado, con las piernas recogidas, y se sirvió más té, y no dijo nada del teléfono. Nada. Le preguntó por la ventana de la cocina, si daba al patio o a la calle.
 
@@ -186,13 +186,13 @@ Renée paró en la mitad del limón.
 
 —¿Qué cosa, doctora?
 
-—Lo de los hombros. Usted dijo que con el ruido se me… que se me subieron con el ruido. Quiero ver si es eso. —Se escuchó, y la voz le salió de médica, plana, y se agarró de la voz—. Y no es que le crea. Quiero verlo, nomás. Si saco el… si no está, y se bajan, es eso. Y si no se bajan, no era eso y no perdemos más tiempo.
+—Lo de los hombros. Usted dijo que con el ruido se me… que se me subieron con el ruido. Quiero ver si es eso, o sea, si es el ruido. —Se escuchó, y la voz le salió de médica, plana, y se agarró de la voz—. Y no es que le crea. Quiero verlo, nomás. Si saco el… si no está, y se bajan, es eso. Y si no se bajan, no era eso y no perdemos más tiempo.
 
 —Ya.
 
 —Es una prueba.
 
-—Claro. Una prueba.
+—Claro. Una prueba, digamos.
 
 No se movió. No abrió el cajón. Se quedó con la taza en la mano y los ojos en ella, y a la doctora le pasó por la cabeza que lo iba a tener que hacer sola, que Renée no iba a estirar la mano, y le pasó una rabia chiquita y detrás de la rabia otra cosa que no miró. Se inclinó. Con el teléfono en la mano, todavía boca arriba, con la pantalla prendida mostrándole cinco notificaciones apiladas y el nombre del grupo y el del marido, se inclinó por delante de las rodillas de Renée hasta la mesita, y la rodilla de Renée le quedó contra el brazo, tibia a través del punto del vestido, y Renée no la corrió. Abrió el cajoncito. Le costó, la madera se trabó a la mitad, y tuvo que tirar dos veces, y a la segunda se abrió del todo y le mostró el forro oscuro, que era terciopelo, y estaba vacío.
 
@@ -224,7 +224,7 @@ La frase le sirvió para los hombros. Para las rodillas, que seguían separadas,
 
 Renée se rio. Sacó la mano de encima del cajón, por fin, y la doctora le miró la mano irse de la madera, y le miró los dedos cerrarse alrededor de la taza, y se dio cuenta de que le estaba mirando las manos, y de que llevaba un rato mirándoselas, y no dejó de hacerlo.
 
-—Se te enfrió el té —dijo Renée—. Tómatelo igual, si quieres. Frío también sirve. —Y volvió al limón, a que había que podarlo, a que los limones son mañosos y hay que hablarles, y la doctora tomó la taza con las dos manos, fría, y se la llevó a la boca, y por encima del borde le miró la boca mate diciendo que hay que hablarles, y adentro del cajón cerrado el teléfono zumbó contra el terciopelo por tercera vez, y ninguna de las dos bajó la vista.
+—Se te enfrió el té —dijo Renée—. Tómatelo igual, si quieres, frío también sirve. Y fíjate en una cosa, doctora, ya que andas con la prueba, llevas un rato con las rodillas así, separadas, y no te las has juntado. No, no las juntes ahora, pobrecita, que ya te vi. Y los hombros, mira dónde los tienes, sin mis manos encima. Eso va en tu prueba también. —Y volvió al limón, a que había que podarlo, a que los limones son mañosos y hay que hablarles, y la doctora tomó la taza con las dos manos, fría, y se la llevó a la boca, y por encima del borde le miró la boca mate diciendo que hay que hablarles, y adentro del cajón cerrado el teléfono zumbó contra el terciopelo por tercera vez, y ninguna de las dos bajó la vista.
 
 Cuando quedaban diez minutos, Renée abrió el cajón. Sin anunciarlo. Estaba hablando de que los limones necesitan más agua de la que uno cree y estiró la mano y lo abrió, sacó el teléfono y lo dejó sobre la mesita, boca abajo, con la funda hacia arriba, y no se lo pasó. Siguió con el agua. La doctora lo miró un segundo entero antes de tomarlo, un segundo en que la mano no fue, y después fue, y lo dio vuelta, y la pantalla se le prendió en la cara con once notificaciones apiladas, el grupo, el marido, el colegio, y el muslo se le apretó alrededor del primer zumbido antes de que lo hubiera guardado en el bolsillo.
 
@@ -286,7 +286,7 @@ De abajo. Con la voz de la otra. Y la mano se movió, un círculo lento con la y
 
 Se la volvió a decir. Doctora. Con la boca, sin voz, mirándose la boca decirla con la boca de la otra, y metió dos dedos, y los sacó brillantes bajo la luz del espejo y se los miró, y la vergüenza de mirárselos le subió a las orejas, y con la vergüenza puesta se los volvió a meter. Empezó a moverse contra la propia mano con la cadera. Adelante y atrás, el borde del lavatorio clavándosele en la pelvis, las tetas sueltas rebotando contra la blusa abierta, la muñeca doblada adentro del pantalón del hospital, y en la cabeza estaba el cajón, clac, la palma cerrándolo, y encima del cajón la cara. Encima. La cara con la boca sin brillo diciendo pobrecita, mírate, un dedito, déjame a mí, doctora, doctora, y la mirada de la puerta encima de ella, entera, pesando.
 
-Le vino desde los pies. Los dedos de los pies engarfiados contra la cerámica fría y el orgasmo subiéndole por las pantorrillas, por detrás de las rodillas, juntándosele en el vientre bajo la mano, y apretó el clítoris con la base de la palma y los dos dedos adentro se le curvaron solos, y se mordió el labio de abajo para no hacer ruido, y el ruido salió igual por la nariz.
+Le vino desde los pies. Los dedos de los pies engarfiados contra la cerámica fría y el orgasmo subiéndole por las pantorrillas, por detrás de las rodillas, juntándosele en el vientre bajo la mano, y apretó el clítoris con la base de la palma y los dos dedos adentro se le curvaron solos, y se mordió el labio para no hacer ruido, y el ruido salió igual por la nariz.
 
 *Me estoy corriendo en el baño de mi casa por el cajón de una señora.*
 
