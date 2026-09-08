@@ -367,3 +367,21 @@ generada con §10.1 puesto. Vale como calibración, no como opinión:
 > 🎯 **La conclusión que se lleva a los próximos relatos:** entre la tanda fría y esta no cambió el
 > estilo, ni la paleta, ni la pose. Cambió **que el prompt dijo qué cuerpo dibujar**. Es la línea de
 > mayor rendimiento de toda esta guía.
+
+### 10.3 🚫 Un brazo cruzado borra la figura declarada (08/09/2026)
+
+**Medido sobre las cinco imágenes de «La Piel que Diseñé» con §10.1 puesto.** Tres salieron con
+la proporción pin-up entera. Las dos que **no** —el despertar y la bailarina— tienen la misma
+firma: en el prompt la pose **cruza un brazo sobre el torso** (`ONE HAND IS PRESSED FLAT OVER HER
+OWN CHEST` · `both arms thrown up above her head`). Con el contorno tapado, el generador no dibuja
+la silueta declarada: **la declara y después la esconde**, y el cuerpo vuelve a la figura neutra.
+
+**No es que el BLOQUE PERSONAJE falle. Es que hay que dejarlo verse.** Se escribe así:
+
+> `THE WHOLE LINE OF HER FIGURE - chest, waist, hip - MUST READ CLEAR AGAINST THE BACKGROUND and
+> nothing may cross it or hide it` · y el brazo, si va, `held away from her body so it does not
+> cover her`.
+
+**Regla:** si la pose pone un brazo, una sábana o un objeto sobre el torso, o se corre a un lado, o
+se gira el cuerpo a **tres cuartos** para que el contorno quede contra el fondo. Una figura
+declarada y tapada es una figura no declarada.
