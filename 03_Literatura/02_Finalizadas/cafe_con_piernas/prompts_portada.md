@@ -31,147 +31,18 @@
 
 ---
 
-## 🧭 Portada vs. banner — qué se usa dónde
-
-| Formato | Cuántos | Dónde va |
-|---|---|---|
-| **Portada vertical** 512×800 (2:3) | **UNA por historia** | la tapa de la historia en Wattpad |
-| **Banner horizontal** 1280×720 (16:9) | **UNO por capítulo** | *header image* al inicio de cada parte |
-
-**Wattpad no tiene "portada de capítulo".** Las verticales de este archivo, si se generan, son formato Tumblr/RRSS o candidatas a portada de la historia. Lo que se sube a cada parte en Wattpad es el **banner horizontal**.
 
 ---
 
-## Prompt de portada (English — para Gemini)
-
-> **Formato:** 512 × 800 px · portrait vertical (2:3) · portada de novela adulta literaria. Título y autora renderizados en la imagen por el generador. Composición con focal claro al centro — debe leerse a 256 px de ancho (miniatura móvil Wattpad).
+> 🗑️ **Los prompts de imagen anteriores se eliminaron el 08/09/2026 por orden de la Ama:**
+> *«empieza desde cero con las imágenes de los post, si había algo antiguo, queda fuera».*
 >
-> **Identidad visual del relato:** neón magenta/violeta sobre metal cromado, penumbra de café-bar nocturno, pelo platinado, uñas fucsia. Tipografía de catálogo: serif dorada cálida, firma small-caps «ANAÏS BELLAND».
-
-### Portada general — el relato completo
-
-```
-Book cover, portrait vertical (2:3 ratio). Editorial book cover, sensual and atmospheric. A dive-bar café at night, deep violet-magenta neon glow reflecting off a brushed steel counter, dense shadow beyond the light pool.
-
-FIGURE: A glamorous woman stands behind a chrome bar counter, facing the camera, three-quarter angle, weight on one hip. SHE IS WEARING a fitted metallic silver halter top — worn on her body, closed, opaque, covering her chest completely from collarbone to underbust — and a short tight skirt in the same metallic fabric, both fully on her figure. Long platinum-blonde hair falls in heavy waves over one bare shoulder. Long fuchsia-pink acrylic nails catch the neon as one hand rests on the counter edge; the other holds a small espresso cup at chest height, offering it toward the viewer. Dark smoky eye makeup, glossy pale-pink lips slightly parted. Her posture is confident, unhurried, aware of being watched.
-
-COUNTER LINE: the steel counter crosses the frame at hip height, hiding everything below it from view — the composition is built so nothing below the counter needs to be shown.
-
-BACKGROUND: rows of blurred glass cups and a hissing espresso machine behind her; beyond, out-of-focus warm pinpoint lights suggesting a narrow gallery passage seen through a glass door.
-
-TYPOGRAPHY (rendered in image): At the top, elegant serif title in warm gold, high contrast against the dark violet background, legible at thumbnail size: "Café con Piernas". Immediately below, a thin horizontal gold accent rule. At the very bottom, small-caps lettering in warm gold: "ANAÏS BELLAND".
-
-Mood: neon-lit temptation, a woman entirely in command of the counter between her and the viewer. Photo-realistic, hyper-polished editorial, 8k.
-```
-
-**VARIANTE SIN TEXTO** — reemplazar el bloque TYPOGRAPHY por: `No text, no lettering, no title, no watermark anywhere in the image — every object label blank. Leave the top 20% as calm dark negative space for typography to be added later.`
-
----
-
-## 🎞️ BANNERS DE CAPÍTULO (1280 × 720 · generar en 16:9 · recortables a 1200 × 400)
-
-> Van como *header image* al inicio de cada parte en Wattpad. La escena se elige por su **forma horizontal**, no por su calor: la más caliente de cada capítulo casi nunca es publicable en imagen.
-
-### Capítulo 1 — Mi Primer Turno
-
-> Escena elegida: **el umbral** — ella llegando a la puerta de vidrio del local, la galería gris detrás, el neón violeta apenas visible adentro. Horizontal por naturaleza: afuera frío vs. adentro cálido, dividido por el vidrio.
-
-```
-Wide cinematic banner, horizontal 16:9, letterbox composition. Cinematic editorial chapter header. A narrow shopping gallery in downtown Santiago, overcast daylight, cold grey stone.
-
-LEFT THIRD, COLD LIGHT: A young woman in a plain grey business suit and low block heels stands with her back partly to camera, one hand raised toward a tinted glass door, hesitating. Conservative low bun, minimal makeup, a leather bag held close to her body.
-
-CENTER: the tinted glass door itself, reflecting the cold gallery light on its surface while, through it, a warm violet-magenta glow bleeds from inside — the two worlds meeting exactly at the glass.
-
-RIGHT THIRD, WARM NEON LIGHT (glimpsed through the glass, slightly soft-focus): the blurred silhouette of a chrome bar counter and rows of glasses under violet neon, no figures distinguishable, just warmth and glow.
-
-TYPOGRAPHY (rendered in image, upper left over the cold stone wall, left-aligned, stacked): elegant serif in deep gold, one line: "Café con Piernas". A thin warm-gold rule immediately below it. Under the rule, smaller italic in warm cream: "Capítulo 1 · Mi Primer Turno". Bottom left corner, tiny small-caps in warm gold: "ANAÏS BELLAND".
-
-COMPOSITION NOTE: keep the woman, the door and all typography inside the central horizontal band; top and bottom 20% empty for a clean 3:1 crop.
-
-Photo-realistic, cinematic, cold-to-warm color grade, 8k.
-```
-
-**VARIANTE SIN TEXTO** — reemplazar TYPOGRAPHY por: `No text, no lettering, no title, no watermark anywhere in the image — every label blank. Keep the upper left stone wall dark and clean for typography to be added later.`
-
----
-
-### Capítulo 2 — Entrenada para Servir
-
-> Escena elegida: **el corredor de oficina** — ella caminando entre escritorios con una bandeja de café, la distancia entre lo que era y lo que empieza a ser mostrada en el contraste ropa formal / postura nueva. Horizontal por naturaleza: pasillo largo, perspectiva de fuga.
-
-```
-Wide cinematic banner, horizontal 16:9, letterbox composition. Cinematic editorial chapter header. A corporate office corridor, late afternoon, cool fluorescent light against warm window light at the far end.
-
-CENTER, WALKING AWAY FROM CAMERA IN PERSPECTIVE: a woman in a fitted grey pencil skirt suit and black stiletto pumps — worn on her body, fully buttoned blouse, closed and opaque — walks down the long corridor carrying a small tray with a single coffee cup. Her posture is subtly different from a typical office worker: back arched slightly more, steps placed heel-first and deliberate. Long acrylic nails visible on the hand steadying the tray. Her hair falls loose past her shoulders instead of tied back.
-
-BACKGROUND, BLURRED DESKS ON BOTH SIDES: silhouettes of office workers at desks, none looking up, heads down over monitors — the emptiness of nobody noticing.
-
-FAR END OF CORRIDOR: a glass boardroom door, warm interior light spilling out, blurred figures seated around a table barely visible through the glass.
-
-TYPOGRAPHY (rendered in image, upper right over the fluorescent ceiling band, right-aligned, stacked): elegant serif in deep gold, one line: "Café con Piernas". A thin warm-gold rule immediately below it. Under the rule, smaller italic in warm cream: "Capítulo 2 · Entrenada para Servir". Bottom right corner, tiny small-caps in warm gold: "ANAÏS BELLAND".
-
-COMPOSITION NOTE: keep the corridor, the figure and all typography inside the central horizontal band; top and bottom 20% empty ceiling/floor for a clean 3:1 crop.
-
-Photo-realistic, cinematic, cool-fluorescent-to-warm color grade, 8k.
-```
-
-**VARIANTE SIN TEXTO** — reemplazar TYPOGRAPHY por: `No text, no lettering, no title, no watermark anywhere in the image — every label blank. Keep the upper right ceiling band dark and clean for typography to be added later.`
-
----
-
-### Capítulo 3 — El Minuto Feliz
-
-> Escena elegida: **la tarima, a contraluz** — nada de piel expuesta: la silueta de Cupcake elevada sobre la plataforma, vista desde atrás de la fila de hombres, backlit por el neón violeta. La forma —una fila de espaldas mirando hacia una silueta elevada y luminosa— es horizontal por construcción y evita cualquier desnudez mostrando solo contorno a contraluz.
-
-```
-Wide cinematic banner, horizontal 16:9, letterbox composition. Cinematic editorial chapter header. Interior of a narrow neon-lit bar, deep violet light saturating the whole frame, dense atmospheric haze.
-
-FOREGROUND, ROW OF SILHOUETTES: a row of men's backs and shoulders in dark blazers, seen from behind as dark silhouettes along a chrome counter, all facing away from camera toward the same point in the distance — none of their faces visible.
-
-CENTER-BACKGROUND, RAISED PLATFORM: on a small raised platform beyond the counter, a single female silhouette stands elevated above the row of men, arms raised, back arched, fully backlit by intense violet neon so that only her outline — long hair, raised arms, curved silhouette — is visible against the light; no anatomical detail rendered, pure contour and glow, like a figure seen through frosted glass.
-
-ATMOSPHERE: neon haze, chrome reflections along the counter, a single shaft of magenta light cutting across the floor.
-
-TYPOGRAPHY (rendered in image, lower left over the darkest part of the frame, left-aligned, stacked): elegant serif in deep gold, one line: "Café con Piernas". A thin warm-gold rule immediately below it. Under the rule, smaller italic in warm cream: "Capítulo 3 · El Minuto Feliz". Bottom left corner, tiny small-caps in warm gold: "ANAÏS BELLAND".
-
-COMPOSITION NOTE: keep the row of silhouettes, the platform figure and all typography inside the central horizontal band; top and bottom 20% empty dark ceiling/floor for a clean 3:1 crop.
-
-Photo-realistic, cinematic, high-contrast neon color grade, silhouette and backlight only — no exposed anatomical detail, 8k.
-```
-
-**VARIANTE SIN TEXTO** — reemplazar TYPOGRAPHY por: `No text, no lettering, no title, no watermark anywhere in the image — every label blank. Keep the lower left darkest area clean for typography to be added later.`
-
----
-
-### Capítulo 4 — ¿Cuánto es?
-
-> Escena elegida: **el espejo del camarín, dos figuras** — Cupcake detrás, Felipe adelante mirándose al espejo con el top plateado nuevo puesto, ella con las manos en sus hombros. Horizontal por naturaleza: dos figuras + el espejo entre ellas, composición de traspaso sin ningún contacto explícito.
-
-```
-Wide cinematic banner, horizontal 16:9, letterbox composition. Cinematic editorial chapter header. A small backstage dressing room, warm bulb-lit mirror, worn wooden bench, faded posters at the edges of frame.
-
-CENTER: a large dressing-room mirror dominates the middle of the frame. In front of it sits a slender androgynous young man with shoulder-length hair, SEEN FROM BEHIND, looking at his own reflection. He is wearing a fitted metallic silver halter top — worn on his body, closed, opaque, covering his torso completely — the same fabric and cut established as the venue's uniform. A thin chain necklace catches the light.
-
-BEHIND HIM, HANDS ON HIS SHOULDERS: a glamorous platinum-blonde woman stands close behind, seen partly in profile, long fuchsia nails resting visibly on his shoulders, her own silver top matching his. She is not looking at the mirror — she is looking at him.
-
-THE MIRROR RETURNS BOTH THEIR FACES: his reflection shows a focused, adjusting expression; her reflection, angled beside his, shows quiet satisfaction. The mirror shows the two of them and nobody else.
-
-EDGES: left, a worn wooden bench with a scattered array of false eyelash cases and a small perfume bottle; right, a narrow doorway with the venue's violet neon glow bleeding in from the salon beyond.
-
-TYPOGRAPHY (rendered in image, upper right over the dark doorway edge, right-aligned, stacked): elegant serif in deep gold, one line: "Café con Piernas". A thin warm-gold rule immediately below it. Under the rule, smaller italic in warm cream: "Capitulo 4 - Cuanto es". Bottom right corner, tiny small-caps in warm gold: "ANAÏS BELLAND".
-
-COMPOSITION NOTE: keep the mirror, both figures and all typography inside the central horizontal band; top and bottom 20% empty for a clean 3:1 crop.
-
-Photo-realistic, cinematic, warm bulb-lit editorial color grade, 8k.
-```
-
-**VARIANTE SIN TEXTO** — reemplazar TYPOGRAPHY por: `No text, no lettering, no title, no watermark anywhere in the image — every label blank. Keep the upper right doorway edge dark and clean for typography to be added later.`
-
-> ⚠️ **Título renombrado 04/09/2026: «La Entrega» → «¿Cuánto es?».** El escenario del banner sigue siendo válido (es el cierre real de la v0.5 aprobada: Felipe en el espejo con el top plateado). **Recomendado usar la variante SIN TEXTO y componer la tipografía después:** el título nuevo lleva `¿` y `á`, y los acentos y signos de apertura se rompen al renderizarse (regla dura del kit). Si se renderiza igual, el prompt ya va sin acentos a propósito.
-
----
----
+> Eran del **05/09** y eran **fotorrealistas**, con el título quemado dentro de la imagen
+> (*«Photo-realistic, hyper-polished editorial, 8k»*). El **07/09** ella congeló el estilo
+> **cómic pop** como dueño único del look de las publicaciones, con **cero texto adentro** —
+> o sea aquellos prompts eran de antes de esa decisión y contradecían el estilo vigente.
+> No se archivan ni se conservan como variante: quedan fuera, que fue la orden.
+> Lo que vale hoy son los cinco de la sección **🎀 PROMPTS PARA TUMBLR**, más abajo.
 
 # 🏷️ TAGS PARA WATTPAD
 
@@ -208,3 +79,121 @@ anaisbelland
 ```
 
 25/25, cerrado con los dos tags de marca (`lavoutedanais` · `anaisbelland`) al final, como pide la doctrina.
+
+---
+
+# 🎀 PROMPTS PARA TUMBLR — cómic pop (08/09/2026)
+
+> **Los únicos prompts de imagen vivos de este relato.** Cinco, uno por post del blog: los cuatro
+> ganchos y el fijado. Siguen el
+> [estilo cómic pop](../../../01_Canon/Guias_Especializadas/estilo_comic_pop_v1.md), que es el
+> dueño único del look de las publicaciones.
+>
+> 🔒 El BLOQUE ESTILO va copiado **verbatim** al inicio de cada uno — así lo manda su dueño.
+> 📐 Todos en **4:5 vertical** (1080 × 1350), que es lo que se lee bien en el feed de Tumblr.
+> 🚫 Sin bloque negativo y **sin pesos `:1.4`**: acá son texto inerte y el filtro lee tokens.
+
+## 1 · Post fijado — la puerta del blog
+
+```
+1960s romance comic book illustration, vintage newsprint aesthetic, bold black ink
+outlines of even confident weight around every figure and object, flat cel-shaded
+colour with no gradients and no soft shading, visible Ben-Day halftone dot texture
+carried through the shadows and the background field, limited palette built on old
+gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
+ground, slight off-register print misalignment, clean single comic panel with a thin
+dark border, NO TEXT ANYWHERE, every label, sign, poster and garment surface
+completely blank
+
+Vertical comic panel, 4:5 portrait. A glamorous woman stands behind a chrome bar
+counter in a small night café, facing the viewer at a three-quarter angle, chin
+level, weight on one hip, one hand resting flat on the counter. SHE IS WEARING a
+fitted high-neck sleeveless top — worn on her body, closed, opaque — covering her
+torso completely from collarbone to hip. The steel counter crosses the frame at hip
+height and the composition is built so nothing below it is in view.
+
+BACKGROUND: a row of glass cups and an espresso machine behind her, rendered flat;
+beyond, a narrow gallery corridor suggested with halftone dots and simple ink shapes.
+
+MOOD: she is entirely in command of the counter between her and the viewer. Calm,
+frontal, inviting and unbothered.
+```
+
+## 2 · Gancho Cap 1 — «Mi Primer Turno»
+
+```
+[BLOQUE ESTILO verbatim, igual que arriba]
+
+Vertical comic panel, 4:5 portrait. A young woman in a smart wool coat stands on the
+cold side of a tinted glass door, one gloved hand raised to push it open, seen from
+slightly behind and to the side so the viewer shares her hesitation. SHE IS WEARING a
+belted knee-length wool coat — worn on her body, closed, opaque — covering her from
+throat to below the knee.
+
+CENTER: the tinted glass door fills the middle of the panel. On her side the light is
+cold and grey; through the glass a warm glow bleeds out from inside. The two worlds
+meet exactly at the glass.
+
+MOOD: the last second before deciding. Nothing has happened yet.
+```
+
+## 3 · Gancho Cap 2 — «Entrenada para Servir»
+
+```
+[BLOQUE ESTILO verbatim]
+
+Vertical comic panel, 4:5 portrait. A woman walks down the centre aisle of an open-plan
+office, seen from the front, spine straight, chin up, a small confident smile. SHE IS
+WEARING a tailored grey pencil skirt suit — worn on her body, closed, opaque — covering
+her from collarbone to just below the knee. Her nails are long, glossy and impossible
+to type with, and one hand is held where the viewer can see them.
+
+BACKGROUND, BOTH SIDES: flat silhouettes of office workers at desks, every head down
+over a monitor, not one looking up.
+
+MOOD: she is carrying a secret through a room where nobody notices anything.
+```
+
+## 4 · Gancho Cap 3 — «El Minuto Feliz»
+
+```
+[BLOQUE ESTILO verbatim]
+
+Vertical comic panel, 4:5 portrait. A woman stands raised on a low platform behind a
+long chrome counter, arms relaxed at her sides, looking out over the room with a flat
+unreadable expression. SHE IS WEARING a fitted sleeveless bodysuit — worn on her body,
+closed, opaque — covering her torso completely from collarbone to hip, with a wide
+belt at the waist. The counter crosses the frame at her hip and nothing below it is in
+view.
+
+FOREGROUND, LOWER EDGE: a row of dark seated silhouettes seen from behind, shoulders
+and heads only, all turned toward her — no faces, no detail, pure flat ink shapes.
+
+MOOD: a room full of watching and one woman deciding how much of it she allows.
+```
+
+## 5 · Gancho Cap 4 — «¿Cuánto es?»
+
+```
+[BLOQUE ESTILO verbatim]
+
+Vertical comic panel, 4:5 portrait. A large dressing-room mirror dominates the panel. A
+slender androgynous young person with shoulder-length hair sits in front of it SEEN
+FROM BEHIND, looking at their own reflection. The mirror reflects THAT SAME PERSON'S
+face — the same person, no one else in the glass. SHE OR HE IS WEARING a satin dressing
+robe — worn on the body, closed, belted, opaque — covering from shoulders to below the
+knee.
+
+EDGES: left, a worn wooden bench with scattered false-eyelash cases and a small perfume
+bottle; right, a narrow doorway with a warm glow bleeding in from the salon beyond.
+Only a pair of FOREARMS AND HANDS enters the frame from the right edge holding a
+lipstick — no face, no head, no torso, no second body.
+
+MOOD: the moment of looking at yourself and recognising someone new.
+```
+
+---
+
+> ✅ **Candados puestos, y cada uno tiene su cicatriz:** `GARMENT_DECLARED` en las cinco ·
+> `CAMERA_FIRST` (la cámara se gira, no se agregan adjetivos) · `SEGUNDO_CUERPO` en la 5 ·
+> espejo con reflejo declarado en la 5. Detalle: `estilo_comic_pop_v1.md` §3.
