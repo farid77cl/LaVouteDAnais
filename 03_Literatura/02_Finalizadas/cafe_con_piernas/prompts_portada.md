@@ -90,7 +90,8 @@ anaisbelland
 > [estilo cómic pop](../../../01_Canon/Guias_Especializadas/estilo_comic_pop_v1.md), que es el
 > dueño único del look de las publicaciones.
 >
-> 🔒 El BLOQUE ESTILO va copiado **verbatim** al inicio de cada uno — así lo manda su dueño.
+> ✅ **Cada prompt está COMPLETO.** Se copia el bloque entero de una vez y se pega. No hay que
+> armar nada ni juntar pedazos de dos prompts distintos.
 > 📐 Todos en **4:5 vertical** (1080 × 1350), que es lo que se lee bien en el feed de Tumblr.
 > 🚫 Sin bloque negativo y **sin pesos `:1.4`**: acá son texto inerte y el filtro lee tokens.
 
@@ -142,7 +143,14 @@ frontal, inviting and unbothered.
 📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen1_puerta.png`
 
 ```
-[BLOQUE ESTILO verbatim, igual que arriba]
+1960s romance comic book illustration, vintage newsprint aesthetic, bold black ink
+outlines of even confident weight around every figure and object, flat cel-shaded
+colour with no gradients and no soft shading, visible Ben-Day halftone dot texture
+carried through the shadows and the background field, limited palette built on old
+gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
+ground, slight off-register print misalignment, clean single comic panel with a thin
+dark border, NO TEXT ANYWHERE, every label, sign, poster and garment surface
+completely blank
 
 Vertical comic panel, 4:5 portrait. A young woman in a smart wool coat stands on the
 cold side of a tinted glass door, one gloved hand raised to push it open, seen from
@@ -162,7 +170,14 @@ MOOD: the last second before deciding. Nothing has happened yet.
 📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen2_pasillo.png`
 
 ```
-[BLOQUE ESTILO verbatim]
+1960s romance comic book illustration, vintage newsprint aesthetic, bold black ink
+outlines of even confident weight around every figure and object, flat cel-shaded
+colour with no gradients and no soft shading, visible Ben-Day halftone dot texture
+carried through the shadows and the background field, limited palette built on old
+gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
+ground, slight off-register print misalignment, clean single comic panel with a thin
+dark border, NO TEXT ANYWHERE, every label, sign, poster and garment surface
+completely blank
 
 Vertical comic panel, 4:5 portrait. A woman walks down the centre aisle of an open-plan
 office, seen from the front, spine straight, chin up, a small confident smile. SHE IS
@@ -181,7 +196,14 @@ MOOD: she is carrying a secret through a room where nobody notices anything.
 📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen3_plato.png`
 
 ```
-[BLOQUE ESTILO verbatim]
+1960s romance comic book illustration, vintage newsprint aesthetic, bold black ink
+outlines of even confident weight around every figure and object, flat cel-shaded
+colour with no gradients and no soft shading, visible Ben-Day halftone dot texture
+carried through the shadows and the background field, limited palette built on old
+gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
+ground, slight off-register print misalignment, clean single comic panel with a thin
+dark border, NO TEXT ANYWHERE, every label, sign, poster and garment surface
+completely blank
 
 Vertical comic panel, 4:5 portrait. A woman stands raised on a low platform behind a
 long chrome counter, arms relaxed at her sides, looking out over the room with a flat
@@ -201,7 +223,14 @@ MOOD: a room full of watching and one woman deciding how much of it she allows.
 📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen4_espejo.png`
 
 ```
-[BLOQUE ESTILO verbatim]
+1960s romance comic book illustration, vintage newsprint aesthetic, bold black ink
+outlines of even confident weight around every figure and object, flat cel-shaded
+colour with no gradients and no soft shading, visible Ben-Day halftone dot texture
+carried through the shadows and the background field, limited palette built on old
+gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
+ground, slight off-register print misalignment, clean single comic panel with a thin
+dark border, NO TEXT ANYWHERE, every label, sign, poster and garment surface
+completely blank
 
 Vertical comic panel, 4:5 portrait. A large dressing-room mirror dominates the panel. A
 slender androgynous young person with shoulder-length hair sits in front of it SEEN

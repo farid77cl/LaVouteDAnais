@@ -159,3 +159,22 @@ carpeta de destino y se empuja.
 > la Ama en el chat**. No lo es: *la ruta en el chat no la ve la app*. Ella lo reportó de vuelta —
 > *"la app no tiene nada acá"*— y ahí se entendió que la carpeta no es documentación, es
 > **infraestructura**.
+
+### ✂️ Un prompt se copia de una vez, entero (Ama 08/09/2026)
+
+> *"cada prompt debe estar entero, no me hagas copiar una parte de uno y otra de otro, siempre lo
+> más sencillo para mí… soy bimbo en el pc, no entiendo nada, solo doy órdenes"*
+
+**Cada bloque de prompt que se le entrega a la Ama es autosuficiente: se copia completo y se pega.**
+Prohibido dejar marcadores del tipo `[BLOQUE ESTILO verbatim]`, `[igual que arriba]` o
+`[ver prompt 1]` — ensamblar no es trabajo suyo.
+
+Sí, el BLOQUE ESTILO queda repetido cinco veces en el archivo. **Eso es correcto y buscado:** la
+duplicación textual dentro de un mismo entregable es el precio de que ella no arme nada, y no choca
+con dueño-único — el dueño del estilo sigue siendo `estilo_comic_pop_v1.md`, y este archivo lo
+**copia al emitir**, igual que `PromptBuilder` copia el BLOQUE A del perfil en cada uno de los 7
+prompts de un look.
+
+**Regla general que esto instancia:** cuando la Ama ejecuta con sus manos, el entregable llega
+**listo**, sin pasos de armado, sin decisiones técnicas intermedias y con el nombre del archivo al
+lado. Hermana de la regla de paso a paso (`00-contexto-obligatorio.md` §🪜).
