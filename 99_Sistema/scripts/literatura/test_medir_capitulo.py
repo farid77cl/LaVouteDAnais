@@ -258,6 +258,89 @@ def test_render_muestra_la_firma_de_ia(tmp: Path):
           "FIRMA DE IA" in md and "cláusula" in md.lower(), md[-400:])
 
 
+# ────────────────────────────────────────────────────────────────────────────
+# T0 · Piso duro de temperatura (Ama 08/09/2026, desde la Mesa de La Voûte)
+#
+# Su decisión, literal: *"Sí, ponle piso — que frene bajo cierto porcentaje de
+# cuerpo en apertura y en el global. No mide si calienta, pero corta lo que va
+# por debajo del suelo."*
+#
+# Los umbrales NO son de criterio: salen de medir los 140 capítulos ≥1500
+# palabras del repo (08/09/2026). Ver `medir_capitulo.PISO_*` para la
+# calibración y para lo que el piso deliberadamente NO promete.
+# ────────────────────────────────────────────────────────────────────────────
+
+def test_piso_frena_el_capitulo_sin_cuerpo():
+    # 5,0% global: por debajo de TODO lo que la Ama aprobó (su mínimo publicado es 9,0).
+    duros = M.t0_piso_temperatura(global_share=5.0, apertura=30.0)
+    check("T0 piso global: 5,0% de narración con cuerpo es duro",
+          any("T0" in d and "global" in d for d in duros), str(duros))
+    # Y el mínimo publicado NO cae: el piso pasa por debajo, no por encima.
+    check("T0 piso global: 9,0% (mínimo publicado) no es duro",
+          not M.t0_piso_temperatura(global_share=9.0, apertura=30.0), "")
+
+
+def test_piso_frena_la_apertura_muerta():
+    duros = M.t0_piso_temperatura(global_share=30.0, apertura=0.0)
+    check("T0 piso apertura: 0% de cuerpo en las primeras 500 palabras es duro",
+          any("T0" in d and "apertura" in d for d in duros), str(duros))
+
+
+def test_piso_deja_pasar_el_capitulo_real_que_la_ama_va_a_leer():
+    # «Hora Pedida» Cap 1 v0.2, medido el 08/09/2026: global 25,8 · apertura 25,8.
+    duros = M.t0_piso_temperatura(global_share=25.8, apertura=25.8)
+    check("T0 no frena el v0.2 aprobado por Loreto y el Validador", not duros, str(duros))
+
+
+def test_piso_deja_pasar_el_capitulo_mas_frio_que_la_ama_publico():
+    # El más frío de prosa real en 02_Finalizadas (08/09/2026): global 9,0 · apertura 2,6
+    # («la_app_la_bimboficacion_de_mi_novio», capítulo 3). Un piso que reprueba lo que ella ya
+    # publicó es un linter que enseña a ignorarlo. Esta prueba es la que fija el techo del piso.
+    duros = M.t0_piso_temperatura(global_share=9.0, apertura=2.6)
+    check("T0 no reprueba prosa que la Ama ya aprobó y publicó", not duros, str(duros))
+    duros = M.t0_piso_temperatura(global_share=11.5, apertura=6.0)
+    check("T0 tampoco reprueba el segundo más frío publicado (11,5 / 6,0)", not duros, str(duros))
+
+
+def test_piso_si_caza_el_peor_borrador_del_repo():
+    # `el_podcast` cap 1 v0.1 (08/09/2026): 1,8 global · 0,0 apertura. Es el vacío real.
+    duros = M.t0_piso_temperatura(global_share=1.8, apertura=0.0)
+    check("T0 caza el vacío real: los dos pisos disparan", len(duros) == 2, str(duros))
+
+
+def test_piso_no_se_confunde_con_el_aviso_de_apertura():
+    # El aviso T8 vive en 40%, sobre la MEDIANA de 25,0 de los 140 capítulos:
+    # avisa en la mayoría. El piso es otra cosa y va mucho más abajo.
+    duros = M.t0_piso_temperatura(global_share=27.7, apertura=25.0)
+    check("T0 el piso no hereda el umbral del aviso T8 (40%)", not duros, str(duros))
+
+
+def test_medir_marca_duro_el_capitulo_frio(tmp: Path):
+    cap = tmp / "frio.md"
+    cap.write_text("\n\n".join([
+        "La reunión terminó a las once y el informe quedó sobre el escritorio.",
+        "Firmó el acta, archivó la carpeta y revisó el calendario del trimestre.",
+        "El presupuesto se aprobaría en la sesión siguiente, según el reglamento.",
+        "Anotó la fecha, cerró el cuaderno y apagó la lámpara del escritorio.",
+    ] * 8), encoding="utf-8")
+    r = M.medir(cap, [], 120, 300)
+    check("medir(): un capítulo sin un solo cuerpo cae en duro por T0",
+          any(d.startswith("T0") for d in r["duros"]), str(r["duros"]))
+
+
+def test_medir_no_marca_duro_por_t0_el_capitulo_con_cuerpo(tmp: Path):
+    cap = tmp / "con_cuerpo.md"
+    cap.write_text("\n\n".join([
+        "Le puso la mano en el muslo y sintió la piel caliente bajo la media.",
+        "La boca se le abrió sola y el pezón se le marcó contra la seda.",
+        "Los dedos le subieron por la cadera y ella apretó los muslos.",
+        "El aliento le quedó en el cuello y las tetas le temblaron.",
+    ] * 8), encoding="utf-8")
+    r = M.medir(cap, [], 120, 300)
+    check("medir(): con cuerpo en toda la prosa, T0 no aparece en duros",
+          not any(d.startswith("T0") for d in r["duros"]), str(r["duros"]))
+
+
 def main() -> int:
     import tempfile
     print("🧪 Loreto — pruebas de las medidas de firma de IA (M13-M17)\n")
@@ -277,9 +360,17 @@ def main() -> int:
     test_m16_no_marca_la_excitacion_dentro_de_la_escena()
     test_m17_marca_el_dialogo_demasiado_limpio()
     test_m17_no_marca_cuando_hay_muletilla_o_interrupcion()
+    test_piso_frena_el_capitulo_sin_cuerpo()
+    test_piso_frena_la_apertura_muerta()
+    test_piso_deja_pasar_el_capitulo_real_que_la_ama_va_a_leer()
+    test_piso_deja_pasar_el_capitulo_mas_frio_que_la_ama_publico()
+    test_piso_si_caza_el_peor_borrador_del_repo()
+    test_piso_no_se_confunde_con_el_aviso_de_apertura()
     with tempfile.TemporaryDirectory() as d:
         test_medir_expone_la_firma_de_ia(Path(d))
         test_render_muestra_la_firma_de_ia(Path(d))
+        test_medir_marca_duro_el_capitulo_frio(Path(d))
+        test_medir_no_marca_duro_por_t0_el_capitulo_con_cuerpo(Path(d))
     print()
     if FALLAS:
         print(f"❌ {len(FALLAS)} falla(s): " + " · ".join(FALLAS))

@@ -400,6 +400,51 @@ def m4_tramos_frios(sents: list[dict], umbral_palabras: int, duro_palabras: int)
     return out, round(share * 100, 1), round(dial_share * 100, 1)
 
 
+# ── T0 · Piso duro de temperatura (Ama 08/09/2026, decidido en la Mesa de La Voûte) ──
+#
+# Su orden, literal: *"Sí, ponle piso — que frene bajo cierto porcentaje de cuerpo en
+# apertura y en el global. No mide si calienta, pero corta lo que va por debajo del suelo."*
+#
+# CALIBRACIÓN (08/09/2026, 140 capítulos del repo con ≥1500 palabras, excluidos los
+# `prompts_portada.md` que no son prosa):
+#   global   → min 1,7 · p10 15,1 · p25 20,6 · MEDIANA 27,7 · p75 33,1 · max 56,6
+#   apertura → min 0,0 · p10  6,2 · p25 15,2 · MEDIANA 25,0 · p75 33,3 · max 57,1
+# El más frío de prosa real que la Ama YA APROBÓ y publicó va en 9,0 global / 2,6 apertura.
+# Por eso el piso queda DEBAJO de todo lo que ella aprobó: un linter que reprueba lo que la
+# dueña ya publicó enseña a ignorarlo, y esa lección este repo ya la pagó.
+#
+# ⚠️ LO QUE ESTE PISO NO PROMETE, y hay que decirlo porque el dato lo desmiente:
+# el cuerpo-por-frase NO sigue a la temperatura que ella siente. Medido el mismo día en
+# «Hora Pedida» Cap 1 — la v0.1 que ella llamó **tibia** puntúa 28,2 global / 34,6 apertura,
+# y la v0.2 que Loreto y el Validador aprobaron puntúa **25,8 / 25,8**: MENOS. Un umbral alto
+# habría aprobado la tibia y frenado la buena. Esto es un piso contra el vacío, no un termómetro.
+# La temperatura la siguen midiendo el Validador (T1/T2) y ella.
+# El piso queda DELIBERADAMENTE BAJO, y el número no es timidez: es el corpus de la Ama.
+# El capítulo de prosa más frío que ella aprobó y publicó («la_app_la_bimboficacion_de_mi_novio»
+# cap 3) va en 9,0 global y 2,6 apertura. Cualquier piso por encima de eso reprueba algo que
+# ella ya firmó. Se eligió 8,0 / 2,0 para pasar por debajo de TODO lo aprobado.
+# ⚠️ Consecuencia honesta, y está en su mesa como decisión abierta: así calibrado el piso solo
+# caza el vacío real (el peor borrador del repo va en 1,8 global / 0,0 apertura). Para que muerda
+# de verdad hay que subirlo, y subirlo significa reprobar capítulos que ella ya publicó. Esa
+# es decisión suya, no mía.
+PISO_GLOBAL = 8.0      # % de frases de narración con cuerpo en todo el capítulo
+PISO_APERTURA = 2.0    # % de frases de narración con cuerpo en las primeras 500 palabras
+
+
+def t0_piso_temperatura(global_share: float, apertura: float) -> list[str]:
+    """Hallazgos DUROS de piso. Devuelve [] si el capítulo pisa suelo firme."""
+    duros = []
+    if global_share < PISO_GLOBAL:
+        duros.append(
+            f"T0 piso global · solo {global_share}% de la narración nombra un cuerpo "
+            f"(piso {PISO_GLOBAL}%) — el capítulo pasa por debajo del suelo, no es que esté tibio")
+    if apertura < PISO_APERTURA:
+        duros.append(
+            f"T0 piso apertura · {apertura}% de cuerpo en las primeras 500 palabras "
+            f"(piso {PISO_APERTURA}%) — se abre sin nadie adentro")
+    return duros
+
+
 def m6_etiquetas(sents: list[dict]) -> list[dict]:
     out = []
     for s in sents:
@@ -778,6 +823,7 @@ def medir(path: Path, previos: list[Path], umbral_frio: int, duro_frio: int) -> 
         duros.append(f"M6 · {len(etiq)} etiqueta(s) de tema en voz de narrador (H4 exige 0)")
     if lex["espana"]:
         duros.append(f"M3 · {len(lex['espana'])} término(s) de España")
+    duros += t0_piso_temperatura(hot_share, dist["apertura"])
     blandos = []
     if len(tics["h2"]) > 1:
         blandos.append(f"H2 «no era X, era Y» ×{len(tics['h2'])} (cupo 1)")
