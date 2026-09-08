@@ -115,27 +115,37 @@ anaisbelland
 📁 **Guardar como:** `05_Imagenes/portadas/portada_cafe_con_piernas.png`
 
 ```
-1960s romance comic book illustration, vintage newsprint aesthetic, bold black ink
-outlines of even confident weight around every figure and object, flat cel-shaded
-colour with no gradients and no soft shading, visible Ben-Day halftone dot texture
-carried through the shadows and the background field, limited palette built on old
-gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
-ground, slight off-register print misalignment, clean single comic panel with a thin
-dark border, NO TEXT ANYWHERE, every label, sign, poster and garment surface
-completely blank
+1960s romance comic book illustration, vintage pin-up sensibility, vintage newsprint
+aesthetic, bold black ink outlines of even confident weight around every figure and
+object, flat cel-shaded colour with no gradients and no soft shading, visible Ben-Day
+halftone dot texture carried through the shadows and the background field, limited
+palette built on old gold, antique bronze and dusty rose with deep burgundy accents
+over a warm ivory ground, slight off-register print misalignment, NO TEXT ANYWHERE,
+every label, sign, poster and garment surface completely blank, the comic panel FILLS
+THE WHOLE IMAGE edge to edge with only a thin dark border - no empty margin, no small
+panel floating inside a larger blank field
 
-Vertical comic panel, 4:5 portrait. A glamorous woman stands behind a chrome bar
-counter in a small night café, facing the viewer at a three-quarter angle, chin
-level, weight on one hip, one hand resting flat on the counter. SHE IS WEARING a
-fitted high-neck sleeveless top — worn on her body, closed, opaque — covering her
-torso completely from collarbone to hip. The steel counter crosses the frame at hip
+Vertical comic panel, 4:5 portrait, glamorous and sensual. A glamorous woman leans into
+a chrome bar counter in a small night cafe, facing the viewer, her weight thrown hard
+onto one hip so the waist curves deep, the small of her back arched, shoulders drawn
+back. Her chin is lowered and her eyes are lifted to the viewer from under her lashes,
+lips full and slightly parted. One hand is spread flat on the counter taking her weight;
+the other is raised to the nape of her neck, lifting her hair off her shoulder.
+
+SHE IS WEARING a fitted high-neck sleeveless knit top - worn on her body, closed,
+opaque - covering her torso completely from collarbone to hip. The knit is pulled taut
+across the sculpted figure by the twist of her pose, and the arm openings are cut high
+and clean at the shoulder.
+
+FRAMING: the camera is slightly below her eye level, close enough that she fills the
+panel from thigh to just above the head. The steel counter crosses the frame at hip
 height and the composition is built so nothing below it is in view.
 
 BACKGROUND: a row of glass cups and an espresso machine behind her, rendered flat;
 beyond, a narrow gallery corridor suggested with halftone dots and simple ink shapes.
 
-MOOD: she is entirely in command of the counter between her and the viewer. Calm,
-frontal, inviting and unbothered.
+MOOD: alluring and entirely in command of the counter between her and the viewer. She
+knows exactly how she is being looked at and she is not moving.
 ```
 
 ## 2 · Gancho Cap 1 — «Mi Primer Turno»
@@ -143,26 +153,36 @@ frontal, inviting and unbothered.
 📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen1_puerta.png`
 
 ```
-1960s romance comic book illustration, vintage newsprint aesthetic, bold black ink
-outlines of even confident weight around every figure and object, flat cel-shaded
-colour with no gradients and no soft shading, visible Ben-Day halftone dot texture
-carried through the shadows and the background field, limited palette built on old
-gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
-ground, slight off-register print misalignment, clean single comic panel with a thin
-dark border, NO TEXT ANYWHERE, every label, sign, poster and garment surface
-completely blank
+1960s romance comic book illustration, vintage pin-up sensibility, vintage newsprint
+aesthetic, bold black ink outlines of even confident weight around every figure and
+object, flat cel-shaded colour with no gradients and no soft shading, visible Ben-Day
+halftone dot texture carried through the shadows and the background field, limited
+palette built on old gold, antique bronze and dusty rose with deep burgundy accents
+over a warm ivory ground, slight off-register print misalignment, NO TEXT ANYWHERE,
+every label, sign, poster and garment surface completely blank, the comic panel FILLS
+THE WHOLE IMAGE edge to edge with only a thin dark border - no empty margin, no small
+panel floating inside a larger blank field
 
-Vertical comic panel, 4:5 portrait. A young woman in a smart wool coat stands on the
-cold side of a tinted glass door, one gloved hand raised to push it open, seen from
-slightly behind and to the side so the viewer shares her hesitation. SHE IS WEARING a
-belted knee-length wool coat — worn on her body, closed, opaque — covering her from
-throat to below the knee.
+Vertical comic panel, 4:5 portrait, glamorous and sensual. A young woman stands on the
+cold side of a tinted glass door, seen FROM BEHIND, one gloved hand raised flat against
+the glass to push it open. Her weight is on one leg with the hip pushed out to that
+side, the small of her back arched, and she is looking BACK OVER HER SHOULDER toward
+the viewer - chin low, eyes lifted, lips parted. The heel of her rear foot has slipped
+free of its shoe and hangs, the shoe held on by the toes.
 
-CENTER: the tinted glass door fills the middle of the panel. On her side the light is
-cold and grey; through the glass a warm glow bleeds out from inside. The two worlds
-meet exactly at the glass.
+SHE IS WEARING a belted knee-length wool coat - worn on her body, closed, opaque -
+covering her from throat to below the knee. The belt is cinched hard at the waist so
+the coat pulls in tight and flares over the hip, and a seamed stocking runs up the calf
+below the hem.
 
-MOOD: the last second before deciding. Nothing has happened yet.
+FRAMING: the camera is at hip height and close. She and the door FILL the panel from
+edge to edge - the glass takes the left half, her body the right, nothing empty around
+them.
+
+CENTER: the tinted glass door. On her side the light is cold and grey; through the glass
+a warm glow bleeds out from inside, and her own reflection floats faintly on the surface.
+
+MOOD: the last second before deciding, and she already knows she is going in.
 ```
 
 ## 3 · Gancho Cap 2 — «Entrenada para Servir»
@@ -170,25 +190,36 @@ MOOD: the last second before deciding. Nothing has happened yet.
 📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen2_pasillo.png`
 
 ```
-1960s romance comic book illustration, vintage newsprint aesthetic, bold black ink
-outlines of even confident weight around every figure and object, flat cel-shaded
-colour with no gradients and no soft shading, visible Ben-Day halftone dot texture
-carried through the shadows and the background field, limited palette built on old
-gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
-ground, slight off-register print misalignment, clean single comic panel with a thin
-dark border, NO TEXT ANYWHERE, every label, sign, poster and garment surface
-completely blank
+1960s romance comic book illustration, vintage pin-up sensibility, vintage newsprint
+aesthetic, bold black ink outlines of even confident weight around every figure and
+object, flat cel-shaded colour with no gradients and no soft shading, visible Ben-Day
+halftone dot texture carried through the shadows and the background field, limited
+palette built on old gold, antique bronze and dusty rose with deep burgundy accents
+over a warm ivory ground, slight off-register print misalignment, NO TEXT ANYWHERE,
+every label, sign, poster and garment surface completely blank, the comic panel FILLS
+THE WHOLE IMAGE edge to edge with only a thin dark border - no empty margin, no small
+panel floating inside a larger blank field
 
-Vertical comic panel, 4:5 portrait. A woman walks down the centre aisle of an open-plan
-office, seen from the front, spine straight, chin up, a small confident smile. SHE IS
-WEARING a tailored grey pencil skirt suit — worn on her body, closed, opaque — covering
-her from collarbone to just below the knee. Her nails are long, glossy and impossible
-to type with, and one hand is held where the viewer can see them.
+Vertical comic panel, 4:5 portrait, glamorous and sensual. A woman walks straight down
+the centre aisle of an open-plan office toward the viewer, caught MID-STRIDE with one
+knee crossing in front of the other so the hips swing and the waist twists. Her chin is
+tipped down and her eyes are lifted to the viewer, one eyebrow slightly raised, a small
+knowing smile. One hand trails at her own hip, fingertips grazing the skirt; the other
+swings back, and her long glossy nails catch the light.
+
+SHE IS WEARING a tailored pencil skirt suit - worn on her body, closed, opaque -
+covering her from collarbone to just below the knee. The skirt is pulled taut over the
+thigh by the stride, the jacket nipped hard at the waist, and she is up on tall
+performance heels.
+
+FRAMING: the camera is low, near hip height, so her legs run long up the panel and she
+FILLS it from edge to edge, head near the top.
 
 BACKGROUND, BOTH SIDES: flat silhouettes of office workers at desks, every head down
 over a monitor, not one looking up.
 
-MOOD: she is carrying a secret through a room where nobody notices anything.
+MOOD: she is carrying a secret through a room where nobody notices anything, and the
+only person she is letting in on it is the viewer.
 ```
 
 ## 4 · Gancho Cap 3 — «El Minuto Feliz»
@@ -196,26 +227,36 @@ MOOD: she is carrying a secret through a room where nobody notices anything.
 📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen3_plato.png`
 
 ```
-1960s romance comic book illustration, vintage newsprint aesthetic, bold black ink
-outlines of even confident weight around every figure and object, flat cel-shaded
-colour with no gradients and no soft shading, visible Ben-Day halftone dot texture
-carried through the shadows and the background field, limited palette built on old
-gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
-ground, slight off-register print misalignment, clean single comic panel with a thin
-dark border, NO TEXT ANYWHERE, every label, sign, poster and garment surface
-completely blank
+1960s romance comic book illustration, vintage pin-up sensibility, vintage newsprint
+aesthetic, bold black ink outlines of even confident weight around every figure and
+object, flat cel-shaded colour with no gradients and no soft shading, visible Ben-Day
+halftone dot texture carried through the shadows and the background field, limited
+palette built on old gold, antique bronze and dusty rose with deep burgundy accents
+over a warm ivory ground, slight off-register print misalignment, NO TEXT ANYWHERE,
+every label, sign, poster and garment surface completely blank, the comic panel FILLS
+THE WHOLE IMAGE edge to edge with only a thin dark border - no empty margin, no small
+panel floating inside a larger blank field
 
-Vertical comic panel, 4:5 portrait. A woman stands raised on a low platform behind a
-long chrome counter, arms relaxed at her sides, looking out over the room with a flat
-unreadable expression. SHE IS WEARING a fitted sleeveless bodysuit — worn on her body,
-closed, opaque — covering her torso completely from collarbone to hip, with a wide
-belt at the waist. The counter crosses the frame at her hip and nothing below it is in
-view.
+Vertical comic panel, 4:5 portrait, glamorous and sensual. A woman stands raised on a
+low platform behind a long chrome counter, hip thrown far to one side, the small of her
+back arched, shoulders rolled back. One hand is buried in her own hair at the crown,
+elbow high; the other rests on the counter edge. Her chin is lowered, her eyes are on
+the viewer from under her lashes, her lips parted.
+
+SHE IS WEARING a fitted sleeveless bodysuit - worn on her body, closed, opaque -
+covering her torso completely from collarbone to hip, with a wide belt cinched at the
+waist. The fabric is pulled tight by the twist of the pose.
+
+FRAMING - READ THIS FIRST: the long chrome counter runs across the panel AT THE LEVEL
+OF HER HIPS, a solid unbroken bar of chrome, and it hides everything below her waist
+completely. Her legs are NOT in the picture. The camera is below her, looking up from
+the level of the counter, so she rises above it.
 
 FOREGROUND, LOWER EDGE: a row of dark seated silhouettes seen from behind, shoulders
-and heads only, all turned toward her — no faces, no detail, pure flat ink shapes.
+and heads only, all turned toward her - no faces, no detail, pure flat ink shapes.
 
-MOOD: a room full of watching and one woman deciding how much of it she allows.
+MOOD: a room full of watching, and one woman who decides exactly how much of it she
+allows.
 ```
 
 ## 5 · Gancho Cap 4 — «¿Cuánto es?»
@@ -223,32 +264,42 @@ MOOD: a room full of watching and one woman deciding how much of it she allows.
 📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen4_espejo.png`
 
 ```
-1960s romance comic book illustration, vintage newsprint aesthetic, bold black ink
-outlines of even confident weight around every figure and object, flat cel-shaded
-colour with no gradients and no soft shading, visible Ben-Day halftone dot texture
-carried through the shadows and the background field, limited palette built on old
-gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
-ground, slight off-register print misalignment, clean single comic panel with a thin
-dark border, NO TEXT ANYWHERE, every label, sign, poster and garment surface
-completely blank
+1960s romance comic book illustration, vintage pin-up sensibility, vintage newsprint
+aesthetic, bold black ink outlines of even confident weight around every figure and
+object, flat cel-shaded colour with no gradients and no soft shading, visible Ben-Day
+halftone dot texture carried through the shadows and the background field, limited
+palette built on old gold, antique bronze and dusty rose with deep burgundy accents
+over a warm ivory ground, slight off-register print misalignment, NO TEXT ANYWHERE,
+every label, sign, poster and garment surface completely blank, the comic panel FILLS
+THE WHOLE IMAGE edge to edge with only a thin dark border - no empty margin, no small
+panel floating inside a larger blank field
 
-Vertical comic panel, 4:5 portrait. A large dressing-room mirror dominates the panel. A
-slender androgynous young person with shoulder-length hair sits in front of it SEEN
-FROM BEHIND, looking at their own reflection. The mirror reflects THAT SAME PERSON'S
-face — the same person, no one else in the glass. SHE OR HE IS WEARING a satin dressing
-robe — worn on the body, closed, belted, opaque — covering from shoulders to below the
-knee.
+Vertical comic panel, 4:5 portrait, glamorous and sensual. A large dressing-room mirror
+fills the panel. A slender androgynous young person with shoulder-length hair sits on a
+stool in front of it SEEN FROM BEHIND, spine curved, one shoulder dropped, head tilted,
+gazing at their own reflection. The mirror reflects THAT SAME PERSON, the same face, no
+one else in the glass - chin low, eyes lifted, lips parted in the beginning of
+recognition. One hand is raised to touch the reflection cheek in the glass.
+
+THE PERSON IS WEARING a satin dressing robe - worn on the body, closed, belted, opaque -
+covering from shoulders to below the knee. The satin has slipped down off one shoulder
+to the upper arm, and one leg is crossed out through the front of the robe, a tall heel
+dangling from the toes.
+
+FRAMING: the camera is close and slightly low; the mirror and both views of the person
+FILL the panel edge to edge.
 
 EDGES: left, a worn wooden bench with scattered false-eyelash cases and a small perfume
 bottle; right, a narrow doorway with a warm glow bleeding in from the salon beyond.
 Only a pair of FOREARMS AND HANDS enters the frame from the right edge holding a
-lipstick — no face, no head, no torso, no second body.
+lipstick - no face, no head, no torso, no second body.
 
-MOOD: the moment of looking at yourself and recognising someone new.
+MOOD: the moment of looking at yourself and wanting what you see.
 ```
 
 ---
 
-> ✅ **Candados puestos, y cada uno tiene su cicatriz:** `GARMENT_DECLARED` en las cinco ·
+> ✅ **Candados puestos, y cada uno tiene su cicatriz:** `GARMENT_DECLARED` en los cinco ·
 > `CAMERA_FIRST` (la cámara se gira, no se agregan adjetivos) · `SEGUNDO_CUERPO` en la 5 ·
-> espejo con reflejo declarado en la 5. Detalle: `estilo_comic_pop_v1.md` §3.
+> espejo con reflejo declarado en la 5 · **panel que llena el marco** en los cinco.
+> Detalle: `estilo_comic_pop_v1.md` §3.

@@ -128,3 +128,49 @@ Gemini no entrega 2:3 ni 3:1 — se pide el ratio cercano y se recorta.
 - `99_Sistema/specs/2026-09-07-ilustracion-relatos-design.md` §4.3 — anatomía del prompt
 - `99_Sistema/specs/2026-09-07-publicacion-tumblr-design.md` §6 — imágenes del blog
 - `<relato>/prompts_portada.md` — dueño de los prompts por relato; **copia** este bloque, no lo reescribe
+
+---
+
+## 6. 🔥 Los candados son anti-DESNUDO, no anti-CALOR (Ama 08/09/2026)
+
+> *"le falta sensualidad a las imágenes, si elegí ese estilo es para darle ese estilo antiguo
+> pinup, pero sensual… yo sé que hay filtros de seguridad, pero están bien fomes tus imágenes"*
+
+**El modo de falla, medido sobre las cuatro primeras imágenes del blog.** Los tres candados
+afirmativos (§3) existen para que la figura no salga desnuda y el prompt no rebote. Aplicados sin
+criterio producen mujeres **bien portadas**, que es otra cosa. Textual de esos prompts, escrito por
+la orquestadora: *«calm, frontal, inviting and unbothered»* · *«spine straight, chin up»* · *«arms
+relaxed at her sides, flat unreadable expression»*. Eso no es pin-up, es un catálogo de tienda.
+
+**La confusión que lo causa:** creer que *«no rebota»* y *«no calienta»* son el mismo eje. No lo
+son. Es el mismo error que el Validador nombra en prosa con T1/T2 — un capítulo puede ser impecable
+y frío, y una imagen también.
+
+**El pin-up de los 60 calienta SIN PIEL.** La carga vive en el cuerpo, no en lo que se destapa:
+
+| Palanca | Cómo se escribe |
+|---|---|
+| **Torsión** | `weight thrown hard onto one hip so the waist curves deep, the small of her back arched` |
+| **Mirada** | `her chin is lowered and her eyes are lifted to the viewer from under her lashes` |
+| **Boca** | `lips full and slightly parted` |
+| **Manos** | `one hand raised to the nape of her neck, lifting her hair off her shoulder` |
+| **Tela tensa** | `the knit is pulled taut across the sculpted figure by the twist of her pose` |
+| **Movimiento** | `caught MID-STRIDE with one knee crossing in front of the other so the hips swing` |
+| **El zapato** | `the heel has slipped free of its shoe and hangs, held on by the toes` |
+| **Cámara** | `the camera is low, near hip height, so her legs run long up the panel` |
+| **Medias** | `a seamed stocking runs up the calf below the hem` |
+
+**Todas pasan el filtro** — ninguna nombra piel ni usa el léxico vetado de §4. Y todas conviven con
+`GARMENT_DECLARED`: la prenda sigue puesta, cerrada y opaca. **La sensualidad no le quita ropa a la
+figura, le cambia la postura.**
+
+**Regla:** cada prompt de publicación declara **al menos tres** de esas palancas, y el bloque `MOOD`
+nunca puede leerse como *tranquila, correcta o indiferente*. Si el mood se puede describir con
+«compuesta», el prompt está frío y se reescribe antes de generar.
+
+### 6.1 🖼️ Y el panel tiene que llenar el marco
+
+Mismo día, defecto aparte: el prompt del Cap 1 salió como **una tira angosta flotando en el centro**
+con dos franjas de fondo vacío a los lados — en el feed se lee diminuta. Añadido al BLOQUE ESTILO:
+`the comic panel FILLS THE WHOLE IMAGE edge to edge with only a thin dark border — no empty margin,
+no small panel floating inside a larger blank field`.
