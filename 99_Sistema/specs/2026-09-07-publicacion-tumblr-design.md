@@ -490,3 +490,93 @@ No other person is in the frame — the tables and chairs are empty.
 | A3 | ✅ **CERRADA 07/09/2026 — ya estrenó.** La Ama: *«ya esta el cap 1 del cafe»*, publicado en el blog. El adaptador de §4.1 se escribe **contra ese post real**, no contra un envase teórico | — |
 | A4 | **Corriente B: ¿cuánto es «alta cadencia»?** El referente postea a diario hace 4 años | No, pero define la meta |
 | A5 | Los 63 lemas **hay que inventarlos en chileno, no traducirlos** (el análisis lo advierte). ¿Los escribe un subagente? | No |
+
+---
+
+# 🔬 ADENDA — lo que se midió el 08/09/2026, con el blog ya conectado
+
+*Todo lo de abajo está VERIFICADO contra la API o contra la pantalla real. Lo que no se pudo
+verificar se rotula como tal. Esta adenda deroga cualquier suposición previa del documento.*
+
+## 1. Las llaves y la línea base
+
+Las cuatro llaves de OAuth 1.0a están puestas y **funcionan**: la cuenta figura como **dueña** de
+`lavoutedeanais.tumblr.com`. Cliente nuevo: `99_Sistema/scripts/rrss/tumblr_api.py` (firma a mano,
+sin `requests_oauthlib` ni `dotenv`).
+
+**Línea base, 08/09/2026 10:00** — 0 seguidores · 1 post · descripción vacía. Rotulada como piso
+**NO virgen**: el Cap 1 de «Café con Piernas» ya estaba publicado. En
+`06_RRSS/metricas/linea_base_tumblr_20260908.md`.
+
+## 2. 🔴 Community Labels: por POST, y la API NO puede ponerlas
+
+El modelo de «blog para adultos» **ya no existe**. Tumblr usa **Community Labels** que se aplican
+**post por post**, con el botón `For Everyone` debajo del campo de tags. El blog se auto-clasifica
+como Mature si publica contenido maduro sin etiquetar — no hay interruptor de blog que activar.
+
+> ⚠️ **Corrección de una alarma falsa del 08/09:** se dijo que «a un blog +18 sin marcar se lo
+> pueden cerrar». **No es así.** Lo que ocurre es la auto-clasificación. El dato era una suposición
+> y se retira.
+
+**Y el límite duro que gobierna todo el diseño de publicación:** la **API v2 no puede establecer la
+community label al crear un post**. No existe el parámetro — es un issue abierto en la propia
+documentación de Tumblr (`tumblr/docs#125`). Un post +18 publicado por API sale **sin etiquetar**.
+
+**Decisión de la Ama (08/09, opción «C»):** el agente **solo crea borradores o programados**; ella
+etiqueta y publica. Por eso `tumblr_api.py` **no tiene función que publique** — es deliberado. Si
+Tumblr algún día agrega el parámetro, recién ahí se abre.
+
+## 3. ✅ Programar posts SÍ funciona — verificado en vivo
+
+`state: "queue"` + `publish_on` (ISO 8601) en `POST /v2/blog/{blog}/posts`. Probado creando un post
+fechado al `2027-01-15T20:00:00Z`, leído de vuelta con esa hora exacta, y borrado. **Esto habilita
+el calendario editorial**: el agente deja los posts programados, la Ama los etiqueta, y salen solos
+a su hora.
+
+## 4. 🎯 LA PREGUNTA DE LA MISIÓN, CONTESTADA: un post etiquetado SÍ aparece en la búsqueda
+
+Era el hueco que decidía el proyecto entero y llevaba días sin poder medirse, porque **no había ni
+un post etiquetado con qué probar**. Medido el 08/09 sobre el primer gancho publicado:
+
+| Tag | Dónde aparece |
+|---|---|
+| `corruption kink` | **1º en Latest**, por encima de `switchingdesires` |
+| `brainwashing` | **2º en Latest** |
+
+**El blog es descubrible con la etiqueta puesta.** El modelo de dos corrientes es viable.
+
+> 🐛 **Y una trampa de instrumento que costó un reporte equivocado.** El endpoint
+> **`GET /v2/tagged` NO refleja la búsqueda real de Tumblr**: devolvió 18-20 posts por tag y
+> **ninguno era el nuestro**, cuando en `tumblr.com/search/<tag>/recent` estaba primero. Se reportó
+> «no aparece» y era falso — lo desmintió un pantallazo de la Ama.
+> **Regla: para verificar descubribilidad, la fuente es `tumblr.com/search/<tag>/recent`, nunca
+> `/v2/tagged`.**
+
+## 5. 🚫 Dos tags del set recomendado están BLOQUEADOS en todo Tumblr
+
+`femsub` y `erotic fiction` devuelven la pantalla *«¡Frena! … no mostraremos nada aquí»* — Tumblr
+no muestra **ningún** contenido en esas búsquedas. Confirmado en pantalla, los dos.
+
+**Sirven** (medidos, con resultados reales): `corruption kink` · `bimbo training` · `dumbification`
+· `brainwashing`. **Ojo:** el set del §5.4 salió de un análisis del nicho y **no estaba verificado
+tag por tag**; hay que medir cada uno antes de usarlo.
+
+**Decisión de la Ama sobre el idioma (08/09):** los posts llevan **los dos juegos** — español para
+su universo, inglés para que la encuentren.
+
+## 6. ✅ El «By bdsmeros-cl» era un interruptor, no una mudanza
+
+`lavoutedeanais` es blog **secundario** de la cuenta `bdsmeros-cl`, y la firma del primario salía
+**en la búsqueda pública**, no solo en el blog. Se creyó que exigía cuenta nueva (correo nuevo,
+llaves nuevas, seguidores desde cero).
+
+**No.** Es el ajuste **«Show author portraits»**, en *Blog settings → Blog avatar*. Apagado el
+08/09 y **verificado por la Ama**: la firma desapareció de la búsqueda.
+
+> Sigue en pie lo otro: `bdsmeros-cl` es el blog **primario** y no se puede dar de baja sin borrar
+> la cuenta entera, que se llevaría `lavoutedeanais` con ella.
+
+## 7. Lo que se sigue haciendo A MANO, siempre
+
+Avatar · header · tema del blog *(sin endpoint, verificado 07/09)* · **la community label de cada
+post** *(§2)* · publicar.
