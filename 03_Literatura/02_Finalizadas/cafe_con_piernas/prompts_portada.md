@@ -137,10 +137,16 @@ fastened, opaque, high-shine - covering her torso completely from the collarbone
 hip, with a wide vinyl waist band at the bottom edge. She wears long gloss vinyl opera
 gloves to above the elbow and a slim chrome choker at the throat.
 
-FRAMING - READ THIS FIRST: the chrome counter runs across the panel AT THE LEVEL OF HER
-HIPS, a solid unbroken bar, and it hides everything below her waist completely. The
-camera sits just below her eye level, close, so she fills the panel from the counter to
-just above her head.
+COMPOSITION - THIS IS THE MOST IMPORTANT INSTRUCTION IN THE PROMPT: the chrome bar
+counter is IN THE FOREGROUND, between the woman and the viewer. It is a wide horizontal
+slab of pale chrome that runs flat across the panel from the left edge to the right edge,
+level and unbroken, at the height of her hips, and it is the closest object to the camera.
+SHE STANDS BEHIND IT, on the far side, the way a bartender stands behind a bar. Her body
+is cut off by the front edge of the counter at the waist: everything below her waist is
+hidden behind the chrome and is NOT in the picture - no hips, no thighs, no legs. The
+camera sits just below her eye level so the counter reads as a horizontal band across the
+lower third of the panel. She leans forward over it toward the viewer, and the hand
+taking her weight is spread flat on the counter top.
 
 BACKGROUND: a row of glass cups and an espresso machine behind her, rendered flat;
 beyond, a narrow gallery corridor of flat ink silhouettes and halftone dots, other

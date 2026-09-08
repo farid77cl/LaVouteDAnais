@@ -196,3 +196,28 @@ problema**, así que el rebote está en el delta.
 **Lo que sí está probado y sigue pasando**, porque las tres muñecas generan con esto a diario:
 `vinyl`, `patent`, `high-shine`, `corset belt`, `choker`, `opera gloves`, `platform`, `sculpted
 figure`, `glamorous`, `sensual`, `alluring`.
+
+### 3.1 🪞 Un objeto que tapa hay que ponerlo EN PRIMER PLANO, no describirlo
+
+**Cicatriz del 08/09/2026, dos veces el mismo día.** El prompt de portada decía *«the chrome counter
+runs across the panel AT THE LEVEL OF HER HIPS… it hides everything below her waist completely»*, y
+las dos veces el generador dibujó **la barra en diagonal, detrás de ella**, con la figura parada
+delante y las piernas enteras a la vista. La instrucción estaba, y no se cumplió.
+
+**Por qué falla:** decir *«tapa»* describe un **efecto**. El generador compone **objetos en el
+espacio**, no efectos. Si no se le dice **dónde está la cámara, dónde está el objeto y dónde está la
+figura**, coloca los tres como le acomoda a la ilustración.
+
+**Cómo se escribe para que sí ocurra** — se declara la **profundidad**, en este orden:
+
+1. **El objeto es lo más cercano a la cámara:** `the counter is IN THE FOREGROUND, between the woman
+   and the viewer… it is the closest object to the camera`
+2. **La figura está al otro lado:** `SHE STANDS BEHIND IT, on the far side, the way a bartender
+   stands behind a bar`
+3. **Dónde corta el cuerpo:** `her body is cut off by the front edge of the counter at the waist`
+4. **Qué NO está en la imagen:** `no hips, no thighs, no legs`
+5. **Qué forma tiene en el marco:** `a horizontal band across the lower third of the panel`
+
+> Es el mismo principio que `CAMERA_FIRST` (§3) llevado un paso más: **no basta con girar la cámara,
+> hay que decirle qué tiene delante.** Un objeto que tapa es un objeto de primer plano, y si no se
+> declara como tal, se va al fondo.
