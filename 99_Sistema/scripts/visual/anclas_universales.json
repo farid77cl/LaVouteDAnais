@@ -726,6 +726,29 @@
           "Sesión Literaria",
           "Ejecutivo de Poder"
         ]
+      },
+      "cuota_corseteria": {
+        "_dueno_unico": "02_Personajes/_perfiles_visuales/anais.md §8, fila «Corsé + tanga». Copia maquina-legible. Si se edita un lado, editar el otro.",
+        "_porque": "Ama 08/09/2026: 'de nuevo Anais con corset y tanga'. Medido: 5 de sus ultimos 10 looks eran corseteria (50%). La prosa NO estaba clonada -- el reclamo era volumen, no repeticion. Causa: la cuota decia '>=2 de cada 5', un PISO SIN TECHO, aplicado como meta sobre una ventana que ya traia 3. La regla existia y empujaba en una sola direccion.",
+        "_prefijos_arquitectura": [
+          "M4"
+        ],
+        "piso": {
+          "cada": 5,
+          "minimo": 1
+        },
+        "techo": [
+          {
+            "cada": 5,
+            "maximo": 2
+          },
+          {
+            "cada": 10,
+            "maximo": 3
+          }
+        ],
+        "desde_look": 91,
+        "_desde_look_porque": "L81-L90 ya estan escritos en la galeria. Retrofit-al-tocar: la banda rige hacia adelante, no se rehacen lotes viejos. El L90 SI se rediseña, pero por orden expresa de la Ama y porque esta 0/7."
       }
     }
   }

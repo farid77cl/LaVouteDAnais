@@ -450,6 +450,38 @@ check("categorias: la comparacion ignora acentos (las galerias vivas escriben 'V
       _plano("Noche / La Voute") == _plano("Noche / La Voûte"))
 check("categorias: un nombre inventado NO cuela por parecerse",
       _plano("Lencería Boudoir") not in {_plano(c) for c in _CFG["personajes"]["ele"]["categorias_validas"]["nombres"]})
+# BANDA DE CUOTA — piso Y techo (08/09/2026).
+# Ama: "de nuevo Anais con corset y tanga". Su §8 pedia corseteria ">=2 de cada
+# 5" — un PISO SIN TECHO — y aplicado sobre una ventana que ya traia 3 dio 5 de
+# cada 10 (50%). La prosa NO estaba clonada: se midio par por par y no habia un
+# solo rojo. El defecto era la forma de la regla, no la redaccion de los looks.
+from garment_canon import audit_banda_cuota                          # noqa: E402
+_BANDA = {"piso": {"cada": 5, "minimo": 1},
+          "techo": [{"cada": 5, "maximo": 2}, {"cada": 10, "maximo": 3}],
+          "desde_look": 91}
+def _sec(flags, desde=86):
+    return [(desde + i, f) for i, f in enumerate(flags)]
+_LOTE = set(range(91, 96))
+check("banda: 3 corseterias en 5 rompen el TECHO",
+      any("techo es 2" in m for m in
+          audit_banda_cuota(_sec([0,0,0,0,0, 1,1,1,0,0]), _BANDA, _LOTE)))
+check("banda: 0 corseterias en 5 rompen el PISO",
+      any("piso es 1" in m for m in
+          audit_banda_cuota(_sec([0,0,0,0,0, 0,0,0,0,0]), _BANDA, _LOTE)))
+check("banda: 2 en 5 (dentro de la banda) pasan limpio",
+      audit_banda_cuota(_sec([0,0,0,0,0, 1,0,1,0,0]), _BANDA, _LOTE) == [])
+check("banda: el techo de 10 caza lo que el de 5 deja pasar",
+      any("ultimos 10" in m for m in
+          audit_banda_cuota(_sec([1,1,0,0,0, 1,0,1,0,0]), _BANDA, _LOTE)))
+check("banda: solo se culpa a los looks DEL LOTE, no a la historia",
+      all(not m.startswith("L86") and not m.startswith("L87")
+          for m in audit_banda_cuota(_sec([1,1,1,1,1, 0,0,0,0,0]), _BANDA, _LOTE)))
+check("banda: un historico declarado no frena el lote",
+      audit_banda_cuota(_sec([0,0,0,0,0, 0,0,0,0,0]),
+                        dict(_BANDA, historicos_declarados=list(range(91, 96))), _LOTE) == [])
+check("banda: sin cuota declarada no hay banda",
+      audit_banda_cuota(_sec([0]*10), {}, _LOTE) == [])
+
 check("categorias: lint_galeria y el motor leen la MISMA lista (dueño unico)",
       __import__("lint_galeria").CATEGORIAS == set(_CFG["personajes"]["ele"]["categorias_validas"]["nombres"]))
 

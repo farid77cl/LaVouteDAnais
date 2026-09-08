@@ -73,7 +73,7 @@ sys.path.insert(0, AQUI)
 
 from color_canon import audit_rotacion_familia  # noqa: E402
 from footwear_canon import audit_footwear  # noqa: E402
-from garment_canon import racha_medias_detalle, audit_garment, audit_safe_filter, warn_safe_filter, warn_glove_nail_conflict, audit_clon_intra  # noqa: E402
+from garment_canon import racha_medias_detalle, audit_banda_cuota, audit_garment, audit_safe_filter, warn_safe_filter, warn_glove_nail_conflict, audit_clon_intra  # noqa: E402
 from lint_prompts_personaje import extraer_bloques_b, clasificar_arquitectura, plano as _plano  # noqa: E402
 from prompt_builder import PromptBuilder, cargar_config, slugify  # noqa: E402
 
@@ -481,6 +481,34 @@ def cmd_generar(args):
                     print("     %s" % d)
                 print("\n     Cubierta = M6-M10 (vestido · falda+top · pantalon · catsuit de")
                 print("     pierna completa · slip). La bata abierta NO paga: enmarca, no cubre.")
+                return 1
+
+        # ---- BANDA DE CORSETERIA (08/09/2026) ----
+        #
+        # Ama: "de nuevo Anais con corset y tanga". Medido ese dia: 5 de sus
+        # ultimos 10 looks eran corseteria (50%). La prosa NO estaba clonada --
+        # se midio par por par y no habia un solo rojo, las seis arquitecturas
+        # eran realmente distintas. El reclamo era VOLUMEN.
+        #
+        # La causa fue la redaccion de su propia cuota del §8: decia ">=2 de cada
+        # 5", un PISO SIN TECHO, y se aplico como meta sobre una ventana que ya
+        # traia 3. Piso + piso = 50%. Es el mismo defecto que ella misma arreglo
+        # el 05/09 poniendole techo propio a la familia firma de Miss Doll.
+        #
+        # Generico: que cuenta como corseteria lo dice el perfil en
+        # `_prefijos_arquitectura`, no este archivo. Un personaje sin
+        # `cuota_corseteria` declarada simplemente no tiene banda.
+        cb = pb.perfil.get("cuota_corseteria") or {}
+        if cb:
+            pref = tuple(cb.get("_prefijos_arquitectura") or ["M4"])
+            secu = [(n, bool(cod) and cod.startswith(pref)) for n, cod, _cu in clasif]
+            duros_b = audit_banda_cuota(secu, cb, nums_batch)
+            if duros_b:
+                print("\n  \U0001f534 BANDA DE CORSETERIA — el batch no se escribe:")
+                for d in duros_b:
+                    print("     %s" % d)
+                print("\n     La cuota es una BANDA, no un piso: el corse tiene que aparecer")
+                print("     seguido y NO puede volverse el default. Ama 08/09/2026.")
                 return 1
 
         # ---- ARQUITECTURA REPETIDA CONTRA EL LOTE ANTERIOR (07/09/2026) ----

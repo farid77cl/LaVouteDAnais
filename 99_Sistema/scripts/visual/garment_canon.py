@@ -466,6 +466,48 @@ def audit_clon_intra(looks, nuevos):
     return duros, avisos
 
 
+def audit_banda_cuota(secuencia, cfg, nums_batch):
+    """Banda (piso Y techo) de una cuota sobre ventanas rodantes. Lista vacia = limpia.
+
+    `secuencia` : [(numero_de_look, bool_cumple)] en orden, historia + batch.
+    `cfg`       : dict del perfil — {piso:{cada,minimo}, techo:[{cada,maximo}],
+                  desde_look, historicos_declarados}.
+    `nums_batch`: numeros que se estan por escribir (los unicos que se culpan).
+
+    Por que existe como funcion y no como bloque dentro de `outfit.py generar`
+    (08/09/2026): la primera version vivia inline y **no se pudo probar**. El
+    intento de verificarla end-to-end fabricando un lote con 3 corseterias
+    murio antes de llegar a ella, porque cinco looks identicos disparan primero
+    la rotacion de arquitectura. Una regla que solo se puede ejercitar armando
+    un batch valido entero es una regla que en la practica nadie prueba.
+
+    La cuota que la estreno: Ama 08/09/2026, "de nuevo Anais con corset y
+    tanga". Su §8 pedia corseteria ">=2 de cada 5" — un PISO SIN TECHO — y
+    aplicado sobre una ventana que ya traia 3 dio **5 de cada 10 (50%)**. Un
+    piso solo empuja hacia arriba; hace falta la banda.
+    """
+    hist = {int(x) for x in (cfg.get("historicos_declarados") or [])}
+    desde = cfg.get("desde_look", 0)
+    out = []
+    for i, (n, _ok) in enumerate(secuencia):
+        if n not in nums_batch or n < desde or n in hist:
+            continue
+        limites = [(lim.get("cada"), lim.get("maximo"), True) for lim in (cfg.get("techo") or [])]
+        piso = cfg.get("piso") or {}
+        if piso.get("cada"):
+            limites.append((piso["cada"], piso.get("minimo", 0), False))
+        for cada, valor, es_techo in limites:
+            if not cada or i + 1 < cada:
+                continue
+            vent = secuencia[i + 1 - cada:i + 1]
+            cuenta = sum(1 for _x, ok in vent if ok)
+            if (cuenta > valor) if es_techo else (cuenta < valor):
+                out.append("L%s: %d en los ultimos %d looks (L%s-L%s), el %s es %d"
+                           % (n, cuenta, cada, vent[0][0], vent[-1][0],
+                              "techo" if es_techo else "piso", valor))
+    return out
+
+
 def audit_negative(negative, tag=""):
     """Lintea el bloque Negative Prompt de UN look (Ama 13/07 — bug 'sin negative desde el L711':
     60 looks / 420 poses salieron con el negative vacio porque cada inyector lo tipeaba a mano y
