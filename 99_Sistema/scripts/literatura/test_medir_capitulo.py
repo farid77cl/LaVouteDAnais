@@ -271,13 +271,9 @@ def test_render_muestra_la_firma_de_ia(tmp: Path):
 # ────────────────────────────────────────────────────────────────────────────
 
 def test_piso_frena_el_capitulo_sin_cuerpo():
-    # 5,0% global: por debajo de TODO lo que la Ama aprobó (su mínimo publicado es 9,0).
     duros = M.t0_piso_temperatura(global_share=5.0, apertura=30.0)
     check("T0 piso global: 5,0% de narración con cuerpo es duro",
           any("T0" in d and "global" in d for d in duros), str(duros))
-    # Y el mínimo publicado NO cae: el piso pasa por debajo, no por encima.
-    check("T0 piso global: 9,0% (mínimo publicado) no es duro",
-          not M.t0_piso_temperatura(global_share=9.0, apertura=30.0), "")
 
 
 def test_piso_frena_la_apertura_muerta():
@@ -292,14 +288,26 @@ def test_piso_deja_pasar_el_capitulo_real_que_la_ama_va_a_leer():
     check("T0 no frena el v0.2 aprobado por Loreto y el Validador", not duros, str(duros))
 
 
-def test_piso_deja_pasar_el_capitulo_mas_frio_que_la_ama_publico():
-    # El más frío de prosa real en 02_Finalizadas (08/09/2026): global 9,0 · apertura 2,6
-    # («la_app_la_bimboficacion_de_mi_novio», capítulo 3). Un piso que reprueba lo que ella ya
-    # publicó es un linter que enseña a ignorarlo. Esta prueba es la que fija el techo del piso.
-    duros = M.t0_piso_temperatura(global_share=9.0, apertura=2.6)
-    check("T0 no reprueba prosa que la Ama ya aprobó y publicó", not duros, str(duros))
-    duros = M.t0_piso_temperatura(global_share=11.5, apertura=6.0)
-    check("T0 tampoco reprueba el segundo más frío publicado (11,5 / 6,0)", not duros, str(duros))
+def test_piso_reprueba_los_tres_publicados_que_la_ama_acepto_perder():
+    # 🔺 La Ama subió el piso a 12,0 el 08/09/2026 SABIENDO el costo: estos tres capítulos ya
+    # publicados quedan debajo. No se corrigen — Loreto solo corre sobre capítulos nuevos.
+    # Viven declarados en `medir_capitulo.PISO_HISTORICOS`. La prueba los fija para que el día
+    # que alguien vuelva a bajar el piso "porque reprueba cosas publicadas", esto se caiga y
+    # obligue a preguntárselo a ella otra vez.
+    for glob_, apert in M.PISO_HISTORICOS.values():
+        check(f"T0 reprueba el publicado {glob_} / {apert} (colateral aceptado por la Ama)",
+              any("global" in d for d in M.t0_piso_temperatura(glob_, apert)), "")
+    check("T0 los tres históricos están declarados por nombre", len(M.PISO_HISTORICOS) == 3,
+          str(list(M.PISO_HISTORICOS)))
+
+
+def test_piso_apertura_no_se_subio_sin_su_okey():
+    # Ella eligió sobre la escala GLOBAL. La apertura queda en 2,0: subirla a 5,0 habría botado
+    # dos publicados más que ella nunca vio en la tarjeta.
+    check("T0 apertura sigue en 2,0 hasta que ella decida", M.PISO_APERTURA == 2.0,
+          str(M.PISO_APERTURA))
+    check("T0 apertura 3,7 (La Dulce Aniquilación, publicada) no cae",
+          not any("apertura" in d for d in M.t0_piso_temperatura(30.0, 3.7)), "")
 
 
 def test_piso_si_caza_el_peor_borrador_del_repo():
@@ -363,7 +371,8 @@ def main() -> int:
     test_piso_frena_el_capitulo_sin_cuerpo()
     test_piso_frena_la_apertura_muerta()
     test_piso_deja_pasar_el_capitulo_real_que_la_ama_va_a_leer()
-    test_piso_deja_pasar_el_capitulo_mas_frio_que_la_ama_publico()
+    test_piso_reprueba_los_tres_publicados_que_la_ama_acepto_perder()
+    test_piso_apertura_no_se_subio_sin_su_okey()
     test_piso_si_caza_el_peor_borrador_del_repo()
     test_piso_no_se_confunde_con_el_aviso_de_apertura()
     with tempfile.TemporaryDirectory() as d:

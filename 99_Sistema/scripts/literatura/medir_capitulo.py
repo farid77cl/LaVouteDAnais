@@ -419,16 +419,31 @@ def m4_tramos_frios(sents: list[dict], umbral_palabras: int, duro_palabras: int)
 # y la v0.2 que Loreto y el Validador aprobaron puntúa **25,8 / 25,8**: MENOS. Un umbral alto
 # habría aprobado la tibia y frenado la buena. Esto es un piso contra el vacío, no un termómetro.
 # La temperatura la siguen midiendo el Validador (T1/T2) y ella.
-# El piso queda DELIBERADAMENTE BAJO, y el número no es timidez: es el corpus de la Ama.
-# El capítulo de prosa más frío que ella aprobó y publicó («la_app_la_bimboficacion_de_mi_novio»
-# cap 3) va en 9,0 global y 2,6 apertura. Cualquier piso por encima de eso reprueba algo que
-# ella ya firmó. Se eligió 8,0 / 2,0 para pasar por debajo de TODO lo aprobado.
-# ⚠️ Consecuencia honesta, y está en su mesa como decisión abierta: así calibrado el piso solo
-# caza el vacío real (el peor borrador del repo va en 1,8 global / 0,0 apertura). Para que muerda
-# de verdad hay que subirlo, y subirlo significa reprobar capítulos que ella ya publicó. Esa
-# es decisión suya, no mía.
-PISO_GLOBAL = 8.0      # % de frases de narración con cuerpo en todo el capítulo
+# 🔺 SUBIDO A 12,0 POR LA AMA el 08/09/2026, misma tarde, en la Mesa de La Voûte.
+# Nació en 8,0 (debajo de todo lo publicado, o sea un piso que casi no mordía). Se le presentaron
+# los tres escalones con su costo medido y eligió el del medio: *"Súbalo a 12"*.
+#
+# LO QUE ESE 12 CUESTA, y ella lo aprobó sabiéndolo — tres capítulos que YA publicó quedan
+# debajo del piso: `la_app_la_bimboficacion_de_mi_novio/capitulo_3_el_nivel` (9,0) ·
+# `treinta_dias_sombra_seda` (11,5) · `eres_de_los_hombres_que_II` (11,6). No se retrofitean ni
+# se corrigen: Loreto corre sobre capítulos NUEVOS en Fase 2.5 y nunca vuelve sobre lo publicado,
+# así que el costo es de calibración y no operativo. Quedan como HISTÓRICOS DECLARADOS abajo.
+#
+# La APERTURA se deja en 2,0 a propósito. Ella eligió sobre la escala global (8/12/15) y ese era
+# el número que traía el costo medido al lado. Subir también la apertura habría metido colateral
+# que ella no vio: a 5,0 caen dos publicados más (`capitulo_3_el_nivel` 2,6 y
+# `La_Dulce_Aniquilación` 3,7). Se mueve cuando lo decida ella, con su costo a la vista.
+PISO_GLOBAL = 12.0     # % de frases de narración con cuerpo en todo el capítulo
 PISO_APERTURA = 2.0    # % de frases de narración con cuerpo en las primeras 500 palabras
+
+# Capítulos ya publicados que quedan bajo el piso nuevo. Misma política que
+# `rotacion_*.historicos_declarados` del motor visual: no se corrigen, se declaran. Están acá para
+# que nadie los "descubra" en seis meses y crea que es un hallazgo.
+PISO_HISTORICOS = {
+    "la_app_la_bimboficacion_de_mi_novio/capitulo_3_el_nivel.md": (9.0, 2.6),
+    "treinta_dias_sombra_seda/treinta_dias_sombra_seda_completo.md": (11.5, 6.0),
+    "eres_de_los_hombres_que_II/eres_de_los_hombres_que_II_completo.md": (11.6, 7.8),
+}
 
 
 def t0_piso_temperatura(global_share: float, apertura: float) -> list[str]:
