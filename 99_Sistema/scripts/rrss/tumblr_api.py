@@ -209,16 +209,45 @@ def post_json(ruta: str, cuerpo: dict, cred: dict | None = None) -> dict:
     return datos.get("response", datos)
 
 
+def _formato_markdown(texto: str) -> dict:
+    """Markdown inline → bloque NPF con sus rangos de formato.
+
+    ⚠️ **NPF no entiende markdown.** Si se le manda `**Bienvenue.**` lo publica con los
+    asteriscos a la vista — pasó el 08/09/2026 con los cuatro primeros posts del blog. La
+    negrita y la cursiva viajan como rangos `formatting` con posiciones de carácter, y por eso
+    hay que traducirlas acá antes de enviar.
+    """
+    import re as _re
+    fmt, salida, i = [], [], 0
+    patron = _re.compile(r"\*\*(.+?)\*\*|\*(.+?)\*|_(.+?)_", _re.S)
+    for m in patron.finditer(texto):
+        salida.append(texto[i:m.start()])
+        cursor = sum(len(s) for s in salida)
+        contenido = m.group(1) or m.group(2) or m.group(3)
+        fmt.append({"start": cursor, "end": cursor + len(contenido),
+                    "type": "bold" if m.group(1) else "italic"})
+        salida.append(contenido)
+        i = m.end()
+    salida.append(texto[i:])
+    bloque = {"type": "text", "text": "".join(salida)}
+    if fmt:
+        bloque["formatting"] = fmt
+    return bloque
+
+
 def bloques_npf(texto: str, enlace: str | None = None, titulo_enlace: str | None = None) -> list[dict]:
-    """Convierte texto plano en bloques NPF. Párrafos separados por línea en blanco;
-    un párrafo que empieza con «> » se emite como cita (subtype `indented`)."""
+    """Convierte texto en bloques NPF. Párrafos separados por línea en blanco;
+    un párrafo que empieza con «> » se emite como cita (subtype `indented`).
+    La negrita y la cursiva de markdown se traducen a rangos `formatting`."""
     bloques = []
     for par in [p.strip() for p in texto.split("\n\n") if p.strip()]:
         if par.startswith(">"):
             limpio = "\n".join(l.lstrip("> ").rstrip() for l in par.splitlines()).strip()
-            bloques.append({"type": "text", "subtype": "indented", "text": limpio})
+            b = _formato_markdown(limpio)
+            b["subtype"] = "indented"
+            bloques.append(b)
         else:
-            bloques.append({"type": "text", "text": " ".join(par.split())})
+            bloques.append(_formato_markdown(" ".join(par.split())))
     if enlace:
         b = {"type": "link", "url": enlace}
         if titulo_enlace:
@@ -277,3 +306,48 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
+
+def crear_borrador_con_imagen(texto: str, tags: list[str], ruta_git: str,
+                              enlace: str | None = None, titulo_enlace: str | None = None,
+                              cred: dict | None = None, publish_on: str | None = None) -> dict:
+    """Borrador (o programado) con UNA imagen arriba y el texto abajo.
+
+    La imagen se lee **de git**, no del disco: este clon es sparse y no baja los PNG/JPG.
+    Va por `multipart/form-data` porque es la única forma de adjuntar media en NPF — la parte
+    `json` lleva los bloques y el archivo viaja aparte, referenciado por su `identifier`.
+
+    ⚠️ Sigue sin poder ponerse la community label (tumblr/docs#125): la pone la Ama al publicar.
+    """
+    import subprocess
+    import requests
+    cred = cred or credenciales()
+    datos = subprocess.run(["git", "show", f"HEAD:{ruta_git}"], cwd=str(RAIZ),
+                           capture_output=True, check=True).stdout
+    if not datos:
+        raise SystemExit(f"❌ No se pudo leer {ruta_git} desde git.")
+
+    ident = "imagen0"
+    bloques = [{"type": "image", "media": [{"type": "image/jpeg", "identifier": ident}]}]
+    bloques += bloques_npf(texto, enlace, titulo_enlace)
+    cuerpo = {"content": bloques,
+              "tags": ",".join(t.lstrip("#") for t in tags),
+              "state": "queue" if publish_on else "draft"}
+    if publish_on:
+        cuerpo["publish_on"] = publish_on
+
+    url = f"{API}/blog/{BLOG}/posts"
+    cab = {"Authorization": firmar("POST", url, {}, cred)}
+    r = requests.post(url, headers=cab, timeout=120, files={
+        "json": (None, json.dumps(cuerpo), "application/json"),
+        ident: (Path(ruta_git).name, datos, "image/jpeg"),
+    })
+    try:
+        resp = r.json()
+    except ValueError:
+        raise SystemExit(f"❌ Tumblr no devolvió JSON ({r.status_code}): {r.text[:300]}")
+    if r.status_code >= 400:
+        msg = resp.get("meta", {}).get("msg", "sin detalle")
+        errs = resp.get("errors") or resp.get("response", {}).get("errors")
+        raise SystemExit(f"❌ HTTP {r.status_code} — {msg}\n   {json.dumps(errs, ensure_ascii=False)[:400]}")
+    return resp.get("response", resp)
