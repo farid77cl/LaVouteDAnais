@@ -102,17 +102,21 @@ anaisbelland
 
 | # | Post | Archivo |
 |---|---|---|
-| 1 | Fijado del blog | `05_Imagenes/portadas/portada_cafe_con_piernas.png` |
-| 2 | Gancho Cap 1 | `05_Imagenes/historias/cafe_con_piernas/imagen1_puerta.png` |
-| 3 | Gancho Cap 2 | `05_Imagenes/historias/cafe_con_piernas/imagen2_pasillo.png` |
-| 4 | Gancho Cap 3 | `05_Imagenes/historias/cafe_con_piernas/imagen3_plato.png` |
-| 5 | Gancho Cap 4 | `05_Imagenes/historias/cafe_con_piernas/imagen4_espejo.png` |
+| 1 | Fijado del blog | `05_Imagenes/historias/cafe_con_piernas/portada_cafe_con_piernas.jpg` |
+| 2 | Gancho Cap 1 | `05_Imagenes/historias/cafe_con_piernas/imagen1_puerta.jpg` |
+| 3 | Gancho Cap 2 | `05_Imagenes/historias/cafe_con_piernas/imagen2_pasillo.jpg` |
+| 4 | Gancho Cap 3 | `05_Imagenes/historias/cafe_con_piernas/imagen3_plato.jpg` |
+| 5 | Gancho Cap 4 | `05_Imagenes/historias/cafe_con_piernas/imagen4_espejo.jpg` |
 
-**PNG, 4:5 vertical (1080 × 1350).** Si Gemini entrega otra proporción, se recorta a 4:5 antes de guardar.
+**JPG, 4:5 vertical.** Las cinco viven juntas en `05_Imagenes/historias/cafe_con_piernas/` — también
+la portada, que en este relato es la imagen del post fijado y no una portada de libro.
+
+> 🗑️ **No se quedan en el disco.** Una vez aprobadas se commitean y se sacan de este clon: las
+> imágenes viven en el remoto (orden de la Ama, 08/09/2026).
 
 ## 1 · Post fijado — la puerta del blog
 
-📁 **Guardar como:** `05_Imagenes/portadas/portada_cafe_con_piernas.png`
+📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/portada_cafe_con_piernas.jpg`
 
 ```
 1960s romance comic book illustration, vintage pin-up sensibility, vintage newsprint
@@ -158,7 +162,7 @@ knows exactly how she is being looked at and she is not moving.
 
 ## 2 · Gancho Cap 1 — «Mi Primer Turno»
 
-📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen1_puerta.png`
+📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen1_puerta.jpg`
 
 ```
 1960s romance comic book illustration, vintage pin-up sensibility, vintage newsprint
@@ -199,7 +203,7 @@ MOOD: the last second before deciding, and she already knows she is going in.
 
 ## 3 · Gancho Cap 2 — «Entrenada para Servir»
 
-📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen2_pasillo.png`
+📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen2_pasillo.jpg`
 
 ```
 1960s romance comic book illustration, vintage pin-up sensibility, vintage newsprint
@@ -236,7 +240,7 @@ only person she is letting in on it is the viewer.
 
 ## 4 · Gancho Cap 3 — «El Minuto Feliz»
 
-📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen3_plato.png`
+📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen3_plato.jpg`
 
 ```
 1960s romance comic book illustration, vintage pin-up sensibility, vintage newsprint
@@ -279,7 +283,7 @@ she allows.
 
 ## 5 · Gancho Cap 4 — «¿Cuánto es?»
 
-📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen4_espejo.png`
+📁 **Guardar como:** `05_Imagenes/historias/cafe_con_piernas/imagen4_espejo.jpg`
 
 ```
 1960s romance comic book illustration, vintage pin-up sensibility, vintage newsprint
