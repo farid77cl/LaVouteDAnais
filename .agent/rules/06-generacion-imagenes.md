@@ -123,3 +123,39 @@ Reforzadas el 30/08: SEAM_FRONT · SEAM_BACK · SEAT_ANCHOR · BOTTOM_CUT_LOCK �
 
 > ⛔ **Miss Doll L68 (*"horrible outfit"*)** queda **vetado y conservado como contraejemplo** por orden de la Ama — no se rediseña, no se regenera, no sirve de precedente. Anotado en su galería.
 
+
+---
+
+## 📁 Un prompt sin su carpeta es media entrega (Ama 08/09/2026)
+
+> *"siempre crea las carpetas `05_Imagenes/historias/cafe_con_piernas/` la app no tiene nada acá,
+> por que no ve esas carpetas"*
+
+**La app de generación de la Ama LEE LAS CARPETAS DEL REPO para ofrecer destino.** Si la carpeta no
+existe, la app **no tiene dónde dejar la imagen** — y el prompt, por perfecto que esté, no se puede
+usar. Escribir prompts sin crear su carpeta es entregar la mitad del trabajo.
+
+**Regla:** en el **mismo commit** en que se escriben prompts de imagen de un relato, se crea su
+carpeta de destino y se empuja.
+
+| Qué imagen | Dónde va |
+|---|---|
+| Portada del relato completo | `05_Imagenes/portadas/portada_<slug>.png` *(la carpeta ya existe)* |
+| Imágenes de capítulo / posts | `05_Imagenes/historias/<slug_relato>/imagenN_<nombre>.png` ← **hay que crearla** |
+
+**Cómo se crea, y las dos trampas:**
+
+1. **`.gitkeep`, nunca un README a mano.** `update_galleries.py` reescribe el README de cada carpeta
+   de imágenes y se lo come en la corrida siguiente (cicatriz del 07/09/2026, `blog_tumblr/`).
+2. **En un clon *sparse* hay que reincluir la ruta primero**, o `git add` la rechaza en silencio:
+   ```bash
+   git sparse-checkout add 05_Imagenes/historias/<slug>
+   mkdir -p 05_Imagenes/historias/<slug> && touch 05_Imagenes/historias/<slug>/.gitkeep
+   git add 05_Imagenes/historias/<slug>/.gitkeep
+   ```
+
+> 🩹 **La cicatriz.** El 08/09/2026 se escribieron los cinco prompts de «Café con Piernas» para el
+> blog, el sparse rechazó la creación de la carpeta, y **se dio por suficiente nombrarle la ruta a
+> la Ama en el chat**. No lo es: *la ruta en el chat no la ve la app*. Ella lo reportó de vuelta —
+> *"la app no tiene nada acá"*— y ahí se entendió que la carpeta no es documentación, es
+> **infraestructura**.
