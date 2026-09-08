@@ -221,3 +221,27 @@ figura**, coloca los tres como le acomoda a la ilustración.
 > Es el mismo principio que `CAMERA_FIRST` (§3) llevado un paso más: **no basta con girar la cámara,
 > hay que decirle qué tiene delante.** Un objeto que tapa es un objeto de primer plano, y si no se
 > declara como tal, se va al fondo.
+
+### 2.1 ⚠️ La escena no puede pedir un color que la paleta no tiene
+
+**Cicatriz del 08/09/2026.** El prompt del Cap 1 pedía *«On her side the light is cold and grey»*
+para separar la calle del interior. El generador obedeció **a la escena y no al bloque**: devolvió
+una imagen gris y azulada, correcta en todo lo demás, y **fuera de la familia de las otras cuatro**.
+Puestas en fila no parecían del mismo relato.
+
+**La regla:** el BLOQUE ESTILO fija la paleta y **el cuerpo del prompt no puede contradecirla**.
+Cualquier color nombrado en la escena tiene que salir de esos cinco: oro viejo, bronce antiguo, rosa
+polvo, borgoña, marfil.
+
+**Y el contraste frío/cálido se construye sin colores fríos** — por **saturación**, no por
+temperatura:
+
+> `her side is the PALE end of the palette - washed-out ivory and pale bronze, flat and drained;
+> the inside seen through the glass is the SATURATED end - deep old gold and warm burgundy. The
+> contrast is pale against saturated, never cold against warm.`
+
+Mismo truco sirve para día/noche, dentro/fuera, antes/después: **pálido contra saturado**.
+
+> 📌 Al revisar un prompt antes de generar, leer la escena buscando **nombres de color** y
+> comprobar que los cinco de la paleta los cubren. Si aparece *grey*, *blue*, *green*, *silver* o
+> *white* como color de ambiente, es un choque, no un matiz.

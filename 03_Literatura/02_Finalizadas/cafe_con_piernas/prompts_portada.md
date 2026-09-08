@@ -172,23 +172,27 @@ THE WHOLE IMAGE edge to edge with only a thin dark border - no empty margin, no 
 panel floating inside a larger blank field
 
 Vertical comic panel, 4:5 portrait, glamorous and sensual. A young woman stands on the
-cold side of a tinted glass door, seen FROM BEHIND, one gloved hand raised flat against
-the glass to push it open. Her weight is on one leg with the hip pushed out to that
-side, the small of her back arched, and she is looking BACK OVER HER SHOULDER toward
-the viewer - chin low, eyes lifted, lips parted. The heel of her rear foot has slipped
-free of its shoe and hangs, the shoe held on by the toes.
+street side of a tinted glass door, seen FROM BEHIND, one gloved hand raised flat against
+the glass to push it open. Her weight is on one leg with the hip pushed out to that side,
+the small of her back arched, and she is looking BACK OVER HER SHOULDER toward the viewer
+- chin low, eyes lifted, lips parted.
 
-SHE IS WEARING a belted knee-length wool coat - worn on her body, closed, opaque -
-covering her from throat to below the knee. The belt is cinched hard at the waist so
-the coat pulls in tight and flares over the hip, and a seamed stocking runs up the calf
-below the hem.
+SHE IS WEARING a belted knee-length coat in dusty rose - worn on her body, closed,
+opaque - covering her from throat to below the knee. The belt is cinched hard at the
+waist so the coat pulls in tight and flares over the hip. Below the hem, a stocking with
+a dark seam running straight up the back of the calf, and on her back foot THE HEEL HAS
+LIFTED OUT OF ITS SHOE and hangs clear of it, the shoe held on only by her toes.
 
-FRAMING: the camera is at hip height and close. She and the door FILL the panel from
-edge to edge - the glass takes the left half, her body the right, nothing empty around
-them.
+COLOUR - IMPORTANT: keep the whole panel inside the limited palette. NO GREY AND NO COLD
+BLUE ANYWHERE. Her side of the door is the PALE end of the palette - washed-out ivory and
+pale bronze, flat and drained; the inside seen through the glass is the SATURATED end -
+deep old gold and warm burgundy. The contrast is pale against saturated, never cold
+against warm.
 
-CENTER: the tinted glass door. On her side the light is cold and grey; through the glass
-a warm glow bleeds out from inside, and her own reflection floats faintly on the surface.
+FRAMING: the camera is at hip height and close. She and the door FILL the panel from edge
+to edge - the glass takes the left half, her body the right, nothing empty around them.
+
+CENTER: the tinted glass door, with her own reflection floating faintly on its surface.
 
 MOOD: the last second before deciding, and she already knows she is going in.
 ```
