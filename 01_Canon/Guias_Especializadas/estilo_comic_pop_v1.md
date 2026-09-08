@@ -39,14 +39,16 @@ Se copia **verbatim** al inicio de todo prompt de publicación, idéntico en las
 
 <!-- ADN:BLOQUE_ESTILO -->
 ```
-1960s romance comic book illustration, vintage newsprint aesthetic, bold black ink
-outlines of even confident weight around every figure and object, flat cel-shaded
-colour with no gradients and no soft shading, visible Ben-Day halftone dot texture
-carried through the shadows and the background field, limited palette built on old
-gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
-ground, slight off-register print misalignment, clean single comic panel with a thin
-dark border, NO TEXT ANYWHERE, every label, sign, poster and garment surface
-completely blank
+1960s pin-up illustration drawn in romance comic book style, vintage newsprint aesthetic,
+bold black ink outlines of even confident weight around every figure and object, flat
+cel-shaded colour with no gradients and no soft shading, visible Ben-Day halftone dot
+texture carried through the shadows and the background field, limited palette built on
+old gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
+ground, slight off-register print misalignment, NO TEXT ANYWHERE, every label, sign,
+poster and garment surface completely blank, the panel FILLS THE WHOLE IMAGE edge to edge
+with only a thin dark border. THE FIGURE IS THE PICTURE: she is drawn large and close and
+fills the panel from top to bottom, and the room around her is suggested with only two or
+three flat shapes that never compete with her. This is a pin-up, not a scene illustration.
 ```
 <!-- /ADN:BLOQUE_ESTILO -->
 
@@ -245,3 +247,46 @@ Mismo truco sirve para día/noche, dentro/fuera, antes/después: **pálido contr
 > 📌 Al revisar un prompt antes de generar, leer la escena buscando **nombres de color** y
 > comprobar que los cinco de la paleta los cubren. Si aparece *grey*, *blue*, *green*, *silver* o
 > *white* como color de ambiente, es un choque, no un matiz.
+
+---
+
+## 7. 🔥 Es un PIN-UP, no una ilustración de escena (Ama 08/09/2026)
+
+Tres correcciones suyas el mismo día, seguidas, y las tres apuntan al mismo defecto:
+
+> *«trata de ser más picante, más sensual… si no me censuran, hazlo lo más caliente posible»*
+> *«la idea del estilo NO es dar una imagen real, sino algo pinup retro»*
+> *«insinúa, sé sensual… si les gustan las imágenes leerán el relato»*
+
+**El defecto, medido sobre las cinco primeras de «La Piel que Diseñé»:** los prompts describían
+**la escena del capítulo** —velador, lámpara, ventana, cabecera, clóset, puerta, escalera— y la
+figura terminaba siendo **un elemento más entre los muebles**. En la del camarín salió una *go-go
+de los sesenta*, no una bailarina de club: el prompt pedía textualmente un top *«covering her torso
+from the collarbone to the waist»*. **Yo pedí que la taparan.**
+
+### Las tres leyes
+
+**1 · La figura ES la imagen.** Se dibuja grande y cerca, llenando el panel de borde a borde. El
+lugar se sugiere con **dos o tres formas planas** y nunca compite. Está en el BLOQUE ESTILO (§2)
+para que aplique sola. *Esto no es una ilustración del capítulo: es un pin-up que lo promete.*
+
+**2 · El calor se INSINÚA.** *«Si les gustan las imágenes leerán el relato»* — la imagen **promete,
+no entrega**. Lo que calienta no es lo que se destapa: es **lo que la prenda está haciendo**.
+
+| Palanca de insinuación | Cómo se escribe |
+|---|---|
+| El tirante | `one strap has slipped off her shoulder and hangs on her upper arm` |
+| El ruedo | `the hem has ridden up the thigh with the twist and she has not fixed it` |
+| El corte | `cut very high on the hip`, `stops well above the waist` |
+| El zapato | `one high-heeled mule hanging off her toes` |
+| La rodilla | `one knee drawn up and fallen open` |
+| El dedo | `hooks a finger in the waistband at her hip` |
+| La mirada | `looking back over her shoulder at the viewer, not at the glass` |
+
+**Y esto convive con `GARMENT_DECLARED`, no lo contradice:** la prenda sigue **puesta, cerrada y
+opaca**. Por eso la insinuación además **nunca rebota** — no hay piel que nombrar.
+
+**3 · El techo lo pone el filtro, no la prudencia del agente.** Orden suya: *«si me censuran el
+prompt te aviso; si no, hazlo lo más caliente posible»*. **La cautela no es una virtud acá**: se
+escribe al máximo, ella reporta el rebote, y recién ahí se baja un escalón — con el orden de
+sospecha de §4.2 en la mano.

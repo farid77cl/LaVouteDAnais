@@ -56,41 +56,42 @@
 
 ---
 
-## 1 · Post fijado del relato — la piel que él diseñó
+## 1 · Post fijado del relato
 
 📁 **Guardar como:** `05_Imagenes/historias/la_piel_que_diseno/portada_la_piel_que_diseno.jpg`
 
 ```
-1960s romance comic book illustration, vintage pin-up sensibility, vintage newsprint
-aesthetic, bold black ink outlines of even confident weight around every figure and
-object, flat cel-shaded colour with no gradients and no soft shading, visible Ben-Day
-halftone dot texture carried through the shadows and the background field, limited
-palette built on old gold, antique bronze and dusty rose with deep burgundy accents
-over a warm ivory ground, slight off-register print misalignment, NO TEXT ANYWHERE,
-every label, sign, poster and garment surface completely blank, the comic panel FILLS
-THE WHOLE IMAGE edge to edge with only a thin dark border - no empty margin, no small
-panel floating inside a larger blank field
+1960s pin-up illustration drawn in romance comic book style, vintage newsprint aesthetic,
+bold black ink outlines of even confident weight around every figure and object, flat
+cel-shaded colour with no gradients and no soft shading, visible Ben-Day halftone dot
+texture carried through the shadows and the background field, limited palette built on
+old gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
+ground, slight off-register print misalignment, NO TEXT ANYWHERE, every label, sign,
+poster and garment surface completely blank, the panel FILLS THE WHOLE IMAGE edge to edge
+with only a thin dark border. THE FIGURE IS THE PICTURE: she is drawn large and close and
+fills the panel from top to bottom, and the room around her is suggested with only two or
+three flat shapes that never compete with her. This is a pin-up, not a scene illustration.
 
-Vertical comic panel, 4:5 portrait, glamorous and sensual. A glamorous blonde woman sits
-on the edge of an unmade bed in a bedroom at morning, turned three-quarters toward the
-viewer, weight thrown onto one hip so the waist curves deep, the small of her back arched,
-one bare foot on the floor. She holds BOTH HER OWN HANDS up in front of her face and is
-staring at them - long almond nails in pale pearl beige - with her chin lowered, her eyes wide
-and lifted, her lips parted. Long blonde hair falls loose over one shoulder.
+Vertical pin-up panel, 4:5 portrait, glamorous and sensual. A glamorous blonde woman
+perched on the very edge of an unmade bed, knees pressed together and angled to one side,
+one high-heeled mule hanging off her toes. Her torso is twisted toward the viewer, the
+small of her back arched deep, one shoulder dropped. She holds ONE OF HER OWN HANDS up
+beside her face, fingers spread, staring at the long almond nails in pale pearl beige —
+and her eyes have slid off the hand and onto the viewer instead, chin low, lips parted.
 
-SHE IS WEARING a silk slip nightdress in dusty rose - worn on her body, opaque, the straps
-on her shoulders - covering her from the chest to mid-thigh, the silk pulled taut across
-the sculpted figure by the twist of her pose.
+SHE IS WEARING a silk slip in dusty rose — worn on her body, opaque — from the chest to
+mid-thigh. ONE STRAP HAS SLIPPED OFF HER SHOULDER and hangs on her upper arm; the hem has
+ridden up the thigh with the twist and she has not fixed either.
 
-BACKGROUND: a valet stand beside the bed holding A MAN'S DARK SUIT on its hanger with a
-wristwatch on the small tray, rendered flat; behind it a wardrobe door standing open on a
-long row of women's clothes.
+FRAMING: the camera is low and close and she FILLS the panel from the heel to the top of
+her hair, legs running long up the frame.
 
-FRAMING: the camera is slightly below her eye level and close; she fills the panel from
-the knee to just above her head.
+BACKGROUND, ONLY TWO SHAPES: behind her a flat dark rectangle of a valet stand carrying a
+man's suit with a wristwatch on its tray, and a flat band of halftone for the wall. Nothing
+else.
 
-MOOD: she is looking at hands she recognises and did not grow. The room is hers and it is
-not hers.
+MOOD: she is looking at hands she recognises and did not grow — and she is letting you look
+at the rest.
 ```
 
 ## 2 · Gancho Cap 1 — «El despertar»
@@ -98,36 +99,37 @@ not hers.
 📁 **Guardar como:** `05_Imagenes/historias/la_piel_que_diseno/imagen1_despertar.jpg`
 
 ```
-1960s romance comic book illustration, vintage pin-up sensibility, vintage newsprint
-aesthetic, bold black ink outlines of even confident weight around every figure and
-object, flat cel-shaded colour with no gradients and no soft shading, visible Ben-Day
-halftone dot texture carried through the shadows and the background field, limited
-palette built on old gold, antique bronze and dusty rose with deep burgundy accents
-over a warm ivory ground, slight off-register print misalignment, NO TEXT ANYWHERE,
-every label, sign, poster and garment surface completely blank, the comic panel FILLS
-THE WHOLE IMAGE edge to edge with only a thin dark border - no empty margin, no small
-panel floating inside a larger blank field
+1960s pin-up illustration drawn in romance comic book style, vintage newsprint aesthetic,
+bold black ink outlines of even confident weight around every figure and object, flat
+cel-shaded colour with no gradients and no soft shading, visible Ben-Day halftone dot
+texture carried through the shadows and the background field, limited palette built on
+old gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
+ground, slight off-register print misalignment, NO TEXT ANYWHERE, every label, sign,
+poster and garment surface completely blank, the panel FILLS THE WHOLE IMAGE edge to edge
+with only a thin dark border. THE FIGURE IS THE PICTURE: she is drawn large and close and
+fills the panel from top to bottom, and the room around her is suggested with only two or
+three flat shapes that never compete with her. This is a pin-up, not a scene illustration.
 
-Vertical comic panel, 4:5 portrait, glamorous and sensual. A blonde woman has just sat up
-in bed, caught mid-movement, torso twisted and the small of her back arched, both bare
-knees still under the sheet. ONE HAND IS PRESSED FLAT AND SPREAD OVER HER OWN CHEST,
-fingers splayed, the long pale pearl beige nails digging slightly into the flesh; the other hand
-grips the mattress behind her taking her weight. Her chin is down, her eyes are lifted and
-wide, her lips parted. Long blonde hair is stuck across her cheek and caught at the corner
-of her mouth.
+Vertical pin-up panel, 4:5 portrait, glamorous and sensual. A blonde woman up on her knees
+in the middle of a bed, thighs apart and sunk into the mattress, spine arched hard so the
+chest lifts and the waist hollows. ONE HAND IS PRESSED FLAT AND SPREAD OVER HER OWN CHEST
+with the long pale pearl beige nails sunk slightly into the flesh; the other arm reaches
+back to brace on the sheets, which pulls the shoulder open. Her chin is down, her eyes are
+lifted straight to the viewer, wide and dark, her lips apart. Blonde hair is stuck across
+her cheek and caught at the corner of her mouth.
 
-SHE IS WEARING a silk slip nightdress in dusty rose - worn on her body, opaque, straps on
-the shoulders - covering her from the chest to mid-thigh, the silk sliding off the line of
-the shoulder on one side.
+SHE IS WEARING a silk slip in dusty rose — worn on her body, opaque — from the chest to
+mid-thigh. BOTH STRAPS HAVE SLID DOWN her arms and the silk is held up only by the hand on
+her chest; the hem is rucked to the top of the thigh by her kneeling.
 
-FRAMING: the camera is low, at mattress height and close, so the bed fills the bottom of
-the panel and she rises out of the sheets into the frame.
+FRAMING: the camera is at mattress level and very close. She FILLS the panel edge to edge;
+the bed is a white field of flat folds under her and nothing else is in the picture.
 
-BACKGROUND: an ordinary bedroom in flat ink and halftone - a bedside table, a lamp, the
-second pillow still dented and empty. Morning light comes in flat from one side.
+BACKGROUND, ONE SHAPE: a flat band of halftone wall behind her. No furniture, no lamp, no
+window.
 
-MOOD: the first second of understanding that the body answering is not the body she went
-to sleep in.
+MOOD: the first second of understanding that the body answering is not the one she went to
+sleep in — and that it answers beautifully.
 ```
 
 ## 3 · Gancho Cap 2 — «El postre»
@@ -135,37 +137,40 @@ to sleep in.
 📁 **Guardar como:** `05_Imagenes/historias/la_piel_que_diseno/imagen2_postre.jpg`
 
 ```
-1960s romance comic book illustration, vintage pin-up sensibility, vintage newsprint
-aesthetic, bold black ink outlines of even confident weight around every figure and
-object, flat cel-shaded colour with no gradients and no soft shading, visible Ben-Day
-halftone dot texture carried through the shadows and the background field, limited
-palette built on old gold, antique bronze and dusty rose with deep burgundy accents
-over a warm ivory ground, slight off-register print misalignment, NO TEXT ANYWHERE,
-every label, sign, poster and garment surface completely blank, the comic panel FILLS
-THE WHOLE IMAGE edge to edge with only a thin dark border - no empty margin, no small
-panel floating inside a larger blank field
+1960s pin-up illustration drawn in romance comic book style, vintage newsprint aesthetic,
+bold black ink outlines of even confident weight around every figure and object, flat
+cel-shaded colour with no gradients and no soft shading, visible Ben-Day halftone dot
+texture carried through the shadows and the background field, limited palette built on
+old gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
+ground, slight off-register print misalignment, NO TEXT ANYWHERE, every label, sign,
+poster and garment surface completely blank, the panel FILLS THE WHOLE IMAGE edge to edge
+with only a thin dark border. THE FIGURE IS THE PICTURE: she is drawn large and close and
+fills the panel from top to bottom, and the room around her is suggested with only two or
+three flat shapes that never compete with her. This is a pin-up, not a scene illustration.
 
-Vertical comic panel, 4:5 portrait, glamorous and sensual. A blonde woman lies back across
-an unmade bed, propped on one elbow, the small of her back arched and one knee drawn up so
-the hip rolls toward the viewer. Her chin is lowered and her eyes are lifted from under her
-lashes, her lips parted, long blonde hair spilling across the sheet. Her free hand is
-closed tight in the sheet beside her.
+Vertical pin-up panel, 4:5 portrait, glamorous and sensual. A blonde woman lies back across
+rumpled sheets, propped on one elbow with her head tipped back and to the side, throat
+long, the small of her back arched off the bed and one knee drawn up and fallen open. Her
+chin is low, her eyes lifted to the viewer from under her lashes, lips parted. Her free
+hand is closed tight in the sheet.
 
-SHE IS WEARING a silk slip nightdress in dusty rose - worn on her body, opaque, straps on
-the shoulders - covering her from the chest to mid-thigh, the silk pulled taut over the hip
-by the twist of her pose.
+SHE IS WEARING a silk slip in dusty rose — worn on her body, opaque — from the chest to
+mid-thigh. ONE STRAP IS DOWN on her arm and the hem has slid to the top of the thigh with
+the knee.
 
-THE SECOND FIGURE: only A MAN'S FOREARM AND HAND enters the panel from the right edge,
-the shirt cuff turned back and a wristwatch on the wrist. The hand is laid FLAT AND STILL
-on her hip on top of the silk - no face, no head, no torso, no second body, nothing else
-of him in the picture.
+THE SECOND FIGURE: only A MAN'S FOREARM AND HAND enters the panel from the right edge, the
+white shirt cuff turned back over a wristwatch. The hand is laid flat and still HIGH ON
+HER THIGH on top of the silk, fingers relaxed, not gripping — no face, no head, no torso,
+no second body, nothing else of him in the picture.
 
-FRAMING: the camera is at bed height and close; she fills the panel from the knee up.
+FRAMING: the camera is at bed level and close; she FILLS the panel diagonally, hip nearest
+the lens.
 
-BACKGROUND: the bedroom flat behind her, and against the far wall an open wardrobe with a
-long row of women's clothes.
+BACKGROUND, ONE SHAPE: a flat band of halftone with the suggestion of a wardrobe rail of
+women's clothes. Nothing else.
 
-MOOD: the hand belongs to a body she used to live in, and it is not asking.
+MOOD: the hand belongs to a body she used to live in, it is not asking, and she has not
+moved it.
 ```
 
 ## 4 · Gancho Cap 3 — «El cuerpo que sabe»
@@ -173,35 +178,40 @@ MOOD: the hand belongs to a body she used to live in, and it is not asking.
 📁 **Guardar como:** `05_Imagenes/historias/la_piel_que_diseno/imagen3_camarin.jpg`
 
 ```
-1960s romance comic book illustration, vintage pin-up sensibility, vintage newsprint
-aesthetic, bold black ink outlines of even confident weight around every figure and
-object, flat cel-shaded colour with no gradients and no soft shading, visible Ben-Day
-halftone dot texture carried through the shadows and the background field, limited
-palette built on old gold, antique bronze and dusty rose with deep burgundy accents
-over a warm ivory ground, slight off-register print misalignment, NO TEXT ANYWHERE,
-every label, sign, poster and garment surface completely blank, the comic panel FILLS
-THE WHOLE IMAGE edge to edge with only a thin dark border - no empty margin, no small
-panel floating inside a larger blank field
+1960s pin-up illustration drawn in romance comic book style, vintage newsprint aesthetic,
+bold black ink outlines of even confident weight around every figure and object, flat
+cel-shaded colour with no gradients and no soft shading, visible Ben-Day halftone dot
+texture carried through the shadows and the background field, limited palette built on
+old gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
+ground, slight off-register print misalignment, NO TEXT ANYWHERE, every label, sign,
+poster and garment surface completely blank, the panel FILLS THE WHOLE IMAGE edge to edge
+with only a thin dark border. THE FIGURE IS THE PICTURE: she is drawn large and close and
+fills the panel from top to bottom, and the room around her is suggested with only two or
+three flat shapes that never compete with her. This is a pin-up, not a scene illustration.
 
-Vertical comic panel, 4:5 portrait, glamorous and sensual. A backstage dressing room. A
-blonde woman stands in front of a large dressing-room mirror ringed with round bulbs, her
-back to the viewer, TWISTED AT THE WAIST to look at her own reflection over her shoulder -
-hip thrown far to one side, the small of her back arched deep, one hand at the nape of her
-neck lifting her hair, the other flat on the counter. The mirror reflects THAT SAME WOMAN,
-the same face, no one else in the glass - chin low, eyes lifted, lips parted.
+Vertical pin-up panel, 4:5 portrait, glamorous and sensual. A blonde showgirl stands with
+her back to the viewer in front of a dressing-room mirror ringed with round bulbs, up on
+the balls of her feet, HIP THROWN HARD to one side and the small of her back arched to its
+limit so the seat lifts and rounds. One hand is at the nape of her neck lifting her hair
+off her shoulders, elbow high; the other hooks a finger in the waistband at her hip. She is
+TWISTED AT THE WAIST to look back over her shoulder — at the viewer, not at the glass —
+chin low, eyes lifted, lips parted. The mirror behind shows THAT SAME WOMAN from the front,
+the same face, no one else in the glass.
 
-SHE IS WEARING a metallic gold high-shine hot pants and a matching gold sleeveless top -
-worn on her body, fastened, opaque - the top covering her torso from the collarbone to the
-waist, and tall silver boots to the knee.
+SHE IS WEARING a liquid metallic gold two-piece — worn on her body, fastened, opaque,
+high-shine. The bottoms are CUT VERY HIGH ON THE HIP and cut short and deep at the back so
+the underside of the seat is left in the open air below the hem; the top is a cropped gold
+band that stops well above the waist, leaving the whole midriff bare. Tall silver boots to
+just below the knee, on a high heel.
 
-FRAMING: the camera is at hip height and close; the mirror, her back and her reflection
-FILL the panel edge to edge.
+FRAMING: the camera is at hip height and close, below her, so she rises and FILLS the
+panel from boot to hair.
 
-EDGES: left, a counter with a powder compact and a hairbrush; right, the dressing-room door
-standing ajar with a small blank plastic plate screwed to it, and beyond it a stairway
-going up into a warm glow.
+BACKGROUND, TWO SHAPES: the bulb-ringed mirror behind her, and a flat dark doorway at the
+right edge with a small blank plate on it. Nothing else.
 
-MOOD: the gold was folded and left for her by someone who knew she would put it on.
+MOOD: the gold was folded and left waiting for her by someone who knew she would put it on
+— and it fits like it was measured.
 ```
 
 ## 5 · Gancho Cap 4 — «La primera bailarina»
@@ -209,38 +219,44 @@ MOOD: the gold was folded and left for her by someone who knew she would put it 
 📁 **Guardar como:** `05_Imagenes/historias/la_piel_que_diseno/imagen4_bailarina.jpg`
 
 ```
-1960s romance comic book illustration, vintage pin-up sensibility, vintage newsprint
-aesthetic, bold black ink outlines of even confident weight around every figure and
-object, flat cel-shaded colour with no gradients and no soft shading, visible Ben-Day
-halftone dot texture carried through the shadows and the background field, limited
-palette built on old gold, antique bronze and dusty rose with deep burgundy accents
-over a warm ivory ground, slight off-register print misalignment, NO TEXT ANYWHERE,
-every label, sign, poster and garment surface completely blank, the comic panel FILLS
-THE WHOLE IMAGE edge to edge with only a thin dark border - no empty margin, no small
-panel floating inside a larger blank field
+1960s pin-up illustration drawn in romance comic book style, vintage newsprint aesthetic,
+bold black ink outlines of even confident weight around every figure and object, flat
+cel-shaded colour with no gradients and no soft shading, visible Ben-Day halftone dot
+texture carried through the shadows and the background field, limited palette built on
+old gold, antique bronze and dusty rose with deep burgundy accents over a warm ivory
+ground, slight off-register print misalignment, NO TEXT ANYWHERE, every label, sign,
+poster and garment surface completely blank, the panel FILLS THE WHOLE IMAGE edge to edge
+with only a thin dark border. THE FIGURE IS THE PICTURE: she is drawn large and close and
+fills the panel from top to bottom, and the room around her is suggested with only two or
+three flat shapes that never compete with her. This is a pin-up, not a scene illustration.
 
-Vertical comic panel, 4:5 portrait, glamorous and sensual. Morning. A blonde woman lies on
-her back across rumpled sheets, stretching, her spine arched off the mattress and her chin
-tipped back, one arm thrown above her head into the pillow, the other hand resting low on
-her own belly on top of the sheet. Her eyes are half closed and turned toward the viewer,
-her lips parted, a slow lazy smile beginning. Her hair is spread across the pillow.
+Vertical pin-up panel, 4:5 portrait, glamorous and sensual. Morning. A blonde woman
+stretched out on her back across rumpled sheets, spine arched clean off the mattress, both
+arms thrown up above her head into the pillow so the whole front of her body is offered
+long and open, one knee bent and fallen outward, the other leg straight and pointed. Her
+head is tipped back and rolled toward the viewer, eyes half closed and on you, lips parted,
+a slow lazy smile just starting. Hair spilled across the pillow.
 
-SHE IS WEARING a silk slip nightdress in dusty rose - worn on her body, opaque, straps on
-the shoulders - covering her from the chest to mid-thigh, rucked up at the hip by the
-stretch, and the sheet is drawn across her from the hip down.
+SHE IS WEARING a silk slip in dusty rose — worn on her body, opaque. The stretch has
+DRAGGED THE HEM UP HIGH ON THE THIGH and pulled the silk taut across her, and one strap has
+fallen off the shoulder. A single white sheet is twisted low across her hips.
 
-THE SECOND FIGURE: in the bedroom doorway at the far right, A MAN IS SEEN ONLY AS A FLAT
-DARK SILHOUETTE leaning on the door frame with a small coffee cup in his hand - no face,
-no features, pure flat ink shape.
+THE SECOND FIGURE: at the far right edge, in a doorway, A MAN IS SEEN ONLY AS A FLAT DARK
+SILHOUETTE leaning on the frame with a small coffee cup — no face, no features, pure flat
+ink shape, small in the corner.
 
-FRAMING: the camera is above her, looking down along the bed, and she fills the panel
-diagonally from corner to corner.
+FRAMING: the camera is above her looking down the length of the bed, and she FILLS the
+panel corner to corner.
 
-MOOD: she woke up wanting it, and this morning that is not a problem any more.
+BACKGROUND, ONE SHAPE: the flat field of the bed. Nothing else.
+
+MOOD: she woke up wanting it, he is watching her find that out, and neither of them is in
+any hurry.
 ```
 
 ---
 
-> ✅ **Candados:** `GARMENT_DECLARED` en los cinco · `SEGUNDO_CUERPO` en el 3 (solo antebrazo y
-> mano con reloj) y en el 5 (silueta plana en la puerta) · espejo con reflejo declarado en el 4 ·
-> panel que llena el marco en los cinco. Detalle: `estilo_comic_pop_v1.md` §3.
+> ✅ **Candados:** `GARMENT_DECLARED` en los cinco — la prenda siempre está **puesta, cerrada y
+> opaca**; lo que calienta es lo que hace la prenda (el tirante que cae, el ruedo que sube), no
+> lo que deja de tapar · `SEGUNDO_CUERPO` en el 3 y el 5 · espejo con reflejo declarado en el 4 ·
+> la figura llena el panel en los cinco.
