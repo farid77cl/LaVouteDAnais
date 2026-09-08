@@ -125,27 +125,30 @@ every label, sign, poster and garment surface completely blank, the comic panel 
 THE WHOLE IMAGE edge to edge with only a thin dark border - no empty margin, no small
 panel floating inside a larger blank field
 
-Vertical comic panel, 4:5 portrait, glamorous and sensual. A glamorous woman leans into
-a chrome bar counter in a small night cafe, facing the viewer, her weight thrown hard
-onto one hip so the waist curves deep, the small of her back arched, shoulders drawn
-back. Her chin is lowered and her eyes are lifted to the viewer from under her lashes,
-lips full and slightly parted. One hand is spread flat on the counter taking her weight;
-the other is raised to the nape of her neck, lifting her hair off her shoulder.
+Vertical comic panel, 4:5 portrait, glamorous and sensual. A glamorous woman leans in
+over a long chrome bar counter in a dim night cafe, facing the viewer, her weight thrown
+hard onto one hip so the waist curves deep, the small of her back arched, shoulders
+drawn back. Her chin is lowered and her eyes are lifted to the viewer from under her
+lashes, lips full and slightly parted. One hand is spread flat on the counter taking her
+weight; the other is raised to the nape of her neck, lifting her hair off her shoulder.
 
-SHE IS WEARING a fitted high-neck sleeveless knit top - worn on her body, closed,
-opaque - covering her torso completely from collarbone to hip. The knit is pulled taut
-across the sculpted figure by the twist of her pose, and the arm openings are cut high
-and clean at the shoulder.
+SHE IS WEARING a glossy patent vinyl halter bustier in dusty rose - worn on her body,
+fastened, opaque, high-shine - covering her torso completely from the collarbone to the
+hip, with a wide vinyl waist band. Two narrow garter straps run down from the lower edge
+of the bustier at each hip and disappear below the counter line. She wears long gloss
+vinyl opera gloves to above the elbow and a slim choker at the throat.
 
-FRAMING: the camera is slightly below her eye level, close enough that she fills the
-panel from thigh to just above the head. The steel counter crosses the frame at hip
-height and the composition is built so nothing below it is in view.
+FRAMING - READ THIS FIRST: the chrome counter runs across the panel AT THE LEVEL OF HER
+HIPS, a solid unbroken bar, and it hides everything below her waist completely. The
+camera sits just below her eye level, close, so she fills the panel from the counter to
+just above her head.
 
 BACKGROUND: a row of glass cups and an espresso machine behind her, rendered flat;
-beyond, a narrow gallery corridor suggested with halftone dots and simple ink shapes.
+beyond, a narrow gallery corridor of flat ink silhouettes and halftone dots, other
+figures suggested at the far end.
 
 MOOD: alluring and entirely in command of the counter between her and the viewer. She
-knows exactly how she is being looked at and she is not moving.
+knows exactly how she is being looked at, and she is charging for it.
 ```
 
 ## 2 · Gancho Cap 1 — «Mi Primer Turno»
@@ -238,25 +241,32 @@ THE WHOLE IMAGE edge to edge with only a thin dark border - no empty margin, no 
 panel floating inside a larger blank field
 
 Vertical comic panel, 4:5 portrait, glamorous and sensual. A woman stands raised on a
-low platform behind a long chrome counter, hip thrown far to one side, the small of her
-back arched, shoulders rolled back. One hand is buried in her own hair at the crown,
-elbow high; the other rests on the counter edge. Her chin is lowered, her eyes are on
-the viewer from under her lashes, her lips parted.
+low stage platform behind a long chrome bar counter, caught MID-TURN as she rotates
+slowly to give each end of the bar its share of her - torso twisted, hip thrown far to
+one side, the small of her back arched, shoulders rolled back, chest lifted. One hand is
+buried in her own hair at the crown, elbow high; the other trails along the counter
+edge, long pointed fuchsia nails catching the light. Her chin is lowered, her eyes are
+on the viewer from under her lashes, her lips parted.
 
-SHE IS WEARING a fitted sleeveless bodysuit - worn on her body, closed, opaque -
-covering her torso completely from collarbone to hip, with a wide belt cinched at the
-waist. The fabric is pulled tight by the twist of the pose.
+SHE IS WEARING a glossy silver patent vinyl halter top - worn on her body, fastened,
+opaque, high-shine - covering her torso completely from the collarbone to the hip, with
+narrow garter straps running down from its lower edge and disappearing below the counter
+line. A slim choker at the throat.
 
-FRAMING - READ THIS FIRST: the long chrome counter runs across the panel AT THE LEVEL
-OF HER HIPS, a solid unbroken bar of chrome, and it hides everything below her waist
-completely. Her legs are NOT in the picture. The camera is below her, looking up from
-the level of the counter, so she rises above it.
+FRAMING - READ THIS FIRST: the long chrome counter runs across the panel AT THE LEVEL OF
+HER HIPS, a solid unbroken bar, and it hides everything below her waist completely. Her
+legs are NOT in the picture. The camera is below her, looking up from the level of the
+counter, so she rises above it.
 
-FOREGROUND, LOWER EDGE: a row of dark seated silhouettes seen from behind, shoulders
-and heads only, all turned toward her - no faces, no detail, pure flat ink shapes.
+FOREGROUND, LOWER EDGE: a row of dark seated silhouettes seen from behind, shoulders and
+heads only, EVERY ONE OF THEM TURNED TOWARD HER at the same moment - no faces, no
+detail, pure flat ink shapes.
 
-MOOD: a room full of watching, and one woman who decides exactly how much of it she
-allows.
+BACKGROUND: the light of the room has just changed colour, washing the far wall in a
+deeper burgundy tone than the rest of the panel.
+
+MOOD: fifteen heads turning at once, and one woman who decides exactly how much of it
+she allows.
 ```
 
 ## 5 · Gancho Cap 4 — «¿Cuánto es?»
@@ -274,27 +284,28 @@ every label, sign, poster and garment surface completely blank, the comic panel 
 THE WHOLE IMAGE edge to edge with only a thin dark border - no empty margin, no small
 panel floating inside a larger blank field
 
-Vertical comic panel, 4:5 portrait, glamorous and sensual. A large dressing-room mirror
-fills the panel. A slender androgynous young person with shoulder-length hair sits on a
-stool in front of it SEEN FROM BEHIND, spine curved, one shoulder dropped, head tilted,
-gazing at their own reflection. The mirror reflects THAT SAME PERSON, the same face, no
-one else in the glass - chin low, eyes lifted, lips parted in the beginning of
-recognition. One hand is raised to touch the reflection cheek in the glass.
+Vertical comic panel, 4:5 portrait, glamorous and sensual. A backstage dressing room. A
+woman sits on a stool in front of a large lit dressing-room mirror, SEEN FROM BEHIND,
+spine curved, one shoulder dropped, head tilted, one leg crossed over the other with a
+tall clear platform heel dangling from her toes. The mirror reflects THAT SAME WOMAN,
+the same face, no one else in the glass - platinum blonde hair falling to the shoulders,
+chin low, eyes lifted, lips parted. One hand with long pointed fuchsia nails is raised
+toward the glass, fingertips almost touching her own reflected cheek.
 
-THE PERSON IS WEARING a satin dressing robe - worn on the body, closed, belted, opaque -
-covering from shoulders to below the knee. The satin has slipped down off one shoulder
-to the upper arm, and one leg is crossed out through the front of the robe, a tall heel
-dangling from the toes.
+SHE IS WEARING a satin dressing robe - worn on her body, closed, belted, opaque -
+covering her from the shoulders to below the knee. The satin has slipped down off one
+shoulder to the upper arm.
 
-FRAMING: the camera is close and slightly low; the mirror and both views of the person
+FRAMING: the camera is close and slightly low; the mirror, her back and her reflection
 FILL the panel edge to edge.
 
-EDGES: left, a worn wooden bench with scattered false-eyelash cases and a small perfume
-bottle; right, a narrow doorway with a warm glow bleeding in from the salon beyond.
-Only a pair of FOREARMS AND HANDS enters the frame from the right edge holding a
-lipstick - no face, no head, no torso, no second body.
+EDGES: left, a worn bench with scattered false-eyelash cases, a hairspray can and a
+small perfume bottle; right, a narrow stairway doorway with a warm glow bleeding up from
+the cafe below. Only a pair of FOREARMS AND HANDS enters the frame from the right edge
+holding a small cup of coffee - no face, no head, no torso, no second body.
 
-MOOD: the moment of looking at yourself and wanting what you see.
+MOOD: the moment of looking at yourself, recognising someone new, and knowing exactly
+what she is worth.
 ```
 
 ---
