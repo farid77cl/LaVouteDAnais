@@ -63,10 +63,16 @@ Una doctora pide hora con una consejera y, en cinco sesiones, le entrega el peso
 ## 3. Personajes (voz)
 
 ### Renée — «La Consejera»
-- **Rol narrativo:** la que acoge. No manda: aconseja. Es de Anaïs y recluta para ella.
+
+> ✍️ **ENMENDADO 08/09/2026 por nota de la Ama sobre el Cap 1 v0.1.** Su nota, literal: *«Renee está muy pasiva, sé que lo hablamos, pero debe ser más una guía, no sé... quizás la doctora se empieza a sentir atraída sexualmente por Renee? Renee debe ser no sé, más condescendiente?! más seductora?!»*. Ella misma reconoce el acuerdo previo y lo cambia igual — **una nota suya es decisión editorial y manda sobre este canon**, incluido un okey suyo anterior.
+
+- **Rol narrativo:** la que acoge y **conduce**. Es de Anaïs y recluta para ella.
 - **Frase tipo:** *«Ya, respira. Empecemos por algo chiquitito, ¿ya?»*
 - **Detalle físico ancla:** las perlas ajustadas a la garganta —collar de perlas para el mundo, **collar** para quien sabe mirar— y la boca nude **mate**, la de la que ya no está compitiendo.
+- **🔥 GUÍA, no espectadora (enmienda 08/09).** Antes se la escribió como **presencia ausente**: preguntaba y esperaba. Medido en el v0.1, ese diseño produjo exactamente lo que la Ama vio — Renée propone una sola cosa en toda la hora y el resto lo hace el silencio. **Ahora Renée lleva la hora.** Elige el tema, cambia de tema cuando le conviene, se acerca físicamente, decide cuándo se toma el té y cuándo no, nombra en voz alta lo que ve en el cuerpo de la doctora antes de que la doctora lo note. La iniciativa es suya en cada escena.
+- **🔥 CONDESCENDIENTE Y SEDUCTORA (enmienda 08/09).** Condescendiente en el registro **tibio y no cruel** que ya manda el §4: le habla como a alguien más chica, con una ternura que no pide permiso —*«pobrecita», «mírate», «déjame a mí»*— y esa asimetría **es el erotismo**, no un adorno. Seductora en el cuerpo: se sienta más cerca de lo que corresponde, le acomoda un mechón, le toca la muñeca para contar el pulso, le sostiene la mirada más de lo que sostendría una consejera. **Nunca sexual explícita hacia ella; siempre por debajo de lo decible.**
 - **Invariante:** **ni una sola orden directa, en ninguna línea del relato.** Nunca sube el volumen, nunca acelera, nunca se enoja: se ríe. Y siempre el diminutivo.
+  > ⚠️ **Este invariante SOBREVIVE la enmienda, y es una decisión mía que la Ama puede revertir en una línea.** Ella pidió *guía*, *condescendiente* y *seductora* — **no pidió órdenes**, y su §8 dice que una orden directa «rompe el personaje entero». Guiar sin mandar es exactamente lo que hace una seductora: propone, invita, se adelanta, da por hecho. Si lo que quería era que además mande, se cambia acá y en el §8.
 
 ### La doctora (la paciente — DIFUSA)
 - **Rol narrativo:** el hueco por donde entra la lectora. Sin nombre, sin cara, sin biografía. Se la nombra por su función: *la doctora*, *ella*.
@@ -86,6 +92,22 @@ Sin nombres, sin caras, **sin diálogo**, sin escenas propias, sin personalidad.
 ## 4. Mecanismo Psicológico Transversal
 
 Alguien externo declara satisfecha la vigilancia que ella no puede apagar sola: no le anula el juicio, **se lo recibe**. El alivio es proporcional a lo que traía encima, no al tamaño de lo que le hacen — por eso tiene que haber cargado mucho, y por eso el testigo tiene que ser benévolo. Es la imagen espejada de la humillación pública: acá el calentón está en que la dejen caer **sin que nadie la juzgue por eso**. Y encima de eso, el filo del encargo: ella le pertenece ya a todos, pero **eso es deber**; lo que Renée le ofrece es la única pertenencia que no le pide nada de vuelta salvo rendirse.
+
+---
+
+## 4bis. 🔥 EL SEGUNDO MOTOR — el deseo hacia Renée *(enmienda 08/09/2026, nota de la Ama)*
+
+> *«quizás la doctora se empieza a sentir atraída sexualmente por Renee?»* · *«le falta tensión erótica»*
+
+**El diagnóstico que abre esto, medido sobre el v0.1.** El relato tenía UN solo motor: el **alivio** (permiso, pertenencia, descanso). Y el alivio no genera tensión — la disuelve. Por eso la escena más caliente del capítulo, la del lavatorio, se dispara con **un cajón cerrándose** y no con una persona: en la cabeza de la doctora, textual, *«no había ninguna cara, ningún cuerpo encima, solo un cajón cerrándose»*. Eso es exactamente lo que la Ama leyó como tibio.
+
+**El segundo motor: la doctora empieza a desear a Renée, y no lo sabe todavía.**
+
+- **No sustituye al alivio: lo tensa.** El alivio sigue siendo el fondo del relato (la fantasía de permiso, §4). El deseo es lo que hace que la próxima sesión no se pueda esperar.
+- **Ella no lo nombra nunca en el Cap 1.** Lo registra el cuerpo y lo desmiente la cabeza: se descubre mirándole la boca mientras Renée habla de otra cosa · le vuelve el olor del living cuando está en su casa · le importa cómo la ve Renée más de lo que le importaría · se arregla para ir a la sesión y se dice que no se arregló.
+- **En el Cap 1 el deseo entra por lo lateral, nunca por lo genital.** La garganta bajo las perlas cuando traga, las manos, el modo de acomodarse el pelo, la distancia. Es deseo de mujer que nunca se lo permitió, no de lectora de porno.
+- **🔴 Y esto reescribe el remate del lavatorio:** ya no puede ser solo el cajón. Cuando se toca, **hay una cara**. Sigue habiendo cajón —esa imagen ancla se queda— pero encima está la boca nude mate diciéndole *doctora*, y la vergüenza de que sea eso lo que la calienta es **más fuerte** que la de haber entregado el teléfono.
+- **⛔ Lo que NO pasa en el Cap 1:** ni un roce sexual, ni un beso, ni una insinuación explícita de ninguna de las dos. Renée seduce sin ofrecer; la doctora desea sin saber. El Cap 1 cierra con las dos fingiendo que no pasó nada.
 
 ---
 
@@ -111,6 +133,7 @@ Alguien externo declara satisfecha la vigilancia que ella no puede apagar sola: 
 - **Primera visita:** la paciente llega con la coraza puesta y con un problema puntual, acotado, profesional en su formulación ("necesito ordenar algo", "quiero dejar de sentirme así en las reuniones") — **todavía NO puede pedir nada relacionado con degradarse.** Si en la primera sesión ya insinúa el deseo de ceder, la caída no tiene recorrido.
 - **El primer diminutivo de Renée:** tiene que incomodarle, no gustarle todavía. Una reacción de sorpresa o corrección ("no soy su 'mi amor', gracias") es el punto de partida correcto.
 - **La primera "cosita chica" que Renée pide:** la paciente la cuestiona, la pospone o la cumple con vergüenza y quiere retractarse después — **nunca la acepta con gusto a la primera.**
+  > 🔴 **ENMIENDA 08/09/2026 — la rampa del teléfono (nota de la Ama):** *«entregó el teléfono, y se calentó mmm... no será muy rápido y casi sin motivo?»*. Tenía razón: en el v0.1 la doctora piensa *«esto es ridículo»* y **en la misma frase la mano ya lo levantó**. La objeción y la rendición ocurren en un renglón, así que la resistencia se lee como trámite. **Ahora la entrega necesita al menos tres movimientos separados por otra cosa:** (1) lo cuestiona en voz alta y Renée cambia de tema sin insistir · (2) la hora sigue y el teléfono queda ahí, zumbando, volviéndose el elefante de la pieza · (3) es ella la que vuelve al tema, y recién ahí lo entrega — **por un motivo propio que el lector pueda nombrar**, no porque se lo preguntaron. Y el calentón NO va pegado a la entrega: viene después, solo, en su casa, cuando ya no hay nadie mirando.
 - **Entre visitas:** la semilla trabaja sola (`ficha_renee.md` §5.1) — la paciente debe pasar por un repliegue de vergüenza real: cancelar una cita, decir que fue un error, evitar pensar en Renée y fallar en evitarlo. Ese repliegue no es relleno — es la prueba de que todavía queda algo resistiendo.
 - **El primer "Buena niña" no se regala:** tiene que ganarse después de al menos dos o tres resistencias visibles en la misma escena o el mismo arco. Si llega en la primera cesión, pierde su peso de recompensa.
 - **La frase de rendición completa** (pedir en sus propias palabras uno de los cuatro permisos: ser débil, pedir ayuda, degradarse, pertenecer) **no puede decirse en la primera ni en la segunda sesión.** Tiene que ser el punto de llegada de un arco, no su apertura — es el hot spot #1 de §2, y un hot spot gastado temprano no vuelve a quemar.
