@@ -5292,11 +5292,11 @@ a champagne silk-satin pencil miniskirt cut high on the natural waist, moulded c
 a floor-length fitted trumpet gown in midnight navy silk velvet printed all over with a genuine python marking in navy and antique bronze, close through the bust, waist and hip and flaring into a dramatic sweeping train below the knee, a high square neckline cut straight across beneath the collarbones, long fitted sleeves ending at the wrist, the whole back left bare to the waist and closed with a single line of covered navy buttons from the small of the back to the hem; beneath the gown a midnight navy silk thong, its front a slim tapered panel and its back a single fine cord; no stockings, the gown covers the leg to the floor; midnight navy satin opera gloves reaching above the elbow, closed at the fingers; an antique bronze collar of flat linked plates with no lettering and long faceted smoky quartz drop earrings; 12cm stiletto pump with a pointed toe, in midnight navy patent leather, closed pointed toe, a red lacquered sole
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look86_piton_de_medianoche_en_la_escalera_de_la_voute/anais_086_standing.png) | [📸 View](../../../05_Imagenes/anais/look86_piton_de_medianoche_en_la_escalera_de_la_voute/anais_086_back_view.png) | [📸 View](../../../05_Imagenes/anais/look86_piton_de_medianoche_en_la_escalera_de_la_voute/anais_086_seated.png) | [📸 View](../../../05_Imagenes/anais/look86_piton_de_medianoche_en_la_escalera_de_la_voute/anais_086_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look86_piton_de_medianoche_en_la_escalera_de_la_voute/anais_086_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look86_piton_de_medianoche_en_la_escalera_de_la_voute/anais_086_pov.png) | [📸 View](../../../05_Imagenes/anais/look86_piton_de_medianoche_en_la_escalera_de_la_voute/anais_086_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -5351,11 +5351,11 @@ a floor-length fitted trumpet gown in midnight navy silk velvet printed all over
 a floor-length sheer ivory silk-gauze dress worn as the outer layer, its fabric an unlined translucent weave falling straight from a fine strap over each shoulder, a straight neckline across the collarbones, long full sleeves gathered into a narrow cuff at the wrist, and the back left open to the waist and closed at the nape with a single covered ivory button; beneath it an ivory silk charmeuse chemise cut on the bias to mid-thigh, the fabric skimming rather than gripping the body, with a low draped cowl neckline; beneath that an ivory silk thong, its front a slim tapered panel and its back a single fine cord; no stockings, the gauze covers the leg to the floor; bare hands, no gloves; a single strand of graduated pearls sitting close at the throat and matching pearl drop earrings, nothing else; fingernails: almond-shaped, filed short of the fingertip and lacquered in pale antique gold; 12cm D'Orsay stiletto pump with open sides, in ivory patent leather, closed pointed toe, a red lacquered sole
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (6/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_standing.png) | [📸 View](../../../05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_back_view.png) | [📸 View](../../../05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_seated.png) | [📸 View](../../../05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_pov.png) | ⏳ Pendiente |
 
 ### 1. Standing
 ```text
@@ -5410,11 +5410,11 @@ a floor-length sheer ivory silk-gauze dress worn as the outer layer, its fabric 
 a dusty rose sheer corselette in French lace over fine silk tulle as the central piece, boned with fine antique gold channels visible on the outside, cut to a plunge between the cups with the lace panel over each cup left as open work, closing at the centre front with a row of small antique gold hooks and shaping the waist to a deep point over each hip bone, with six integrated garter straps hanging from its lower edge; beneath it a dusty rose silk thong, its front a slim tapered panel of lace and its back a single fine cord, worn UNDER the six straps; sheer rose-tinted seamed stockings, 15 denier, with a straight back seam, clipped to the six straps at mid-thigh; over both a floor-length open peignoir in dusty rose silk gauze, left open and falling loose off one shoulder, its fabric an unlined translucent weave, with wide bell-shaped cuffs at the wrist and a thin sash tied loosely at the waist so the peignoir never closes; bare hands, no gloves; a fine antique gold chain at the throat with a single baroque pearl and matching pearl drop earrings; fingernails: almond-shaped, filed short of the fingertip and lacquered in pale rose; 12cm stiletto Mary Jane pump with a delicate ankle strap, in dusty rose patent leather, closed pointed toe, a red lacquered sole
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look88_rosa_polvo_y_gasa_el_vestidor_a_medianoche/anais_L88_standing.png) | [📸 View](../../../05_Imagenes/anais/look88_rosa_polvo_y_gasa_el_vestidor_a_medianoche/anais_L88_back_view.png) | [📸 View](../../../05_Imagenes/anais/look88_rosa_polvo_y_gasa_el_vestidor_a_medianoche/anais_L88_seated.png) | [📸 View](../../../05_Imagenes/anais/look88_rosa_polvo_y_gasa_el_vestidor_a_medianoche/anais_L88_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look88_rosa_polvo_y_gasa_el_vestidor_a_medianoche/anais_L88_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look88_rosa_polvo_y_gasa_el_vestidor_a_medianoche/anais_L88_pov.png) | [📸 View](../../../05_Imagenes/anais/look88_rosa_polvo_y_gasa_el_vestidor_a_medianoche/anais_L88_odalisque.png) |
 
 ### 1. Standing
 ```text
@@ -5469,11 +5469,11 @@ a dusty rose sheer corselette in French lace over fine silk tulle as the central
 an antique bronze silk-satin balconette bra with wide-set moulded cups cut low and horizontal across the bust, a narrow band beneath and fine bronze straps set wide on the shoulder, the upper edge of each cup finished with a band of bronze French lace; a matching antique bronze silk thong, its front a slim tapered panel and its back a single fine cord, worn UNDER a bronze silk suspender belt sitting on the natural waist with six taut straps; sheer bronze-tinted stockings, 15 denier, clipped to the six straps at mid-thigh; over the shoulders a short capelet of dark sable fur fastened at the throat with a single bronze clasp, falling to just below the collarbone and leaving the bust and waist entirely in view; bronze silk gloves reaching the wrist, closed at the fingers; a fine bronze chain at the throat and long faceted citrine drop earrings; 12cm mid-calf stiletto boot ending below the knee, in dark bronze patent leather, closed pointed toe, a red lacquered sole
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (1/7 — Parcial)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look89_marta_cibelina_y_bronce_en_la_biblioteca/anais_089_standing.png) | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
 
 ### 1. Standing
 ```text
@@ -5587,11 +5587,11 @@ a black patent leather overbust corset as the central piece, with visible spiral
 a one-piece bodysuit in fine deep emerald Leavers lace, its cups SOFT and unstructured with no boning and no moulding anywhere, shaped only by a scalloped lace edge that runs into a deep V at the centre front, thin emerald satin straps set narrow on the shoulder, the lace over the ribs worked as open filigree and the back left bare to the waist beneath two fine crossing straps; over it a floor-length sheer emerald lace skirt falling straight from a narrow satin waistband, its fabric an unlined open lace worked in the same Leavers pattern, with no slit; its crotch cut as a thong, the front a narrow tapered panel of solid lace and the back a single fine cord; over it a floor-length astrakhan coat in dense black curled fur worn fully open and pushed back off both shoulders, its wide shawl collar falling to the waist and its sleeves reaching the wrist; bare legs, no hosiery and no suspender belt; bare hands, no gloves; a fine emerald silk ribbon at the throat tied at the side and long faceted emerald drop earrings; fingernails almond-shaped, filed short of the fingertip and lacquered in pale antique gold; 12cm T-strap stiletto sandal in black patent leather, open toe, a red lacquered sole
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Sovereign Gaze | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/anais/look91_encaje_esmeralda_y_astracan/anais_L91_standing.png) | [📸 View](../../../05_Imagenes/anais/look91_encaje_esmeralda_y_astracan/anais_L91_back_view.png) | [📸 View](../../../05_Imagenes/anais/look91_encaje_esmeralda_y_astracan/anais_L91_seated.png) | [📸 View](../../../05_Imagenes/anais/look91_encaje_esmeralda_y_astracan/anais_L91_side_profile.png) | [📸 View](../../../05_Imagenes/anais/look91_encaje_esmeralda_y_astracan/anais_L91_sovereign_gaze.png) | [📸 View](../../../05_Imagenes/anais/look91_encaje_esmeralda_y_astracan/anais_L91_pov.png) | [📸 View](../../../05_Imagenes/anais/look91_encaje_esmeralda_y_astracan/anais_L91_odalisque.png) |
 
 ### 1. Standing
 ```text

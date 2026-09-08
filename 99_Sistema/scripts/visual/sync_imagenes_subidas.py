@@ -191,9 +191,66 @@ def insertar_seccion(block, nueva):
             return block[:m.start()] + nueva + block[m.start():]
     return block.rstrip("\n") + "\n\n" + nueva
 
+def _escribir_preservando_eol(ruta, original_raw, nuevo_lf):
+    """Escribe `nuevo_lf` en `ruta` SIN tocar los finales de linea de las lineas
+    que no cambiaron.
+
+    Por que existe (09/09/2026). Este script leia con `open(...)` en modo texto
+    —que traduce CRLF a LF al leer— y escribia con el default de la plataforma.
+    Resultado medido: una correccion real de 9 lineas en los trackers de L829,
+    L831 y L832 salio como **42.495 lineas insertadas y 42.495 borradas**, o sea
+    el archivo entero reescrito por churn de EOL. Es exactamente lo que CLAUDE.md
+    prohibe ("nunca `git add -A`... crea churn de EOL espurio"), solo que aqui lo
+    generaba el propio script, no el `add`.
+
+    Y `galeria_outfits.md` esta en **EOL mixto**: 42.470 lineas CRLF y 25 con LF
+    pelado. Por eso no sirve normalizar a un solo terminador —eso deja 25 lineas
+    de ruido— ni deducir "el dominante". Se alinea linea a linea contra el
+    original y cada linea sin cambios conserva SU terminador, byte a byte; las
+    lineas nuevas o modificadas toman el terminador dominante del archivo.
+    """
+    import difflib
+
+    def _partir(txt):
+        return txt.split("\n")
+
+    orig_lineas = _partir(original_raw)
+    nuevas = _partir(nuevo_lf)
+
+    def _contenido(l):
+        return l[:-1] if l.endswith("\r") else l
+
+    def _fin(l):
+        return "\r" if l.endswith("\r") else ""
+
+    # El ultimo elemento del split es lo que va DESPUES del salto final (casi
+    # siempre ""), no una linea: no vota el dominante.
+    votantes = orig_lineas[:-1] if orig_lineas and orig_lineas[-1] == "" else orig_lineas
+    con_cr = sum(1 for l in votantes if l.endswith("\r"))
+    dominante = "\r" if votantes and con_cr * 2 > len(votantes) else ""
+
+    orig_cont = [_contenido(l) for l in orig_lineas]
+    sm = difflib.SequenceMatcher(None, orig_cont, nuevas, autojunk=False)
+    salida = []
+    for tag, i1, i2, j1, j2 in sm.get_opcodes():
+        if tag == "equal":
+            salida.extend(orig_lineas[i1:i2])
+        elif tag in ("replace", "insert"):
+            # Una linea EDITADA en su sitio hereda el terminador de la linea que
+            # reemplaza —mas fiel que el dominante en un archivo de EOL mixto—;
+            # solo las que sobran (insercion real) caen al dominante.
+            viejas = orig_lineas[i1:i2]
+            for k, n in enumerate(nuevas[j1:j2]):
+                salida.append(n + (_fin(viejas[k]) if k < len(viejas) else dominante))
+        # "delete": no se emite nada
+    with io.open(ruta, "w", encoding="utf-8", newline="") as f:
+        f.write("\n".join(salida))
+
+
 def actualizar_galeria():
-    with open(GALERIA, encoding="utf-8") as f:
-        content = f.read()
+    with io.open(GALERIA, encoding="utf-8", newline="") as f:
+        content_raw = f.read()
+    content = content_raw.replace("\r\n", "\n").replace("\r", "\n")
     parts = re.split(r"(?=^## .*?Look \d+:)", content, flags=re.MULTILINE)
     out, actualizados, rutas_corregidas = [], [], []
     # La sección 📸 va desde su heading hasta el siguiente heading (##/###) o hasta el primer
@@ -264,8 +321,7 @@ def actualizar_galeria():
             f"   (prompts, fichas, negativos)  antes={antes}  después={despues}")
 
     if nuevo != content:
-        with open(GALERIA, "w", encoding="utf-8") as f:
-            f.write(nuevo)
+        _escribir_preservando_eol(GALERIA, content_raw, nuevo)
     return actualizados, rutas_corregidas
 
 # ---------------------------------------------------------------------------

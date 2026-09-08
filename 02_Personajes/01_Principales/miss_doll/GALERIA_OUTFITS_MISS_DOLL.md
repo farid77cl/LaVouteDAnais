@@ -5498,11 +5498,11 @@ hyper-realistic high-end editorial glamour photography of Miss Doll, adult glamo
 an oxblood high-gloss vinyl wrap miniskirt, the outer panel crossing the front and fastening on the left hip under a flat rose-gold plate, its band low on the hip bones and its hem high on the thigh, a neon pink vinyl line run the length of the wrap edge; above it an oxblood liquid-latex longline bra, cups moulded into a deep plunge over a broad band that reaches the lower ribs, straps crossing high at the shoulders and a neon pink ring where the cups meet; a thong in oxblood vinyl under the skirt, front narrowed to a panel and back a single cord; legs uncovered, no hosiery; a narrow rose-gold band at the throat with no lettering, rose-gold bands on both wrists, long faceted garnet drops at the ears; eyes in gunmetal graphite shimmer smoke, mouth in high-gloss blackened cherry; nails long and stiletto-cut, lacquered glossy neon pink; open-toe platform stiletto sandals in oxblood patent vinyl, 16cm razor-thin rose-gold needle heel plus a 6-inch oxblood platform, open square toe, doubled oxblood ankle straps with rose-gold pin buckles, and a hot pink neon mirrored sole edge
 ```
 
-### 📸 Imágenes (0/7 — Pendiente)
+### 📸 Imágenes (7/7 — Completo)
 
 | Standing | Back View | Seated | Side Profile | Glacial Command | POV | Odalisque |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente | ⏳ Pendiente |
+| [📸 View](../../../05_Imagenes/miss_doll/look89_oxblood_y_neon_la_sala_al_cierre/miss_doll_089_standing.png) | [📸 View](../../../05_Imagenes/miss_doll/look89_oxblood_y_neon_la_sala_al_cierre/miss_doll_089_back_view.png) | [📸 View](../../../05_Imagenes/miss_doll/look89_oxblood_y_neon_la_sala_al_cierre/miss_doll_089_seated.png) | [📸 View](../../../05_Imagenes/miss_doll/look89_oxblood_y_neon_la_sala_al_cierre/miss_doll_089_side_profile.png) | [📸 View](../../../05_Imagenes/miss_doll/look89_oxblood_y_neon_la_sala_al_cierre/miss_doll_089_glacial_command.png) | [📸 View](../../../05_Imagenes/miss_doll/look89_oxblood_y_neon_la_sala_al_cierre/miss_doll_089_pov.png) | [📸 View](../../../05_Imagenes/miss_doll/look89_oxblood_y_neon_la_sala_al_cierre/miss_doll_089_odalisque.png) |
 
 ### 1. Standing
 ```text
