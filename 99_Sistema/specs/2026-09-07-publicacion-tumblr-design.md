@@ -620,3 +620,28 @@ blog, y un blog reportado no tiene alcance que optimizar.
 legacy `post/edit`. La ruta NPF `posts/<id>` devuelve `404 Minor hiccup` aunque el post exista y la
 firma sea válida; probado en vivo, en ese orden. Antes se venía reprogramando borrando y
 recreando el post entero con su imagen — caro y con ventana de pérdida entre la baja y el alta.
+
+### ADENDA 8.1 · Seguir y dar like salen con el nombre de la cuenta, no del blog
+
+**Medido el 08/09/2026, con un solo follow de prueba y deshecho enseguida.** La Ama autorizó
+engagement acotado (seguir + like en el nicho). Se probó con un blog: la cuenta pasó de 67 a 68
+seguidos, y el `following` que creció es el de **`bdsmeros-cl`** — `user/info` devuelve
+`name: bdsmeros-cl`, con `lavoutedeanais` como `primary: false`.
+
+**Por qué importa:** al otro lado llega *«bdsmeros-cl empezó a seguirte»*. Es la **misma fuga de
+marca** que la Ama apagó esa misma mañana con el «By bdsmeros-cl» de la búsqueda pública — solo
+que aquella tenía un ajuste (`Show author portraits`) y **esta no tiene ninguno**: `/v2/user/follow`
+y `/v2/user/like` aceptan solo `url`/`id`, sin parámetro de blog de origen, porque en Tumblr el
+grafo social cuelga de la **cuenta**.
+
+| Acción | ¿Sale como Anaïs? |
+|---|---|
+| Publicar, programar, editar, taguear | ✅ sí — van a `blog/lavoutedeanais` |
+| Seguir · dar like | ❌ no — salen como `bdsmeros-cl` |
+| Leer la línea base del blog | ✅ sí |
+| `blog/lavoutedeanais/following` | ⛔ HTTP 403 — el grafo no es del blog |
+
+**Consecuencia de diseño:** mientras `bdsmeros-cl` sea la cuenta primaria, **La Voûte puede
+publicar pero no puede saludar**. El engagement queda o en manos de la Ama a mano (cambiando de
+blog en la app), o detrás de la mudanza a cuenta propia — que hasta hoy figuraba como *opcional*
+y ahora tiene un precio concreto asociado. Decisión suya, en la Mesa (`bdsmeros-primario`).
