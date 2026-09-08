@@ -130,21 +130,28 @@ THAT SHAPE - pulled taut, clinging, following every curve - so the silhouette re
 across the room.
 
 Vertical pin-up panel, 4:5 portrait, glamorous and sensual. She is up on her knees in the
-middle of a bed, thighs apart and sunk into the mattress, spine arched hard so the chest
-lifts high and the waist hollows, hips rolled back. ONE HAND IS PRESSED FLAT AND SPREAD
-OVER HER OWN CHEST, the long pearl nails sunk slightly into the flesh; the other arm reaches
-back to brace on the sheets, which pulls that shoulder open and lifts the chest further. Her
-chin is down, her eyes lifted straight to the viewer, wide and dark, lips apart, breathing
-fast. Blonde hair is stuck across her cheek and caught at the corner of her mouth.
+middle of a bed, TURNED THREE-QUARTERS TO THE CAMERA and rocked back onto her heels, thighs
+apart, spine ARCHED HARD so the chest lifts high and the waist hollows and the hip rolls
+back. THE WHOLE LINE OF HER FIGURE - chest, waist, hip - MUST READ CLEAR AGAINST THE
+BACKGROUND and nothing may cross it or hide it. One hand is laid flat and spread HIGH AT THE
+BASE OF HER THROAT, at the collarbone, the long pearl nails against her skin, the arm held
+away from her body so it does not cover her; the other arm reaches back to brace on the
+sheets, which pulls that shoulder open and lifts the chest further. Her chin is down, her
+eyes lifted straight to the viewer, wide and dark, lips apart, breathing fast, the brows
+drawn - she has just understood something. Blonde hair is stuck across her cheek and caught
+at the corner of her mouth.
 
-SHE IS WEARING a thin liquid silk slip in warm ivory - worn on her body, opaque, clinging -
-VERY SHORT and now rucked up to the top of the thigh by her kneeling. BOTH STRAPS HAVE SLID
-DOWN HER ARMS and the front of the silk is held up ONLY by the hand pressed to her chest.
+SHE IS WEARING a thin liquid silk slip in warm ivory - worn on her body, opaque, clinging,
+pulled TAUT over the chest and the waist by the arch - VERY SHORT and now rucked up to the
+top of the thigh by her kneeling. BOTH STRAPS HAVE SLID DOWN HER ARMS and hang on them, and
+the front of the silk is held up only by the arch of her body.
 
-FRAMING: the camera is at mattress level, below her and very close, so she towers and FILLS
-the panel edge to edge.
+FRAMING: the camera is DOWN AT MATTRESS LEVEL, below her and very close, LOOKING UP at her,
+so she towers over the lens and FILLS the panel from edge to edge - her hair touches the top
+border and her knees the bottom one.
 
-BACKGROUND, ONE FLAT SHAPE: a band of halftone wall. No furniture, no lamp, no window.
+BACKGROUND, ONE FLAT SHAPE: a band of halftone wall. No headboard, no pillow, no furniture,
+no lamp, no window - nothing else is in the picture.
 
 MOOD: the first second of understanding that the body answering is not the one she went to
 sleep in - and that it answers beautifully.

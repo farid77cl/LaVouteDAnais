@@ -351,3 +351,23 @@ def crear_borrador_con_imagen(texto: str, tags: list[str], ruta_git: str,
         errs = resp.get("errors") or resp.get("response", {}).get("errors")
         raise SystemExit(f"❌ HTTP {r.status_code} — {msg}\n   {json.dumps(errs, ensure_ascii=False)[:400]}")
     return resp.get("response", resp)
+
+
+def reprogramar(post_id: str, publish_on: str, cred: dict | None = None) -> dict:
+    """Cambia la fecha de un post en cola SIN borrarlo ni volver a subir la imagen.
+
+    Medido el 08/09/2026, porque la Mesa decía «día por medio» y la cola estaba en uno al
+    día. Hasta ese momento se venía reprogramando a lo bruto —borrar el post y recrearlo
+    entero, imagen incluida—, que además de caro arriesga quedarse sin el post si el alta
+    falla después de la baja.
+
+    ⚠️ La ruta es la **legacy** `post/edit`, no la NPF `posts/<id>`: esa última devuelve
+    404 «Minor hiccup» aunque el post exista y la firma sea válida. Probado en vivo, en ese
+    orden. Si algún día NPF acepta la edición parcial, este cuerpo se puede cambiar; el
+    contrato de esta función no.
+
+    NO publica: `state` se queda en `queue`. Vale el mismo motivo que arriba — la Ama
+    etiqueta y publica con el dedo.
+    """
+    return post_json(f"blog/{BLOG}/post/edit",
+                     {"id": post_id, "state": "queue", "publish_on": publish_on}, cred)
