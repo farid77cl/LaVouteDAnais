@@ -6,6 +6,33 @@
 
 ---
 
+## 0. ✅ La receta — el orden de un prompt de publicación
+
+> 📌 **Esto es lo que se lee antes de escribir un prompt.** Todo lo de abajo es el porqué de
+> cada línea; acá está el qué, en orden. **Un prompt al que le falte un bloque está incompleto**,
+> aunque los demás estén perfectos.
+
+| # | Bloque | De dónde sale |
+|---|---|---|
+| 1 | **BLOQUE ESTILO**, verbatim de la valla `ADN:BLOQUE_ESTILO` | §2 — nunca se reescribe |
+| 2 | **BLOQUE PERSONAJE** — la figura **declarada** en proporción pin-up, idéntico en todas las imágenes del mismo relato | §10.1 |
+| 3 | **La escena**: al menos **tres palancas** de postura + al menos **una** de insinuación | §9 y §10 |
+| 4 | **`SHE IS WEARING …`** — la prenda **copiada del capítulo**, con corte, color y largo | §3 (candado) + §10.1 |
+| 5 | **`FRAMING:`** — dónde está la cámara y qué llena el panel | §3 `CAMERA_FIRST` · §3.1 si algo tapa |
+| 6 | **`BACKGROUND, N FLAT SHAPES:`** — dos o tres formas planas, nunca la pieza entera | §10 ley 1 |
+| 7 | **`MOOD:`** — una línea que **no** se pueda describir con «compuesta» | §9 |
+
+**El checklist, antes de entregárselo a la Ama:**
+
+- [ ] ¿Dice **qué cuerpo** dibujar? Si no, sale la figura por defecto del generador — flaca y neutra
+- [ ] ¿El vestuario está **releído del capítulo**? Corte, color y largo, no de memoria
+- [ ] ¿La figura **llena el panel**, o hay una pieza con una mujer adentro?
+- [ ] ¿Hay algún **color fuera de la paleta**? (§2.1 — `grey`, `blue`, `green`, `white` de ambiente)
+- [ ] ¿Algún **token vetado**? (§4 y §4.2)
+- [ ] ¿El prompt está **entero**, sin `[copiar de arriba]`? La Ama copia una vez y pega
+
+---
+
 ## 1. De dónde sale
 
 > 📌 **El original va acá:** `01_Canon/Guias_Especializadas/referencia_estilo_comic_pop_v1.png`, al lado de este archivo, para que el estilo y su referencia viajen juntos. ⏳ **La sube la Ama** (comprometida el 07/09/2026). Mientras no esté, este estilo está congelado sobre un original que no se puede volver a verificar. (La ruta va en código y no como enlace **a propósito**: un enlace a un archivo que todavía no existe es un link roto, y la meta de `lint_higiene_repo.py` es 0. Se convierte en enlace cuando la imagen entre.)
@@ -133,7 +160,7 @@ Gemini no entrega 2:3 ni 3:1 — se pide el ratio cercano y se recorta.
 
 ---
 
-## 6. 🔥 Los candados son anti-DESNUDO, no anti-CALOR (Ama 08/09/2026)
+## 9. 🔥 Los candados son anti-DESNUDO, no anti-CALOR (Ama 08/09/2026)
 
 > *"le falta sensualidad a las imágenes, si elegí ese estilo es para darle ese estilo antiguo
 > pinup, pero sensual… yo sé que hay filtros de seguridad, pero están bien fomes tus imágenes"*
@@ -170,7 +197,7 @@ figura, le cambia la postura.**
 nunca puede leerse como *tranquila, correcta o indiferente*. Si el mood se puede describir con
 «compuesta», el prompt está frío y se reescribe antes de generar.
 
-### 6.1 🖼️ Y el panel tiene que llenar el marco
+### 9.1 🖼️ Y el panel tiene que llenar el marco
 
 Mismo día, defecto aparte: el prompt del Cap 1 salió como **una tira angosta flotando en el centro**
 con dos franjas de fondo vacío a los lados — en el feed se lee diminuta. Añadido al BLOQUE ESTILO:
@@ -250,7 +277,7 @@ Mismo truco sirve para día/noche, dentro/fuera, antes/después: **pálido contr
 
 ---
 
-## 7. 🔥 Es un PIN-UP, no una ilustración de escena (Ama 08/09/2026)
+## 10. 🔥 Es un PIN-UP, no una ilustración de escena (Ama 08/09/2026)
 
 Tres correcciones suyas el mismo día, seguidas, y las tres apuntan al mismo defecto:
 
@@ -291,7 +318,7 @@ prompt te aviso; si no, hazlo lo más caliente posible»*. **La cautela no es un
 escribe al máximo, ella reporta el rebote, y recién ahí se baja un escalón — con el orden de
 sospecha de §4.2 en la mano.
 
-### 7.1 💃 El CUERPO también se declara — la postura sola no basta (Ama 08/09/2026)
+### 10.1 💃 El CUERPO también se declara — la postura sola no basta (Ama 08/09/2026)
 
 > *"trata de ser más picante con el vestuario y con el cuerpo, sobre todo en este relato, el
 > cuerpo acá es parte importante del relato"*
@@ -322,3 +349,21 @@ y la prenda se copia de ahí — corte, color y largo incluidos.
 
 > 📌 **Regla:** un prompt de publicación sin BLOQUE PERSONAJE con la figura declarada está
 > incompleto, aunque tenga las tres palancas de §6.
+
+### 10.2 📐 Lo que la portada aprobada probó y lo que no (08/09/2026)
+
+**Aprobada por la Ama** — *«la portada ya quedó mejor»*— la primera imagen de «La Piel que Diseñé»
+generada con §10.1 puesto. Vale como calibración, no como opinión:
+
+| Lo que se pidió | Qué llegó |
+|---|---|
+| Figura declarada en proporción pin-up | ✅ **Es el cambio que la salvó.** Misma pose que la tanda fría; el cuerpo declarado es la diferencia |
+| Panel de borde a borde | ✅ |
+| Tirante caído · ruedo subido · uñas a la cara · mirada al espectador | ✅ las cuatro |
+| Paleta de cinco colores | ✅ oro viejo, marfil y borgoña, sin fugas |
+| `one high-heeled mule hanging off her toes` | ❌ **dibujó el zapato puesto y calzado.** La palanca del zapato (§9) es la más débil de todas: si se usa, va **sola en su frase** y con el pie declarado |
+| `BACKGROUND, TWO FLAT SHAPES ONLY` | ⚠️ llegaron cuatro (velador, traje, respaldo, almohada). Tolerable acá, pero el «ONLY» **no manda solo**: conviene decir además `nothing else is in the picture` |
+
+> 🎯 **La conclusión que se lleva a los próximos relatos:** entre la tanda fría y esta no cambió el
+> estilo, ni la paleta, ni la pose. Cambió **que el prompt dijo qué cuerpo dibujar**. Es la línea de
+> mayor rendimiento de toda esta guía.
