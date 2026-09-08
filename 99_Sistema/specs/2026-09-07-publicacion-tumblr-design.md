@@ -580,3 +580,43 @@ llaves nuevas, seguidores desde cero).
 
 Avatar · header · tema del blog *(sin endpoint, verificado 07/09)* · **la community label de cada
 post** *(§2)* · publicar.
+
+---
+
+## ADENDA 8 · Los tags medidos, y la línea base real del blog (08/09/2026, 21:40)
+
+**Medido, no leído.** Línea base con la cola ya cargada y **antes** del primer post programado:
+
+| | |
+|---|---|
+| Seguidores | **0** |
+| Posts publicados | **0** (los 5 están en cola) |
+| Descripción | vacía |
+| `ask` / `submissions` | **false** — nadie puede escribirle |
+| Avatar | ✅ puesto, 512×512 |
+
+### Ritmo real de cada tag
+
+Medido con `/v2/tagged` sobre 20 posts por tag. **Ese endpoint miente sobre los posts propios**
+(ADENDA 4), pero sirve para medir a los demás, que es lo que hace falta acá.
+
+| Vivos (posts/hora) | | Bloqueados de plano |
+|---|---|---|
+| `hypnosis` 2,7 · `smut` 2,6 · `mind control` 0,9 | `transformation` 0,5 · `corruption kink` 0,4 · `brainwashing` 0,4 · `tf` 0,4 | `bimbo` · `erotica` · `femsub` · `erotic fiction` · `bimbofication` · `nsfw writing` · `spanish erotica` |
+| `Santiago` 0,3 · `hypnokink` 0,2 | `dumbification` 0,1 · `bimbo training` 0,1 | **Patrón:** mientras más directa la palabra, más probable que esté cerrada |
+
+**🇪🇸 El hallazgo caro: los tags en español están muertos.** `ControlMental` — último post hace
+**184 días**. `Sumisión` — 19 días. `Bimboficación`, `EróticaChilena`, `relatos eroticos`,
+`erotica en espanol` — **cero**. Y los cinco posts en cola los llevaban **de primeros**.
+Corregido el mismo día: adelante los ocho vivos, atrás los de navegación de la Ama.
+
+**Lo que NO se hizo, a propósito:** meter `hypnosis` en «Café con Piernas» por ser el tag de más
+tráfico. Ese relato no es hipnosis. Taguear de mentira es exactamente lo que hace que reporten un
+blog, y un blog reportado no tiene alcance que optimizar.
+
+### Y una vía nueva: reprogramar sin borrar
+
+`tumblr_api.reprogramar()` — la fecha y los tags de un post en cola **se editan** por la ruta
+legacy `post/edit`. La ruta NPF `posts/<id>` devuelve `404 Minor hiccup` aunque el post exista y la
+firma sea válida; probado en vivo, en ese orden. Antes se venía reprogramando borrando y
+recreando el post entero con su imagen — caro y con ventana de pérdida entre la baja y el alta.
