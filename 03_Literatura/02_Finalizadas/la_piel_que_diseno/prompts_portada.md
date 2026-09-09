@@ -14,16 +14,16 @@
 `#BodySwap` `#CreadordaCreación` `#TransformaciónForzada` `#MTF` `#Femdom` `#CuckoldInverso` `#Sumisión` `#DeseoVsIdentidad` `#IdentidadFluida` `#BodyHorror` `#StripClub` `#PrimeraPersona` `#DiseñoComoArma` `#LaVoûtedAnaïs`
 
 ### Capítulo 1 — El Despertar
-`#BodySwap` `#PánicoCorporal` `#ElCreadorDentro` `#Implantes` `#DeseoSinPermiso` `#Despertar` `#EspejoQueNoMiente`
+`#corruption kink` `#body swap` `#genderswap` `#transformation` `#tf` `#smut` `#LaVoûtedAnaïs` `#LaPielQueDiseñé` `#ElDespertar`
 
 ### Capítulo 2 — El Postre
-`#Femdom` `#InversionDePoder` `#SalónDeBelleza` `#CuckoldInverso` `#Anuncio` `#ElCuerpoQueYoCompré` `#Humillación`
+`#corruption kink` `#body swap` `#genderswap` `#bimbo training` `#transformation` `#tf` `#smut` `#LaVoûtedAnaïs` `#LaPielQueDiseñé` `#ElPostre`
 
 ### Capítulo 3 — El cuerpo que sabe
-`#StripClub` `#PrimeraActriz` `#DisfrazDeOro` `#VosPagabas` `#Pole` `#ElEspectáculoEresVos` `#Capitulación`
+`#corruption kink` `#body swap` `#genderswap` `#bimbo training` `#transformation` `#tf` `#smut` `#LaVoûtedAnaïs` `#LaPielQueDiseñé` `#ElCuerpoQueSabe`
 
 ### Capítulo 4 — La primera bailarina
-`#RendiciónTotal` `#LaCabezaQueYaNoRecuerda` `#VerbalDeseo` `#CuerpoMandando` `#IdentidadDisuelta` `#Mañana`
+`#corruption kink` `#body swap` `#genderswap` `#dumbification` `#transformation` `#tf` `#smut` `#LaVoûtedAnaïs` `#LaPielQueDiseñé` `#LaPrimeraBailarina`
 
 ---
 

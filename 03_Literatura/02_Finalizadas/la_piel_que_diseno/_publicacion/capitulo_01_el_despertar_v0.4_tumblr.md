@@ -1,4 +1,14 @@
-# El despertar
+![Portada](05_Imagenes/historias/la_piel_que_diseno/portada_la_piel_que_diseno.jpg)
+
+**«El despertar» — Capítulo 1**
+
+Aprobó esas uñas por mensaje, un jueves cualquiera, entre dos reuniones. Nude perlado, las francesas no. Le pareció fino.
+
+Esta mañana son las suyas, y con ellas intenta arrancar de su rodilla una mano que hasta ayer fue su mano. Las uñas resbalan. No tienen dónde anclar.
+
+*«Yo aprendí en este cuerpo a esperar con la boca abierta. Me costó años. A ti te lo voy a enseñar en una mañana.»*
+
+Todo esto pasa antes del desayuno, en una pieza que él pagó, frente a un espejo que él eligió. Y abajo el cuerpo ya contestó.
 
 <!-- more -->
 
@@ -271,3 +281,9 @@ O no.
 Porque debajo de la cabeza que peleaba, más abajo que las cuentas y los abogados y los planes, el hueco latía despacio, terco, todavía con hambre del orgasmo de hacía un rato, y latía sin pelear nada, sin negar nada, inclinado entero hacia el sábado como una planta hacia la luz. La cabeza decía *no se decide hoy*. El cuerpo no estaba esperando a decidir. El cuerpo ya sabía para qué lado iba, y solo aguardaba, paciente, a que la cabeza se cansara de buscar la puerta que no existía.
 
 Y yo, parada en mi propio escritorio con las tetas que elegí pesándome de lado y la firma que puse mirándome desde el papel, no sabía cuál de los dos —la cabeza de hombre que todavía decía no, o la carne de mujer que ya decía sí— iba a llegar primero al sábado.
+
+---
+
+**⚠️ +18 — Contenido explícito para adultos.** Ficción. Todos los personajes son mayores de edad y producto de la imaginación.
+
+#corruption kink #body swap #genderswap #transformation #tf #smut #LaVoûtedAnaïs #LaPielQueDiseñé #ElDespertar
