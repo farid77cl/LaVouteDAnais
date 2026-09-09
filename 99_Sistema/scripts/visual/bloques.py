@@ -127,6 +127,12 @@ class CampoFaltante(ValueError):
     """Un campo obligatorio del contrato no viene en el look."""
 
 
+class OverrideHuerfano(ValueError):
+    """Un `adn_overrides` busca un fragmento que ya no existe en ningún campo
+    de A. Se dice cuál: un override zombi pegado en silencio es la forma en
+    que un cambio de ADN deja de llegar a las imágenes sin que nadie lo vea."""
+
+
 class CampoDesconocido(ValueError):
     """El look declara un campo que el contrato no conoce. Se dice cuál y se
     sugieren los válidos: 'zapatos' no pasa en silencio cuando el campo es
@@ -208,6 +214,17 @@ class BloquesBuilder(PromptBuilder):
         # ---- A: la cerca por campos + las anclas de cuerpo (fotorrealismo)
         A = ({"cuerpo": self._limpiar(bloque_a)} if bloque_a
              else campos_a(self.slug, self.cfg))
+        # `adn_overrides` viaja EN EL LOOK y se aplica sobre el campo donde vive
+        # el fragmento (Miss Doll rota sombra y labios por look, §5.5). Mismo
+        # contrato que el motor viejo: ruidoso si el fragmento no existe.
+        for viejo, nuevo in (look.get("adn_overrides") or {}).items():
+            donde = [k for k, t in A.items() if t and viejo in t]
+            if not donde:
+                raise OverrideHuerfano(
+                    "adn_overrides busca %r y no está en ningún campo de A de '%s'. "
+                    "Actualiza el override o quítalo." % (viejo, self.slug))
+            for k in donde:
+                A[k] = A[k].replace(viejo, nuevo)
         # ---- B: los campos del look + las anclas de PRENDA que le tocan
         B = campos_b(look)
         texto_b = " ".join(B.values())
@@ -444,3 +461,21 @@ def repertorio_minimo(slug, base=None):
     rep["personajes"][slug] = {"slots": {k: [v] for k, v in neutras.items()},
                                "offsets": {k: 0 for k in neutras}}
     return rep
+
+
+# ======================================================================
+# La puerta elige el motor por flag, nunca por personaje
+# ======================================================================
+
+MOTORES = {"viejo": PromptBuilder, "bloques": BloquesBuilder}
+
+
+def builder_para(motor, slug, config=None, repertorios=None):
+    """El builder que le toca a `generar`. `motor=None` = el viejo, que sigue
+    siendo el default hasta que el A/B decida. Un nombre desconocido no pasa
+    en silencio: hoy `generar` ignora flags que no conoce, y un `--motor`
+    mal escrito habría emitido con el motor viejo sin decirlo."""
+    nombre = motor or "viejo"
+    if nombre not in MOTORES:
+        raise ValueError("motor desconocido: %r. Motores: %s" % (motor, ", ".join(MOTORES)))
+    return MOTORES[nombre](slug, config=config, repertorios=repertorios)

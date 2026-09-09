@@ -463,6 +463,62 @@ def test_config_con_personaje_no_toca_a_las_munecas_existentes():
     assert "prueba_x" not in base["personajes"], "el config real no se muta"
 
 
+# ======================================================================
+# TAREA 7 · outfit.py generar --motor bloques
+# ======================================================================
+# La puerta sigue siendo UNA (`generar`): rotación, color, cruce, lint y la
+# escritura de galería no cambian. Solo cambia qué builder ensambla. Sin el
+# flag, el motor viejo sigue siendo el default hasta que el A/B decida.
+
+def test_builder_para_elige_el_motor_por_flag_y_no_por_personaje():
+    cfg = PromptBuilder("ele").cfg
+    assert type(bloques.builder_para(None, "ele", cfg)) is PromptBuilder
+    assert type(bloques.builder_para("bloques", "ele", cfg)) is bloques.BloquesBuilder
+    try:
+        bloques.builder_para("turbo", "ele", cfg)
+        assert False, "un motor desconocido no puede pasar en silencio"
+    except ValueError as e:
+        assert "turbo" in str(e) and "bloques" in str(e)
+
+
+def test_build_honra_adn_overrides_por_campo():
+    """Miss Doll rota sombra y labios por look (§5.5): el override viaja EN EL
+    LOOK y se aplica sobre el campo de A donde vive el fragmento."""
+    pb = bloques.BloquesBuilder("ele")
+    original = bloques.campos_a("ele")["maquillaje_base"]
+    frag = "cool jade-green and smoky pewter"
+    assert frag in original, "el fixture depende del ADN real de Ele; si cambió, actualizar el fragmento"
+    look = dict(_LOOK, adn_overrides={frag: "warm copper and burnt umber"})
+    pb.build(None, look, "standing", None, _SETTING)
+    assert "warm copper and burnt umber" in pb.ultimo_por_bloque["A"]
+    assert frag not in pb.ultimo_por_bloque["A"]
+
+
+def test_build_falla_ruidoso_si_el_override_no_existe_en_A():
+    pb = bloques.BloquesBuilder("ele")
+    look = dict(_LOOK, adn_overrides={"texto que no está en ningún campo": "x"})
+    try:
+        pb.build(None, look, "standing", None, _SETTING)
+        assert False, "un override zombi no puede pegarse en silencio"
+    except bloques.OverrideHuerfano as e:
+        assert "texto que no está" in str(e)
+
+
+def test_generar_con_motor_bloques_emite_el_batch_real_y_reporta_por_bloque():
+    """Humo end-to-end sobre un batch REAL ya en galería (re-emitir es soportado):
+    exit 0, 7 fences por look, y el reporte de largo A/B/C por look."""
+    import subprocess, sys, os
+    aqui = os.path.dirname(os.path.abspath(__file__))
+    r = subprocess.run([sys.executable, os.path.join(aqui, "outfit.py"), "generar",
+                        os.path.join(aqui, "batches", "L828_L832_casa_fria.json"),
+                        "--motor", "bloques", "--stdout"],
+                       capture_output=True, text=True, encoding="utf-8",
+                       cwd=os.path.normpath(os.path.join(aqui, "..", "..", "..")))
+    assert r.returncode == 0, (r.stdout[-1500:], r.stderr[-1500:])
+    assert r.stdout.count("```text") == 5 * 7, r.stdout.count("```text")
+    assert "A=" in r.stderr + r.stdout and "C=" in r.stderr + r.stdout, "falta el reporte por bloque"
+
+
 def _correr():
     import traceback
     pruebas = [v for k, v in sorted(globals().items()) if k.startswith("test_")]

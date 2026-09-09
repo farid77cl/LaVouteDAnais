@@ -98,8 +98,21 @@ def _etiquetas(pb, cfg):
 
 def cmd_generar(args):
     if not args:
-        print("uso: outfit.py generar <batch.json> [--out <archivo.md>] [--stdout]")
+        print("uso: outfit.py generar <batch.json> [--out <archivo.md>] [--stdout] [--motor bloques]")
         return 2
+    # --motor <nombre> (09/09/2026): el motor de tres bloques se enchufa ACA, en
+    # la unica puerta. Todo lo demas de generar (rotacion, color, cruce, lint,
+    # escritura de galeria) no cambia. Sin el flag, el viejo sigue siendo el
+    # default hasta que el A/B decida.
+    motor = None
+    args = list(args)
+    if "--motor" in args:
+        i = args.index("--motor")
+        if i + 1 >= len(args):
+            print("--motor necesita un nombre: bloques")
+            return 2
+        motor = args[i + 1]
+        del args[i:i + 2]
     ruta = args[0]
     if not os.path.isabs(ruta):
         for base in (os.getcwd(), AQUI, RAIZ):
@@ -135,7 +148,11 @@ def cmd_generar(args):
 
     cfg = cargar_config()
     try:
-        pb = PromptBuilder(b["personaje"], cfg)
+        import bloques
+        pb = bloques.builder_para(motor, b["personaje"], cfg)
+    except ValueError as e:
+        print(str(e))
+        return 2
     except KeyError as e:
         print(str(e).strip('"'))
         print("   personajes registrados: %s" % ", ".join(cfg["personajes"]))
@@ -144,6 +161,7 @@ def cmd_generar(args):
 
     out = []
     n_prompts = 0
+    _largos_por_look = {}
     _expandidos = {}   # {look: {slot: prompt}} para el auditor de cierre
     for num in sorted(b["looks"], key=int):
         lk = b["looks"][num]
@@ -316,8 +334,14 @@ def cmd_generar(args):
                       "con el mobiliario real de su setting.")
                 return 1
             extra = [pb.orientacion_odalisque(int(num))] if slot in alterna else None
-            prompt = pb.build(adn, lk["bloque_b"], slot, pose, lk["setting"],
-                              extra_anclas=extra)
+            if motor == "bloques":
+                # El motor nuevo recibe el LOOK entero (campos_b o bloque_b, props,
+                # adn_overrides) y aplica los overrides por campo el mismo.
+                prompt = pb.build(None, dict(lk, numero=int(num)), slot, pose, lk["setting"],
+                                  extra_anclas=extra)
+            else:
+                prompt = pb.build(adn, lk["bloque_b"], slot, pose, lk["setting"],
+                                  extra_anclas=extra)
             fallas = pb.validar(prompt)
             if fallas:
                 print("  \U0001f534 Look %s / %s: %s" % (num, label, "; ".join(fallas)))
@@ -325,6 +349,16 @@ def cmd_generar(args):
             _expandidos.setdefault(num, {})[pb.normalizar_slot(slot)] = prompt
             n_prompts += 1
             out += ["### %d. %s" % (i + 1, label), "```text", prompt, "```", ""]
+            if motor == "bloques" and getattr(pb, "ultimo_reporte", None):
+                _rep = pb.ultimo_reporte
+                _largos_c = _largos_por_look.setdefault(num, [])
+                _largos_c.append(_rep["C"]["chars"])
+                if i == len(slots) - 1:
+                    # El largo se MIDE, no se impone: A y B son iguales en las 7,
+                    # C varia por pose. Va a stderr: el stdout es la galeria.
+                    print("  \U0001f4cf Look %s: A=%d B=%d C=%d-%d chars" % (
+                        num, _rep["A"]["chars"], _rep["B"]["chars"],
+                        min(_largos_c), max(_largos_c)), file=sys.stderr)
         out += ["**Negative Prompt:** `%s`"
                 % pb.build_negative(lk.get("negative_extra", b.get("negative_extra", "")),
                                     excluir=lk.get("negative_excluir", b.get("negative_excluir"))),
