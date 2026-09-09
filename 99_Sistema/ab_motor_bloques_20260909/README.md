@@ -65,6 +65,21 @@ siete rebotes*. Para declararlo ganado hacen falta las otras 6 poses, o el mismo
 repetido. **Hasta entonces el motor viejo sigue siendo el default** (`generar` sin flag), y
 así se queda escrito.
 
+### 🖼️ Las imágenes guardadas son MINIATURAS — no sirven para re-auditar
+
+`tanda1_viejo_ELE_L831_back_view_MINIATURA.png` y `tanda2_bloques_…_MINIATURA.png` están a
+**286×512 = 0,15 MP**. La app de la Ama sube a **669×1200 = 0,80 MP** (medido sobre
+`ele_831_back_view.png` del repo): **el chat las comprimió al llegar**.
+
+Están **por debajo del piso de auditoría** que este repo ya tiene escrito (~0,3 MP): a esa
+resolución *«no se ve el defecto»* significa *«no hay píxeles suficientes»*. Se guardan igual
+—son el registro de qué se comparó— pero **rotuladas**, y no valen como evidencia para juzgar
+detalle fino.
+
+**El veredicto de la Ama NO está afectado:** ella miró las suyas en su pantalla, a resolución
+completa. Lo que no se puede es re-auditarlas después desde estos archivos. Para eso harían
+falta las full-res subidas por su app.
+
 **Siguiente paso, cuando haya cuota:** las 6 poses restantes de las dos tandas, o repetir
 este Back View 2-3 veces para separar señal de varianza.
 
