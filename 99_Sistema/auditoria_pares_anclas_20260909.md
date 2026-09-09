@@ -296,3 +296,20 @@ esos de más habría podido introducir falsos positivos nuevos en el ancla de
 costura sin evidencia que lo pida; se corrigió solo el hueco medido. 160/160 tests.
 
 **8 hallazgos reales hoy.**
+
+## Noveno hallazgo real — la misma silueta perdía el candado por nombrarse distinto
+
+`COVERED_ARCHETYPES` (dispara `OPAQUE_LOCK`) tenía `catsuit` pero no `unitard` ni
+`jumpsuit` — la MISMA familia de arquitectura: el propio regex de M9
+(`arquitecturas_de_prenda`) los agrupa como equivalentes
+(`\bcatsuit\b|\bunitard\b|\bjumpsuit\b`). No es el caso de exclusión deliberada que
+ya documenta la lista (halter/bra/monokini/teddy — expuestos por diseño, on-brand):
+un jumpsuit o unitard es panel sólido de pierna completa igual que un catsuit.
+
+**Medido:** *"a full-length zip-up jumpsuit"* y *"a sheer black unitard"* no
+disparaban `OPAQUE_LOCK`, mientras la misma silueta nombrada *"catsuit"* sí. Ambas
+palabras aparecen 35-37 veces en cada galería — no es un caso raro. **Fix:**
+agregados `unitard`/`jumpsuit` a `COVERED_ARCHETYPES`. Verificado sin falsos
+positivos nuevos en el self-check de `garment_canon.py`. 162/162 tests.
+
+**9 hallazgos reales hoy.**

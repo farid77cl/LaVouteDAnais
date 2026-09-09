@@ -79,7 +79,14 @@ SEAMED = ["back-seam", "back seam", "seamed stocking", "seamed nylon", "seamed h
 COVERED_ARCHETYPES = ["corporate", "office", "executive", "power suit", "domme", "maid",
                       "gown", "gala", "catsuit", "coat-dress", "coat dress", "blazer", "tuxedo",
                       "shirt-dress", "column gown", "evening gown", "bodycon", "crop top", "crop-top",
-                      "palazzo", "bustier", "corselette", "corset", "bodystocking"]
+                      "palazzo", "bustier", "corselette", "corset", "bodystocking",
+                      # unitard/jumpsuit agregados 09/09/2026: son la MISMA familia que catsuit --
+                      # el propio regex de la arquitectura M9 los agrupa como equivalentes
+                      # ("catsuit|unitard|jumpsuit"), panel solido de pierna completa, no
+                      # strappy/expuesto por diseño (no son el caso que excluyo a teddy/monokini
+                      # arriba). Medido: "jumpsuit" y "unitard" no disparaban OPAQUE_LOCK mientras
+                      # "catsuit" si, la misma silueta perdiendo el candado por nombrarse distinto.
+                      "unitard", "jumpsuit"]
 
 # Familias de estampado ANIMAL cuya fidelidad hay que blindar (bug L764: python-print salio como
 # encaje/enredadera). Si el outfit las nombra, exige animal_print_lock(kind) pegado.

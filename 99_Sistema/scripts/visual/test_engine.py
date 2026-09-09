@@ -930,6 +930,15 @@ check("H7 · HOSIERY_LOCK dispara con 'tights' (antes no disparaba nada)",
       "HOSIERY_LOCK" in _pb_h.opt_in_de("sheer black polka-dot tights, no other legwear"),
       _pb_h.opt_in_de("sheer black polka-dot tights, no other legwear"))
 
+# H8 -- "unitard"/"jumpsuit" son la MISMA familia de arquitectura que "catsuit"
+# (el propio regex de M9 los agrupa como equivalentes) pero COVERED_ARCHETYPES
+# no los tenia -- la misma silueta perdia OPAQUE_LOCK por nombrarse distinto.
+check("H8 · un jumpsuit dispara OPAQUE_LOCK igual que un catsuit",
+      "OPAQUE_LOCK" in _pb_h.opt_in_de("a full-length zip-up jumpsuit in black vinyl, long sleeves"),
+      None)
+check("H8 · un unitard dispara OPAQUE_LOCK igual que un catsuit",
+      "OPAQUE_LOCK" in _pb_h.opt_in_de("a sheer black unitard covering the whole body"), None)
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))
