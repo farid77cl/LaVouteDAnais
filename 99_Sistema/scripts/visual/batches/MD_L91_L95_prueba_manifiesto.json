@@ -1,0 +1,98 @@
+{
+  "personaje": "miss_doll",
+  "fecha": "09/09/2026",
+  "batch": "Prueba de escala del manifiesto tipado -- 5 looks",
+  "rango": "91-95",
+  "categoria": "Prueba manifiesto",
+  "tags_comunes": ["#manifiesto"],
+  "looks": {
+    "91": {
+      "titulo": "Magenta Fashion Bondage en el Loft",
+      "polo": "VIP / Privado",
+      "concepto": "VIP/Privado en arnes de fashion bondage carbon black, arquitectura M5 -- primer look de la muneca por manifiesto tipado (color cambiado de magenta a carbon black: L90 ya es familia 'pink' y no puede ir pegado).",
+      "manifiesto": {"prendas": [
+        {"pieza": "M5_arnes", "color": "carbon black", "color_desc": "carbon black",
+         "material_desc": "soft-touch vinyl", "pieza_desc": "fashion body harness",
+         "descripcion": ", fine straps crossing above and below the bust to a small chrome O-ring at the sternum, a matching waist harness sitting low on the hips with a narrow front panel of the same vinyl"},
+        {"pieza": "M4_corseteria_tanga", "color": "carbon black", "color_desc": "carbon black",
+         "material_desc": "soft-touch vinyl", "pieza_desc": "g-string",
+         "descripcion": " worn under the harness, the sides pulled high on the hip by a small chrome ring, the back a single thin strip"},
+        {"descripcion": "a hot-pink neon garter clip pinned at the outer left thigh, her one nod to the signature pink; small chrome hoop earrings, nothing else at the throat"},
+        {"descripcion": "no hosiery this time, legs bare; hands ungloved throughout"},
+        {"descripcion": "stiletto-shaped nails at 5cm, a magenta chrome finish"},
+        {"descripcion": "closed pointed-toe platform stiletto pumps in black patent, 8-inch platform, chrome mirror finish on the platform edge, magenta undersole, a razor-thin metal needle heel"}
+      ]},
+      "setting": "a private loft with floor cushions and low industrial lighting",
+      "props": {"seat": "the low floor cushion", "wall": "the exposed brick wall",
+                "surface": "the steel side table", "upright": "the ceiling chain fixture"}
+    },
+    "92": {
+      "titulo": "Gunmetal Athletic en el Ring",
+      "polo": "Gym / Athletic",
+      "concepto": "Gym/Athletic en conjunto de vinilo gunmetal, arquitectura M8 -- deficit de silueta cubierta.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M8_pantalon_legging_top", "color": "gunmetal chrome", "color_desc": "gunmetal chrome",
+         "material_desc": "soft-touch vinyl", "pieza_desc": "cropped sports bra and matching leggings",
+         "descripcion": ", the bra cut low between the breasts and closed by a small chrome ring, the leggings riding high at the waist with a single hot-pink neon side stripe running the full length of each leg"},
+        {"descripcion": "a hot-pink neon wristband on the left wrist, her signature pink carried on the stripe and the band; small chrome studs at the ears"},
+        {"descripcion": "no hosiery under the leggings, none needed; hands ungloved"},
+        {"descripcion": "coffin-shaped nails at 5cm, a gunmetal chrome gloss"},
+        {"descripcion": "closed pointed-toe platform stiletto pumps in gunmetal patent, 8-inch platform, chrome mirror finish, black undersole, a razor-thin metal needle heel"}
+      ]},
+      "setting": "a private rooftop boxing ring at night, city skyline behind the ropes",
+      "props": {"seat": "the ring corner stool", "wall": "the ring ropes",
+                "surface": "the ring apron", "upright": "the corner post"}
+    },
+    "93": {
+      "titulo": "Champagne Editorial en el Estudio",
+      "polo": "Editorial / Portada",
+      "concepto": "Editorial/Portada en bodysuit de lavanda, arquitectura M1 -- deficit del arquetipo, raiz fashionista (M6 y M10 descartados por arquitectura repetida; color cambiado de champagne a lavanda porque L92 ya es familia 'metal' y no puede ir pegado).",
+      "manifiesto": {"prendas": [
+        {"pieza": "M1_bodysuit", "color": "lavender", "color_desc": "soft lavender",
+         "material_desc": "liquid lamé", "pieza_desc": "second-skin bodysuit",
+         "descripcion": ", a single asymmetric strap in hot-pink neon crossing the bare shoulder, the back cut to the base of the spine, the leg openings cut in a high g-string silhouette at the hip"},
+        {"descripcion": "a fine silver chain at the throat, a single hot-pink neon drop earring on the strapped side -- her signature pink carried in the strap and the earring"},
+        {"descripcion": "no hosiery, legs bare at the high-cut hip; hands ungloved"},
+        {"descripcion": "almond-shaped nails at 5cm, a lavender chrome finish"},
+        {"descripcion": "closed pointed-toe platform stiletto pumps in lavender patent, 8-inch platform, silver mirror finish, ivory undersole, a razor-thin metal needle heel"}
+      ]},
+      "setting": "a stark white cyclorama studio under hard editorial lighting",
+      "props": {"seat": "the white studio block", "wall": "the seamless white cyclorama",
+                "surface": "the white studio platform", "upright": "the studio light stand"}
+    },
+    "94": {
+      "titulo": "Oxblood Calabozo en la Reja",
+      "polo": "Calabozo / Dungeon",
+      "concepto": "Calabozo/Dungeon en catsuit de latex oxblood, arquitectura M9 -- raiz domme, sin rigging pesado.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M9_catsuit_unitard_jumpsuit", "color": "oxblood", "color_desc": "deep oxblood",
+         "material_desc": "liquid-finish latex", "pieza_desc": "second-skin catsuit",
+         "descripcion": ", a chrome front zip running from the throat to below the sternum and left half-open, a hot-pink neon piping tracing the side seam from underarm to ankle -- her one nod to the signature pink"},
+        {"descripcion": "a chrome chain choker at the throat, small chrome hoop earrings"},
+        {"descripcion": "no hosiery needed, the catsuit covers the legs; hands ungloved"},
+        {"descripcion": "stiletto-shaped nails at 5cm, an oxblood chrome gloss"},
+        {"descripcion": "closed pointed-toe platform stiletto pumps in black patent, 8-inch platform, chrome mirror finish, oxblood undersole, a razor-thin metal needle heel"}
+      ]},
+      "setting": "a private dungeon suite, wrought-iron bars and low red-tinted light",
+      "props": {"seat": "the leather bench", "wall": "the wrought-iron bars",
+                "surface": "the steel shelf", "upright": "the iron post"}
+    },
+    "95": {
+      "titulo": "Fuchsia Girly en el Salon",
+      "polo": "Girly Girl",
+      "concepto": "Girly Girl en dos piezas fucsia saturado, arquitectura M3 -- raiz Girly (saturado/brillo, nunca pastel).",
+      "manifiesto": {"prendas": [
+        {"pieza": "M3_lenceria_dos_piezas", "color": "fuchsia", "color_desc": "saturated fuchsia",
+         "material_desc": "high-gloss vinyl", "pieza_desc": "bralette and matching brief",
+         "descripcion": ", the bralette held by two thin straps and a small rose-gold ring at the sternum, the brief cut in a high-leg g-string with a rose-gold ring at each hip"},
+        {"descripcion": "a fuchsia neon choker at the throat and matching drop earrings -- signature pink at full saturation, never pastel"},
+        {"descripcion": "no hosiery, legs bare; hands ungloved"},
+        {"descripcion": "coffin-shaped nails at 5cm, a fuchsia chrome gloss"},
+        {"descripcion": "closed pointed-toe platform stiletto pumps in white patent, 8-inch platform, rose-gold mirror finish, fuchsia undersole, a razor-thin metal needle heel"}
+      ]},
+      "setting": "a glamorous pink-marble powder room, vanity lights framing the mirror",
+      "props": {"seat": "the vanity stool", "wall": "the pink-marble wall",
+                "surface": "the vanity counter", "upright": "the mirror frame"}
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "personaje": "ele",
+  "fecha": "09/09/2026",
+  "batch": "Prueba de escala del manifiesto tipado -- 5 looks",
+  "rango": "834-838",
+  "categoria": "Prueba manifiesto",
+  "tags_comunes": ["#manifiesto"],
+  "looks": {
+    "834": {
+      "titulo": "Gunmetal Boardroom en Vidrio",
+      "polo": "Corporate",
+      "concepto": "Corporate en pantalon-conjunto de latex de alto brillo, segunda arquitectura del dia por manifiesto tipado -- prueba de escala de la Fase 4/5 con la muneca base del motor.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M8_pantalon_legging_top", "color": "black", "color_desc": "deep black",
+         "material_desc": "high-gloss latex", "pieza_desc": "cropped peak-lapel blazer and matching fitted trousers",
+         "descripcion": ", the blazer worn with no shirt beneath and closed by a single gunmetal button at the sternum, the trousers riding high at the natural waist and skimming every line of the hip"},
+        {"descripcion": "a thin gunmetal chain belt resting low over the trousers, a matching gunmetal chain choker at the throat"},
+        {"descripcion": "no hosiery under the trousers, none needed; hands stay bare, gloves absent from the whole look"},
+        {"descripcion": "her XXXL French tips run 5cm, lacquered gunmetal-grey with a fleck of chrome catching the light"},
+        {"descripcion": "gunmetal patent stiletto pumps close over a sharp point, 14cm of razor-thin metal needle heel and no platform beneath it, a slim strap pinned at the ankle with a polished chrome buckle"}
+      ]},
+      "setting": "a glass-walled boardroom forty floors above the city at dusk",
+      "props": {"seat": "the boardroom chair", "wall": "the floor-to-ceiling glass wall",
+                "surface": "the long glass conference table", "upright": "the chair's backrest"}
+    },
+    "835": {
+      "titulo": "Sapphire Slip en el Vestier",
+      "polo": "Lencería",
+      "concepto": "Lenceria en slip dress de liquid lamie zafiro, arquitectura M10 -- cubre el registro de lenceria del dia con un material distinto al de L833.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M10_slip_dress_malla", "color": "sapphire", "color_desc": "deep sapphire blue",
+         "material_desc": "liquid lamé", "pieza_desc": "bias-cut slip dress",
+         "descripcion": ", thin double straps crossing low on the open back, a deep V neckline held by a small silver O-ring at the sternum, the hem cut high on the outer thigh"},
+        {"descripcion": "a fine silver chain anklet on the left ankle, small silver hoop earrings, nothing else at the throat"},
+        {"descripcion": "her legs stay entirely bare under the slip, no hosiery at all; gloves never enter this look, hands uncovered"},
+        {"descripcion": "the manicure is XXXL French at 5cm, a sapphire-blue lacquer flecked with silver chrome"},
+        {"descripcion": "mirrored silver patent sandals leave the toes open, 15cm of razor-thin needle heel with no platform to soften it, a thin strap crossing the ankle and pinned with a silver buckle"}
+      ]},
+      "setting": "a mirrored dressing room backstage before a runway call",
+      "props": {"seat": "the vanity stool", "wall": "the mirrored wall",
+                "surface": "the vanity counter", "upright": "the coat rack"}
+    },
+    "836": {
+      "titulo": "Oxblood Harness en el Estudio",
+      "polo": "Nightclub",
+      "concepto": "Nightclub en arnes de vinilo oxblood, arquitectura M5 -- deficit de silueta de piel, tercer material distinto del batch.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M5_arnes", "color": "oxblood", "color_desc": "oxblood red",
+         "material_desc": "high-gloss vinyl", "pieza_desc": "body harness",
+         "descripcion": ", a single strap rising between the breasts to a gunmetal O-ring at the collarbone, two more straps crossing the ribs and vanishing behind the spine, the hips wrapped by a matching vinyl waist belt that anchors a narrow front panel"},
+        {"pieza": "M4_corseteria_tanga", "color": "oxblood", "color_desc": "oxblood red",
+         "material_desc": "high-gloss vinyl", "pieza_desc": "thong",
+         "descripcion": " worn beneath the harness, the sides gathered high on each hip by a small gunmetal ring, the back reduced to a single thin strip"},
+        {"descripcion": "nothing covers her legs, no hosiery of any kind; her hands go bare, no gloves anywhere on her"},
+        {"descripcion": "a gunmetal chain choker circles the throat, echoed by matching gunmetal drop earrings"},
+        {"descripcion": "5cm XXXL French tips finished in glossy oxblood over a translucent black base"},
+        {"descripcion": "black patent platform sandals bare the toes, a 16cm razor-thin metal heel riding a 5-inch platform, a wide strap wrapped at the ankle and pinned with a gunmetal buckle"}
+      ]},
+      "setting": "a converted warehouse studio lit by a single industrial spotlight",
+      "props": {"seat": "the steel stool", "wall": "the raw concrete wall",
+                "surface": "the steel worktable", "upright": "the steel support column"}
+    },
+    "837": {
+      "titulo": "Violeta Eléctrico en la Suite",
+      "polo": "Alfombra Roja / Gala",
+      "concepto": "Gala en vestido de sirena de liquid lamie violeta, arquitectura M6 -- cuarto material/color distinto del batch, cubre deficit de Alfombra Roja.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M6_vestido_segunda_piel", "color": "violet", "color_desc": "electric violet",
+         "material_desc": "liquid lamé", "pieza_desc": "column gown",
+         "descripcion": ", a single asymmetric shoulder strap, the other shoulder bare, the back cut to the base of the spine and closed by a slim silver zipper pull shaped like a teardrop"},
+        {"descripcion": "a fine silver chain resting low across the collarbones, a single silver drop earring on the bare-shoulder side"},
+        {"descripcion": "the high side slit bares the leg beneath with no hosiery at all; her hands stay ungloved through every pose"},
+        {"descripcion": "5cm XXXL French tips, a violet lacquer catching a fleck of silver chrome"},
+        {"descripcion": "silver mirrored patent pumps close to a sharp point, 15cm of razor-thin needle heel and no platform, a slim strap at the ankle fastened with a silver buckle"}
+      ]},
+      "setting": "a private penthouse suite before the red carpet, floor-to-ceiling city lights behind her",
+      "props": {"seat": "the velvet chaise", "wall": "the floor-to-ceiling window",
+                "surface": "the marble console table", "upright": "the doorframe"}
+    },
+    "838": {
+      "titulo": "Chrome Editorial en el Cyclorama",
+      "polo": "High-Fashion Editorial",
+      "concepto": "High-Fashion Editorial en bodysuit de PVC cromo, arquitectura M1 -- cierra el batch con la quinta arquitectura y quinto color distintos (M9 descartado: ya usado por L830, el lote inmediatamente anterior).",
+      "manifiesto": {"prendas": [
+        {"pieza": "M1_bodysuit", "color": "chrome silver", "color_desc": "mirror-chrome silver",
+         "material_desc": "high-gloss PVC", "pieza_desc": "second-skin bodysuit",
+         "descripcion": ", a plunging front zip running from the throat to below the sternum and left half-open, the zip pull a small silver teardrop, the leg openings cut in a thong-high silhouette at the hip, the back a single thin strip"},
+        {"descripcion": "a silver chain choker at the throat, matching silver drop earrings"},
+        {"descripcion": "no hosiery on her legs, none of any kind; her hands stay uncovered, no gloves in this frame"},
+        {"descripcion": "the 5cm XXXL French tips run mirror-chrome, gloss over gloss"},
+        {"descripcion": "mirror-chrome patent pumps close to a sharp point, 14cm of razor-thin needle heel with no platform, a slim ankle strap fastened with a silver buckle"}
+      ]},
+      "setting": "a stark white cyclorama studio under hard editorial lighting",
+      "props": {"seat": "the white studio block", "wall": "the seamless white cyclorama",
+                "surface": "the white studio platform", "upright": "the studio light stand"}
+    }
+  }
+}

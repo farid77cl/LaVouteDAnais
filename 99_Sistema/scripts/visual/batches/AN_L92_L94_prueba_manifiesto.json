@@ -1,0 +1,62 @@
+{
+  "personaje": "anais",
+  "fecha": "09/09/2026",
+  "batch": "Prueba de escala del manifiesto tipado -- 3 looks (recortado de 5)",
+  "rango": "92-94",
+  "categoria": "Prueba manifiesto",
+  "tags_comunes": ["#manifiesto"],
+  "_nota": "Recortado de 5 a 3 looks el 09/09/2026: el lote inmediatamente anterior (L87-L91) ya cubrio M10, M3, M7 y dos subfamilias de M4 -- y M4 esta vetado entero para Anais desde el L91 (Ama 08/09, corset y tanga). Su universo de arquitectura vestido/falda/catsuit queda en solo M6/M9/M1 disponibles sin chocar contra el lote anterior NI contra la ventana propia de 5 -- 3 codigos no alcanzan para 5 looks sin repetir. Hallazgo real de la prueba de escala, no un bug: reportado a la Ama en vez de forzar un M2/M5/M8 fuera de su canon (bikini/arnes no estan en su universo de materiales/arquetipos).",
+  "looks": {
+    "92": {
+      "titulo": "Azul Medianoche en el Salon Literario",
+      "polo": "Sesión Literaria",
+      "concepto": "Sesion Literaria en vestido de terciopelo azul medianoche, arquitectura M6 -- primer look de la muneca por manifiesto tipado (color cambiado de esmeralda a azul medianoche: L91 ya es familia 'green' y no puede ir pegado).",
+      "manifiesto": {"prendas": [
+        {"pieza": "M6_vestido_segunda_piel", "color": "midnight navy", "color_desc": "deep midnight navy",
+         "material_desc": "Italian velvet", "pieza_desc": "sheath gown",
+         "descripcion": ", a high side slit cut to the hip, both legs held close together beneath it, the back cut low to the waist and closed by a row of small covered buttons"},
+        {"descripcion": "a wide polished leather belt cinches the waist over the gown; an antique-gold chain rests low at the throat"},
+        {"descripcion": "fine-seamed sheer nylon dresses each leg; her hands go without gloves tonight"},
+        {"descripcion": "her nails, 5cm, lacquered a deep midnight navy"},
+        {"descripcion": "midnight-navy suede, ending exactly at the knee: her stiletto boots hold a red sole under a pointed closed toe, the heel measured to precisely 12cm"}
+      ]},
+      "setting": "a private library at La Voûte, leather armchairs and a low fire",
+      "props": {"seat": "the leather armchair", "wall": "the book-lined wall",
+                "surface": "the reading table", "upright": "the tall bookcase"}
+    },
+    "93": {
+      "titulo": "Cuero Negro en el Estudio de Latex",
+      "polo": "Látex / Fetichismo",
+      "concepto": "Latex/Fetichismo en catsuit negro, arquitectura M9 -- unica prenda bifurcada autorizada para ella (Ama 14/08).",
+      "manifiesto": {"prendas": [
+        {"pieza": "M9_catsuit_unitard_jumpsuit", "color": "black", "color_desc": "deep black",
+         "material_desc": "clinical-grade latex", "pieza_desc": "second-skin catsuit",
+         "descripcion": ", a front zip running from the throat to below the sternum, the waist visibly cinched to an hourglass line beneath the latex, a wide antique-gold belt sitting over the cinched waist"},
+        {"descripcion": "opera gloves in black rise to the elbow; an antique-gold choker sits at the throat"},
+        {"descripcion": "the catsuit takes the legs entirely, no hosiery under it"},
+        {"descripcion": "glossy black lacquer over 5cm nails"},
+        {"descripcion": "black patent, thigh-high over the knee: her boots carry a red sole beneath a pointed closed toe and a heel set at 12cm exactly"}
+      ]},
+      "setting": "a private latex-walled studio, low crimson light",
+      "props": {"seat": "the leather bench", "wall": "the latex-panelled wall",
+                "surface": "the steel shelf", "upright": "the steel support column"}
+    },
+    "94": {
+      "titulo": "Borgoña Ejecutivo en la Oficina",
+      "polo": "Ejecutivo de Poder",
+      "concepto": "Ejecutivo de Poder en bodysuit borgona bajo abrigo de lana, arquitectura M1 -- outerwear no-piel, cierra el batch con la tercera arquitectura y tercer color distintos.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M1_bodysuit", "color": "burgundy", "color_desc": "deep burgundy",
+         "material_desc": "fine wool-knit", "pieza_desc": "long-sleeve second-skin bodysuit",
+         "descripcion": ", the neckline closed to the throat by a row of small covered buttons, the leg cut high at the hip with a narrow back panel, both legs held close together"},
+        {"descripcion": "a long charcoal-grey wool coat, worn open and nipped at the waist by a wide matching belt; black cat-eye glasses, their frame delicately tipped in rhinestone"},
+        {"descripcion": "each leg sheer in fine-seamed nylon; gloves stay off her hands today"},
+        {"descripcion": "5cm nails in a deep burgundy lacquer"},
+        {"descripcion": "charcoal suede at the knee, exactly: a red sole under a pointed closed toe, the heel holding steady at 12cm"}
+      ]},
+      "setting": "a private executive office at dusk, floor-to-ceiling windows over the city",
+      "props": {"seat": "the executive chair", "wall": "the floor-to-ceiling window",
+                "surface": "the mahogany desk", "upright": "the coat stand"}
+    }
+  }
+}

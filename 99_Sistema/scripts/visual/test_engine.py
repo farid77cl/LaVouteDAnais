@@ -1071,21 +1071,22 @@ check("L2 · 'sundress' (una palabra) clasifica M6",
 # ⚠️ La arquitectura elegida aca importa: `generar` audita rotacion contra la
 # HISTORIA REAL de la galeria (los ultimos looks materializados), asi que una
 # prueba que use la MISMA arquitectura que un look real reciente puede
-# bloquearse sola cuando la flota avanza -- exactamente lo que le paso a este
-# test el 09/09/2026 al escribirse el Look 833 real (M2/bikini) pocos minutos
-# despues de que este test se escribiera con la misma arquitectura. Se usa M6
-# (vestido) a proposito: es la unica de las 10 que no aparecio en ningun look
-# de L824 a L833 al momento de escribir esto. Si esto vuelve a colisionar en
-# el futuro, el sintoma es el mismo: cambiar la arquitectura de prueba, nunca
-# la regla de rotacion real.
+# bloquearse sola cuando la flota avanza -- le paso a este test DOS VECES el
+# 09/09/2026: primero con M2/bikini (choco contra el Look 833 real, escrito
+# minutos despues), despues con M6/vestido (elegido como reemplazo esa misma
+# tarde y que choco contra el Look 837 real, escrito horas despues en la
+# prueba de escala de 5 outfits por muñeca). Se usa M7 (falda+top) la tercera
+# vez -- ninguno de los looks reales L834-L838 la usa al momento de escribir
+# esto. Si esto vuelve a colisionar en el futuro, el sintoma es el mismo:
+# cambiar la arquitectura de prueba, nunca la regla de rotacion real.
 _batch_manifiesto = json.dumps({
     "personaje": "ele", "batch": "prueba automatizada", "rango": "998-998",
     "looks": {"998": {
         "titulo": "Prueba automatizada manifiesto",
         "polo": "Alfombra Roja / Gala",
         "manifiesto": {"prendas": [
-            {"pieza": "M6_vestido_segunda_piel", "color": "champagne", "color_desc": "champagne gold",
-             "material_desc": "high-gloss vinyl", "pieza_desc": "column dress",
+            {"pieza": "M7_minifalda_top", "color": "champagne", "color_desc": "champagne gold",
+             "material_desc": "high-gloss vinyl", "pieza_desc": "miniskirt and matching bandeau top",
              "estampado_animal": "cheetah",
              "descripcion": ", a halter neckline tied at the nape"},
         ]},
@@ -1100,7 +1101,7 @@ _cod_m, _out_m = cli("generar", _p_batch, "--stdout")
 check("M1 · un look con manifiesto (sin bloque_b) genera sin error via la CLI real",
       _cod_m == 0, "exit=%d %s" % (_cod_m, _out_m.strip().split("\n")[-1][:100]))
 check("M2 · el BLOQUE B renderizado desde el manifiesto llega al prompt final",
-      "column dress" in _out_m, None)
+      "miniskirt and matching bandeau top" in _out_m, None)
 check("M3 · el estampado del manifiesto (cheetah, aprobado hoy) llega con su candado real",
       "genuine cheetah-skin" in _out_m, None)
 
