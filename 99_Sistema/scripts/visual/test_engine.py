@@ -24,6 +24,7 @@ Que cubre cada bloque, y por que existe:
 
 Se corre solo (`python test_engine.py`) o via `outfit.py test`.
 """
+
 import io
 import json
 import os
@@ -536,6 +537,12 @@ check("costura: look CON medias SI dispara SEAM_*",
 # '\x08(pearls?|...)\x08', no matcheo nunca, y el check paso EN VERDE sobre 8
 # hallazgos reales. Invisible al leer el archivo — misma familia que el mojibake.
 import json as _json                                                 # noqa: E402
+
+import os as _os
+# Una bateria ejercita el motor con FIXTURES: su rastro no es historial del motor
+# y no puede ensuciar `99_Sistema/logs/outfit_engine.jsonl`, que esta trackeado
+# (09/09/2026). Se apaga ANTES de importar el motor.
+_os.environ.setdefault("OUTFIT_ENGINE_LOG", "0")
 _rep_all = _json.load(io.open(os.path.join(V, "repertorios_pose.json"), encoding="utf-8"))
 _PRENDA_RX = re.compile(
     r"\b(pearls?|fur|gloves?|veil|corset|stockings?|necklace|bra|thong|garter"

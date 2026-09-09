@@ -19,11 +19,18 @@ del BLOQUE A del perfil**; la sub-pose describe la MIRADA (dirección, frialdad,
 gesto), nunca el color. Ele y Anaïs ya cumplían — sus sub-poses no nombran color
 de ojos en ninguna de las 63. Las cinco de Miss Doll eran las únicas fuera.
 """
+
 from __future__ import annotations
 
 import json
 import re
 import sys
+
+import os as _os
+# Una bateria ejercita el motor con FIXTURES: su rastro no es historial del motor
+# y no puede ensuciar `99_Sistema/logs/outfit_engine.jsonl`, que esta trackeado
+# (09/09/2026). Se apaga ANTES de importar el motor.
+_os.environ.setdefault("OUTFIT_ENGINE_LOG", "0")
 from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")

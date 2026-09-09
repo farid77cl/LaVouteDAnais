@@ -89,6 +89,16 @@ def _log_evento(entrada):
     trabajo manual sobre el historial de git en vez de una consulta directa.
     """
     entrada = dict(entrada)
+    # Una corrida de FIXTURES no es un evento del motor (09/09/2026). La suite
+    # ejercita build() con datos de prueba y dejaba ~142 lineas por corrida, todas
+    # con look null, en un archivo TRACKEADO: el arbol quedaba sucio despues de
+    # cada `outfit.py test` y hubo que hacer checkout a mano antes de cada commit
+    # de esa sesion. Peor: un log cuya mayoria son fixtures deja de servir para lo
+    # que existe — saber cuando se emitio un prompt de verdad.
+    # Dos formas de marcarlo, para que ni la suite ni un script suelto ensucien:
+    # la clave `fixture` en el evento, o la variable de entorno.
+    if entrada.pop("fixture", False) or os.environ.get("OUTFIT_ENGINE_LOG") == "0":
+        return
     entrada["ts"] = datetime.datetime.now().isoformat(timespec="seconds")
     try:
         os.makedirs(os.path.dirname(LOG_PATH), exist_ok=True)

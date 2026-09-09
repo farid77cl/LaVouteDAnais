@@ -884,6 +884,10 @@ def cmd_test(args):
     existe `outfit.py auditar`). Las pruebas del motor sí ejercitan el motor de
     verdad: entradas malas, determinismo, rotacion, cobertura y regresiones.
     """
+    # La suite corre sobre FIXTURES y su log no es historial del motor: se apaga
+    # para toda la corrida, incluidos los subprocesos (09/09/2026). Antes dejaba
+    # ~142 lineas por corrida en un archivo trackeado.
+    os.environ["OUTFIT_ENGINE_LOG"] = "0"
     print("1. Self-checks de la capa de reglas (fixtures, NO la flota)\n")
     fallo = 0
     for s in ("footwear_canon.py", "garment_canon.py", "color_canon.py"):

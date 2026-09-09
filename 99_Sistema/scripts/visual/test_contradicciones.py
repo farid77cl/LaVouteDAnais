@@ -26,6 +26,13 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8")
 sys.path.insert(0, str(Path(__file__).parent))
 
+import os as _os
+# Una batería ejercita el motor con FIXTURES: su rastro no es historial del
+# motor y no puede ensuciar `99_Sistema/logs/outfit_engine.jsonl`, que está
+# trackeado (09/09/2026). Se apaga ANTES de importar el motor.
+_os.environ.setdefault("OUTFIT_ENGINE_LOG", "0")
+
+
 import contradicciones  # noqa: E402
 
 # --------------------------------------------------------------- fixtures ---
