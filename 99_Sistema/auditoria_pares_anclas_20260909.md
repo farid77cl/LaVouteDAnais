@@ -48,21 +48,34 @@ desambiguación porque solo lee texto de anclas, no el código que las combina �
 exactamente el límite que el plan anticipó. Se documenta para que la próxima revisión
 no lo vuelva a mirar como nuevo.
 
-## 🟡 Revisado, evidencia insuficiente para tocar
+## ✅ Actualización — apareció la foto, y sí era real
 
-**`SEAT_ANCHOR` vs las sub-poses "perched on {seat}"** (4 de 9 variantes de Seated de
-Ele) — la pregunta que dejó abierta la auditoría externa Fable de ayer. Revisado a
-mano: `SEAT_ANCHOR` niega *"perched on... any nearby table, desk, counter, island **or
-other surface**"* — el objeto de la negación es OTRO mueble, no el asiento correcto.
-"Perched on {seat}" nombra el mueble correcto, así que no viola esa negación literal.
-La tensión real, si existe, es más fina: *"genuinely sitting down, buttocks resting on
-the seat... full weight"* (con peso `:1.4`) contra una postura de borde/poised como
-"perched on the edge... knees carried apart" — y sentarse en el borde SÍ es sentarse
-(no es el defecto que `SEAT_ANCHOR` nació para cazar: la figura apoyada en una isla o
-mesa cercana). **No hay foto que muestre esto rompiéndose** — a diferencia de los tres
-casos de arriba, que sí la tienen. Por la misma regla que ya se aplicó dos veces hoy
-("verificar el artefacto, nunca el reporte"): no se toca sin evidencia. Queda anotado
-para revisar si aparece una foto real de una Seated con postura incoherente.
+Escrito arriba, horas antes: *"no hay foto que muestre esto rompiéndose... no se toca
+sin evidencia."* Apareció la foto. `ele_831_seated.png` (Look 831, ya materializado)
+sale **de pie**, no sentada — y el índice de sub-pose que le tocó a ese look, medido
+con `pb.pose_indice("seated", 831)`, es el **6**: *"perched on the very front edge of
+{seat} with the knees carried apart to the width of the shoulders and both stilettos
+planted, both long-nailed hands set flat on the seat behind her..."* Ninguna palabra
+de esa frase ancla el peso en el asiento — "stilettos planted" y "hands... behind her"
+describen igual de bien a alguien de pie apoyada en una superficie detrás. `SEAT_ANCHOR`
+(con su cola `:1.4`, "genuinely sitting down, buttocks resting on the seat") va ANTES
+en el prompt, más lejos de la pose real — y perdió contra la imagen concreta que sí
+describe el gesto, mismo mecanismo de dilución por posición que el hallazgo #3 de la
+mañana. La variante 4 (*"perched on the edge... knees together, hands resting flat on
+the thighs"*) tiene la misma ambigüedad, sin foto confirmada todavía.
+
+**Fix aplicado** en `repertorios_pose.json` (Seated de Ele, variantes 4 y 6): se
+inserta *"her weight settled down through her hips onto the seat"* dentro de la
+propia cláusula de pose, junto al mueble — no se depende de que `SEAT_ANCHOR`, lejano,
+gane la disputa. Las otras dos variantes "perched" (0 y 1) no se tocan: cruzar las
+piernas levantadas o apoyar los codos en las rodillas ya son geometrías que no leen
+como estar de pie, así que no compiten con el mismo sesgo. Verificado: 140/140 tests,
+y la reconstrucción del Look 831 con el fix ya no lee ambiguo.
+
+Este es el primer caso real de la categoría que la Ama nombró después de la auditoría
+de contradicciones: *"lo que no se nombra, el generador lo rellena con su propio
+sesgo"* — no una contradicción entre dos anclas, sino una pose que no nombra lo
+suficiente para que el sesgo del generador no gane.
 
 ## Los 11 falsos positivos del heurístico, por si alguien los vuelve a mirar
 
