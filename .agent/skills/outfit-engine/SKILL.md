@@ -350,6 +350,24 @@ La cláusula de pose **sale del repertorio del personaje**, nunca de la inspirac
 
 > ⚠️ **Cómo se audita (y cómo NO):** con repertorio puesto, la **similitud media de texto deja de servir** — con 14 looks y 7 variaciones cada una sale dos veces y esos pares son idénticos por diseño (el promedio se queda en 43-57% aunque todo funcione). Las métricas correctas son **variaciones distintas usadas por slot** y **repeticiones en looks consecutivos**.
 
+> 🪑 **Una sub-pose puede ser ambigua sin que ninguna ancla se contradiga (09/09/2026).**
+> No es el caso de arriba (dos anclas afirmando cosas opuestas) — es una sola cláusula de
+> pose que no ancla lo suficiente una postura, y el generador rellena el vacío con su
+> propio sesgo. Medido en una foto real: `ele_831_seated.png` salió **de pie**, no
+> sentada. La variante de Seated que le tocó a ese look (*"perched on the very front edge
+> of {seat}... both stilettos planted, both long-nailed hands set flat on the seat behind
+> her"*) nunca nombra el peso sobre el asiento — "stilettos planted" y "hands... behind
+> her" describen igual de bien a alguien de pie. `SEAT_ANCHOR` (que sí lo pide, con peso
+> `:1.4`) va antes en el prompt, más lejos de la pose real, y perdió contra la imagen
+> concreta que sí describe el gesto. **Comparado contra las otras dos muñecas: ninguna de
+> las 22 variantes de Seated de Miss Doll/Anaïs usa "perched" sola — todas anclan el peso
+> explícitamente ("weight fully down", "hips fully down").** Solo Ele se desviaba. Fix en
+> `repertorios_pose.json` (4 variantes de Ele): se ancla el peso *dentro* de la propia
+> cláusula de pose, junto al mueble — no se depende de que `SEAT_ANCHOR`, lejano, gane la
+> disputa. Evidencia y el barrido del mismo patrón en Standing/Back View/Side Profile
+> (2 candidatos más, verificados contra foto y descartados sin tocar):
+> `99_Sistema/auditoria_pares_anclas_20260909.md`.
+
 ## 🔒 Anclas nacidas de defectos medidos (13/08/2026)
 
 Cinco anclas nuevas en `anclas_universales.json`, todas con su defecto fotografiado detrás:
@@ -401,12 +419,75 @@ código. Corregido el 09/09: `PromptBuilder.build()` clasifica el BLOQUE B con
 sobre el prompt ensamblado) y descarta `BOTTOM_CUT_LOCK` cuando el look clasifica
 "cubierta". Mismo patrón usado horas antes con `FABRIC_PRISTINE` contra `ANIMAL_PRINT_LOCK`.
 
-**La tarea que queda, y es más grande que estos dos casos:** una auditoría sistemática de
-CADA par de anclas que pueden coexistir en un mismo prompt (globales × opt-in × slot),
-buscando afirmaciones contrarias — no solo las que ya se fotografiaron fallando. Los dos
-casos cerrados hoy se encontraron mirando imágenes reales después del hecho; la doctrina
-pide que se puedan encontrar ANTES, leyendo el texto. Pendiente, y de tamaño real: no se
-hace de memoria en una sesión, se planea aparte.
+**La auditoría sistemática que esto pedía — construida el mismo día.**
+`99_Sistema/scripts/visual/auditar_anclas_pares.py` escanea, por personaje y por slot
+real (nunca cruzando slots que jamás comparten prompt), cada par de anclas que puede
+coexistir, y señala candidatos a contradicción por dos vías: negación-vs-afirmación del
+mismo término, y dos vocabularios en tensión sobre el mismo dominio (cobertura
+abierto/cerrado, marca de tela). Corre como self-check en `outfit.py test` — heurístico
+a propósito (prioriza recall sobre precisión), advierte sin bloquear. De los 38
+candidatos que encontró el primer escaneo real: 2 eran contradicciones nuevas
+(`FABRIC_PRISTINE` vs `HOSIERY_LOCK` con patrón de medias, y una segunda vía de
+`BOTTOM_CUT_LOCK`), 1 ya estaba resuelta en código, y 11 eran ruido del heurístico
+documentado uno por uno (`99_Sistema/auditoria_pares_anclas_20260909.md`).
+
+**Y una segunda familia, ese mismo día: ausencias mal leídas.** No es que dos anclas se
+contradigan — es que UNA ancla dispara con una palabra que está negada ("no corset", "no
+dress", "no stockings"): la cadena de texto contiene el término que busca su regex, nomás
+con "no" delante. Encontrado primero en `HOSIERY_LOCK`/`DRESS_LEG_CLOSURE`, después
+generalizado a seis disparadores más (`ASYMMETRY_LOCK`, `ACCESSORY_COUNT_LOCK`,
+`WRAP_BACK_ROBE`, `WRAP_BACK_TAILORED`, la clasificación de arquitectura, el color
+dominante, el eco de busto) porque cada uno tenía su propio vocabulario copiado, cada
+copia su propia chance de quedarse corta. `garment_canon.sin_clausulas_de_ausencia()` es
+el dueño único de la regla ahora: borra la cláusula completa desde "no " hasta la
+coma/punto y coma siguiente — la única excepción deliberada es `GARMENT_EXCLUSION_LOCK`,
+que existe justo para disparar CON "no X".
+
+## 🧬 El manifiesto tipado (v4.0 — 09/09/2026): el BLOQUE B deja de ser texto que se adivina
+
+Las dos familias de arriba comparten una raíz: **el motor lee prosa libre con regex para
+adivinar qué lleva el look.** Mientras el BLOQUE B siga siendo texto que alguien escribe y
+otro alguien interpreta, la próxima regla nueva puede volver a caer en el mismo hoyo — se
+encontraron 11 casos reales en un solo día, cinco de ellos con esta misma causa.
+
+Consultadas dos agentes Fable el mismo día, por separado y sin verse entre sí — uno con
+el contexto completo de los 11 hallazgos, el otro con el problema planteado desde cero,
+sin mencionar nada de lo encontrado — **las dos llegaron a la misma conclusión, de forma
+independiente**: el vestuario no debería escribirse como prosa que el motor interpreta —
+debería declararse como datos, y la prosa debería ser una *consecuencia* renderizada,
+nunca la fuente.
+
+**Cómo se resolvió el riesgo real de esa idea** (perder la construcción bespoke de la
+prosa actual — "su panel exterior cruza el frente y cierra en la cadera izquierda bajo una
+placa plana de gunmetal" — que ninguna de las dos Fable resolvió): cada prenda de un
+manifiesto lleva DOS tipos de campo. Los **categóricos** (`pieza`, `color`,
+`estampado_animal`, `cobertura`...) — vocabulario cerrado, validado contra
+`vocabulario_vestuario.json`, y lo único que las anclas y auditores leen ahora — cero
+regex. Y un campo **descriptivo** (`descripcion`) de texto libre corto — la construcción
+bespoke, que sigue escribiendo un humano exactamente como hoy. La creatividad no se
+automatiza; lo que se automatiza es que el motor deje de tener que ADIVINAR las categorías
+leyendo esa prosa.
+
+| Pieza | Archivo | Qué hace |
+|---|---|---|
+| Vocabulario cerrado por personaje | `99_Sistema/scripts/visual/vocabulario_vestuario.json` | Piezas (taxonomía M1-M10), materiales mate-prone, estampados, medias, calzado no-canónico. Lo edita la Ama — es canon, no código |
+| Renderizador | `99_Sistema/scripts/visual/vestuario_renderer.py` | `renderizar(manifiesto)` → string BLOQUE B. Valida cada prenda ANTES de renderizar (`PrendaInvalida` = error de compilación, nada se escribe) |
+| Lectura sin regex | `PromptBuilder.opt_in_de()`/`animal_print_kind()`/`build()` (`prompt_builder.py`) | Ganan un parámetro `manifiesto` opcional: si existe, `OPAQUE_LOCK`/`ANIMAL_PRINT_LOCK`/la exclusión de `BOTTOM_CUT_LOCK` se leen del dato, cero adivinanza. Sin manifiesto, retrocompatible con los ~1.400 looks históricos, sin cambio de comportamiento |
+| La puerta | `outfit.py generar` | Un look declara `manifiesto` en vez de `bloque_b` a mano; se renderiza ANTES de cualquier auditoría (rotación, canon) — una pieza fuera de vocabulario bloquea el batch entero |
+
+**Retrofit-al-tocar, nunca migración masiva:** los looks históricos siguen con su BLOQUE B
+de prosa tal cual está — el manifiesto es el camino para looks **nuevos**, no una
+reescritura del pasado.
+
+**Verificado con un look real, no un ejercicio de escritorio** (Look 833 de Ele, bikini
+cheetah — la especie que la misma consolidación de vocabulario encontró sin candado y la
+Ama aprobó sumar al canon): pasó la puerta real completa, y 3 de sus 7 fotos se generaron
+de verdad. Las tres correctas — incluida la Seated, que ejercita justo el fix de
+`SEAT_ANCHOR` de esa misma mañana (ver más abajo). **Veredicto (Ama, 09/09/2026): el
+manifiesto rinde igual que la prosa escrita a mano.** Evidencia completa, con las tres
+fotos y los hallazgos menores que salieron en el camino (concordancia de artículo "a/an",
+un choque con el filtro de seguridad, una prueba propia que colisionó con la historia real
+de la galería): `99_Sistema/auditoria_pares_anclas_20260909.md`.
 
 ## 📂 Recursos
 
