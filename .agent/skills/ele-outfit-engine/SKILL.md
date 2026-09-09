@@ -1666,9 +1666,7 @@ El BLOQUE B se escribe **una sola vez** y se copia idéntico en los 5 prompts. N
 ### 3. Escritura de los 7 Prompts Completos en galeria_outfits.md (PREVIO A GENERACIÓN)
 
 **BLOQUE A — ADN Inamovible (siempre idéntico, copiado de [dna_v3_5.md](references/dna_v3_5.md)):**
-```
-stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, intense shimmer smokey eyeshadow in cool jade-green and smoky pewter blended out at the outer corner, (defined groomed brows in muted dark cherry-brown, arched with a clean tapered edge, clearly visible against the porcelain skin:1.3), cool pearl highlight on the cheekbones and cupid's bow, soft cool rose-mauve blush placed high on the cheekbone, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, blackwork arm tattoos shown only on bare uncovered skin, subtle minimalist blackwork tattoos on upper back and outer thighs, delicate blackwork rune-glyph identity tattoo of abstract esoteric calligraphic symbols along one hip crease and bikini line, navel piercing, nipple piercings, every tattoo and piercing visible ONLY on genuinely bare skin and never through or over any garment, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.
-```
+_(el texto del BLOQUE A ya no se copia acá — 09/09/2026. Vive en un solo lugar: la cerca `<!-- ADN:BLOQUE_A -->` de `02_Personajes/_perfiles_visuales/ele.md` §2, una línea por campo en el orden universal de `99_Sistema/scripts/visual/campos.json`. Verificar con `python 99_Sistema/scripts/visual/prompt_builder.py --adn`.)_
 
 El BLOQUE A **nunca se modifica**. Se copia textualmente de `dna_v3_5.md`. Nunca se escribe de memoria.
 

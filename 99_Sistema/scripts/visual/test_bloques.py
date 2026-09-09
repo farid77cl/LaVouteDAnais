@@ -76,6 +76,50 @@ def test_los_ids_de_campo_son_unicos_y_el_orden_A_los_conoce():
     assert c["orden_A"] == de_cerca, "orden_A tiene que listar, en orden, los campos A que salen de la cerca"
 
 
+# ======================================================================
+# TAREA 2 · A por campos, con la cerca compartida
+# ======================================================================
+# Un dueño, dos lectores. La cerca ADN:BLOQUE_A pasa a UNA LÍNEA POR CAMPO, sin
+# etiquetas: el motor viejo (`PromptBuilder.bloque_a`) une las líneas con
+# `_limpiar` y obtiene el mismo texto; el nuevo las parte por el orden universal.
+
+def test_los_campos_A_unidos_son_el_bloque_a_de_siempre():
+    for slug in bloques.personajes():
+        viejo = PromptBuilder(slug).bloque_a
+        nuevo = ", ".join(t for t in bloques.campos_a(slug).values() if t)
+        assert PromptBuilder._limpiar(nuevo) == viejo, slug
+
+
+def test_cada_personaje_escribe_tantas_lineas_como_campos_A_universales():
+    orden = bloques.cargar_campos()["orden_A"]          # universal, NO por personaje
+    for slug in bloques.personajes():
+        lineas = bloques.lineas_adn(slug)
+        assert len(lineas) == len(orden), (slug, len(lineas), len(orden))
+
+
+def test_campos_a_devuelve_los_ids_del_orden_universal_en_orden():
+    orden = bloques.cargar_campos()["orden_A"]
+    for slug in bloques.personajes():
+        assert list(bloques.campos_a(slug)) == orden, slug
+
+
+def test_ningun_campo_A_contiene_vocabulario_de_B():
+    """El cuerpo no lleva puesto nada. Hoy Anaïs sí (calzado, uñas, corsé)."""
+    for slug in bloques.personajes():
+        for campo, texto in bloques.campos_a(slug).items():
+            m = bloques.RX_VOCAB_B.search(texto or "")
+            assert not m, (slug, campo, m.group(0) if m else None, (texto or "")[:80])
+
+
+def test_ningun_campo_A_contiene_vocabulario_de_C():
+    """El cuerpo no trae luz ni cámara. Hoy Anaïs sí: `cinematic chiaroscuro
+    dramatic lighting… George Hurrell style portraiture` viven en su ADN."""
+    for slug in bloques.personajes():
+        for campo, texto in bloques.campos_a(slug).items():
+            m = bloques.RX_VOCAB_C.search(texto or "")
+            assert not m, (slug, campo, m.group(0) if m else None)
+
+
 def _correr():
     import traceback
     pruebas = [v for k, v in sorted(globals().items()) if k.startswith("test_")]

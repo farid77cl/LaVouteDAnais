@@ -34,7 +34,18 @@
 
 <!-- ADN:BLOQUE_A -->
 ```text
-stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3), flawless white porcelain skin, hyper-polished smooth skin texture, dramatic siren liner, dramatic lash extensions, intense shimmer smokey eyeshadow in cool jade-green and smoky pewter blended out at the outer corner, (defined groomed brows in muted dark cherry-brown, arched with a clean tapered edge, clearly visible against the porcelain skin:1.3), cool pearl highlight on the cheekbones and cupid's bow, soft cool rose-mauve blush placed high on the cheekbone, dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted, slender hourglass silhouette, massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape, wide hips, blackwork arm tattoos shown only on bare uncovered skin, subtle minimalist blackwork tattoos on upper back and outer thighs, delicate blackwork rune-glyph identity tattoo of abstract esoteric calligraphic symbols along one hip crease and bikini line, navel piercing, nipple piercings, every tattoo and piercing visible ONLY on genuinely bare skin and never through or over any garment, aggressive bimbomakeup, extra long French XXXL nails with white tips and pink base 5cm.
+stunning woman with (bimbofied facial features, oval face, high prominent cheekbones, large almond-shaped grey-green eyes, straight slim upturned nose, overlined glossy hot pink lips, small pointed chin:1.3),
+dramatic siren liner, dramatic lash extensions,
+(defined groomed brows in muted dark cherry-brown, arched with a clean tapered edge, clearly visible against the porcelain skin:1.3),
+
+flawless white porcelain skin, hyper-polished smooth skin texture,
+dark cherry red hair, artificial XXXL extensions hip-length, voluminous waves, center parted,
+massive 1000cc breast implants each side, ultra high-profile, perfectly spherical augmented bust, obviously fake gravity-defying shape,
+slender hourglass silhouette, wide hips,
+blackwork arm tattoos shown only on bare uncovered skin, subtle minimalist blackwork tattoos on upper back and outer thighs, delicate blackwork rune-glyph identity tattoo of abstract esoteric calligraphic symbols along one hip crease and bikini line, navel piercing, nipple piercings, every tattoo and piercing visible ONLY on genuinely bare skin and never through or over any garment,
+intense shimmer smokey eyeshadow in cool jade-green and smoky pewter blended out at the outer corner, cool pearl highlight on the cheekbones and cupid's bow, soft cool rose-mauve blush placed high on the cheekbone, aggressive bimbomakeup,
+extra long French XXXL nails with white tips and pink base 5cm
+
 ```
 
 **Rasgos que NO se negocian jamás:**
