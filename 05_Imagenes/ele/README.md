@@ -4,6 +4,14 @@
 
 ---
 
+## 👠 Look 833: Cheetah Rooftop At Golden Hour
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_833_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look833_cheetah_rooftop_at_golden_hour/ele_833_standing.png) | ![ele_833_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look833_cheetah_rooftop_at_golden_hour/ele_833_back_view.png) | ![ele_833_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look833_cheetah_rooftop_at_golden_hour/ele_833_seated.png) | ⏳ | ⏳ |
+
+---
+
 ## 👠 Look 832: Zebra Cincher De Cocina
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
@@ -38,9 +46,9 @@
 
 ## 👠 Look 828: Emerald Bustier De Casa De Banos
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_828_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look828_emerald_bustier_de_casa_de_banos/ele_828_standing.png) | ![ele_828_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look828_emerald_bustier_de_casa_de_banos/ele_828_back_view.png) | ![ele_828_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look828_emerald_bustier_de_casa_de_banos/ele_828_seated.png) | ![ele_828_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look828_emerald_bustier_de_casa_de_banos/ele_828_side_profile.png) | ⏳ |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_828_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look828_emerald_bustier_de_casa_de_banos/ele_828_standing.png) | ![ele_828_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look828_emerald_bustier_de_casa_de_banos/ele_828_back_view.png) | ![ele_828_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look828_emerald_bustier_de_casa_de_banos/ele_828_seated.png) | ![ele_828_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look828_emerald_bustier_de_casa_de_banos/ele_828_side_profile.png) | ![ele_828_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look828_emerald_bustier_de_casa_de_banos/ele_828_ditzy.png) | ![ele_828_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look828_emerald_bustier_de_casa_de_banos/ele_828_pov.png) | ![ele_828_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look828_emerald_bustier_de_casa_de_banos/ele_828_odalisque.png) |
 
 ---
 
