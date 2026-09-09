@@ -727,6 +727,57 @@ def cmd_contradicciones(args):
     return 1 if con_hallazgo else 0
 
 
+def cmd_ojos(args):
+    """El paquete de auditoria imagen<->prompt de un look.
+
+    Nace del hallazgo del 09/09/2026: NINGUN auditor del motor abre un PNG. Los
+    124 tests, `lint_galeria`, `cruce`, `auditar_canon_flota` y `modularidad`
+    miden TEXTO — por eso decian LIMPIA mientras la Ama veia fotos malas.
+    Este comando no juzga la imagen (eso necesita ojos de verdad): arma el
+    material para que quien juzgue gaste su presupuesto EN MIRAR, no en
+    preparar. La auditoria del 09/09 necesito seis agentes y la mitad del costo
+    fue esta preparacion, hecha a mano.
+    """
+    if len(args) < 2:
+        print("uso: outfit.py ojos <slug> <look> [--out <archivo.md>]")
+        print("   arma el paquete imagen<->prompt: prompts condensados (el bloque")
+        print("   comun a las 7 poses se imprime UNA vez), las imagenes reales")
+        print("   segun git ls-files, y el tracker declarado contra el real.")
+        return 2
+    slug, look = args[0], args[1]
+    if not str(look).isdigit():
+        print("el look tiene que ser un numero: %r" % look)
+        return 2
+    import ojos as _ojos
+    cfg = cargar_config()
+    if slug not in cfg["personajes"]:
+        print("personaje '%s' no registrado. Registrados: %s"
+              % (slug, ", ".join(cfg["personajes"])))
+        return 1
+    try:
+        p = _ojos.paquete(slug, int(look), cfg)
+    except _ojos.LookNoEncontrado as e:
+        # Un programa le dice al usuario que esta mal; solo un script se cae.
+        print(str(e))
+        return 1
+    texto = _ojos.render(p)
+    if "--out" in args:
+        i = args.index("--out")
+        if i + 1 >= len(args):
+            print("--out necesita una ruta")
+            return 2
+        destino = args[i + 1]
+        with io.open(destino, "w", encoding="utf-8", newline="\n") as fh:
+            fh.write(texto + "\n")
+        print("   escrito: %s" % destino)
+    else:
+        print(texto)
+    if p["tracker_declarado"] and not p["tracker_declarado"].startswith(p["tracker_real"]):
+        print("\n  \u26a0\ufe0f  el tracker de la galeria dice %r y las imagenes reales son %s"
+              % (p["tracker_declarado"], p["tracker_real"]), file=sys.stderr)
+    return 0
+
+
 def cmd_modularidad(args):
     """Audita que el engine sea de verdad modular por personaje.
 
@@ -886,6 +937,9 @@ COMANDOS = {
     "contradicciones": (cmd_contradicciones,
                         "cláusulas que se pelean dentro de un mismo prompt "
                         "(lo que ningún chequeo por cláusula puede ver)"),
+    "ojos":        (cmd_ojos,
+                    "paquete de auditoria imagen<->prompt de un look: prompts "
+                    "condensados + imagenes reales + tracker declarado vs real"),
     "modularidad": (cmd_modularidad,
                     "audita que el engine sea modular: 0 personajes en el código, "
                     "campos propios declarados, sub-poses únicas (--estricto)"),
