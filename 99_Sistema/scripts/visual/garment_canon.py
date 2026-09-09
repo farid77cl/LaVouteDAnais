@@ -835,6 +835,23 @@ def eco_busto(bloque_b, declarado=None, limite=250):
             % (texto, cola))
 
 
+_RX_AUSENCIA_CLAUSULA = re.compile(r"\bno\s+[^,;]*", re.I)
+
+
+def sin_clausulas_de_ausencia(texto):
+    """`texto` sin las clausulas "no X" (hasta la coma/punto y coma siguiente).
+
+    Dueño único de la regla de ausencia (09/09/2026, generalizada el mismo dia
+    desde `prompt_builder.PromptBuilder._sin_ausencias`, que ahora delega aca en
+    vez de mantener su propia copia -- import en un solo sentido, garment_canon
+    no depende de prompt_builder). Una ausencia declarada no es una presencia:
+    "no corset", "no catsuit", "no bodysuit" contienen la palabra que buscan
+    detectar, nomás negada. La convencion real del repo separa cada atributo
+    por coma (medido: 5.021 apariciones de "no " en la galeria de Ele, cero de
+    "not a/the"), asi que basta cortar en la coma siguiente."""
+    return _RX_AUSENCIA_CLAUSULA.sub(" ", texto or "")
+
+
 def clasificar_arquitectura(bloque_b, tax):
     """(codigo, cubierta_bool, aviso_o_None) para un BLOQUE B.
 
@@ -846,9 +863,15 @@ def clasificar_arquitectura(bloque_b, tax):
     lint_prompts_personaje.py importa de prompt_builder.py — vivir ahí habría hecho
     un import circular. garment_canon no depende de ninguno de los dos.
 
-    Primero borra las AUSENCIAS declaradas (`no corset`, `no stockings`): sin
-    eso un look que dice literal "no corset" se clasificaba como corseteria."""
-    b = re.sub(tax["_regex_ausencias"], " ", bloque_b.lower())
+    Primero borra las AUSENCIAS declaradas con `sin_clausulas_de_ausencia` — el
+    viejo `tax["_regex_ausencias"]` (un JSON de 12 terminos a mano) solo cubria
+    "no corset/stockings/bra/.../bikini" y se quedaba corto contra la MITAD de
+    la propia taxonomia: medido 09/09/2026 (noche) que un BLOQUE B de bikini con
+    "no catsuit, no bodysuit" clasificaba como M9 (catsuit) — exactamente el
+    modo de falla que este chequeo existe para evitar, y ademas alimentaba el
+    BOTTOM_CUT_LOCK de esta misma tarde: una arquitectura mal leida como
+    "cubierta" le habria sacado la tanga obligatoria a un bikini de verdad."""
+    b = sin_clausulas_de_ausencia(bloque_b.lower())
     for regla in tax["orden"]:
         if not re.search(regla["regex"], b):
             continue

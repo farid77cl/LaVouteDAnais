@@ -66,7 +66,8 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
-from garment_canon import eco_busto, clasificar_arquitectura, HOSIERY_PATTERNED   # noqa: E402
+from garment_canon import (eco_busto, clasificar_arquitectura,  # noqa: E402
+                            HOSIERY_PATTERNED, sin_clausulas_de_ausencia)
 
 JSON_ANCLAS = os.path.join(AQUI, "anclas_universales.json")
 JSON_POSES = os.path.join(AQUI, "repertorios_pose.json")
@@ -557,19 +558,16 @@ class PromptBuilder(object):
     # (SEAM_FRONT/BACK, 06/09, solo "no stockings") y otra vez con una lista de
     # terminos por candado (09/09, tarde) antes de medir que el hueco real vivia
     # en SEIS sitios: HOSIERY_LOCK, DRESS_LEG_CLOSURE, ASYMMETRY_LOCK,
-    # ACCESSORY_COUNT_LOCK, WRAP_BACK_ROBE y WRAP_BACK_TAILORED -- cada uno con
-    # su propio vocabulario, cada lista una copia que puede desincronizarse de
-    # su regex real. Generalizado 09/09/2026 (noche) a UNA sola regla: se borra
-    # la clausula completa que empieza en "no " hasta la coma/punto y coma
-    # siguiente (el estilo de este repo separa cada atributo por coma, medido
-    # sobre 5.021 apariciones de "no " en la galeria de Ele, cero de "not a/the"
-    # -- la convencion real es una sola). `GARMENT_EXCLUSION_LOCK` es la UNICA
-    # excepcion deliberada: esa ancla existe justo para disparar CON "no X".
-    _RX_AUSENCIA_CLAUSULA = re.compile(r"\bno\s+[^,;]*", re.I)
-
-    @classmethod
-    def _sin_ausencias(cls, texto):
-        return cls._RX_AUSENCIA_CLAUSULA.sub(" ", texto or "")
+    # ACCESSORY_COUNT_LOCK, WRAP_BACK_ROBE y WRAP_BACK_TAILORED. Generalizado a
+    # UNA regla la misma noche (`garment_canon.sin_clausulas_de_ausencia`, dueño
+    # único -- este metodo delega ahi en vez de mantener su propia copia del
+    # regex, mismo motivo por el que `clasificar_arquitectura` tambien delega:
+    # un tercer regex igual habria sido la MISMA enfermedad que este fix cura).
+    # `GARMENT_EXCLUSION_LOCK` es la UNICA excepcion deliberada: esa ancla existe
+    # justo para disparar CON "no X".
+    @staticmethod
+    def _sin_ausencias(texto):
+        return sin_clausulas_de_ausencia(texto)
 
     def animal_print_kind(self, bloque_b):
         """Especie de estampado animal que nombra el BLOQUE B, o None."""

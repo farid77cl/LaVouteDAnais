@@ -902,6 +902,24 @@ check("H5b · WRAP_BACK_TAILORED no dispara con 'no blazer, no cardigan'",
 check("H5b · control: un blazer real SI dispara WRAP_BACK_TAILORED",
       "WRAP_BACK_TAILORED" in _pb_h.opt_in_de("a tailored blazer over a bra top"), None)
 
+# H6 -- el mismo hueco de ausencias vivia tambien en clasificar_arquitectura()
+# (09/09/2026, noche): su propio "_regex_ausencias" (12 terminos a mano en el
+# JSON) cubria solo un cuarto del vocabulario real de la taxonomia -- "no
+# catsuit"/"no bodysuit" no estaban. Un bikini con esa aclaracion clasificaba
+# como M9 (catsuit, CUBIERTA), lo que le habria sacado BOTTOM_CUT_LOCK a un
+# bikini de verdad. Ahora usa garment_canon.sin_clausulas_de_ausencia().
+from garment_canon import clasificar_arquitectura as _clasificar_h6  # noqa: E402
+_tax_h6 = cfg["arquitecturas_de_prenda"]
+_cod, _cubierta, _ = _clasificar_h6(
+    "a two-piece bikini set with a triangle top, no catsuit, no bodysuit, legs bare",
+    _tax_h6)
+check("H6 · un bikini con 'no catsuit, no bodysuit' clasifica M2, no M9",
+      _cod == "M2" and not _cubierta, (_cod, _cubierta))
+_cod2, _cubierta2, _ = _clasificar_h6(
+    "a full-length catsuit zipped to the throat, no cutouts", _tax_h6)
+check("H6 · control: un catsuit real SI clasifica M9 cubierta",
+      _cod2 == "M9" and _cubierta2, (_cod2, _cubierta2))
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))

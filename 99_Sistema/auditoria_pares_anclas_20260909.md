@@ -253,3 +253,27 @@ deben disparar + 6 controles que sí deben seguir disparando), todos correctos.
 
 **Con este son los mismos 6 hallazgos de hoy, pero el sexto ahora cubre 6 candados en
 vez de 2** — el refactor no fue un hallazgo nuevo, fue terminar de medir el mismo.
+
+## Séptimo hallazgo real — el clasificador de arquitectura tenía el mismo hueco, y era el más grave
+
+`clasificar_arquitectura()` (usada HOY MISMO para el fix de `BOTTOM_CUT_LOCK`) tenía
+su propia lista de ausencias a mano en el JSON — 12 términos, cubriendo solo un
+cuarto de la taxonomía real de 10 arquitecturas. **`no bodysuit`, `no catsuit`,
+`no bustier`, `no leggings`, `no jumpsuit`... no estaban.**
+
+**Medido:** un bikini con la aclaración *"no catsuit, no bodysuit"* clasificaba como
+**M9 (catsuit) — arquitectura CUBIERTA.** Eso alimenta directo el fix de esta tarde:
+una arquitectura mal leída como cubierta le habría sacado `BOTTOM_CUT_LOCK` a un
+bikini de verdad — el mismo defecto de la falda del Look 831, por una vía distinta.
+
+**Fix:** el regex de ausencias de 12 términos se reemplazó por
+`garment_canon.sin_clausulas_de_ausencia()` (el mismo mecanismo general del
+hallazgo anterior — dueño único, sin una tercera copia del regex). El campo
+`_regex_ausencias` se retiró del JSON en vez de dejarlo como fósil, ya que nadie
+más lo leía. Verificado extremo a extremo: el bikini clasifica M2 y conserva
+`BOTTOM_CUT_LOCK`; un catsuit real sigue clasificando M9 cubierta. 159/159 tests.
+
+**Total del día: 7 hallazgos reales corregidos**, cuatro de ellos (BOTTOM_CUT_LOCK,
+el negative de Miss Doll, los 6 candados de `opt_in_de`, y este clasificador)
+compartiendo la misma causa raíz — una ausencia declarada leída como presencia —
+encontrada primero en un lugar y generalizada después a los demás.
