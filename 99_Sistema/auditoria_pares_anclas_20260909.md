@@ -404,3 +404,36 @@ exactamente como con un look escrito a mano. 179/179 tests.
 Quedan las Fases 5 (probarlo con un look real de la Ama, no de prueba) y, más
 adelante, extender el manifiesto a los opt-in que todavía no tienen campo propio
 (asimetría, accesorios, bata/blazer, brillo, costura).
+
+## Fase 5 del manifiesto tipado — cerrada, con fotos reales
+
+Primer look real de la flota escrito 100% por manifiesto: Look 833 de Ele, bikini
+cheetah, concepto elegido por la Ama para cubrir el déficit de arquitectura Bikini
+Y estrenar la especie recién aprobada (cheetah). Tres hallazgos reales en el camino
+de escribirlo, los tres ya corregidos:
+
+- `renderizar_prenda()` siempre decía **"a"**, nunca "an" — "a emerald green..."
+  leía mal donde una persona habría escrito "an emerald green...". No afecta la
+  imagen (Gemini no lee concordancia de artículo), pero sí afecta si la prosa
+  lee tan bien como la escrita a mano, que es justo lo que esta fase mide.
+  Corregido: agrega y quita la "n" según la primera letra.
+- Mi primera redacción de la `descripcion` del calzón chocó con el filtro de
+  seguridad (`"the seat left bare"`, ya bloqueado desde antes por
+  `audit_safe_filter`) — la puerta lo frenó correctamente, se reescribió.
+- El mismo intento generó una advertencia de clon contra el L831 (26,9% de
+  léxico común) — no bloqueante, y bajó a 22,3% al reescribir. Es la
+  arquitectura del hardware (O-rings, tiras finas) sonando parecida, no una
+  copia real; se deja anotado, no se persigue más sin evidencia de que
+  moleste de verdad.
+
+**Tres fotos reales generadas** (Standing, Back View, Seated — las tres cubriendo
+los mecanismos más delicados de hoy: estampado, `BOTTOM_CUT_LOCK`, y el fix de
+`SEAT_ANCHOR` de la mañana). Las tres salieron correctas. La Back View se generó
+dos veces con el MISMO prompt en el MISMO modelo, en chats distintos: la primera
+con el maquillaje aplanado, la segunda completo — confirmación real, no teórica,
+de que era variación pura del generador (categoría #3 de la mañana), no un
+defecto del prompt ni del manifiesto.
+
+**Veredicto de la Fase 5, con la Ama de acuerdo: el manifiesto rinde igual que la
+prosa escrita a mano.** Queda como el camino recomendado para looks nuevos —
+nunca migración masiva de los ~1.400 looks históricos.

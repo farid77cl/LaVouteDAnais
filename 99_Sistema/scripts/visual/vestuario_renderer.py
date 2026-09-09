@@ -111,7 +111,13 @@ def renderizar_prenda(prenda):
     conector = _limpiar(prenda.get("conector"))
     apertura_partes = [_limpiar(prenda.get(k)) for k in ("color_desc", "material_desc", "pieza_desc")]
     apertura = " ".join(p for p in apertura_partes if p)
-    frase_a = ("a %s" % apertura) if apertura else ""
+    # "a"/"an" segun la primera letra (09/09/2026, encontrado probando el
+    # primer look real por manifiesto -- "a emerald..." leia mal donde una
+    # persona habria escrito "an emerald..."). No afecta la imagen (Gemini no
+    # lee concordancia de articulo), pero si afecta si la prosa lee tan bien
+    # como la escrita a mano -- que es justo lo que la Fase 5 mide.
+    _articulo = "an" if apertura[:1].lower() in "aeiou" else "a"
+    frase_a = ("%s %s" % (_articulo, apertura)) if apertura else ""
     cabeza = " ".join(p for p in (conector, frase_a) if p)
     descripcion = (prenda.get("descripcion") or "").rstrip()
     return (cabeza + descripcion).strip() if descripcion else cabeza

@@ -969,9 +969,9 @@ check("H11 · giraffe dispara ANIMAL_PRINT_LOCK",
 # caracter, desde un manifiesto de datos en vez de que alguien escriba el
 # string a mano -- la prueba mas dura que se le puede pedir: no un caso
 # inventado, el BLOQUE B real de un look que ya existe.
-from vestuario_renderer import (renderizar, cobertura_de, color_dominante_de,  # noqa: E402
-                                lleva_estampado_animal, validar_prenda, PrendaInvalida,
-                                cargar_vocabulario)
+from vestuario_renderer import (renderizar, renderizar_prenda, cobertura_de,  # noqa: E402
+                                color_dominante_de, lleva_estampado_animal,
+                                validar_prenda, PrendaInvalida, cargar_vocabulario)
 
 _manifiesto_l831 = {"prendas": [
     {"pieza": "M7_minifalda_top", "color": "sapphire", "color_desc": "sapphire blue",
@@ -1031,6 +1031,15 @@ try:
 except PrendaInvalida:
     check("K5 · una pieza fuera del vocabulario aprobado es error de compilacion", True, None)
 
+check("K5b · 'an' para apertura que empieza en vocal (Fase 5, Look 833 real)",
+      renderizar_prenda({"color_desc": "emerald green", "material_desc": "high-gloss vinyl",
+                         "pieza_desc": "micro bikini top"}).startswith("an emerald"),
+      renderizar_prenda({"color_desc": "emerald green", "material_desc": "high-gloss vinyl",
+                         "pieza_desc": "micro bikini top"}))
+check("K5b · control: 'a' se mantiene para apertura que empieza en consonante",
+      renderizar_prenda({"color_desc": "sapphire", "pieza_desc": "wrap miniskirt"})
+      .startswith("a sapphire"), None)
+
 # K6 -- Fase 3: build() con manifiesto lee cobertura/estampado del dato
 # declarado, no de regex sobre el texto.
 _manif_falda = {"prendas": [{"pieza": "M7_minifalda_top", "color": "sapphire",
@@ -1058,18 +1067,27 @@ check("L2 · 'sundress' (una palabra) clasifica M6",
 # "bloque_b" a mano, lo renderiza ANTES de auditar nada, y el resto del
 # pipeline (rotacion, canon, build con manifiesto) corre igual que con un
 # look escrito a mano. Prueba de extremo a extremo real, via la CLI real.
+#
+# ⚠️ La arquitectura elegida aca importa: `generar` audita rotacion contra la
+# HISTORIA REAL de la galeria (los ultimos looks materializados), asi que una
+# prueba que use la MISMA arquitectura que un look real reciente puede
+# bloquearse sola cuando la flota avanza -- exactamente lo que le paso a este
+# test el 09/09/2026 al escribirse el Look 833 real (M2/bikini) pocos minutos
+# despues de que este test se escribiera con la misma arquitectura. Se usa M6
+# (vestido) a proposito: es la unica de las 10 que no aparecio en ningun look
+# de L824 a L833 al momento de escribir esto. Si esto vuelve a colisionar en
+# el futuro, el sintoma es el mismo: cambiar la arquitectura de prueba, nunca
+# la regla de rotacion real.
 _batch_manifiesto = json.dumps({
     "personaje": "ele", "batch": "prueba automatizada", "rango": "998-998",
     "looks": {"998": {
         "titulo": "Prueba automatizada manifiesto",
-        "polo": "Bikini",
+        "polo": "Alfombra Roja / Gala",
         "manifiesto": {"prendas": [
-            {"pieza": "M2_bikini", "color": "emerald", "color_desc": "emerald green",
-             "material_desc": "high-gloss vinyl", "pieza_desc": "micro bikini top",
+            {"pieza": "M6_vestido_segunda_piel", "color": "champagne", "color_desc": "champagne gold",
+             "material_desc": "high-gloss vinyl", "pieza_desc": "column dress",
              "estampado_animal": "cheetah",
-             "descripcion": ", a triangle cup halter tied at the neck"},
-            {"color_desc": "emerald", "material_desc": "vinyl", "pieza_desc": "bikini bottom",
-             "descripcion": ", a thong cut, tied at both hips"},
+             "descripcion": ", a halter neckline tied at the nape"},
         ]},
         "setting": "a sunlit rooftop terrace at golden hour",
         "props": {"seat": "a lounge chair", "wall": "the terrace wall",
@@ -1082,7 +1100,7 @@ _cod_m, _out_m = cli("generar", _p_batch, "--stdout")
 check("M1 · un look con manifiesto (sin bloque_b) genera sin error via la CLI real",
       _cod_m == 0, "exit=%d %s" % (_cod_m, _out_m.strip().split("\n")[-1][:100]))
 check("M2 · el BLOQUE B renderizado desde el manifiesto llega al prompt final",
-      "micro bikini top" in _out_m and "bikini bottom" in _out_m, None)
+      "column dress" in _out_m, None)
 check("M3 · el estampado del manifiesto (cheetah, aprobado hoy) llega con su candado real",
       "genuine cheetah-skin" in _out_m, None)
 
