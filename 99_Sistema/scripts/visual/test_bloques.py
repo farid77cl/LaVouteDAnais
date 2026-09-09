@@ -300,6 +300,125 @@ def test_fugas_deja_pasar_las_referencias_de_C_a_B():
                           "C": "the footwear clearly visible and exactly as described above"}) == []
 
 
+# ======================================================================
+# TAREA 6 · BloquesBuilder.build() — la misma firma, el ensamblado nuevo
+# ======================================================================
+# `build(bloque_a, bloque_b, slot, pose_text, setting, ...)` conserva la firma
+# que `generar` usa. `bloque_b` acepta el LOOK entero (dict, batches nuevos) o
+# el párrafo (str, batches viejos); `pose_text=None` = sacar la sub-pose del
+# repertorio; `bloque_a=None` = leer la cerca del perfil (dueño único).
+
+_LOOK = {"campos_b": {"prenda_principal": "a plum high-gloss latex thong bikini, moulded "
+                                          "triangle cups joined by a mirror-silver O-ring",
+                      "calzado": "15cm plum patent platform stiletto sandals, open toe, "
+                                 "a 4-inch platform and a razor pin heel"},
+         "props": _PROPS}
+_SLOTS = ("standing", "back_view", "seated", "side_profile", "slot5", "pov", "odalisque")
+
+
+def test_build_del_builder_nuevo_pasa_validar_y_no_tiene_fugas():
+    pb = bloques.BloquesBuilder("ele")
+    p = pb.build(None, _LOOK, "standing", None, _SETTING)
+    assert PromptBuilder.validar(p) == [], PromptBuilder.validar(p)
+    assert bloques.fugas(pb.ultimo_por_bloque) == [], bloques.fugas(pb.ultimo_por_bloque)
+
+
+def test_build_reporta_el_largo_por_bloque():
+    pb = bloques.BloquesBuilder("ele")
+    pb.build(None, _LOOK, "standing", None, _SETTING)
+    r = pb.ultimo_reporte
+    assert set(r) == {"A", "B", "C"}
+    assert all(r[k]["chars"] > 0 and r[k]["palabras"] > 0 for k in r), r
+
+
+def test_build_es_identico_en_las_7_poses_en_A_y_B():
+    pb = bloques.BloquesBuilder("ele")
+    partes = []
+    for s in _SLOTS:
+        pb.build(None, _LOOK, s, None, _SETTING)
+        partes.append(dict(pb.ultimo_por_bloque))
+    assert len({p["A"] for p in partes}) == 1, "A cambia entre poses"
+    assert len({p["B"] for p in partes}) == 1, "B cambia entre poses"
+    assert len({p["C"] for p in partes}) == 7, "C tiene que cambiar en cada pose"
+
+
+def test_build_acepta_un_bloque_b_de_parrafo_como_los_batches_viejos():
+    pb = bloques.BloquesBuilder("ele")
+    p = pb.build(None, "a plum latex thong bikini; 15cm plum patent platform stiletto sandals",
+                 "standing", None, _SETTING)
+    assert "plum latex thong bikini" in pb.ultimo_por_bloque["B"]
+    assert PromptBuilder.validar(p) == []
+
+
+def test_build_pone_las_anclas_de_prenda_en_B_y_no_en_C():
+    """GARMENT_CONSISTENCY y FABRIC_PRISTINE describen prenda: van en B."""
+    pb = bloques.BloquesBuilder("ele")
+    pb.build(None, _LOOK, "standing", None, _SETTING)
+    assert "exactly ONE garment ensemble" in pb.ultimo_por_bloque["B"]
+    assert "exactly ONE garment ensemble" not in pb.ultimo_por_bloque["C"]
+    assert "pristine and unprinted" in pb.ultimo_por_bloque["B"]
+
+
+def test_build_pone_el_fotorrealismo_en_A():
+    pb = bloques.BloquesBuilder("ele")
+    pb.build(None, _LOOK, "standing", None, _SETTING)
+    assert "real photograph" in pb.ultimo_por_bloque["A"]
+
+
+def test_build_es_deterministico():
+    pb = bloques.BloquesBuilder("ele")
+    a = pb.build(None, _LOOK, "seated", None, _SETTING)
+    b = pb.build(None, _LOOK, "seated", None, _SETTING)
+    assert a == b
+
+
+def test_build_no_se_contradice_cuando_el_calzon_va_bajo_falda():
+    """Medido sobre el L831 real: el motor nuevo partia BOTTOM_CUT_LOCK en el
+    ultimo parentesis, pero la PROSA del corte ya decia «the seat is left
+    uncovered» — corte y exposicion venian mezclados en la frase, no solo en
+    la cola. B decia asiento al aire y C decia falda cerrada: la pelea que
+    este motor existe para eliminar, fabricada por el propio motor."""
+    import contradicciones
+    pb = bloques.BloquesBuilder("ele")
+    look = {"campos_b": {"prenda_principal": "a sapphire vinyl wrap miniskirt riding high on the hip",
+                         "calzon": "a sapphire vinyl g-string under the skirt",
+                         "calzado": "15cm sapphire patent pumps"}, "props": _PROPS}
+    p = pb.build(None, look, "back_view", None, _SETTING)
+    assert contradicciones.buscar(p) == [], contradicciones.buscar(p)
+    assert "left uncovered" not in pb.ultimo_por_bloque["B"]
+    assert "not lifted" in pb.ultimo_por_bloque["C"]
+
+
+def test_el_verbo_de_ajuste_de_una_prenda_no_es_pose():
+    """«the band sitting on the natural waist» (L831 real) es AJUSTE, no pose.
+    En este corpus la pose dice «seated» o «sitting down/upright»."""
+    assert bloques.fugas({"A": "x", "B": "a wrap skirt, the band sitting on the natural waist, "
+                                        "a thin waistband sitting high on the hip bones", "C": "y"}) == []
+
+
+def test_un_ancla_de_prenda_que_nombra_el_cuadro_no_es_pose():
+    """GARMENT_EXCLUSION_LOCK dice «not present anywhere in the frame»: es B y
+    «the frame» solo no es señal de pose ni de cámara."""
+    assert bloques.fugas({"A": "x", "B": "every item named as NOT worn is genuinely absent, "
+                                        "not present anywhere in the frame", "C": "y"}) == []
+
+
+def test_sitting_down_sigue_siendo_pose():
+    assert any("sitting down" in f for f in
+               bloques.fugas({"A": "x", "B": "a bikini, genuinely sitting down on the bench", "C": "y"}))
+
+
+def test_un_accesorio_que_reposa_sobre_el_cuerpo_no_es_pose():
+    """«a fine mirror-silver chain lying across the ribcage» (L829 real) es
+    COLOCACIÓN de una joya, no la modelo acostada. La pose dice «lying down»."""
+    assert bloques.fugas({"A": "x", "B": "a fine mirror-silver chain lying across the ribcage", "C": "y"}) == []
+
+
+def test_lying_down_sigue_siendo_pose():
+    assert any("lying down" in f for f in
+               bloques.fugas({"A": "x", "B": "a bikini, lying down on the chaise", "C": "y"}))
+
+
 def _correr():
     import traceback
     pruebas = [v for k, v in sorted(globals().items()) if k.startswith("test_")]

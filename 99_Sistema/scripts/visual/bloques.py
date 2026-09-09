@@ -53,7 +53,7 @@ def cargar_campos(ruta=JSON_CAMPOS):
 # mismo texto de siempre; este módulo la parte. Una línea vacía = campo que esa
 # muñeca no tiene. Así una muñeca nueva llena, no configura.
 
-from prompt_builder import PromptBuilder, cargar_config  # noqa: E402
+from prompt_builder import PromptBuilder, cargar_config, _log_evento  # noqa: E402
 
 
 def personajes(config=None):
@@ -102,9 +102,17 @@ RX_VOCAB_B = re.compile(
 # lleva «cinematic chiaroscuro… George Hurrell portraiture» en su ADN por
 # herencia; sacarla cambia el motor viejo — decisión de la Ama, pendiente.)
 RX_VOCAB_C = re.compile(
-    r"\b(?:standing|seated|sitting|kneeling|reclining|lying|from behind|back view|"
+    # «sitting» pelado es AJUSTE de prenda («the band sitting on the natural
+    # waist», «a thin waistband sitting high on the hip bones» — los dos medidos
+    # en el L831 real); la pose en este corpus dice «seated» o «sitting down/
+    # upright». Y «the frame» solo no es pose ni cámara: GARMENT_EXCLUSION_LOCK,
+    # que es B, dice «not present anywhere in the frame».
+    # Y «lying» pelado es COLOCACIÓN («a fine mirror-silver chain lying across
+    # the ribcage», L829 real); la pose dice «lying down/back/flat».
+    r"\b(?:standing|seated|sitting\s+(?:down|upright|up)|kneeling|reclining|"
+    r"lying\s+(?:down|back|flat|prone|supine)|from behind|back view|"
     r"side profile|three-quarter|low angle|full body|close-up|the lens|the camera|"
-    r"the frame|aspect ratio|looking at|gaze (?:locked|drifting))\b", re.I)
+    r"aspect ratio|looking at|gaze (?:locked|drifting))\b", re.I)
 
 
 # ======================================================================
@@ -170,7 +178,78 @@ def fugas_b(campos):
 class BloquesBuilder(PromptBuilder):
     """El motor nuevo. Hereda el ACCESO A DATOS que ya funciona (perfil,
     repertorio de sub-poses y su rotación, negativo base, anclas) y reemplaza
-    el ENSAMBLADO. Misma superficie que `generar` exige del builder viejo."""
+    el ENSAMBLADO. Misma superficie que `generar` exige del builder viejo.
+
+    Después de cada `build()` deja `ultimo_por_bloque` ({'A','B','C'} en texto)
+    y `ultimo_reporte` (chars y palabras por bloque): el largo se MIDE en cada
+    emisión, no se impone — el A/B decide.
+    """
+
+    ultimo_por_bloque = None
+    ultimo_reporte = None
+
+    def build(self, bloque_a, bloque_b, slot, pose_text, setting,
+              extra_final=None, extra_anclas=None, auto_opt_in=True,
+              eco_busto_declarado=None):
+        """Misma firma que el motor viejo, ensamblado nuevo: A. B. C.
+
+        bloque_a  : None = la cerca del perfil por campos (dueño único). Un str
+                    explícito entra entero como un solo campo (batches viejos).
+        bloque_b  : el LOOK del batch (dict con `campos_b` o `bloque_b`) o el
+                    párrafo (str) — los dos caminos emiten.
+        pose_text : la sub-pose ya resuelta por `pose()`; None = sacarla acá.
+        eco_busto_declarado se ignora a propósito: los ecos que re-describen la
+        prenda murieron con este motor (C solo REFERENCIA a B).
+        """
+        look = bloque_b if isinstance(bloque_b, dict) else {"bloque_b": bloque_b or ""}
+        slot_n = self.normalizar_slot(slot)
+        ruta = _mapa_anclas_a_campos()
+
+        # ---- A: la cerca por campos + las anclas de cuerpo (fotorrealismo)
+        A = ({"cuerpo": self._limpiar(bloque_a)} if bloque_a
+             else campos_a(self.slug, self.cfg))
+        # ---- B: los campos del look + las anclas de PRENDA que le tocan
+        B = campos_b(look)
+        texto_b = " ".join(B.values())
+        nombres = list(self.anclas_de_slot(slot_n)) + [n for n in (extra_anclas or []) if n]
+        if auto_opt_in:
+            nombres += [n for n in self.opt_in_de(texto_b) if n not in nombres]
+        kind = self.animal_print_kind(texto_b) if "ANIMAL_PRINT_LOCK" in nombres else None
+        for n in nombres:
+            if n == "BOTTOM_CUT_LOCK":
+                if "BOTTOM_CUT_LOCK" in self.anclas_siempre:
+                    # Solo el CORTE, exposición-neutro. La exposición es C.
+                    B["calzon"] = ", ".join(x for x in (B.get("calzon"), self.anclas[n]["texto_corte"]) if x)
+                continue
+            bloque, campo = ruta.get(n, (None, None))
+            if bloque not in ("A", "B"):
+                continue                     # las de C las pone campos_c
+            t = self.anclas[n]["texto"]
+            if "{kind}" in t:
+                if not kind:
+                    continue                 # sin especie no se escribe un candado a medias
+                t = t.replace("{kind}", kind)
+            dest = A if bloque == "A" else B
+            dest[campo] = ", ".join(x for x in (dest.get(campo), t) if x)
+        B = {c["id"]: B[c["id"]] for c in _campos_de("B") if c["id"] in B}
+        A = {k: A[k] for k in (list(A) if bloque_a else cargar_campos()["orden_A"] + ["fotorrealismo"]) if A.get(k)}
+        # ---- C: la toma
+        C = campos_c(self, slot_n, int(look.get("numero", 0) or 0), setting, look,
+                     props=look.get("props"), postura=pose_text, extra_anclas=extra_anclas)
+        if extra_final:
+            C["ambiente"] = ", ".join(x for x in (C.get("ambiente"), self._limpiar(extra_final)) if x)
+
+        prompt, por_bloque = ensamblar(A, B, C, con_bloques=True)
+        prompt = self._colapsar(prompt)
+        self.ultimo_por_bloque = por_bloque
+        self.ultimo_reporte = {k: {"chars": len(v), "palabras": len(v.split())}
+                               for k, v in por_bloque.items()}
+        fallas = self.validar(prompt)
+        _log_evento({"evento": "build", "motor": "bloques", "personaje": self.slug,
+                     "slot": slot_n, "chars": len(prompt),
+                     "por_bloque": {k: v["chars"] for k, v in self.ultimo_reporte.items()},
+                     "fallas": fallas})
+        return prompt
 
 
 def _mapa_anclas_a_campos():
@@ -190,11 +269,10 @@ def _exposicion_asiento(pb, texto_b):
     Elige la variante leyendo B (calzón por fuera -> asiento a la vista;
     calzón debajo de prenda -> la prenda de encima se mantiene cerrada)."""
     a = pb.anclas["BOTTOM_CUT_LOCK"]
-    texto = a["texto_cubierto"] if pb.calzon_va_cubierto(texto_b) else a["texto"]
-    return texto[texto.rfind("("):].strip()
+    return a["texto_exposicion_cubierto"] if pb.calzon_va_cubierto(texto_b) else a["texto_exposicion_expuesto"]
 
 
-def campos_c(pb, slot, look_number, setting, look, props=None):
+def campos_c(pb, slot, look_number, setting, look, props=None, postura=None, extra_anclas=None):
     """{campo: texto} de C en el orden del contrato, solo los que aplican.
 
     pb           : BloquesBuilder (o PromptBuilder) del personaje
@@ -213,12 +291,12 @@ def campos_c(pb, slot, look_number, setting, look, props=None):
             acum.setdefault(campo, []).append(texto)
 
     # 1) la sub-pose del repertorio, con su rotación — pelada, sin anclas
-    poner("postura", pb.pose(slot_n, look_number, props=props or (look or {}).get("props")))
+    poner("postura", postura or pb.pose(slot_n, look_number, props=props or (look or {}).get("props")))
     # 2) el ambiente
     poner("ambiente", setting)
     # 3) las anclas del slot (+ las de siempre del personaje), CADA UNA a su
     #    campo del contrato. Las de bloque B o A NO entran acá: son de otro dueño.
-    nombres = list(pb.anclas_de_slot(slot_n))
+    nombres = list(pb.anclas_de_slot(slot_n)) + [n for n in (extra_anclas or []) if n]
     if slot_n == "odalisque" and not any(n.startswith("ASPECT_") for n in nombres):
         nombres.append(pb.orientacion_odalisque(look_number))   # orientación alterna
     # 4) las que B dispara por su texto (DRESS_LEG_CLOSURE, SEAM_BACK…)
