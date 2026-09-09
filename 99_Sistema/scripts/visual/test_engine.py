@@ -671,6 +671,9 @@ check("eco: es CORTO — el prompt ya esta saturado",
 check("eco: el override declarado en el batch manda sobre la extraccion",
       eco_busto("cualquier cosa", declarado="the cups exactly as described above")
       == "the cups exactly as described above")
+check("eco: 'no bra, no bralette' NO genera un eco que afirme la prenda ausente (09/09/2026)",
+      eco_busto("no bra, no bralette, bare chest under a sheer overlay; a plum thong")
+      is None)
 
 # J. NINGUN FUENTE LLEVA CARACTERES DE CONTROL INVISIBLES (07/09/2026)
 #

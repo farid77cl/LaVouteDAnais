@@ -817,7 +817,12 @@ def eco_busto(bloque_b, declarado=None, limite=250):
     """
     if declarado:
         return declarado.strip()
-    b = (bloque_b or "").strip()
+    # Una ausencia declarada no es una presencia (09/09/2026): "no bra, no
+    # bralette" contiene la palabra "bra" que busca _BUSTO_RX, y sin este filtro
+    # el eco salia "the upper garment... exactly as described: no bra; no
+    # bralette" -- afirmando con peso una prenda que el propio look dice que no
+    # existe. Mismo mecanismo que ya usan opt_in_de() y clasificar_arquitectura().
+    b = sin_clausulas_de_ausencia((bloque_b or "").strip())
     if not b:
         return None
     # Se trocea por comas y punto y coma y se filtra parte por parte. La

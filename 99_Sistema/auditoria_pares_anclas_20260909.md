@@ -313,3 +313,23 @@ agregados `unitard`/`jumpsuit` a `COVERED_ARCHETYPES`. Verificado sin falsos
 positivos nuevos en el self-check de `garment_canon.py`. 162/162 tests.
 
 **9 hallazgos reales hoy.**
+
+## Décimo hallazgo real — el eco de busto afirmaba una prenda que no existía
+
+`eco_busto()` (el hermano de `footwear_echo` para el busto en planos cerrados) tenía
+el mismo hueco de ausencias, en un cuarto mecanismo. Un look sin prenda superior
+declarada explícitamente (*"no bra, no bralette"*) producía:
+
+> *"the upper garment in THIS frame exactly as described: no bra; no bralette"*
+
+Una cláusula que le afirma al generador, en un plano cerrado, que reproduzca "no bra;
+no bralette" como si fuera la construcción de la prenda — literalmente sin sentido, y
+compitiendo con cualquier otra descripción de piel desnuda del prompt.
+
+**Fix:** `eco_busto()` ahora limpia el BLOQUE B con
+`garment_canon.sin_clausulas_de_ausencia()` antes de trocearlo en cláusulas — mismo
+mecanismo que ya corrige `opt_in_de()`, `build_negative()` y `clasificar_arquitectura()`.
+Verificado: el caso roto ahora devuelve `None` (sin eco, correcto — no hay prenda que
+reafirmar), el caso real con bra sigue generando su eco normal. 163/163 tests.
+
+**10 hallazgos reales hoy — cuatro mecanismos distintos con la misma causa raíz.**
