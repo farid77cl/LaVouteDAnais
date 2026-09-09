@@ -7562,3 +7562,19 @@
 {"evento": "build", "personaje": "anais", "slot": "pov", "chars": 9009, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE", "HOSIERY_LOCK"], "fallas": [], "ts": "2026-09-08T12:08:40"}
 {"evento": "build", "personaje": "anais", "slot": "odalisque", "chars": 9056, "anclas_opt_in": ["GARMENT_EXCLUSION_LOCK", "DRESS_LEG_CLOSURE", "HOSIERY_LOCK"], "fallas": [], "ts": "2026-09-08T12:08:40"}
 {"evento": "build_negative", "personaje": "anais", "chars": 1835, "ts": "2026-09-08T12:08:40"}
+{"evento": "build", "personaje": "anais", "slot": "standing", "chars": 7831, "anclas_opt_in": ["HOSIERY_LOCK"], "fallas": [], "ts": "2026-09-09T09:23:15"}
+{"evento": "build", "personaje": "anais", "slot": "back_view", "chars": 7888, "anclas_opt_in": ["HOSIERY_LOCK"], "fallas": [], "ts": "2026-09-09T09:23:15"}
+{"evento": "build", "personaje": "anais", "slot": "seated", "chars": 7878, "anclas_opt_in": ["HOSIERY_LOCK"], "fallas": [], "ts": "2026-09-09T09:23:15"}
+{"evento": "build", "personaje": "anais", "slot": "side_profile", "chars": 7736, "anclas_opt_in": ["HOSIERY_LOCK"], "fallas": [], "ts": "2026-09-09T09:23:15"}
+{"evento": "build", "personaje": "anais", "slot": "slot5", "chars": 7954, "anclas_opt_in": ["HOSIERY_LOCK"], "fallas": [], "ts": "2026-09-09T09:23:15"}
+{"evento": "build", "personaje": "anais", "slot": "pov", "chars": 8197, "anclas_opt_in": ["HOSIERY_LOCK"], "fallas": [], "ts": "2026-09-09T09:23:15"}
+{"evento": "build", "personaje": "anais", "slot": "odalisque", "chars": 8130, "anclas_opt_in": ["HOSIERY_LOCK"], "fallas": [], "ts": "2026-09-09T09:23:15"}
+{"evento": "build_negative", "personaje": "anais", "chars": 1772, "ts": "2026-09-09T09:23:15"}
+{"evento": "build", "motor": "bloques", "personaje": "anais", "slot": "standing", "chars": 7831, "por_bloque": {"A": 3449, "B": 1876, "C": 2501}, "fallas": [], "ts": "2026-09-09T09:23:18"}
+{"evento": "build", "motor": "bloques", "personaje": "anais", "slot": "back_view", "chars": 7888, "por_bloque": {"A": 3449, "B": 1876, "C": 2558}, "fallas": [], "ts": "2026-09-09T09:23:18"}
+{"evento": "build", "motor": "bloques", "personaje": "anais", "slot": "seated", "chars": 7878, "por_bloque": {"A": 3449, "B": 1876, "C": 2548}, "fallas": [], "ts": "2026-09-09T09:23:18"}
+{"evento": "build", "motor": "bloques", "personaje": "anais", "slot": "side_profile", "chars": 7736, "por_bloque": {"A": 3449, "B": 1876, "C": 2406}, "fallas": [], "ts": "2026-09-09T09:23:18"}
+{"evento": "build", "motor": "bloques", "personaje": "anais", "slot": "slot5", "chars": 7696, "por_bloque": {"A": 3449, "B": 1876, "C": 2366}, "fallas": [], "ts": "2026-09-09T09:23:18"}
+{"evento": "build", "motor": "bloques", "personaje": "anais", "slot": "pov", "chars": 7939, "por_bloque": {"A": 3449, "B": 1876, "C": 2609}, "fallas": [], "ts": "2026-09-09T09:23:18"}
+{"evento": "build", "motor": "bloques", "personaje": "anais", "slot": "odalisque", "chars": 8130, "por_bloque": {"A": 3449, "B": 1876, "C": 2800}, "fallas": [], "ts": "2026-09-09T09:23:18"}
+{"evento": "build_negative", "personaje": "anais", "chars": 1772, "ts": "2026-09-09T09:23:18"}
