@@ -824,7 +824,41 @@ git commit -m "Ele: las sub-poses dejan de nombrar prendas — el BLOQUE B es su
 
 ### Task 9: Ventana real de sub-poses
 
-> 🔴 **BLOQUEADA hasta que la Ama decida.** No por permiso — por **aritmética**: con 7 variantes por slot y una ventana de 10 looks, no hay de dónde rotar. Una ventana solo sirve si `len(variaciones) > ventana`.
+> ✅ **CERRADA SIN CONSTRUIRLA — 09/09/2026. Ya no hay defecto que arreglar, y se mide.**
+>
+> El arreglo vino de lado: las 46 sub-poses nuevas del 08/09 entraron con **tamaños de
+> repertorio desparejos a propósito** (Ele 7-10 · Miss Doll 7-12 · Anaïs 10-12), y eso
+> mató el defecto grave sin necesidad de ventana. El clon del set completo exigía que
+> todos los slots reciclaran al mismo ritmo; con tamaños distintos, el set entero solo
+> se repite en el mínimo común múltiplo.
+>
+> **Medido sobre una ventana de 12 looks consecutivos, los 66 pares:**
+>
+> | Muñeca | Pares con ≥6/7 slots iguales | Peor coincidencia |
+> |---|---|---|
+> | Ele | **0** | 2 de 7 slots |
+> | Miss Doll | **0** | 1 de 7 slots |
+> | Anaïs | **0** | 3 de 7 slots |
+>
+> Anaïs venía de **5 pares en 7/7** — la postura completa repetida. Hoy su peor caso son
+> 3 slots de 7 entre dos looks separados por hasta 12, que es el ruido normal de cualquier
+> rotación finita.
+>
+> **Por qué NO se construye la ventana, entonces:** su precio es el que el propio plan
+> identificó abajo — habría que **persistir el índice elegido en la galería como campo**,
+> porque una selección no determinista deja el historial irreconstruible. Eso es cambiar el
+> contrato de la galería y del parser de LV-App. Pagar un cambio de contrato para ganar
+> 1-3 slots en 12 looks no se justifica.
+>
+> ⚠️ **Cuándo volver a abrirla:** si alguna vez los repertorios vuelven a quedar del mismo
+> tamaño entre sí, el clon completo regresa. El guardián de eso es el chequeo de la Task 4,
+> que sigue midiendo y avisando en cada `generar`. La regla que importa no es «≥15 variantes»
+> sino **«que los tamaños no coincidan»**.
+
+> 🔴 *(Diagnóstico original, 06/09 — se conserva porque su conclusión era correcta con los
+> datos de ese día.)* **BLOQUEADA hasta que la Ama decida.** No por permiso — por
+> **aritmética**: con 7 variantes por slot y una ventana de 10 looks, no hay de dónde rotar.
+> Una ventana solo sirve si `len(variaciones) > ventana`.
 
 **La conclusión corregida, que ninguno de los dos informes dijo así:** la **Opción A (agrandar los repertorios) no es un paliativo alternativo a C — es su prerrequisito.** Primero hay que tener variantes; después tiene sentido elegirlas con ventana.
 
