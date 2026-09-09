@@ -76,6 +76,7 @@ from footwear_canon import audit_footwear  # noqa: E402
 from garment_canon import racha_medias_detalle, audit_banda_cuota, audit_garment, audit_safe_filter, warn_safe_filter, warn_glove_nail_conflict, audit_clon_intra  # noqa: E402
 from lint_prompts_personaje import extraer_bloques_b, clasificar_arquitectura, plano as _plano  # noqa: E402
 from prompt_builder import PromptBuilder, cargar_config, slugify  # noqa: E402
+from vestuario_renderer import renderizar as renderizar_vestuario, PrendaInvalida  # noqa: E402
 
 
 # --------------------------------------------------------------------- generar
@@ -147,6 +148,18 @@ def cmd_generar(args):
     _expandidos = {}   # {look: {slot: prompt}} para el auditor de cierre
     for num in sorted(b["looks"], key=int):
         lk = b["looks"][num]
+        # 🧵 MANIFIESTO TIPADO (Fase 4, 09/09/2026). Un look puede declarar
+        # "manifiesto" en vez de escribir "bloque_b" a mano -- el BLOQUE B se
+        # RENDERIZA desde el dato, aca mismo, ANTES de cualquier otra
+        # validacion, y una pieza fuera del vocabulario aprobado bloquea el
+        # batch entero sin escribir nada (mismo principio que ya rige el resto
+        # de este comando: la puerta bloquea antes, no audita despues).
+        if "manifiesto" in lk and "bloque_b" not in lk:
+            try:
+                lk["bloque_b"] = renderizar_vestuario(lk["manifiesto"])
+            except PrendaInvalida as e:
+                print("look %s: manifiesto invalido -- %s" % (num, e))
+                return 1
         for k in ("titulo", "bloque_b", "setting"):
             if k not in lk:
                 print("look %s: falta '%s'" % (num, k))
@@ -317,7 +330,7 @@ def cmd_generar(args):
                 return 1
             extra = [pb.orientacion_odalisque(int(num))] if slot in alterna else None
             prompt = pb.build(adn, lk["bloque_b"], slot, pose, lk["setting"],
-                              extra_anclas=extra)
+                              extra_anclas=extra, manifiesto=lk.get("manifiesto"))
             fallas = pb.validar(prompt)
             if fallas:
                 print("  \U0001f534 Look %s / %s: %s" % (num, label, "; ".join(fallas)))

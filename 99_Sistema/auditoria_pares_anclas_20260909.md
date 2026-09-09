@@ -382,3 +382,25 @@ coincidan. Verificado: "miniskirt" y "sundress" solos, sin ayuda de ninguna otra
 mención, clasifican bien. 176/176 tests.
 
 **12 hallazgos reales hoy.**
+
+## Fase 4 del manifiesto tipado — `outfit.py generar` acepta el batch nuevo
+
+`cmd_generar` (la puerta) ya renderiza el BLOQUE B desde `manifiesto` cuando un
+look lo declara en vez de escribir `bloque_b` a mano — el render corre ANTES de
+cualquier auditoría (rotación, canon de calzado/vestuario), así que una pieza
+fuera del vocabulario aprobado bloquea el batch entero, igual que cualquier otro
+error de entrada.
+
+**Verificado extremo a extremo, vía la CLI real** (no una llamada aislada a una
+función): un batch con un look de bikini + estampado cheetah (la especie
+aprobada hoy) — declarado ÍNTEGRAMENTE por manifiesto, sin una palabra de
+`bloque_b` escrita a mano — pasó por la rotación de arquitectura, el canon de
+calzado/vestuario, se renderizó, y llegó al prompt final con
+*"genuine cheetah-skin scale/marking texture"* — el candado real, con la especie
+correcta, leída del dato. El primer intento (con corsetería) probó además que la
+puerta de rotación SÍ frena un manifiesto que repite arquitectura reciente,
+exactamente como con un look escrito a mano. 179/179 tests.
+
+Quedan las Fases 5 (probarlo con un look real de la Ama, no de prueba) y, más
+adelante, extender el manifiesto a los opt-in que todavía no tienen campo propio
+(asimetría, accesorios, bata/blazer, brillo, costura).

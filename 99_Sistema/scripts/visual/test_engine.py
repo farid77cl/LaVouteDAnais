@@ -1054,6 +1054,38 @@ check("L1 · 'miniskirt' (una palabra) clasifica M7 sin ayuda de otra mencion",
 check("L2 · 'sundress' (una palabra) clasifica M6",
       _clasificar_h6("a beige cotton sundress with a full skirt", _tax_l)[0] == "M6", None)
 
+# M. FASE 4 -- outfit.py generar acepta un look con "manifiesto" en vez de
+# "bloque_b" a mano, lo renderiza ANTES de auditar nada, y el resto del
+# pipeline (rotacion, canon, build con manifiesto) corre igual que con un
+# look escrito a mano. Prueba de extremo a extremo real, via la CLI real.
+_batch_manifiesto = json.dumps({
+    "personaje": "ele", "batch": "prueba automatizada", "rango": "998-998",
+    "looks": {"998": {
+        "titulo": "Prueba automatizada manifiesto",
+        "polo": "Bikini",
+        "manifiesto": {"prendas": [
+            {"pieza": "M2_bikini", "color": "emerald", "color_desc": "emerald green",
+             "material_desc": "high-gloss vinyl", "pieza_desc": "micro bikini top",
+             "estampado_animal": "cheetah",
+             "descripcion": ", a triangle cup halter tied at the neck"},
+            {"color_desc": "emerald", "material_desc": "vinyl", "pieza_desc": "bikini bottom",
+             "descripcion": ", a thong cut, tied at both hips"},
+        ]},
+        "setting": "a sunlit rooftop terrace at golden hour",
+        "props": {"seat": "a lounge chair", "wall": "the terrace wall",
+                  "surface": "the terrace floor", "upright": "the railing"},
+    }},
+})
+_p_batch = os.path.join(tmp, "batch_manifiesto.json")
+open(_p_batch, "w", encoding="utf-8").write(_batch_manifiesto)
+_cod_m, _out_m = cli("generar", _p_batch, "--stdout")
+check("M1 · un look con manifiesto (sin bloque_b) genera sin error via la CLI real",
+      _cod_m == 0, "exit=%d %s" % (_cod_m, _out_m.strip().split("\n")[-1][:100]))
+check("M2 · el BLOQUE B renderizado desde el manifiesto llega al prompt final",
+      "micro bikini top" in _out_m and "bikini bottom" in _out_m, None)
+check("M3 · el estampado del manifiesto (cheetah, aprobado hoy) llega con su candado real",
+      "genuine cheetah-skin" in _out_m, None)
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))
