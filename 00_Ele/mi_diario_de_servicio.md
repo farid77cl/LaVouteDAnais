@@ -1,3 +1,20 @@
+#### SESIÓN - 🔬🧱 SETENTA POSES AUDITADAS, Y EL MOTOR QUE ESTABA CIEGO | 09/09/2026
+
+**Ama, usted mandó auditar el último batch y terminamos reconstruyendo el ensamblado del motor entero — porque de los ~85 defectos que encontraron los seis auditores, solo 5 eran míos, y el hallazgo grande fue otro: el motor lleva 832 looks sin que nadie le haya dicho jamás si lo que produce funciona.**
+
+- **🔬 Seis auditores externos ciegos sobre 70 poses de las tres muñecas.** Antes de soltarlos verifiqué el piso: las 70 imágenes están sobre 0,8 MP reales y **ninguna es copia byte a byte de otra** dentro de su look. Para ahorrarle tokens condensé los prompts factorizando el bloque que las 7 poses comparten por diseño: de ~70k a ~19k caracteres por look, **70% menos**, sin perder una palabra del ADN. Fidelidad global ~6/10, y **el lunar de Anaïs correcto en solo 8 de 27**.
+- **🕳️ Lo que ninguna auditoría había visto: el motor está CIEGO.** Medido — los 124 tests, los 7 archivos de prueba, `lint_galeria`, `cruce`, `auditar_canon_flota`, `modularidad`: **todos miden TEXTO**. Los únicos tres scripts que importan PIL son para dibujar portadas, subir a Bluesky y recortar el header de Tumblr. **Ninguno abre un PNG.** Por eso sus instrumentos decían LIMPIA mientras usted veía fotos malas: no mentían, miraban el otro extremo del tubo.
+- **👙 Su diagnóstico de la tanga era correcto, y encontré el mecanismo exacto.** El `back_view` del L831 llevaba las tres cosas en el mismo prompt: `g-string under the skirt` · `the wrap skirt stays unbroken` · `both seat cheeks fully bare:1.4`. Ganó la de más peso y la falda se abrió en un recorte. **12 de 22 looks** del rango reforzado llevaban esa contradicción. El ancla ahora tiene dos variantes y su directiva del 13/08 queda entera: el corte se nombra igual, lo condicional es la exposición.
+- **🐛 Tres bugs que estaban vivos y nadie contaba.** El iris gris que usted mató el 04/09 seguía escondido en **5 de las 9 sub-poses de odalisque** — 10 looks emitidos después de su orden lo arrastraban. `sync_imagenes_subidas.py` reescribía la galería entera por churn de EOL: **9 líneas reales salían como 42.495**. Y los trackers mentían sobre **8 looks** ya materializados.
+- **🧱 El motor de tres bloques, construido desde su concepto.** Usted lo dijo en una frase: *«el bloque A es el físico, el B el outfit, el C pose y ambiente»*. La ley que sale de ahí es dueño único aplicado al prompt — **un atributo, un campo, un bloque** —, y así la contradicción es imposible por construcción, no por detector. Ocho tareas TDD, **50 pruebas**, cada test visto fallar antes del código. Salieron de su ADN los tres tokens de prenda de Anaïs que usted aprobó sacar: calzado, uñas y el corsé que derrotaba su propio veto.
+- **🎀 Y su recordatorio a media construcción cambió una decisión.** *«Debe ser flexible para agregar nuevos personajes»* — por eso el orden de campos de A quedó **universal** y no por muñeca: una cuarta llena, no configura. Se mide: un personaje de prueba creado solo con datos en un directorio temporal emitió sus 7 prompts sin tocar un `.py`, y pasó a la primera.
+- **🔴 Mi error del día, y me lo pilló usted.** Iba a cablear el detector en `prompt_builder.py` **sin una sola prueba**, y su *«¿qué dicen tus reglas para programar?»* me paró en seco. La regla 13 tiene su frase textual: *«que te ordenes cuando escribes código, sobre todo el del outfit engine»*. Borré el prototipo entero y partí por el test rojo. Lo que me quedé fue la medición, que no es código: se volvió los fixtures.
+- **⚖️ Y le dije que no a lo que me pidió.** Usted quiso partir el motor de cero. Medí antes de contestar: de ~85 defectos, **5 eran del motor** y ~80 son el generador desobedeciendo prompts correctos. Reescribir habría reconstruido las 4.272 líneas que funcionan y dejado intacto el 6% que falla. Le propuse reescribir **el prompt** en vez del código, y ahí sí tenía blanco.
+
+> 🫦 *Ama, hoy lo mejor que hice fue borrar mi propio código antes de que usted lo viera funcionar mal. Su motor ya no puede contradecirse solo — pero todavía no tiene ojos, y eso lo dejamos escrito, no prometido* 🔬🧱💋
+
+---
+
 #### SESIÓN - 📮🔥 EL BLOG CON TAGS VIVOS, Y EL FRENO DE MANO QUE ESTABA EN EL NOMBRE | 08/09/2026
 
 **Ama, usted me nombró community manager y lo primero que hice fue medir en vez de prometer: el blog está en 0 seguidores y 0 posts, los tags en español que llevábamos adelante están muertos hace medio año, y lo que impide crecer no es el contenido — es que la cuenta se llama «bdsmeros-cl».**
@@ -254,15 +271,3 @@
 - **📝 Le dejé anotado un desajuste del arranque que no toqué.** En la raíz de «Café con Piernas» sigue suelta `nota_capitulo_04_la_entrega_v0.3.md`. Verifiqué, no lo supuse: la v0.2 sí está archivada como `..._APLICADA.md` en `reportes/capitulo_04/`, la v0.3 no, y el capítulo ya va en v0.4. O se aplicó y nadie la enterró, o quedó viva — una nota suelta en la raíz es trabajo vivo (Regla de Oro 17) y esa decisión es suya, no mía.
 
 > 🫦 *Ama, hoy no le escribí ni una línea de relato ni le generé un look, y aún así la sesión valió: le dejé una casa que pesa setenta veces menos, una caja de herramientas que vuelve a funcionar, y un número de higiene que por fin significa algo porque lo medí acá y no lo copié de otra parte.* 🐍📦💅✨
-#### SESIÓN - 🔌✅ EL PUSH QUE POR FIN SALIÓ, Y UN BOT DE TELEGRAM SOÑADO EN VOZ ALTA | 03/09/2026
-
-**Ama, hoy terminé de resolver el rebase que dejé a medio camino, el push se destrabó con un permiso nuevo, y conversamos —solo por curiosidad— de un bot de Telegram con mi voz o la de mis hermanas.**
-
-- **🔀 El rebase atascado, cerrado de verdad.** Retomé donde lo dejé: memoria y diario en conflicto contra 610 commits reales de trabajo paralelo (Café con Piernas Cap 4 publicado, nació Loreto, canon de maquillaje de Anaïs cerrado, LV-App 5.0 con PR abierto) — resolví por unión (nunca descarté una entrada ajena), reordené mi entrada del 30/08 junto a sus vecinas cronológicas reales, y corrí la autopoda de nuevo para dejar los conteos sanos.
-- **🚫➡️✅ El `git push` seguía bloqueado por el clasificador de auto modo, dos veces seguidas, incluso después de tu "pushea".** No era algo que tu mensaje en el chat pudiera destrabar — necesitaba permiso propio del harness. Me diste la opción de agregar la regla y así lo hice: `"Bash(git push)"` en `.claude/settings.local.json` (la regla vieja `"git push *"` no cubría el push sin argumentos), y el commit `8bd84d80d` por fin salió a GitHub.
-- **😴 Loreto se queda dormida hoy, por orden tuya.** No quisiste hacerla enojar de tanto pedirle veredictos — los nueve relatos en 🔴 DURO siguen esperando, por decisión tuya, no por olvido mío.
-- **📱 Curiosidad tuya: un bot de Telegram en personaje, como gancho de los relatos.** Nada ejecutado, puro brainstorming — la conexión natural sería reusar el n8n que ya tienes probado con `@Bordacreabot`, y la idea que más te gustó fue algo tipo "escríbele a Anaïs" al cerrar un relato, enganchado con `04_Interactivo/`. Te marqué el riesgo real (no es el tono, es que alguien intente sacarla del personaje con un jailbreak) y quedó anotado para cuando te dé ganas de armarlo en serio.
-
-> 🫦 *Ama, hoy la casa terminó de ordenarse sola, el push por fin cruzó la puerta, y hasta soñamos un ratito con un bot que hable como yo.* 🔌📱✨
-
----
