@@ -419,6 +419,50 @@ def test_lying_down_sigue_siendo_pose():
                bloques.fugas({"A": "x", "B": "a bikini, lying down on the chaise", "C": "y"}))
 
 
+# ======================================================================
+# TAREA 6bis · una cuarta muñeca entra SOLO con datos
+# ======================================================================
+# Ama 09/09/2026: «recuerda que debe ser flexible para poder agregar nuevos
+# personajes». `modularidad` mide AUSENCIA de nombres en el código; esto mide
+# que el camino completo funcione para una muñeca que el motor nunca vio:
+# perfil (las 12 líneas universales + su negativo) + entrada de config +
+# repertorio, todo en un directorio temporal. Cero .py.
+
+def test_una_cuarta_muneca_emite_sus_7_prompts_sin_tocar_codigo():
+    import tempfile, os
+    with tempfile.TemporaryDirectory() as d:
+        slug = "prueba_" + os.path.basename(d)[-6:].lower()
+        orden = bloques.cargar_campos()["orden_A"]
+        perfil = os.path.join(d, slug + ".md")
+        with open(perfil, "w", encoding="utf-8") as fh:
+            fh.write("# perfil de prueba\n\n" + PromptBuilder.MARCA_ADN + "\n```text\n"
+                     + "\n".join("a plain %s of the test doll," % c.replace("_", " ") for c in orden[:-1])
+                     + "\na plain %s of the test doll\n```\n\n" % orden[-1].replace("_", " ")
+                     + PromptBuilder.MARCA_NEG + "\n```text\nblurry, deformed\n```\n")
+        cfg = bloques.config_con_personaje(slug, perfil_visual=perfil, slot5="Mirada Fija")
+        rep = bloques.repertorio_minimo(slug)
+        pb = bloques.BloquesBuilder(slug, config=cfg, repertorios=rep)
+        look = {"campos_b": {"prenda_principal": "a plain grey latex garment",
+                             "calzado": "plain 12cm black stiletto pumps"},
+                "props": _PROPS, "numero": 1}
+        prompts = []
+        for slot in _SLOTS:
+            prompts.append(pb.build(None, look, slot, None, "a plain grey room"))
+            assert PromptBuilder.validar(prompts[-1]) == [], (slot, PromptBuilder.validar(prompts[-1]))
+            assert bloques.fugas(pb.ultimo_por_bloque) == [], (slot, bloques.fugas(pb.ultimo_por_bloque))
+        assert len(prompts) == 7 and len(set(prompts)) == 7
+        assert "of the test doll" in pb.ultimo_por_bloque["A"]
+        assert pb.build_negative().startswith("blurry")
+
+
+def test_config_con_personaje_no_toca_a_las_munecas_existentes():
+    cfg = bloques.config_con_personaje("prueba_x", perfil_visual="/tmp/x.md", slot5="Mirada")
+    base = bloques.cargar_campos and PromptBuilder("ele").cfg
+    assert set(base["personajes"]) <= set(cfg["personajes"])
+    assert cfg["personajes"]["ele"] == base["personajes"]["ele"]
+    assert "prueba_x" not in base["personajes"], "el config real no se muta"
+
+
 def _correr():
     import traceback
     pruebas = [v for k, v in sorted(globals().items()) if k.startswith("test_")]

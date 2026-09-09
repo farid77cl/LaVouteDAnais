@@ -388,3 +388,59 @@ def fugas(por_bloque):
     for m in RX_B_DESCRITO.finditer(C):
         out.append("C: «%s» describe la prenda, que es B" % m.group(0))
     return out
+
+
+# ======================================================================
+# Un personaje nuevo es DATO, nunca código (Ama 09/09/2026)
+# ======================================================================
+# Estos dos helpers construyen los datos que una muñeca nueva necesita, sin
+# mutar los reales. Son lo que usa la guardia de extensibilidad (test 6bis) y
+# lo que usaría un batch de prueba de un personaje todavía sin perfil escrito.
+
+def config_con_personaje(slug, perfil_visual, slot5, base=None, **extra):
+    """Copia del config real + la entrada mínima de un personaje nuevo.
+
+    Lo mínimo que el motor LEE de un personaje: dónde está su perfil (las dos
+    cercas), cómo se llama su slot 5, qué anclas propias lleva siempre, y sus
+    rutas de galería/imágenes para `generar`. Todo lo demás es opcional y se
+    pasa en `extra`. El config real no se toca.
+    """
+    import copy
+    from prompt_builder import slugify
+    cfg = copy.deepcopy(base or cargar_config())
+    entrada = {
+        "nombre": slug.replace("_", " ").title(),
+        "perfil_visual": perfil_visual,
+        "galeria": extra.pop("galeria", "02_Personajes/%s/GALERIA_%s.md" % (slug, slug.upper())),
+        "carpeta_imagenes": extra.pop("carpeta_imagenes", "05_Imagenes/%s" % slug),
+        "slot5_nombre": slot5,
+        "slot5_slug": slugify(slot5),
+        "anclas_siempre": extra.pop("anclas_siempre", []),
+        "overrides": extra.pop("overrides", {}),
+    }
+    entrada.update(extra)
+    cfg["personajes"][slug] = entrada
+    return cfg
+
+
+def repertorio_minimo(slug, base=None):
+    """Copia de los repertorios reales + un repertorio mínimo para `slug`:
+    una sub-pose neutra por slot (sin placeholders de mobiliario) y offsets
+    en cero. Suficiente para emitir; nunca para producción — un repertorio
+    real trae 7-10 variantes por slot, que es lo que hace que dos looks no
+    salgan iguales."""
+    import copy
+    from prompt_builder import cargar_repertorios
+    rep = copy.deepcopy(base or cargar_repertorios())
+    neutras = {
+        "standing": "full body, standing upright and facing the camera, weight on one heel",
+        "back_view": "full body seen from behind, looking back over one shoulder",
+        "seated": "seated upright on the named seat with knees together and hands on the thighs",
+        "side_profile": "full body in strict profile, the spine in a long arch",
+        "slot5": "portrait framing, the gaze drifting away from the lens",
+        "pov": "portrait framing from a low angle, the gaze locked into the lens",
+        "odalisque": "reclining along the named surface, one knee raised, the head propped on one hand",
+    }
+    rep["personajes"][slug] = {"slots": {k: [v] for k, v in neutras.items()},
+                               "offsets": {k: 0 for k in neutras}}
+    return rep
