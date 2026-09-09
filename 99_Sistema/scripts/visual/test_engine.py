@@ -834,6 +834,26 @@ _p_liso = _build_h("sheer nude plain stockings, no pattern; a black vinyl bra "
 check("H3 · control: FABRIC_PRISTINE SIGUE presente sin patron de hosiery",
       "solid-coloured and unmarked" in _p_liso, _p_liso[:200])
 
+# H4 -- el negative deja de depender de que el batch se acuerde de `negative_excluir`
+# (09/09/2026). Medido: 2 de 5 looks de corseteria de Miss Doll (L62, L68) y 2 de 4
+# Girly Girl (L66, L83) tenian ese campo en None -- el negative le pedia al generador
+# que borrara justo lo que el positive acababa de declarar.
+_pb_md = PromptBuilder("miss_doll")
+_neg_corset = _pb_md.build_negative(
+    bloque_b="a black waist cincher corset with steel boning, worn over a bustier")
+check("H4 · negative de Miss Doll saca 'corset' solo, leyendo el BLOQUE B",
+      "corset" not in _neg_corset.lower(), _neg_corset[:200])
+_neg_sin_corset = _pb_md.build_negative(bloque_b="a chrome bodysuit, no corset")
+check("H4 · control: sin corset declarado, la base sigue negandolo",
+      "corset" in _neg_sin_corset.lower(), _neg_sin_corset[:200])
+
+_neg_girly = _pb_md.build_negative(bloque_b="a pink dress", arquetipo="Girly Girl")
+check("H4 · negative de Miss Doll saca 'warm smile' con el arquetipo Girly Girl",
+      "warm smile" not in _neg_girly.lower(), _neg_girly[:200])
+_neg_no_girly = _pb_md.build_negative(bloque_b="a pink dress", arquetipo="Nightclub")
+check("H4 · control: fuera de Girly Girl, 'warm smile' sigue negado",
+      "warm smile" in _neg_no_girly.lower(), _neg_no_girly[:200])
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))

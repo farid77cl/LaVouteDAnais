@@ -540,6 +540,20 @@
       "orientacion_alterna": {
         "odalisque": "Ama 17/08/2026: 'Miss Doll debe tener Odalisque en vertical y horizontal' -- NO va fija en el mapa (a diferencia de Ele/Anais, donde Odalisque es SIEMPRE horizontal por ser reclinada). Se alterna por numero de look via PromptBuilder.orientacion_odalisque(look_number), pasada a build() como extra_anclas. Motivo: su Odalisque es 'Throne en Suelo' (sentada, no reclinada) -- ninguna de las dos orientaciones es la 'natural' del encuadre, asi que la Ama prefiere variedad en vez de fijar una."
       },
+      "negativo_condicional": [
+        {
+          "_porque": "El corse ya no es obligatorio (perfil §5.5), asi que va en negative BASE por defecto -- pero eso significa que un look que SI lo lleva necesita sacarlo del negative, y ese paso dependia de que quien escribiera el batch se acordara de poner `negative_excluir`. Medido 09/09/2026: 2 de 5 looks de corseteria (L62, L68) lo tenian en `None` -- el prompt le pedia el corse al positive y se lo negaba al mismo tiempo. Se detecta solo desde ahora, leyendo el BLOQUE B en vez de confiar en el campo manual.",
+          "disparador": "bloque_b_nombra",
+          "terminos": ["corset", "waist cincher", "bustier"],
+          "excluir": ["corset", "waist cincher", "bustier"]
+        },
+        {
+          "_porque": "Girly Girl es el unico arquetipo con calidez (perfil §6) -- el resto exige 'cero calidez' en el negative base, y esa base incluye 'warm smile, laughing'. Mismo hueco que el corse, medido el mismo dia: 2 de 4 looks de Girly Girl (L66, L83) tenian `negative_excluir` en `None`.",
+          "disparador": "arquetipo_es",
+          "valor": "Girly Girl",
+          "excluir": ["warm smile", "laughing"]
+        }
+      ],
       "anclas_siempre": [
         "BOTTOM_CUT_LOCK"
       ],

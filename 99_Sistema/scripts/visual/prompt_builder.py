@@ -762,13 +762,14 @@ class PromptBuilder(object):
         })
         return prompt
 
-    def build_negative(self, extra="", excluir=None):
+    def build_negative(self, extra="", excluir=None, bloque_b=None, arquetipo=None):
         """
         Fuente unica del negative de un look: la base del perfil §3
         (`negativo_base`, auto-leida — YA NO hay que pasarla) + lo que el
         look agregue puntual (`extra`, tipicamente `negative_extra` del
         look/perfil) + la capa universal anti-collage/anatomia/selfie,
-        menos lo que el look declare en `excluir` (ver abajo).
+        menos lo que el look declare en `excluir` (ver abajo) y menos lo
+        que este metodo mismo detecte via `negativo_condicional` (ver abajo).
 
         Hasta el 03/09/2026 este metodo tomaba `base` como el ÚNICO
         argumento y no leia el perfil — outfit.py le pasaba `negative_extra`
@@ -787,11 +788,38 @@ class PromptBuilder(object):
         expresion calida (perfil §6) — y antes del 03/09 esa excepcion
         nunca se probaba de verdad porque la base ni siquiera llegaba al
         prompt.
+
+        `bloque_b` / `arquetipo`: PASARLOS SIEMPRE que se tengan (09/09/2026).
+        Hasta hoy la exclusion de arriba dependia por completo de que quien
+        escribiera el batch se acordara de poner `excluir` a mano — medido:
+        2 de 5 looks de corseteria de Miss Doll (L62, L68) y 2 de 4 Girly Girl
+        (L66, L83) NO lo tenian, y el negative le pedia al generador que
+        borrara justo lo que el positive acababa de declarar. `personajes.
+        <slug>.negativo_condicional` (JSON, dueño unico) declara reglas
+        `bloque_b_nombra` (si el BLOQUE B nombra estos terminos, excluirlos) y
+        `arquetipo_es` (si el arquetipo declarado es este, excluirlos) — se
+        evaluan aca y se UNEN con el `excluir` manual, nunca lo reemplazan.
         """
         base = self._limpiar(self.negativo_base).rstrip(",")
         extra = self._limpiar(extra).rstrip(",")
         universal = self._limpiar(self.cfg["negative_universal"]["texto"])
         excluir_low = set(t.strip().lower() for t in (excluir or []) if t.strip())
+        for regla in self.perfil.get("negativo_condicional", []):
+            if regla.get("disparador") == "bloque_b_nombra":
+                terminos = regla.get("terminos", [])
+                # Una ausencia declarada ("no corset") no es que el look SI lo lleve --
+                # es lo contrario. Se borra antes de nombrar, mismo criterio que
+                # `arquitecturas_de_prenda._regex_ausencias` (clasificar_arquitectura).
+                _sin_ausencias = re.sub(
+                    r"\bno\s+(?:%s)\b" % "|".join(re.escape(t) for t in terminos),
+                    " ", bloque_b or "", flags=re.I)
+                disparado = bool(self._nombra(_sin_ausencias, terminos))
+            elif regla.get("disparador") == "arquetipo_es":
+                disparado = (arquetipo or "").strip().lower() == regla.get("valor", "").strip().lower()
+            else:
+                disparado = False
+            if disparado:
+                excluir_low |= set(t.strip().lower() for t in regla.get("excluir", []) if t.strip())
         vistos = []
         capas = base + (", " + extra if extra else "") + ", " + universal
         for t in [x.strip() for x in capas.split(",")]:

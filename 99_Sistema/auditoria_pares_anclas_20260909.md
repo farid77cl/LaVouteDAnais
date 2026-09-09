@@ -174,3 +174,25 @@ retrofiteable, o bug del propio auditor — 28 de 90 esa vez). Los 844 de hoy no
 triados; hacerlo es un proyecto propio, del tamaño del de esta mañana o más grande, y
 es sobre el PASADO, no sobre que el motor genere bien HOY. Se deja anotado, no se
 empieza sin que la Ama decida que es la prioridad.
+
+## Un cuarto caso real — el negative, no el positive (09/09/2026, tarde)
+
+Todo lo de arriba miraba el POSITIVE. El NEGATIVE tiene el mismo problema: Miss Doll
+declara `corset` y `warm smile, laughing` en su negative BASE (porque ninguno es
+obligatorio) con la intención documentada de sacarlos del negative cuando el look sí
+los lleva — pero ese paso dependía 100% de que quien escribiera el batch pusiera
+`negative_excluir` a mano.
+
+**Medido en los batches reales:** 2 de 5 looks de corsetería (L62, L68) y 2 de 4 Girly
+Girl (L66, L83) tenían ese campo en `None`. El prompt le pedía el corsé al positive y
+se lo negaba al mismo tiempo — la misma "moneda al aire" de toda la auditoría de hoy,
+esta vez en la otra mitad del prompt.
+
+**Fix aplicado:** `personajes.miss_doll.negativo_condicional` (JSON, nuevo) declara las
+dos reglas (`bloque_b_nombra` para corsé, `arquetipo_es` para Girly Girl).
+`PromptBuilder.build_negative()` las lee solas y las une con el `excluir` manual —
+ya no depende de la memoria de quien escribe el batch. Cuidado real encontrado en el
+camino: un BLOQUE B que dice *"no corset"* (ausencia declarada) no debe disparar la
+regla — se filtra igual que `arquitecturas_de_prenda._regex_ausencias`. Verificado
+contra los 4 looks rotos (ya corrigen solos) y los 5 ya-correctos (sin cambio).
+Regresión permanente: `test_engine.py` bloque H4, 144/144.
