@@ -854,6 +854,27 @@ _neg_no_girly = _pb_md.build_negative(bloque_b="a pink dress", arquetipo="Nightc
 check("H4 · control: fuera de Girly Girl, 'warm smile' sigue negado",
       "warm smile" in _neg_no_girly.lower(), _neg_no_girly[:200])
 
+# H5 -- opt_in_de() tenia el mismo hueco de ausencias en dos sitios mas: un BLOQUE
+# B de bikini con "no dress, no stockings" (explicito) se llevaba igual
+# DRESS_LEG_CLOSURE y HOSIERY_LOCK, porque las dos palabras SI estan en el texto --
+# nomás negadas. Generalizado 09/09/2026 desde el fix de SEAM_FRONT/BACK del 06/09.
+_b_bikini_negado = ("a micro bikini in two pieces, no dress, no gown, legs bare, "
+                     "no stockings anywhere")
+_opt_bikini = _pb_h.opt_in_de(_b_bikini_negado)
+check("H5 · DRESS_LEG_CLOSURE no dispara con 'no dress' explicito",
+      "DRESS_LEG_CLOSURE" not in _opt_bikini, _opt_bikini)
+check("H5 · HOSIERY_LOCK no dispara con 'no stockings' explicito",
+      "HOSIERY_LOCK" not in _opt_bikini, _opt_bikini)
+check("H5 · control: GARMENT_EXCLUSION_LOCK SI dispara (existe para eso)",
+      "GARMENT_EXCLUSION_LOCK" in _opt_bikini, _opt_bikini)
+
+_opt_vestido = _pb_h.opt_in_de("a wrap dress with a high slit, the hem finishing at the knee")
+check("H5 · control: un vestido real SI dispara DRESS_LEG_CLOSURE",
+      "DRESS_LEG_CLOSURE" in _opt_vestido, _opt_vestido)
+_opt_medias = _pb_h.opt_in_de("sheer seamed stockings with a back seam, held up by a garter belt")
+check("H5 · control: medias reales con costura SI disparan HOSIERY_LOCK",
+      "HOSIERY_LOCK" in _opt_medias, _opt_medias)
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))

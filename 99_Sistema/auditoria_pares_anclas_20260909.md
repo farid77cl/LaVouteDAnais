@@ -196,3 +196,35 @@ camino: un BLOQUE B que dice *"no corset"* (ausencia declarada) no debe disparar
 regla — se filtra igual que `arquitecturas_de_prenda._regex_ausencias`. Verificado
 contra los 4 looks rotos (ya corrigen solos) y los 5 ya-correctos (sin cambio).
 Regresión permanente: `test_engine.py` bloque H4, 144/144.
+
+## Sexto hallazgo real — el mismo hueco de ausencias, generalizado (09/09/2026, noche)
+
+El fix de `negativo_condicional` de esta tarde expuso el patrón completo: **una
+ausencia declarada ("no X") no es una presencia**, pero varios disparadores de
+`opt_in_de()` solo miraban si la PALABRA estaba en el texto, sin mirar si venía
+negada. Ya se había parcheado a mano una vez (`SEAM_FRONT`/`SEAM_BACK`, 06/09, para
+"no stockings"). Verificado hoy que el mismo hueco vivía en dos sitios más:
+
+- **`HOSIERY_LOCK`** disparaba con *"no stockings anywhere"* — la cadena `stockings`
+  está ahí, nomás negada. Un look de bikini sin medias se llevaba igual la cláusula
+  *"the stockings are exactly ONE single pair... never missing their pattern"*.
+- **`DRESS_LEG_CLOSURE`** disparaba con *"no dress, no gown"* — mismo mecanismo. Un
+  bikini se llevaba *"her legs stay closed... never opened apart"*, exactamente la
+  clase de instrucción que le pelea a una pose de bikini con piernas abiertas.
+
+**Fix**: nuevo helper `PromptBuilder._sin_ausencias_de(texto, terminos)` (borra
+"no <término>" antes de nombrar), aplicado en el loop de `opt_in_de()` para los
+cuatro candados de vocabulario (`OPAQUE_LOCK`, `GLOSS_LOCK`, `HOSIERY_LOCK`,
+`ANIMAL_PRINT_LOCK`) y, aparte, re-verificando `DRESS_LEG_CLOSURE` (vive en un
+regex simple, no en el vocabulario) contra el mismo criterio. **Deliberadamente NO
+se tocó `GARMENT_EXCLUSION_LOCK`**: esa ancla existe justo para disparar CON "no X".
+El mismo helper unificó el de `negativo_condicional` de esta tarde (tenía el mismo
+bug de plural: "no stockings" no coincidía con el término singular "stocking" hasta
+agregar el `s?`). Verificado contra bikini-con-ausencias (limpio), vestido real
+(dispara), medias reales (disparan), print real (dispara). Regresión permanente:
+`test_engine.py` bloque H5, 149/149.
+
+Con este son **6 contradicciones/omisiones reales corregidas hoy**, todas con el
+mismo origen: algo en el prompt no dice exactamente lo que quiere decir, y el
+generador — o el propio motor, en los dos últimos casos — rellena el resto con su
+propio criterio.
