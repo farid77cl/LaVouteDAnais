@@ -142,3 +142,35 @@ completa que describe la frase importa más que una palabra suelta.
 Con esto se cierra el barrido de "lo que no se nombra" para esta ronda: 1 defecto real
 corregido (Seated de Ele), 3 candidatos revisados y descartados con foto (Odalisque MD,
 Side Profile MD y Anaïs).
+
+## Sobre la categoría #2 (dilución por largo) — lo que la evidencia de hoy realmente dice
+
+La hipótesis de la mañana era "el candado, temprano en el prompt, entierra la pose,
+tardía". **La evidencia real del Seated de Ele dice lo contrario**: el candado
+(`SEAT_ANCHOR`, temprano) perdió y la pose (tardía, concreta) ganó — el generador
+hizo lo que describía la frase más vívida y cercana a la escena, no la más temprana.
+Si eso es la regla general, mover la pose más temprano en el ensamblado no ayudaría:
+la ganadora ya es tardía. **La categoría sigue siendo real (algo entierra algo), pero
+la dirección del arreglo que se proponía en la mañana no está confirmada por el único
+dato que hay hoy.** Se anota para que la decisión, cuando se tome, no parta de la
+hipótesis original sin corregir.
+
+## Barrido de un cuarto candidato — accesorios sin eco, descartado
+
+Hipótesis: los accesorios (lentes, joyas) se declaran solo en el BLOQUE B, lejos de
+la pose, sin un eco de cierre como `footwear_echo`/`eco_busto` — mismo riesgo en
+teoría. **Verificado contra el Look 831 (lentes) en Ditzy y POV, los dos planos
+cerrados donde más se esperaría el drift:** los lentes persisten correctamente en
+ambos. No se confirma el hueco con esta muestra. No se toca.
+
+## auditar_canon_flota.py — medido, y es otra categoría, no esta
+
+Corrida completa: **844 violaciones sobre 685 looks auditados**, con 24 en la era del
+motor genérico (L800+, incluidos L831/L832 ya tocados hoy). **No es la misma tarea.**
+Es deuda de la FLOTA YA GENERADA (imágenes que ya existen, con el canon de HOY aplicado
+retroactivamente) — la sesión de esta mañana ya midió que de un lote similar de 90
+solo 1 era realmente arreglable (el resto era fósil histórico L200-L800, no
+retrofiteable, o bug del propio auditor — 28 de 90 esa vez). Los 844 de hoy no están
+triados; hacerlo es un proyecto propio, del tamaño del de esta mañana o más grande, y
+es sobre el PASADO, no sobre que el motor genere bien HOY. Se deja anotado, no se
+empieza sin que la Ama decida que es la prioridad.
