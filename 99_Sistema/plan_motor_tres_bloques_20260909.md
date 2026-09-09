@@ -49,7 +49,7 @@ cambian de fondo.
 
 | Archivo | Responsabilidad |
 |---|---|
-| `99_Sistema/scripts/visual/campos.json` | **Nuevo. Contrato.** Cada campo: `id`, `bloque`, `dueño`, `obligatorio`, `fuente` (ancla, perfil, batch, repertorio, setting, slot), `vocabulario` (regex que solo puede aparecer en su bloque). Y por personaje: el orden de campos A (línea→campo). |
+| `99_Sistema/scripts/visual/campos.json` | **Nuevo. Contrato.** Cada campo: `id`, `bloque`, `dueño`, `obligatorio`, `fuente` (ancla, perfil, batch, repertorio, setting, slot), `vocabulario` (regex que solo puede aparecer en su bloque). El orden de campos A es **universal** (línea→campo, igual para todas las muñecas): un personaje nuevo llena, no configura. |
 | `99_Sistema/scripts/visual/bloques.py` | **Nuevo. El motor.** `cargar_campos()` · `campos_a(slug)` · `campos_b(look)` · `campos_c(slot, pose, setting, look)` · `ensamblar(A, B, C) -> str` · `fugas(prompt_por_bloque) -> list` · `BloquesBuilder(PromptBuilder)`. |
 | `99_Sistema/scripts/visual/test_bloques.py` | **Nuevo.** Su batería. |
 | `99_Sistema/scripts/visual/outfit.py` | Modificar `cmd_generar`: flag `--motor bloques`; reporte de largo por bloque. |
