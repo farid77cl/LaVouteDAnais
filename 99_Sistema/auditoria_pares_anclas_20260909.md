@@ -333,3 +333,25 @@ Verificado: el caso roto ahora devuelve `None` (sin eco, correcto — no hay pre
 reafirmar), el caso real con bra sigue generando su eco normal. 163/163 tests.
 
 **10 hallazgos reales hoy — cuatro mecanismos distintos con la misma causa raíz.**
+
+## Undécimo hallazgo real — el candado de color caía sobre un color negado
+
+`detect_dominant()` (`color_canon.py`) elige el primer color nombrado en el BLOQUE B
+como el "dominante" de la prenda. **No filtraba ausencias**, quinto mecanismo con el
+mismo hueco: *"no black accents anywhere, a sapphire blue high-gloss vinyl wrap
+dress"* devolvía `"black"` — el primer color nombrado, negado — en vez de
+`"sapphire"`.
+
+**Esto no es un detalle menor:** `outfit.py generar` (la puerta que bloquea antes de
+escribir) llama esto para **cada look de cada batch**, vía `audit_rotacion_familia` —
+nunca se pasa un `"dominant"` explícito, así que el fallback corre siempre. Un color
+negado nombrado antes del real podía **bloquear un batch bueno** (falsa racha de
+negro/metálico) o **dejar pasar una racha real sin verla** (si el color negado tapaba
+la detección correcta en el look equivocado de la ventana).
+
+**Fix:** mismo mecanismo (`garment_canon.sin_clausulas_de_ausencia()`) aplicado antes
+de buscar el color. Verificado: el caso roto ahora devuelve `sapphire`, el self-check
+de `color_canon.py` sigue limpio, un negro real sigue detectándose. 165/165 tests.
+
+**11 hallazgos reales hoy — cinco mecanismos distintos, misma causa raíz, y este
+último vivía justo en la puerta que hoy mismo se declaró "el gate" del motor.**

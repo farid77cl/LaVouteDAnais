@@ -64,8 +64,17 @@ FAMILY = {
 _ALL = sorted(set(list(FAMILY)+list(METALLIC)+list(RED_RESERVED)+["nude","beige","tan"]), key=len, reverse=True)
 
 def detect_dominant(garment):
-    """Heuristica: el primer color nombrado suele ser el dominante de la prenda principal."""
-    g = garment.lower()
+    """Heuristica: el primer color nombrado suele ser el dominante de la prenda principal.
+
+    Filtra las ausencias declaradas antes de buscar (09/09/2026, mismo mecanismo
+    que ya corrige opt_in_de/build_negative/clasificar_arquitectura/eco_busto):
+    "no black accents, a sapphire wrap dress" devolvia "black" -- el primer color
+    nombrado, negado -- en vez de "sapphire". `outfit.py generar` llama esto vía
+    `audit_rotacion_familia` para CADA look de CADA batch (nunca pasa un
+    "dominant" explicito), así que un color negado antes del real podía bloquear
+    un batch bueno o dejar pasar una racha real sin verla."""
+    from garment_canon import sin_clausulas_de_ausencia
+    g = sin_clausulas_de_ausencia(garment).lower()
     best=None; bestpos=10**9
     for col in _ALL:
         m=re.search(r'\b'+re.escape(col)+r'\b', g)

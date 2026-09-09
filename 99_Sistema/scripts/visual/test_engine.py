@@ -675,6 +675,20 @@ check("eco: 'no bra, no bralette' NO genera un eco que afirme la prenda ausente 
       eco_busto("no bra, no bralette, bare chest under a sheer overlay; a plum thong")
       is None)
 
+# H10 -- detect_dominant() (color_canon.py) tenia el MISMO hueco de ausencias, un
+# QUINTO mecanismo: "no black accents, a sapphire wrap dress" devolvia "black" --
+# el primer color nombrado, negado -- en vez de "sapphire". outfit.py generar
+# llama esto para CADA look de CADA batch via audit_rotacion_familia (nunca pasa
+# un "dominant" explicito), asi que podia bloquear un batch bueno o dejar pasar
+# una racha real sin verla. Corregido con el mismo garment_canon.sin_clausulas_de_ausencia().
+from color_canon import detect_dominant  # noqa: E402
+check("H10 · detect_dominant ignora un color negado antes del real",
+      detect_dominant("no black accents anywhere, a sapphire blue high-gloss vinyl wrap dress")
+      == "sapphire",
+      detect_dominant("no black accents anywhere, a sapphire blue high-gloss vinyl wrap dress"))
+check("H10 · control: un negro real SI se detecta como dominante",
+      detect_dominant("a black patent latex catsuit") == "black", None)
+
 # J. NINGUN FUENTE LLEVA CARACTERES DE CONTROL INVISIBLES (07/09/2026)
 #
 #    Pasó DOS VECES el mismo dia. Al escribir codigo desde un heredoc, un `\b`
