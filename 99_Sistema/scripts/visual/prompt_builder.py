@@ -480,6 +480,58 @@ class PromptBuilder(object):
         r"thong|g-string|gstring|tanga|micro[- ]?short(s)?|hot pant(s)?)\b", re.I)
     RX_CORTE_OK = re.compile(r"\b(thong|g-string|gstring|tanga)\b", re.I)
 
+    # ---- BOTTOM_CUT_LOCK: dos variantes segun DONDE va el calzon (Ama 09/09/2026) ----
+    # "creo que el definir la tanga para ele es problema, hace que se vea siempre,
+    #  pasa en esa foto de espalda."
+    # La cola reforzada el 30/08 (`both seat cheeks fully bare:1.4`) es incondicional
+    # y entraba igual en los looks con falda, vestido o pantalon: 12 de 22 del rango.
+    # El CORTE se sigue nombrando en las dos variantes; lo condicional es la EXPOSICION.
+
+    # Prenda exterior que puede tapar el asiento.
+    _CUBRE = (r"(?:skirt|dress|gown|trousers|pants|catsuit|jumpsuit|unitard|"
+              r"overskirt|romper)")
+    # Sus adjetivos INMEDIATOS deciden si tapa de verdad. Se miran solo esos y no
+    # una ventana de contexto: el "ultra-sheer" de las MEDIAS del L831 esta tres
+    # clausulas mas alla y clasificaba mal el unico look que motivo el cambio.
+    RX_PRENDA_CUBRE = re.compile(r"((?:[a-z\-]+\s+){0,4})(" + _CUBRE + r")\b", re.I)
+    RX_EXTERIOR_TRANSPARENTE = re.compile(
+        r"\b(?:sheer|transparent|see-through|mesh|net|gauze|organza)\b", re.I)
+    # Las cuatro formas en que la galeria escribe "va debajo", medidas sobre la flota.
+    RX_CALZON_DEBAJO = re.compile(
+        r"\b(?:under|underneath|beneath)\s+(?:the|her)\s+(?:[a-z\-]+\s+){0,3}" + _CUBRE + r"\b"
+        r"|\b(?:under|underneath|beneath)\s+(?:it|them)\b"
+        r"|\b(?:worn\s+)?(?:under|underneath|beneath)\s*(?=[,;.])"
+        r"|\bworn\s+over\s+(?:a|an|the|her)?\s*(?:[a-z\-]+\s+){0,4}(?:thong|g-string|gstring)\b",
+        re.I)
+
+    def _prenda_que_cubre(self, bloque_b):
+        """La primera prenda exterior OPACA que tapa el asiento, o None."""
+        for m in self.RX_PRENDA_CUBRE.finditer(bloque_b or ""):
+            if not self.RX_EXTERIOR_TRANSPARENTE.search(m.group(1)):
+                return m.group(2).lower()
+        return None
+
+    def calzon_va_cubierto(self, bloque_b):
+        """True si el calzon va DEBAJO de una prenda exterior opaca.
+
+        Se lee SOLO el BLOQUE B, nunca el prompt ensamblado: el propio texto del
+        ancla nombra "bodysuit, teddy, leotard or swimsuit" y DRESS_LEG_CLOSURE
+        nombra "dress, skirt or robe", asi que clasificar sobre el prompt seria
+        el clasificador leyendose a si mismo (19/07/2026).
+        """
+        b = bloque_b or ""
+        if self._prenda_que_cubre(b) is None:
+            return False
+        if self.RX_CALZON_DEBAJO.search(b):
+            return True
+        # Pieza unica: no hay calzon separado que exponer.
+        return not self.RX_CALZON.search(b)
+
+    def texto_bottom_cut_lock(self, bloque_b):
+        """El texto del ancla que le toca a este look."""
+        a = self.anclas["BOTTOM_CUT_LOCK"]
+        return a["texto_cubierto"] if self.calzon_va_cubierto(bloque_b) else a["texto"]
+
     def calzon_sin_corte(self, texto):
         """True si el texto nombra un calzon SIN declarar corte tanga/g-string.
 
@@ -488,9 +540,14 @@ class PromptBuilder(object):
         (mismo error que el clasificador que se leia a si mismo, 19/07/2026).
         """
         t = texto or ""
-        ancla = self.anclas.get("BOTTOM_CUT_LOCK", {}).get("texto", "")
-        if ancla:
-            t = t.replace(ancla, " ")
+        # Se descuentan LAS DOS variantes (09/09/2026): desde que BOTTOM_CUT_LOCK
+        # tiene texto expuesto y texto cubierto, descontar solo el primero dejaba
+        # pasar cualquier calzon sin corte que fuera bajo una falda -- el
+        # "thong or g-string" de la variante cubierta lo validaba solo.
+        a = self.anclas.get("BOTTOM_CUT_LOCK", {})
+        for ancla in (a.get("texto", ""), a.get("texto_cubierto", "")):
+            if ancla:
+                t = t.replace(ancla, " ")
         return bool(self.RX_CALZON.search(t)) and not self.RX_CORTE_OK.search(t)
 
     # Candados de MATERIAL y PRENDA (29/08/2026). El motor generico nacio con las
@@ -587,6 +644,12 @@ class PromptBuilder(object):
         setting = self._limpiar(setting)
 
         anclas = self.texto_anclas(slot_n)
+        # BOTTOM_CUT_LOCK elige variante segun el BLOQUE B (Ama 09/09/2026): la
+        # cola que exige el asiento al aire solo entra si el calzon va POR FUERA.
+        if "BOTTOM_CUT_LOCK" in self.anclas_siempre:
+            _expuesto = self.anclas["BOTTOM_CUT_LOCK"]["texto"]
+            _elegido = self.texto_bottom_cut_lock(bloque_b)
+            anclas = [_elegido if t == _expuesto else t for t in anclas]
         # SINGLE_FRAME, GARMENT_CONSISTENCY, PHOTOREAL_LOCK y las `anclas_siempre`
         # del personaje van antes de la pose (contexto global); las de slot van
         # pegadas a la pose porque corrigen ESA toma.
