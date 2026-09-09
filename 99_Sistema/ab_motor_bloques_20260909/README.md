@@ -38,6 +38,38 @@ al comparar salen tres cosas y no dos:
 
 ---
 
+## 🏁 RESULTADO — Back View, 09/09/2026
+
+**Veredicto de la Ama, textual:** tanda 1 → *«le faltó maquillaje»* · tanda 2 → *«mucho mejor»*.
+
+**Tanda 1 = motor VIEJO · Tanda 2 = motor de BLOQUES.** Ella juzgó sin saberlo; yo no
+podía juzgar (preparé las dos y sabía cuál era cuál — un veredicto mío acá no valía nada).
+
+| | tanda 1 · viejo | tanda 2 · bloques |
+|---|---|---|
+| **Maquillaje** (smokey jade-green, highlight perla, blush rosa-malva) | ❌ **ausente** | ✅ presente y legible |
+| Rostro | casi de perfil, chico en cuadro | girado al hombro, con la cara leyéndose |
+| Falda cerrada (el defecto original) | ✅ | ✅ |
+| Calzado, medias con liguero, lentes, pelo cereza | ✅ | ✅ |
+| Marca de agua ✦ | 🟠 presente | 🟠 presente |
+
+**Gana la tanda 2 — el motor de bloques.** Y hay un mecanismo plausible, no solo suerte: en
+el motor viejo el maquillaje cierra el bloque A y **después entra un muro de ~2.000
+caracteres de anclas** antes de que aparezca `a real photograph taken with a real camera`.
+En el de bloques ese ancla es un **campo de A** y va pegada al maquillaje, dentro de la
+misma oración del cuerpo. La cláusula de rostro deja de competir con la pared de anclas.
+
+⚠️ **Lo que este resultado NO autoriza a decir.** Es **n=1 por variante, una sola pose**.
+Prueba una tendencia, no una ley — y la Ama ya vio en este repo que *un pase no refuta
+siete rebotes*. Para declararlo ganado hacen falta las otras 6 poses, o el mismo Back View
+repetido. **Hasta entonces el motor viejo sigue siendo el default** (`generar` sin flag), y
+así se queda escrito.
+
+**Siguiente paso, cuando haya cuota:** las 6 poses restantes de las dos tandas, o repetir
+este Back View 2-3 veces para separar señal de varianza.
+
+---
+
 ## Antecedente — Miss Doll L86 «Perla y Rosa, Sala Privada» (emitido, NO se genera)
 
 | Campo | Valor |
