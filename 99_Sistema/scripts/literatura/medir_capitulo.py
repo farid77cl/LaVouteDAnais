@@ -139,7 +139,37 @@ RE_H2 = [
 RE_H5 = re.compile(r"\balgo\b", re.IGNORECASE)
 ADJ = r"\w{4,}(?:os[oa]s?|ad[oa]s?|id[oa]s?|entes?|antes?|al(?:es)?|ic[oa]s?|iv[oa]s?|ient[oa]s?|ud[oa]s?|eñ[oa]s?)"
 RE_H6 = re.compile(rf"\b({ADJ})\s+y\s+({ADJ})\b")
+# H1 tricolón. La regex atrapa el patrón «…, … y …»; `iter_h1()` descarta lo que
+# NO es tricolón por gramática. Ajustado 09/09/2026 tras reproducir la deuda del
+# 08/09 («sobre-cuenta ola acumulativa»): sobre el Cap 1 de «Hora Pedida»
+# marcaba 65, y leídos uno por uno la mayoría no lo eran.
 RE_H1 = re.compile(r"(?<![,.;:—])\b[^,.;:!?\n—]{3,45},\s[^,.;:!?\n—]{3,45}\s(?:y|e|o|ni)\s[^,.;:!?\n—]{3,45}[.,;:!?]")
+
+# Se excluye SOLO lo que no es tricolón **por gramática**, nunca por gusto:
+#   · el NUMERAL partido — «cuarenta y un años», «las siete y media» son cifras,
+#     no enumeraciones; la «y» es parte del número.
+#   · el RANGO — «entre el segundo y el tercer piso», «desde X hasta Y» son UNA
+#     locución, no un tercer miembro.
+# Lo que queda FUERA del arreglo, declarado: separar un tricolón retórico de dos
+# cláusulas coordinadas o de una ola acumulativa deliberada es criterio
+# literario, no gramática — esa llamada es de la Ama y de su Validador. El
+# detector es «aprox. greppable» por diseño, y H1 alimenta `blandos`, jamás
+# `duros`: un falso positivo cuesta ruido, nunca un capítulo rechazado.
+_NUMERAL = (r"un|una|uno|dos|tres|cuatro|cinco|seis|siete|ocho|nueve|diez|once|doce|"
+            r"trece|catorce|quince|veinte|treinta|cuarenta|cincuenta|sesenta|setenta|"
+            r"ochenta|noventa|cien|ciento|mil|media|medio|cuarto|tantos|tantas|pico")
+_RX_NUM_Y = re.compile(r"\b(?:%s)\s+(?:y|e)\s+(?:%s)\b" % (_NUMERAL, _NUMERAL), re.I)
+_RX_RANGO = re.compile(r"\b(?:entre|desde)\b", re.I)
+
+
+def es_tricolon(fragmento):
+    """False si el fragmento es un numeral partido o un rango, no una enumeración."""
+    return not (_RX_NUM_Y.search(fragmento) or _RX_RANGO.search(fragmento))
+
+
+def iter_h1(texto):
+    """Los tricolones de un texto, ya filtrados. Único camino de producción."""
+    return [m for m in RE_H1.finditer(texto or "") if es_tricolon(m.group(0))]
 RE_SEP = re.compile(r"^\s*(?:\*\s*){3,}\s*$|^\s*-{3,}\s*$|^\s*\* \* \*\s*$")
 RE_SENT = re.compile(r"(?<=[.!?…])\s+(?=[—«\"'¿¡A-ZÁÉÍÓÚÑ])")
 RE_WORD = re.compile(r"[a-záéíóúüñ]+", re.IGNORECASE)
@@ -479,7 +509,7 @@ def m7_tics(sents: list[dict], text: str, n_escenas: int) -> dict:
     h6 = [m.group(0) for m in RE_H6.finditer(text)]
     h1_por_escena = defaultdict(list)
     for s in sents:
-        for m in RE_H1.finditer(s["text"]):
+        for m in iter_h1(s["text"]):
             h1_por_escena[s["escena"]].append(excerpt(m.group(0), 110))
     cliches = [{"texto": m.group(0), "ctx": excerpt(text[max(0, m.start() - 50): m.end() + 60], 130)}
                for m in RX_CLICHE.finditer(text)]
