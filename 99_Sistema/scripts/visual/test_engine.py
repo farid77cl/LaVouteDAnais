@@ -964,6 +964,73 @@ check("H11 · cheetah dispara ANIMAL_PRINT_LOCK",
 check("H11 · giraffe dispara ANIMAL_PRINT_LOCK",
       "ANIMAL_PRINT_LOCK" in _pb_h.opt_in_de("a giraffe-print vinyl catsuit"), None)
 
+# K. MANIFIESTO TIPADO -- Fase 2 del plan del 09/09/2026 (BLOQUE B deja de ser
+# texto libre). El renderizador reconstruye el Look 831 REAL, caracter a
+# caracter, desde un manifiesto de datos en vez de que alguien escriba el
+# string a mano -- la prueba mas dura que se le puede pedir: no un caso
+# inventado, el BLOQUE B real de un look que ya existe.
+from vestuario_renderer import (renderizar, cobertura_de, color_dominante_de,  # noqa: E402
+                                lleva_estampado_animal, validar_prenda, PrendaInvalida,
+                                cargar_vocabulario)
+
+_manifiesto_l831 = {"prendas": [
+    {"pieza": "M7_minifalda_top", "color": "sapphire", "color_desc": "sapphire blue",
+     "material_desc": "high-gloss vinyl", "pieza_desc": "wrap miniskirt",
+     "descripcion": (", its outer panel crossing over the front and fastening on the "
+                     "left hip under a flat gunmetal plate, the band sitting on the "
+                     "natural waist and the hem finishing high on the thigh")},
+    {"conector": "above it", "color_desc": "graphite", "material_desc": "mirror-vinyl",
+     "pieza_desc": "halter blouse",
+     "descripcion": (" tied behind the neck, a deep V opening at the front held by two "
+                     "gunmetal loops, the whole back open to the shoulder blades and "
+                     "the hem knotted just under the ribs")},
+    {"color_desc": "sapphire", "material_desc": "vinyl", "pieza_desc": "g-string",
+     "descripcion": " under the skirt, cut narrow at the front and down to one cord behind"},
+    {"descripcion": ("ultra-sheer graphite-tinted hosiery at 10 denier on a sapphire "
+                     "vinyl suspender belt with four thin straps clipped at mid-thigh")},
+    {"descripcion": "no gloves at any point, hands bare"},
+    {"descripcion": ("narrow rectangular black-framed glasses, small gunmetal bars at "
+                     "the ears and nothing at the throat")},
+    {"descripcion": "XXXL French manicure at 5cm, sharp white tips with translucent pink underneath"},
+    {"descripcion": ("closed pointed-toe stiletto court pumps in sapphire mirror patent "
+                     "vinyl, 13cm razor-thin gunmetal pin heel with no platform, sharp "
+                     "closed pointed toe, a single thin sapphire ankle strap fastened "
+                     "with a gunmetal pin buckle, gunmetal sole edge and a gunmetal heel cap")},
+]}
+_real_l831 = (
+    "a sapphire blue high-gloss vinyl wrap miniskirt, its outer panel crossing over the "
+    "front and fastening on the left hip under a flat gunmetal plate, the band sitting on "
+    "the natural waist and the hem finishing high on the thigh; above it a graphite "
+    "mirror-vinyl halter blouse tied behind the neck, a deep V opening at the front held "
+    "by two gunmetal loops, the whole back open to the shoulder blades and the hem "
+    "knotted just under the ribs; a sapphire vinyl g-string under the skirt, cut narrow "
+    "at the front and down to one cord behind; ultra-sheer graphite-tinted hosiery at 10 "
+    "denier on a sapphire vinyl suspender belt with four thin straps clipped at mid-thigh; "
+    "no gloves at any point, hands bare; narrow rectangular black-framed glasses, small "
+    "gunmetal bars at the ears and nothing at the throat; XXXL French manicure at 5cm, "
+    "sharp white tips with translucent pink underneath; closed pointed-toe stiletto court "
+    "pumps in sapphire mirror patent vinyl, 13cm razor-thin gunmetal pin heel with no "
+    "platform, sharp closed pointed toe, a single thin sapphire ankle strap fastened with "
+    "a gunmetal pin buckle, gunmetal sole edge and a gunmetal heel cap")
+_render_l831 = renderizar(_manifiesto_l831)
+check("K1 · el renderizador reconstruye el BLOQUE B real del L831 caracter a caracter",
+      _render_l831 == _real_l831,
+      "difieren en %d" % next((i for i, (a, b) in enumerate(zip(_render_l831, _real_l831)) if a != b), -1))
+
+check("K2 · cobertura_de() lee 'cubierta' del vocabulario sin adivinar (M7)",
+      cobertura_de({"prendas": [{"pieza": "M7_minifalda_top"}]}) is True, None)
+check("K2 · control: M4 (corseteria) es 'piel', no cubierta",
+      cobertura_de({"prendas": [{"pieza": "M4_corseteria_tanga"}]}) is False, None)
+check("K3 · color_dominante_de() lee el campo, no adivina de la prosa",
+      color_dominante_de({"prendas": [{"color": "sapphire"}]}) == "sapphire", None)
+check("K4 · lleva_estampado_animal() lee el campo declarado",
+      lleva_estampado_animal({"prendas": [{"estampado_animal": "zebra"}]}) == "zebra", None)
+try:
+    validar_prenda({"pieza": "no_existe_esta_pieza"}, cargar_vocabulario())
+    check("K5 · una pieza fuera del vocabulario aprobado es error de compilacion", False, "no lanzo")
+except PrendaInvalida:
+    check("K5 · una pieza fuera del vocabulario aprobado es error de compilacion", True, None)
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))
