@@ -265,6 +265,23 @@ se probaron en vivo a propósito.
 {"name": "listar_flujos", "arguments": {"input": "{\"limite\": \"3\"}"}}
 ```
 
+### ⏰ Cuando se renueve la API key (vence el 07-oct-2026): son TRES sitios, no uno
+
+Aviso de la sesión que vive en el server, 09-sep. **La key se cambia en tres lugares y el
+tercero es el que se olvida:**
+
+| # | Dónde | Qué pasa si se olvida |
+|---|---|---|
+| 1 | `/home/dietpi/.env` en el server | Se caen los scripts del server |
+| 2 | `99_Sistema/n8n/.env` de este repo | Se cae lo que corra desde acá |
+| 3 | **La credencial `wMLjQUM6hfn3Ajpn` DENTRO de n8n** | **Vuelve el 401 de las 5 herramientas** |
+
+> 🪤 **Y va a parecer una regresión de este arreglo, sin serlo.** El síntoma es idéntico al
+> del 08-sep: las 5 herramientas devolviendo 401. La diferencia es que esta vez la credencial
+> sí existe y solo lleva una key vencida adentro. **Antes de rehacer nada, mirar la fecha de
+> la key.** La key solo se emite a mano desde Settings → n8n API: la API pública no tiene
+> endpoint para crearlas.
+
 **El Funnel se queda así, y es deliberado:** publica **solo `/mcp` y `/webhook`**, de forma
 permanente, porque la API de administración no debe estar expuesta a internet. El **conector
 oficial de n8n por Funnel está muerto** — dese por muerto. Por LAN o Tailscale funciona.
@@ -533,5 +550,7 @@ de quien lo escribió meses atrás. Antes de actuar, preguntarle a la API.
 4. Si el Funnel se apaga, se publica igual pero el bot de Telegram queda mudo y Claude queda
    afuera.
 5. **La API key vence el 07 de octubre de 2026** (emitida el 07-sep 14:23 UTC, expira el
-   07-oct 03:00 UTC). Es la única fecha que hay que recordar — y **solo se emite a mano**
-   desde Settings → n8n API: la API pública no tiene endpoint para crear API keys.
+   07-oct 03:00 UTC). Es la única fecha que hay que recordar — **solo se emite a mano** desde
+   Settings → n8n API, y al renovarla se cambia en **tres** sitios, no en uno: el `.env` del
+   server, el `.env` de este repo, y **la credencial `wMLjQUM6hfn3Ajpn` dentro de n8n**.
+   Olvidar el tercero devuelve el 401 y parece una regresión (ver §3quater).
