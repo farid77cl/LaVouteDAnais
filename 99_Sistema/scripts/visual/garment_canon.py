@@ -90,7 +90,12 @@ COVERED_ARCHETYPES = ["corporate", "office", "executive", "power suit", "domme",
 
 # Familias de estampado ANIMAL cuya fidelidad hay que blindar (bug L764: python-print salio como
 # encaje/enredadera). Si el outfit las nombra, exige animal_print_lock(kind) pegado.
-ANIMAL_PRINTS = ["python", "snake", "leopard", "tiger", "zebra"]
+ANIMAL_PRINTS = ["python", "snake", "leopard", "tiger", "zebra",
+                 # cheetah/giraffe aprobados por la Ama el 09/09/2026 (Mesa,
+                 # pendiente que dejo la Fase 1 del manifiesto tipado). Ya
+                 # aparecian en 2 looks historicos de Ele (L384, L386) sin
+                 # ningun candado que los protegiera.
+                 "cheetah", "giraffe"]
 ANIMAL_PRINT_MARKER = "not a lace pattern"
 
 # Hosiery con un PATRON real declarado (bug hermano del estampado animal, cazado

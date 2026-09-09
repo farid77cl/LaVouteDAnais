@@ -27,7 +27,7 @@
 
   "estampado_animal": {
     "_porque": "garment_canon.ANIMAL_PRINTS, dueño único -- especies que disparan ANIMAL_PRINT_LOCK. Cuota viva de Ele: mín. 1 de cada 8 looks (perfil §8), 'no repetir depredador'.",
-    "aprobadas": ["python", "snake", "leopard", "tiger", "zebra"]
+    "aprobadas": ["python", "snake", "leopard", "tiger", "zebra", "cheetah", "giraffe"]
   },
 
   "estampado_hosiery": {
@@ -72,8 +72,6 @@
   },
 
   "_pendientes_de_aprobar": {
-    "_porque": "Se encontraron al consolidar. No se agregan solos -- las decisiones de canon son de la Ama.",
-    "cheetah_print": "Aparece en 1 look histórico de Ele (L384). No está en 'estampado_animal' ni en la cuota del perfil §8 (que dice 'leopard/tiger/snake/zebra'). ¿Entra al cupo futuro?",
-    "giraffe_print": "Aparece en 1 look histórico de Ele (L386). Mismo caso que cheetah -- y giraffe ni siquiera es depredador, que es el criterio de la regla del 11/07. ¿Entra, o queda fuera a propósito?"
+    "_porque": "Cerrado el 09/09/2026 — la Ama aprobó cheetah y giraffe. Ya suman en 'estampado_animal' arriba, en garment_canon.ANIMAL_PRINTS y en la cuota del perfil §8 de Ele. Sección vacía a propósito: se deja como plantilla para la próxima especie que aparezca al consolidar."
   }
 }

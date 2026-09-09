@@ -222,7 +222,7 @@ red lips, dark lips, wine lips, maroon lips, crimson lips, natural makeup, subtl
 
 | Cuota | Frecuencia | Alcance |
 |---|---|---|
-| 🐆 **Animal Print** | **mín. 1 de cada 8 looks globales** | leopard/tiger/snake/zebra en vestuario, calzado o accesorio. No repetir depredador ni sub-arquetipo respecto de la cuota anterior (Ama 11/07/2026) |
+| 🐆 **Animal Print** | **mín. 1 de cada 8 looks globales** | leopard/tiger/snake/zebra/cheetah/giraffe en vestuario, calzado o accesorio (cheetah y giraffe sumados el 09/09/2026, al consolidar el vocabulario del manifiesto tipado — ya aparecían sin candado en L384 y L386). No repetir especie ni sub-arquetipo respecto de la cuota anterior (Ama 11/07/2026) |
 
 ---
 

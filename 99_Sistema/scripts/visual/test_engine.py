@@ -956,6 +956,14 @@ check("H8 · un jumpsuit dispara OPAQUE_LOCK igual que un catsuit",
 check("H8 · un unitard dispara OPAQUE_LOCK igual que un catsuit",
       "OPAQUE_LOCK" in _pb_h.opt_in_de("a sheer black unitard covering the whole body"), None)
 
+# H11 -- cheetah y giraffe aprobados por la Ama el 09/09/2026 (Fase 1 del
+# manifiesto tipado, vocabulario_vestuario.json) -- ya aparecian sin candado
+# en 2 looks historicos de Ele (L384, L386).
+check("H11 · cheetah dispara ANIMAL_PRINT_LOCK",
+      "ANIMAL_PRINT_LOCK" in _pb_h.opt_in_de("a cheetah-print vinyl mini dress"), None)
+check("H11 · giraffe dispara ANIMAL_PRINT_LOCK",
+      "ANIMAL_PRINT_LOCK" in _pb_h.opt_in_de("a giraffe-print vinyl catsuit"), None)
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))
