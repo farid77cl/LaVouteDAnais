@@ -235,9 +235,12 @@ def test_un_eco_sin_color_propio_no_hereda_el_del_vecino():
 
 # AN L62 — este SÍ es real y no se puede perder al apretar: el ADN clava negro
 # charol y el BLOQUE B declara una bota azul medianoche. Es la razón de C1.
+# Fiel al prompt real: el ADN cierra en «intimate tension.» y el BLOQUE B arranca
+# SIN ningún «;» antes de la bota — la frontera entre los dos es de oración.
 REAL_DOS_ZAPATOS = (
     "wearing 12cm black patent leather stiletto heels no platform iconic red sole, "
-    "cinematic chiaroscuro, (12cm midnight-blue suede knee-high stiletto boot "
+    "cinematic chiaroscuro dramatic lighting, intimate tension. an overbust corset in "
+    "midnight-blue silk charmeuse; (12cm midnight-blue suede knee-high stiletto boot "
     "ending exactly at the knee, iconic red sole)"
 )
 
@@ -245,6 +248,41 @@ REAL_DOS_ZAPATOS = (
 def test_apretar_C1_no_puede_perder_el_caso_real():
     h = contradicciones.buscar(REAL_DOS_ZAPATOS)
     assert any("calzado" in x for x in h), h
+
+
+# Tercera ronda, sobre el barrido con el parser real de la galería (814 looks).
+
+# MD L62 — UN solo zapato dentro de un paréntesis; «slingback strap» es una
+# característica del pump, no un segundo par. El BLOQUE B separa PRENDAS con
+# «;» — dos menciones de calzado dentro del mismo segmento son la misma prenda.
+FP_SLINGBACK_DEL_MISMO_PUMP = (
+    "a small dusty-rose satin bow pinned at the center busk as the signature pink "
+    "accent; (13cm ivory champagne patent platform pump, closed pointed toe, secured "
+    "slingback strap, razor-thin metal needle heel, gold heel cap:1.3); long faceted "
+    "pearl drops at the ears"
+)
+
+# MD L86 — «eyes in midnight sapphire shimmer smoke» es SOMBRA DE OJOS, no iris.
+# El detector de iris tiene que distinguir el ojo del maquillaje que lo rodea.
+# Fiel al prompt real: la cláusula «eyes in …» va aislada por comas, lejos del
+# iris. (La primera versión de este fixture la pegaba al cobalto y el radio de la
+# cláusula los fundía — "pasaba" sin probar nada. Un test que pasa solo no prueba.)
+FP_SOMBRA_NO_ES_IRIS = (
+    "(huge oversized round almond-shaped cold vivid blue eyes, (richly pigmented deep "
+    "cobalt blue iris:1.4), thick lashes, a pale matte face; rose-gold bands at both "
+    "wrists, long faceted pearl drops at the ears; eyes in midnight sapphire shimmer "
+    "smoke, mouth in high-gloss cherry"
+)
+
+
+def test_el_slingback_del_mismo_pump_no_es_un_segundo_zapato():
+    h = contradicciones.buscar(FP_SLINGBACK_DEL_MISMO_PUMP)
+    assert h == [], h
+
+
+def test_la_sombra_de_ojos_no_es_el_iris():
+    h = contradicciones.buscar(FP_SOMBRA_NO_ES_IRIS)
+    assert h == [], h
 
 
 def test_el_barrido_de_flota_no_puede_pasar_del_1_por_ciento():
@@ -257,6 +295,31 @@ def test_el_barrido_de_flota_no_puede_pasar_del_1_por_ciento():
              FP_HEM_SOBRE_EL_REGAZO, FP_PELO_Y_SHORTS]
     ruido = [h for s in sanos for h in contradicciones.buscar(s)]
     assert ruido == [], ruido
+
+
+# ------------------------------------------------------ la PUERTA (Tarea 2) ---
+# `outfit.py generar` bloquea sobre lo que devuelve `PromptBuilder.validar()`
+# (outfit.py:321-324). Es la única puerta: si el detector no está ahí, un prompt
+# contradictorio llega igual a la galería y se documenta en vez de prevenirse.
+
+# Lo mínimo que `validar()` deja pasar hoy: >400 chars, con SINGLE_FRAME, sin
+# placeholders ni metalenguaje multi-toma. Relleno neutro a propósito.
+_PROMPT_MINIMO_VALIDO = (
+    "a single continuous photograph of a glamorous woman in a grey minimalist penthouse, "
+    "soft window light, editorial framing, her posture composed and still, the room "
+    "quiet and wide, " * 4
+)
+
+
+def test_validar_bloquea_un_prompt_contradictorio():
+    from prompt_builder import PromptBuilder
+    fallas = PromptBuilder.validar(_PROMPT_MINIMO_VALIDO + C3_IRIS)
+    assert any("iris" in f for f in fallas), fallas
+
+
+def test_validar_sigue_dejando_pasar_un_prompt_coherente():
+    from prompt_builder import PromptBuilder
+    assert PromptBuilder.validar(_PROMPT_MINIMO_VALIDO + LIMPIO_BIKINI) == []
 
 
 def _correr():

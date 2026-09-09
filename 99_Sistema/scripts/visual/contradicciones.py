@@ -115,12 +115,18 @@ def _c1_calzado(prompt):
         if mi:
             cols = cols | ({mi.group(1).lower()} - _HERRAJE)
         if cols:
-            vistos.append((cols, cl))
+            # El BLOQUE B separa PRENDAS con «;». Dos menciones de calzado dentro
+            # del mismo segmento son la misma prenda («platform pump, closed
+            # pointed toe, secured slingback strap» del MD L62 es UN zapato):
+            # se comparan solo entre segmentos distintos.
+            vistos.append((cols, cl, prompt.count(";", 0, m.start())))
     if len(vistos) < 2:
         return None
     for i in range(len(vistos)):
         for j in range(i + 1, len(vistos)):
             a, b = vistos[i], vistos[j]
+            if a[2] == b[2]:
+                continue
             # Incompatibles solo si NO comparten ningún color: "black patent" y
             # "black leather" son la misma prenda descrita dos veces, que es lo
             # normal (el eco de calzado la repite a propósito).
@@ -160,7 +166,10 @@ def _c2_exposicion(prompt):
 # C3 · Iris nombrado con dos colores distintos
 # --------------------------------------------------------------------------
 
-_IRIS = r"(?:iris|eyes)\b"
+# «eyes in midnight sapphire shimmer smoke» es SOMBRA, no iris: la gramática de
+# maquillaje de la galería es «eyes in <color> …» / «mouth in <color> …». Se
+# excluye «eyes in». (MD L86, L88, L90 daban falso positivo por esto.)
+_IRIS = r"\biris\b|\beyes\b(?!\s+in\b)"
 _COLOR_DE_OJO = (
     r"\b(?:cobalt|sapphire|blue|grey|gray|steel|green|amber|honey|hazel|violet|golden)\b"
 )

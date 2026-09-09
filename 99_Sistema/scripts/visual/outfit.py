@@ -639,6 +639,60 @@ def _correr(script, extra):
     return subprocess.call([sys.executable, os.path.join(AQUI, script)] + list(extra), cwd=RAIZ)
 
 
+def cmd_contradicciones(args):
+    """Cláusulas que se pelean DENTRO de un mismo prompt, sobre la flota real.
+
+    De ~85 hallazgos de la auditoría visual del 09/09/2026, cinco fueron del
+    motor y los cinco eran esto: dos cláusulas del mismo prompt pidiendo cosas
+    incompatibles (calzado de dos colores, iris de dos colores, corsé contra
+    copa blanda, tanga expuesta bajo una falda cerrada, uñas largas y cortas).
+    Cada una estaba bien escrita por separado; ningún chequeo mira dos a la vez.
+
+    El detector ya corre en la PUERTA (`PromptBuilder.validar`, que `generar`
+    respeta). Este barrido es para lo que ya está escrito: la galería. No la
+    toca — los looks materializados son historia y su texto no se reescribe.
+
+    Uso: outfit.py contradicciones [slug]    (sin slug = las tres muñecas)
+    Exit 1 si hay hallazgos.
+    """
+    import contradicciones
+    import galeria_parser
+
+    cfg = cargar_config()
+    slugs = [a for a in args if not a.startswith("-")] or sorted(cfg.get("personajes", {}))
+    total_prompts = total_looks = 0
+    con_hallazgo = 0
+    for slug in slugs:
+        pb = PromptBuilder(slug, config=cfg)
+        ruta = os.path.join(RAIZ, pb.perfil["galeria"].replace("/", os.sep))
+        if not os.path.exists(ruta):
+            print("  %s: no existe la galería %s" % (slug, pb.perfil["galeria"]))
+            continue
+        with open(ruta, encoding="utf-8") as fh:
+            looks = galeria_parser.parse_como_la_app(fh.read(), pb.perfil.get("slot5", ""))
+        print("\n== %s · %d looks ==" % (slug, len(looks)))
+        looks_con = 0
+        for look in looks:
+            total_looks += 1
+            vistos = []
+            for pose, prompts in look["prompts"].items():
+                for pr in prompts:
+                    total_prompts += 1
+                    for h in contradicciones.buscar(pr):
+                        clave = h.split(":")[0]
+                        if clave not in vistos:      # una vez por look, no por pose
+                            vistos.append(clave)
+                            print("   \U0001f7e0 L%s / %s: %s" % (look["num"], pose, h))
+            if vistos:
+                looks_con += 1
+                con_hallazgo += 1
+        if not looks_con:
+            print("   \u2705 sin contradicciones")
+    print("\n%d prompts en %d looks · %d looks con contradicción"
+          % (total_prompts, total_looks, con_hallazgo))
+    return 1 if con_hallazgo else 0
+
+
 def cmd_modularidad(args):
     """Audita que el engine sea de verdad modular por personaje.
 
@@ -795,6 +849,9 @@ COMANDOS = {
     "rotacion":    (lambda a: _correr("rotacion_poses.py", a),
                     "repeticion de sub-poses ENTRE looks (lo que el chequeo 7 de "
                     "lint no puede ver: el mide DENTRO de un look)"),
+    "contradicciones": (cmd_contradicciones,
+                        "cláusulas que se pelean dentro de un mismo prompt "
+                        "(lo que ningún chequeo por cláusula puede ver)"),
     "modularidad": (cmd_modularidad,
                     "audita que el engine sea modular: 0 personajes en el código, "
                     "campos propios declarados, sub-poses únicas (--estricto)"),

@@ -60,6 +60,8 @@ import datetime
 import json
 import os
 import re
+
+import contradicciones
 import sys
 
 if hasattr(sys.stdout, "reconfigure"):
@@ -842,6 +844,12 @@ class PromptBuilder(object):
         for token in ("in every shot", "identical across all", "in all poses", "each pose"):
             if token in bajo:
                 fallas.append("metalenguaje multi-toma prohibido: '%s' (causa registrada de collage)" % token)
+        # Cláusulas que se pelean entre sí (09/09/2026). De ~85 hallazgos de la
+        # auditoría visual, 5 eran del motor y los cinco eran esto: dos cláusulas
+        # del mismo prompt pidiendo cosas incompatibles. Va en la puerta porque
+        # un chequeo que corre después de escribir la galería no previene el
+        # defecto, lo documenta.
+        fallas.extend(contradicciones.buscar(prompt))
         return fallas
 
 
