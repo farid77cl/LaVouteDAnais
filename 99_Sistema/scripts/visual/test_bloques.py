@@ -120,6 +120,53 @@ def test_ningun_campo_A_contiene_vocabulario_de_C():
             assert not m, (slug, campo, m.group(0) if m else None)
 
 
+# ======================================================================
+# TAREA 3 · B por campos, desde el batch
+# ======================================================================
+# El batch ya declara `bloque_b` como párrafo. No se rompe: `campos_b(look)`
+# acepta `bloque_b` (párrafo entero -> prenda_principal) o `campos_b` (dict por
+# campo). Los batches nuevos usan el dict; los viejos siguen emitiendo.
+
+def test_un_look_con_campos_b_por_dict_los_devuelve_en_orden_del_contrato():
+    look = {"campos_b": {"calzado": "15cm black patent stiletto sandals",
+                         "prenda_principal": "a plum latex bikini"}}
+    b = bloques.campos_b(look)
+    assert list(b) == ["prenda_principal", "calzado"]     # orden de campos.json, no del dict
+
+
+def test_un_look_viejo_con_bloque_b_parrafo_sigue_emitiendo():
+    b = bloques.campos_b({"bloque_b": "a plum latex bikini; 15cm black stiletto sandals"})
+    assert b["prenda_principal"].startswith("a plum latex bikini")
+
+
+def test_un_campo_b_desconocido_no_pasa_en_silencio():
+    try:
+        bloques.campos_b({"campos_b": {"prenda_principal": "x", "zapatos": "y"}})
+        assert False, "debía fallar: 'zapatos' no es un campo del contrato (es 'calzado')"
+    except bloques.CampoDesconocido as e:
+        assert "zapatos" in str(e) and "calzado" in str(e)
+
+
+def test_falta_un_campo_obligatorio_y_lo_dice_con_nombre():
+    try:
+        bloques.campos_b({"campos_b": {"prenda_principal": "a plum latex bikini"}}, estricto=True)
+        assert False, "debía fallar: falta calzado"
+    except bloques.CampoFaltante as e:
+        assert "calzado" in str(e)
+
+
+def test_ningun_campo_B_contiene_vocabulario_de_C():
+    look = {"campos_b": {"prenda_principal": "a bikini, standing facing the camera",
+                         "calzado": "black pumps"}}
+    f = bloques.fugas_b(bloques.campos_b(look))
+    assert any("prenda_principal" in x and "standing" in x for x in f), f
+
+
+def test_un_B_limpio_no_tiene_fugas():
+    look = {"campos_b": {"prenda_principal": "a plum latex bikini", "calzado": "black pumps"}}
+    assert bloques.fugas_b(bloques.campos_b(look)) == []
+
+
 def _correr():
     import traceback
     pruebas = [v for k, v in sorted(globals().items()) if k.startswith("test_")]

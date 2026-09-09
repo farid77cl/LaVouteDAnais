@@ -105,3 +105,59 @@ RX_VOCAB_C = re.compile(
     r"\b(?:standing|seated|sitting|kneeling|reclining|lying|from behind|back view|"
     r"side profile|three-quarter|low angle|full body|close-up|the lens|the camera|"
     r"the frame|aspect ratio|looking at|gaze (?:locked|drifting))\b", re.I)
+
+
+# ======================================================================
+# B · lo que lleva puesto, por campos, desde el batch
+# ======================================================================
+# El batch ya declara `bloque_b` como párrafo y eso NO se rompe: un look viejo
+# entra entero como `prenda_principal`. Un look nuevo declara `campos_b` como
+# dict por campo, y el orden de salida es SIEMPRE el del contrato, no el del
+# dict — así el prompt es idéntico sin importar cómo lo escribió quien lo hizo.
+
+class CampoFaltante(ValueError):
+    """Un campo obligatorio del contrato no viene en el look."""
+
+
+class CampoDesconocido(ValueError):
+    """El look declara un campo que el contrato no conoce. Se dice cuál y se
+    sugieren los válidos: 'zapatos' no pasa en silencio cuando el campo es
+    'calzado' — un campo mal escrito es un atributo que nunca llega a Gemini."""
+
+
+def _campos_de(bloque):
+    return [c for c in cargar_campos()["campos"] if c["bloque"] == bloque]
+
+
+def campos_b(look, estricto=False):
+    """{campo: texto} de B en el orden del contrato, solo los que el look trae.
+
+    look["campos_b"]  -> dict por campo (batches nuevos)
+    look["bloque_b"]  -> párrafo entero como prenda_principal (batches viejos)
+    estricto=True     -> exige los obligatorios (lo usa la puerta, no el lector)
+    """
+    contrato = _campos_de("B")
+    validos = [c["id"] for c in contrato]
+    if "campos_b" in look:
+        crudo = dict(look["campos_b"])
+        raros = sorted(set(crudo) - set(validos))
+        if raros:
+            raise CampoDesconocido(
+                "campo(s) de B que el contrato no conoce: %s. Válidos: %s"
+                % (", ".join(raros), ", ".join(validos)))
+    else:
+        crudo = {"prenda_principal": look.get("bloque_b", "")}
+    salida = {}
+    for c in contrato:
+        t = PromptBuilder._limpiar(crudo.get(c["id"], ""))
+        if t:
+            salida[c["id"]] = t
+        elif estricto and c["obligatorio"]:
+            raise CampoFaltante("falta el campo obligatorio de B: %s" % c["id"])
+    return salida
+
+
+def fugas_b(campos):
+    """Vocabulario de C (pose, cámara, encuadre) dentro de un campo de B."""
+    return ["B/%s: «%s» es vocabulario de C (pose/cámara)" % (k, m.group(0))
+            for k, t in campos.items() for m in [RX_VOCAB_C.search(t or "")] if m]
