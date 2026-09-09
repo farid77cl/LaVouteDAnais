@@ -1,0 +1,45 @@
+# A/B del motor de tres bloques — Miss Doll L86 «Perla y Rosa, Sala Privada»
+
+| Campo | Valor |
+|---|---|
+| **Fecha** | 09/09/2026 |
+| **Qué es** | Evidencia (regla 12): las dos emisiones del mismo look por los dos motores, como archivo. **No se borra.** |
+| **Origen** | Plan `99_Sistema/plan_motor_tres_bloques_20260909.md`, Tarea 8. Spec `99_Sistema/specs/2026-09-09-motor-tres-bloques-design.md` §8. |
+| **Batch** | `99_Sistema/scripts/visual/batches/AB_MD_L86_motor.json` — el look copiado **verbatim** de `MD_L86_L90_casa_llena.json`, 0/7 al escribirlo. No se escribe en la galería. |
+| **Estado** | 🟡 Emitido. **Falta que la Ama genere las 14 imágenes** (7 por variante) y la auditoría ciega. |
+
+## Protocolo
+
+1. **Una sola variable.** Mismo ADN, mismo `bloque_b` (el párrafo, sin partirlo en `campos_b` — partirlo habría sido una segunda variable mía), mismo setting, misma sub-pose, mismos props. Lo único que cambia es **cómo se ensambla**: A = motor viejo (`generar` sin flag) · B = motor de tres bloques (`--motor bloques`).
+2. **Quien audita las imágenes no sabe cuál es cuál.** Se entregan como «tanda 1» y «tanda 2», y el auditor cuenta defectos por pose con `outfit.py ojos` (pendiente) o con el mismo protocolo de la auditoría del 09/09 (fidelidad · consistencia interna · canon).
+3. **Gana quien baje los defectos. Si B no los baja, se dice, y el viejo se queda.** Un pase no refuta siete rebotes: n=1 por variante no decide solo; decide una tendencia, y si hace falta se repite con otro look.
+
+## Lo medido antes de generar nada
+
+| | A · motor viejo | B · motor bloques |
+|---|---|---|
+| fences (BLOQUE B + 7 poses) | 8 | 8 |
+| chars totales | 60.804 | 62.448 (**+2,7 %**) |
+| cláusulas con peso `:1.x` por prompt | 21 | 21 |
+| contradicciones (`contradicciones.buscar`) | 0 en las 7 | 0 en las 7 |
+| fugas entre bloques (`bloques.fugas`) | — (no aplica) | 0 en las 7 |
+| `back_view`: `both seat cheeks fully bare` | sí | sí |
+| `back_view`: `not lifted, not parted` | no | no |
+
+**Lo que el número dice y lo que no.** El motor de bloques **no adelgaza**: enruta las mismas 37 anclas a su bloque (por eso +2,7 %: las anclas de prenda ahora van completas en la oración B). Lo que cambia es **el orden y la agrupación** —A. B. C., cada atributo en un solo sitio, sin ecos que re-describan la prenda—. Miss Doll trae **21 cláusulas con peso** por prompt contra 5 de Ele: eso es su ADN, no el motor, y este experimento no lo toca.
+
+## ⚠️ Hallazgo al emitir: este look NO ejercita el eje de exposición
+
+El vestido del L86 es **crystal-mesh** y el detector de cobertura lo clasifica —correctamente— como transparente: la tanga se ve a través de él a propósito. Resultado: **las dos variantes piden `both seat cheeks fully bare` en el `back_view`**, y el mecanismo exacto que abrió la falda del L831 (una cola de peso exigiendo el asiento al aire contra una prenda que lo cubre) **no está en juego acá**. Lo que este A/B compara es *orden y agrupación*, no *exposición por construcción*.
+
+Y destapa un **tercer estado** que ninguna de las dos variantes de `BOTTOM_CUT_LOCK` cubre: *el calzón visible A TRAVÉS de una prenda transparente que se queda en su sitio*. Hoy un vestido sheer cae en «expuesto» y recibe la cola que empuja a abrir la prenda — el mismo empujón del L831, sobre una prenda que no debía moverse. Es el caso del L826 de Ele (crystal-mesh slip dress) y del L86 de Miss Doll. **Decisión de la Ama:** ¿un tercer texto de exposición, «visible through the sheer outer garment, which stays in place»?
+
+## Cómo hacerlo más fuerte (decisión de la Ama)
+
+- **Opción 1 — quedarse con L86.** Barato (está 0/7 igual). Mide orden/agrupación. No mide exposición.
+- **Opción 2 — repetirlo sobre el L831 de Ele.** Es el look que falló, con falda **opaca** y tanga debajo: el eje de exposición entra completo. Cuesta 14 generaciones sobre un look que ya tiene 7 imágenes — pero da **tres puntos**: las imágenes que ya existen (motor viejo *antes* del arreglo del 09/09), A (motor viejo *con* el arreglo) y B (bloques).
+
+## Archivos
+
+- `A_viejo_MD_L86.md` — 7 prompts + negativo, motor viejo.
+- `B_bloques_MD_L86.md` — 7 prompts + negativo, motor de bloques. Reporte por bloque al emitir: `A=3042 B=3657 C=1813-2183` chars.

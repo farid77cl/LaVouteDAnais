@@ -1,0 +1,31 @@
+{
+  "_ab": "EXPERIMENTO A/B DEL MOTOR DE TRES BLOQUES (09/09/2026). Un solo look, copiado VERBATIM de MD_L86_L90_casa_llena.json (0/7 al momento de escribirlo), emitido dos veces: A = motor viejo (`generar` sin flag), B = motor de bloques (`--motor bloques`). Mismo ADN, mismo bloque_b, mismo setting, misma sub-pose, mismos props. La UNICA variable es la estructura del prompt: anclas enrutadas a su bloque, sin ecos que re-describan la prenda, exposicion del asiento decidida por construccion. Se elige este look porque lleva vestido y bata ENCIMA de la tanga: la clase exacta del L831, donde el motor viejo abrio la falda. Las dos emisiones se guardan como archivo en 99_Sistema/ab_motor_bloques_20260909/ — el experimento del filtro L80 fue irrepetible porque sus prompts nunca existieron como archivo. Quien audita las imagenes no debe saber cual es cual.",
+  "_no_es_produccion": "Este batch NO se escribe en la galeria. Se emite con --stdout o --out a la carpeta del experimento.",
+  "personaje": "miss_doll",
+  "batch": "AB_MD_L86_motor",
+  "fecha": "07/09/2026",
+  "categoria": "Mix",
+  "rango": "86",
+  "tags_comunes": [
+    "deficit",
+    "V7poses",
+    "batchL86-L90"
+  ],
+  "negative_extra": "cotton, denim, wool, linen, matte natural fabric, flat shoes, no platform, kitten heel, bangs, fringe, ankle boots, short boots",
+  "looks": {
+    "86": {
+      "titulo": "Perla y Rosa, Sala Privada",
+      "codigo": "VI5",
+      "polo": "VIP / Privado",
+      "concepto": "VIP/Privado (11,3% contra meta 12%). Arquitectura M10 (slip de malla sobre lenceria, CUBIERTA) -- bloqueadas M3, M1 y M4/A6 por la ventana global de 3. VA PRIMERO A PROPOSITO: los L83, L84 y L85 son tres arquitecturas de piel seguidas, asi que la ventana de silueta cubierta del §8 (1 de cada 4) se cerraba justo en este slot -- con el calabozo aca la cuota quedaba incumplida y el linter lo freno. Es una ESCENA y no un objeto (frontera del §6): la energia de sala privada manda y la lenceria es contexto. PAGA LA CUOTA DE BATA del §5.1b con el default vigente desde el 17/08 -- gasa semitransparente, largo al suelo y puños acampanados anchos, nunca saten opaco ni bata corta. Blanco perla con el rosa firma en la bata, la boca y la suela. Modo Neutro+Pop. SIN MEDIAS: corta la racha de tres que dejaron L83-L85, que violaba su propio §5.5.4.",
+      "bloque_b": "a pearl white crystal-mesh slip dress to mid-thigh, cut on the bias, one fine strap at each shoulder and a straight neckline, the mesh an unlined open weave carried as the outer layer of the styling, its hem weighted in rose gold and a single rose-gold ring set at the centre front; under it a pearl white liquid-satin bralette, cups moulded and underwired into a deep plunge with a rose-gold ring between them, and a pearl white liquid-satin thong whose front narrows to a panel and whose back is one fine cord; over everything a floor-length hot pink silk-gauze robe, kept open and slipping off one shoulder, the gauze unlined and translucent, wide bell cuffs at each wrist and a thin sash knotted loose at the waist so it never closes; legs bare, no hosiery; a narrow rose-gold band at the throat without lettering, rose-gold bands at both wrists, long faceted pearl drops at the ears; eyes in midnight sapphire shimmer smoke, mouth in high-gloss deep berry; nails long and almond-shaped, lacquered glossy pearl white; closed pointed-toe platform stiletto pumps in pearl white patent vinyl, 16cm razor-thin rose-gold needle heel plus a 6-inch pearl platform, sharp closed pointed toe, a single pearl white ankle strap with a rose-gold pin buckle, and a hot pink mirrored sole edge",
+      "setting": "a private lounge on the floor above the club, walls in pearl-grey silk, a low banquette in oyster velvet, one warm lamp standing on a smoked-glass table and the noise of the club below felt rather than heard",
+      "props": {
+        "seat": "the oyster velvet banquette",
+        "wall": "the pearl-grey silk wall",
+        "surface": "the smoked-glass table",
+        "upright": "a slim brushed-nickel column"
+      }
+    }
+  }
+}

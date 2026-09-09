@@ -4,6 +4,8 @@
 > checkbox. Regla 13: superpowers gobierna este código. Runner propio en cada test (esta máquina
 > no tiene `pytest`; el patrón está en `test_sync_eol.py`).
 >
+> 🟡 **Estado 09/09/2026:** Tareas 1-7 y 6bis hechas y commiteadas (TDD, 50 pruebas). Tarea 8 emitida (`99_Sistema/ab_motor_bloques_20260909/`), **pendiente de que la Ama genere las 14 imágenes** y de su decisión sobre el look (ver README del experimento).
+>
 > 💀 **Fecha de muerte declarada (regla 12):** muere cuando el A/B de la Tarea 8 esté medido y su
 > resultado escrito en `.agent/rules/06-generacion-imagenes.md` §10. Se borra, no se archiva.
 
@@ -62,7 +64,7 @@ cambian de fondo.
 
 **Files:** Create `campos.json`, `bloques.py`, `test_bloques.py`.
 
-- [ ] **Paso 1 — test rojo**
+- [x] **Paso 1 — test rojo**
 
 ```python
 def test_el_contrato_carga_y_tiene_los_tres_bloques():
@@ -93,21 +95,21 @@ def test_un_id_de_ancla_no_cae_en_dos_bloques():
             assert vistos.setdefault(a, c["bloque"]) == c["bloque"], a
 ```
 
-- [ ] **Paso 2 — rojo:** `python test_bloques.py` → `ModuleNotFoundError: bloques`.
-- [ ] **Paso 3 — escribir `campos.json`** con la tabla §3 + §4 del spec. `ANCLAS_RETIRADAS` =
+- [x] **Paso 2 — rojo:** `python test_bloques.py` → `ModuleNotFoundError: bloques`.
+- [x] **Paso 3 — escribir `campos.json`** con la tabla §3 + §4 del spec. `ANCLAS_RETIRADAS` =
   las que se **parten** y por eso no se referencian enteras: `BOTTOM_CUT_LOCK` (corte → campo
   `calzon` de B, exposición → campo `exposicion_asiento` de C, con el texto de `texto` /
   `texto_cubierto`), `FOOTWEAR_ECHO` (→ `en_cuadro`, referencia), `DRESS_LEG_CLOSURE` (→
   `piernas`, C). Estas tres se declaran con `"fuente": "ancla:<ID>#parte"` para que el
   test de cobertura las cuente.
-- [ ] **Paso 4 — `cargar_campos()`** mínimo. Verde.
-- [ ] **Paso 5 — commit** `Ele: campos.json — el contrato de campos por bloque (Tarea 1)`.
+- [x] **Paso 4 — `cargar_campos()`** mínimo. Verde.
+- [x] **Paso 5 — commit** `Ele: campos.json — el contrato de campos por bloque (Tarea 1)`.
 
 ## Tarea 2: A por campos, con la cerca compartida
 
 **Files:** Modify los tres perfiles (cerca). Modify `bloques.py`, `test_bloques.py`.
 
-- [ ] **Paso 1 — test rojo**
+- [x] **Paso 1 — test rojo**
 
 ```python
 def test_los_campos_A_unidos_son_el_bloque_a_de_siempre():
@@ -130,17 +132,17 @@ def test_ningun_campo_A_contiene_vocabulario_de_B():
             assert not bloques.RX_VOCAB_B.search(texto), (slug, campo, texto[:80])
 ```
 
-- [ ] **Paso 2 — rojo:** falla por `campos_a` inexistente; después, por la cerca en un solo
+- [x] **Paso 2 — rojo:** falla por `campos_a` inexistente; después, por la cerca en un solo
   bloque; después, por los tres tokens de Anaïs.
-- [ ] **Paso 3 — reformatear las tres cercas** a una línea por campo (texto idéntico). Sacar de
+- [x] **Paso 3 — reformatear las tres cercas** a una línea por campo (texto idéntico). Sacar de
   Anaïs: `wearing 12cm black patent leather stiletto heels no platform iconic red sole`,
   `long stiletto-shaped impeccably manicured glossy fingernails` y `with extreme waist training
   tightlacing corset` (queda `slender mature elegant hourglass figure`). **Esto es enmienda de
   canon: la Ama lo aprobó el 09/09 en la orden «guardia que saque los tokens de prenda del
   BLOQUE A».** Anotar en su §5.3/§5.5 que calzado y uñas se declaran en B como en las otras dos.
-- [ ] **Paso 4 — implementar `lineas_adn()` y `campos_a()`**. Verde. **Y `outfit.py adn` LIMPIO**
+- [x] **Paso 4 — implementar `lineas_adn()` y `campos_a()`**. Verde. **Y `outfit.py adn` LIMPIO**
   — el chequeo de dueño único del A no debe romperse.
-- [ ] **Paso 5 — commit.**
+- [x] **Paso 5 — commit.**
 
 ## Tarea 3: B por campos, desde el batch
 
@@ -150,7 +152,7 @@ El batch ya declara `bloque_b` como párrafo. **No se rompe la compatibilidad:**
 acepta `bloque_b` (párrafo, se usa entero como `prenda_principal`) **o** `campos_b` (dict por
 campo). Los batches nuevos usan el dict; los viejos siguen emitiendo.
 
-- [ ] **Paso 1 — test rojo**
+- [x] **Paso 1 — test rojo**
 
 ```python
 def test_un_look_con_campos_b_por_dict_los_devuelve_en_orden_del_contrato():
@@ -175,13 +177,13 @@ def test_ningun_campo_B_contiene_vocabulario_de_C():
     assert any("standing" in f for f in bloques.fugas_b(bloques.campos_b(look)))
 ```
 
-- [ ] **Paso 2 — rojo. Paso 3 — implementar. Paso 4 — verde. Paso 5 — commit.**
+- [x] **Paso 2 — rojo. Paso 3 — implementar. Paso 4 — verde. Paso 5 — commit.**
 
 ## Tarea 4: C por campos — pose, cámara, ambiente, y las tres anclas partidas
 
 **Files:** Modify `bloques.py`, `test_bloques.py`.
 
-- [ ] **Paso 1 — test rojo**
+- [x] **Paso 1 — test rojo**
 
 ```python
 def test_c_lleva_la_subpose_del_repertorio_sin_anclas_dentro():
@@ -208,12 +210,12 @@ def test_en_cuadro_referencia_y_no_redescribe():
     assert "sapphire" not in c["en_cuadro"]
 ```
 
-- [ ] **Paso 2 — rojo. Paso 3 — implementar** reutilizando `PromptBuilder.pose()` (repertorio) y
+- [x] **Paso 2 — rojo. Paso 3 — implementar** reutilizando `PromptBuilder.pose()` (repertorio) y
   `calzon_va_cubierto()` (ya existe, ya probado). **Paso 4 — verde. Paso 5 — commit.**
 
 ## Tarea 5: `ensamblar()` + `fugas()` — tres oraciones y la guardia
 
-- [ ] **Paso 1 — test rojo**
+- [x] **Paso 1 — test rojo**
 
 ```python
 def test_ensamblar_produce_tres_oraciones_en_orden_A_B_C():
@@ -234,11 +236,11 @@ def test_un_prompt_limpio_no_tiene_fugas():
     assert bloques.fugas({"A": "grey-green eyes", "B": "black pumps", "C": "seated"}) == []
 ```
 
-- [ ] **Paso 2 — rojo. Paso 3 — implementar. Paso 4 — verde. Paso 5 — commit.**
+- [x] **Paso 2 — rojo. Paso 3 — implementar. Paso 4 — verde. Paso 5 — commit.**
 
 ## Tarea 6: `BloquesBuilder.build()` — la misma firma, el ensamblado nuevo
 
-- [ ] **Paso 1 — test rojo**
+- [x] **Paso 1 — test rojo**
 
 ```python
 def test_build_del_builder_nuevo_pasa_validar_y_no_tiene_fugas():
@@ -266,7 +268,7 @@ def test_build_es_identico_en_las_7_poses_en_A_y_B():
 `build()` acepta `bloque_b` como **dict de look** (nuevo) o **str** (viejo) para que `generar`
 pueda pasar cualquiera de los dos. `pose_text=None` significa «sácala del repertorio».
 
-- [ ] **Paso 2 — rojo. Paso 3 — implementar. Paso 4 — verde + `outfit.py test` 124 + modularidad.
+- [x] **Paso 2 — rojo. Paso 3 — implementar. Paso 4 — verde + `outfit.py test` 124 + modularidad.
   Paso 5 — commit.**
 
 ## Tarea 6bis: un personaje nuevo entra solo con datos
@@ -277,7 +279,7 @@ no que **el camino completo** funcione para una muñeca que el motor nunca vio. 
 
 **Files:** Modify `test_bloques.py`.
 
-- [ ] **Paso 1 — test rojo**
+- [x] **Paso 1 — test rojo**
 
 ```python
 def test_una_cuarta_muneca_emite_sus_7_prompts_sin_tocar_codigo(tmp_path):
@@ -297,12 +299,12 @@ def test_una_cuarta_muneca_emite_sus_7_prompts_sin_tocar_codigo(tmp_path):
     assert len(prompts) == 7 and all(PromptBuilder.validar(p) == [] for p in prompts)
 ```
 
-- [ ] **Paso 2 — rojo. Paso 3 — implementar `config_con_personaje()` y `repertorio_minimo()`**
+- [x] **Paso 2 — rojo. Paso 3 — implementar `config_con_personaje()` y `repertorio_minimo()`**
   (helpers de datos, no ramas de lógica). **Paso 4 — verde + `modularidad` LIMPIA. Paso 5 — commit.**
 
 ## Tarea 7: `outfit.py generar --motor bloques`
 
-- [ ] **Paso 1 — test rojo** (sobre `cmd_generar` con un batch fixture de 1 look en tmp):
+- [x] **Paso 1 — test rojo** (sobre `cmd_generar` con un batch fixture de 1 look en tmp):
 
 ```python
 def test_generar_con_motor_bloques_emite_y_reporta_largos_por_bloque(tmp_path):
@@ -315,15 +317,15 @@ def test_generar_sin_flag_no_cambia_ni_un_byte():
     assert _correr_generar(batch_828, ["--stdout"]) == SALIDA_828_DE_HOY
 ```
 
-- [ ] **Paso 2 — rojo. Paso 3 — el flag** instancia `BloquesBuilder` en vez de `PromptBuilder`;
+- [x] **Paso 2 — rojo. Paso 3 — el flag** instancia `BloquesBuilder` en vez de `PromptBuilder`;
   todo lo demás de `cmd_generar` (rotación, color, cruce, escritura de galería) queda igual.
   **Paso 4 — verde. Paso 5 — commit.**
 
 ## Tarea 8: el A/B — como archivo, a ciegas, con número
 
-- [ ] **Paso 1** — elegir un look **0/7** con falda (para que la exposición esté en juego) y
+- [x] **Paso 1** — elegir un look **0/7** con falda (para que la exposición esté en juego) y
   arquitectura ya usada. Escribirlo como `batches/AB_<num>_<slug>.json` con **`campos_b`**.
-- [ ] **Paso 2** — emitir **A** con `generar` (motor viejo) y **B** con `--motor bloques`. Mismos
+- [x] **Paso 2** — emitir **A** con `generar` (motor viejo) y **B** con `--motor bloques`. Mismos
   A/B/setting/sub-pose. Guardar las dos salidas en `reportes/` con nombre. **El experimento del
   filtro L80 fue irrepetible porque sus prompts nunca existieron como archivo.**
 - [ ] **Paso 3** — la Ama genera las 14.
