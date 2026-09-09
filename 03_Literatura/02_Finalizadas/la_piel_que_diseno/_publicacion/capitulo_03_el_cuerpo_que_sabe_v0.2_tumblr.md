@@ -1,4 +1,8 @@
-# Capítulo 3: El cuerpo que sabe
+![Portada](05_Imagenes/historias/la_piel_que_diseno/imagen3_camarin.jpg)
+
+**«El cuerpo que sabe» — Capítulo 3**
+
+Una placa de plástico negro atornillada a la puerta de un camarín. Letras blancas: DANIELA. Debajo, más chico: primera bailarina. El plástico ya está rayado y el tornillo de arriba va flojo — la placa estaba ahí mucho antes de esta semana. Adentro, doblado con cuidado en la repisa, el oro. Afuera, un caño cromado y una mujer de oficio que lo mide de arriba abajo como se revisa una herramienta antes de empezar. *«Tiene cuerpo de pista, esta.»* Y lo dice hacia arriba, al entrepiso, donde dos hombres beben whisky con la pista a sus pies.
 
 <!-- more -->
 
@@ -177,3 +181,9 @@ Daniela corrió el pestillo. Abrió la puerta al pasillo, donde el aire del club
 —Vamos a la casa. Descansa lo que puedas. —Una pausa tibia, cargada, la sonrisa subiendo despacio—. El viernes firmas con Sebastián. La pluma, el papel, el timbre. Ya lo oíste. Y al otro día te espera él. —Me puso la mano en la espalda baja, en el mismo lugar de siempre, y me empujó suave hacia el pasillo, hacia la noche, hacia la cuenta regresiva—. Esta noche fui yo, mi amor. El postre. Yo te abrí la última puerta que te quedaba cerrada, para que el sábado llegues sin nada guardado. Sebastián no va a tener que forzar ninguna pared. Ya no queda ninguna. —Y bajó la voz al soplo, contra mi oreja—. Para el sábado tu cuerpo ya va a saber rogar solo. Lo único que falta es que la boca aprenda a pedirlo.
 
 No le contesté. No tenía con qué. La cabeza decía no —seguía diciendo no, intacta, terca, sola arriba— y abajo, en un cuerpo recién estrenado por completo, sin una sola parte que no supiera lo que era gozar la verga, el hueco se contrajo al oír *el sábado*, hambriento, listo, dándole la razón al calendario y no a mí, exactamente como le había dado la razón a Daniela toda la mañana, a Bárbara en el pole, a Sebastián con la pluma. Caminé hacia el auto en las botas de plata que el cuerpo ya sabía caminar, con el culo ardiendo de la última pared caída y la Montblanc esperándome en el bolsillo de un hombre que venía a firmar el viernes y a cobrar el sábado lo que yo mismo le había vendido, y el sábado dejó de ser fecha por completo: ya era una cuenta que latía en el hueco abierto, al ritmo de los pezones perforados, contándose hacia mí en un cuerpo que esa noche había dejado de tener una sola parte que dijera que no. Solo quedaba la cabeza, arriba, sola, diciendo un no que ya nadie —ni yo— sabía si me estaba diciendo la verdad.
+
+---
+
+**⚠️ +18 — Contenido explícito para adultos.** Ficción. Todos los personajes son mayores de edad y producto de la imaginación.
+
+#corruption kink #body swap #genderswap #bimbo training #transformation #tf #smut #LaVoûtedAnaïs #LaPielQueDiseñé #ElCuerpoQueSabe

@@ -1,4 +1,8 @@
-# Capítulo 2: El postre
+![Portada](05_Imagenes/historias/la_piel_que_diseno/imagen2_postre.jpg)
+
+**«El postre» — Capítulo 2**
+
+Hay una silla en ese salón que él pagó durante años sin sentarse nunca en ella. Sabía el monto. No sabía el olor. Hoy le toca la silla. La capa cerrada atrás, en el cuello. Las manos atrapadas bajo la tela. Tres horas entregada a manos ajenas, mientras la que ahora manda en esa casa espera en el sillón con el teléfono y no levanta la vista ni una vez. *«Le faltaba algo a esa obra tuya. Yo se lo voy a poner.»* Mon ange, eso se pidió por encima de su cabeza. Como se pidió siempre todo en ese cuerpo.
 
 <!-- more -->
 
@@ -137,3 +141,11 @@ Cerró un poco la mano en mi pelo. No con fuerza. Con propiedad. Y me levantó, 
 Subí al auto. Me temblaban las piernas y no era de la caída. Junté las rodillas por reflejo para que el vestido corto no mostrara la tanga empapada, y la tela mojada se me pegó fría al coño abierto, recordándome cada segundo lo que el cuerpo había hecho sin mi permiso arrodillado en la vereda. Daniela dio la vuelta al auto sin apuro, se subió del lado del conductor —mi lado—, se acomodó el reloj con dos dedos, y arrancó, tranquila, silbando algo bajito, como quien vuelve de un trámite cualquiera de la mañana.
 
 Y yo miré por la ventana la calle que pasaba, con el olor de mi propia verga vieja todavía metido en la nariz y la voz de abajo repitiéndome en silencio su única palabra, y la cabeza —terca, lúcida, sola arriba— corrió a decir *no* una vez más, *no la habría chupado, fue el tobillo, fue la caída, yo no quería*, y era verdad que la cabeza decía no. Pero abajo, en un cuerpo que acababa de descubrir que tenía voz propia y que la usaba para pedir exactamente lo contrario de lo que yo pedía, el hueco se cerró sobre nada, hambriento, y la tanga empapada se me enfrió entre las piernas mientras el auto avanzaba, y por primera vez en todo el día no supe cuál de las dos cosas —el *no* de la cabeza o el hambre de la carne— me estaba diciendo la verdad.
+
+---
+
+**⚠️ +18 — Contenido explícito para adultos.** Ficción. Todos los personajes son mayores de edad y producto de la imaginación.
+
+[← Capítulo 1](https://www.tumblr.com/blog/view/lavoutedeanais/827284336018669568)
+
+#corruption kink #body swap #genderswap #bimbo training #transformation #tf #smut #LaVoûtedAnaïs #LaPielQueDiseñé #ElPostre

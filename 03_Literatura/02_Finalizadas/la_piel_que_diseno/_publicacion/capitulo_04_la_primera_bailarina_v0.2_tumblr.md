@@ -1,4 +1,8 @@
-# Capítulo 4: La primera bailarina
+![Portada](05_Imagenes/historias/la_piel_que_diseno/imagen4_bailarina.jpg)
+
+**«La primera bailarina» — Capítulo 4**
+
+Despertó mojada, y lo primero que le cruzó la cabeza fue una palabra sola. Nadie se la peleó. Arriba quedó una pieza vacía y tibia, con la luz entrando de lado y una sola idea dando vueltas, gorda y redonda: cuándo será la próxima. *«¿Dónde se te fue toda la cabeza, mi amor? Yo la vi ayer todavía. Hoy no la encuentro.»* Hoy es viernes y hoy se firma. Sobre la mesa del abogado van a poner dos papeles: el de hoy, y otro más viejo, de esquinas gastadas, con una letra de hombre esperando al pie desde hace dos años.
 
 <!-- more -->
 
@@ -307,3 +311,9 @@ Y no me dio vergüenza. Esa fue la última cosa que se me fue, si es que quedaba
 Porque eso era ahora, para siempre, y lo había firmado yo: la primera bailarina de la casa. Disponible. La que sale para el que lo pida. Y al otro lado de la cortina seguía el club lleno, las mesas llenas, los hombres con el vaso en la mano y los ojos calientes, todos los que me habían visto bailar arriba, dorada y mojada, y me habían querido coger.
 
 Y me la iban a coger. Todos. Y yo los iba a dejar. Y me iba a encantar.
+
+---
+
+**⚠️ +18 — Contenido explícito para adultos.** Ficción. Todos los personajes son mayores de edad y producto de la imaginación.
+
+#corruption kink #body swap #genderswap #dumbification #transformation #tf #smut #LaVoûtedAnaïs #LaPielQueDiseñé #LaPrimeraBailarina
