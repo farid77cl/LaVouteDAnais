@@ -210,12 +210,60 @@ No hay nada que reparar: **hay que crear la credencial y adjuntarla**. El arregl
 2. El `PUT` **no acepta `active`**. Para re-registrar: `POST …/deactivate` y luego
    `POST …/activate`.
 
-**El parámetro en blanco tampoco está donde se dijo.** El §3bis lo daba por «un campo de
-parámetro que quedó sin nombre en el nodo». Medido: los cinco declaran **un solo**
-`placeholderDefinitions`, todos con nombre — `limite` (listar_flujos, ver_ejecuciones) e `id`
-(activar_flujo, desactivar_flujo, detalle_ejecucion). El segundo parámetro requerido con
-nombre vacío **lo genera la capa MCP de n8n al exponer el esquema**, no el nodo. O sea **no
-se arregla editando el workflow**, y hay que mirarlo en el `tools/list` crudo.
+**El parámetro en blanco: SÍ estaba en el nodo, y era la misma herida que el 401.**
+
+> ♻️ Este párrafo se escribió dos veces el mismo día y las dos primeras versiones estaban
+> mal. El §3bis dijo «un campo de parámetro sin nombre en el nodo» mirando
+> `placeholderDefinitions`; al no encontrarlo ahí se corrigió a «lo genera la capa MCP de
+> n8n, no se arregla editando el workflow». **También falso.** Lo que faltó las dos veces
+> fue abrir el nodo entero en vez de mirar el campo donde se esperaba encontrarlo.
+
+Cada una de las 5 herramientas llevaba:
+
+```json
+"sendHeaders": true,
+"parametersHeaders": { "values": [ {} ] }
+```
+
+— una **fila de cabecera vacía**. n8n la expone como un segundo parámetro requerido **con el
+nombre en blanco**, y ahí muere con `ZodError` cualquier cliente MCP normal. Y es el mismo
+resto de la cabecera que nunca se llenó que dejó a los nodos sin autenticación: alguien iba a
+poner ahí el `X-N8N-API-KEY` a mano y no lo puso. **Un solo descuido causaba los dos
+síntomas.**
+
+Sacando `sendHeaders` + `parametersHeaders` (solo cuando todas las filas están vacías; si
+alguien puso una cabecera de verdad, no se toca) el esquema pasa de «2 properties» a
+«1 properties» y queda solo `limite` / `id`.
+
+### ✅ Arreglado y verificado el 09-sep-2026
+
+1. Credencial creada **por API** — `n8n API para herramientas MCP (X-N8N-API-KEY)`, id
+   `wMLjQUM6hfn3Ajpn`, tipo `httpHeaderAuth`, `{name: X-N8N-API-KEY}`. Por API y no por la
+   interfaz: en la 2.30.8 las credenciales creadas desde la interfaz no funcionan con el MCP
+   Server Trigger (`n8n-io/n8n#30076`).
+2. Adjuntada a las 5 herramientas (`authentication: genericCredentialType` +
+   `genericAuthType: httpHeaderAuth`). El trigger quedó **intacto** con su
+   `MCP Claude (auto)`.
+3. Sacada la fila de cabecera vacía de las 5.
+4. `PUT` con los `settings` filtrados, y `deactivate` + `activate` para re-registrar.
+
+**Verificado con un apretón de manos MCP a mano contra la URL pública**, no dado por hecho:
+`initialize` → `n8n-mcp-server 0.1.0` · `tools/list` → **5 herramientas** ·
+`listar_flujos` y `ver_ejecuciones` **devuelven datos reales**. Las tres que mutan flujos no
+se probaron en vivo a propósito.
+
+> 🐛 **Trampa del cliente SSE, para quien escriba el próximo:** las respuestas vuelven por el
+> stream, no por el POST, y **hay que emparejarlas por `id`**. Leer «la siguiente que
+> llegue» da resultados falsos: `notifications/initialized` mandada con `id` (error: una
+> notificación no lleva id) devuelve un `Method not found` que se lee como si fuera la
+> respuesta de `tools/list` — y reporta **0 herramientas** cuando hay 5. Pasó acá.
+
+**Cómo se llama una herramienta:** n8n envuelve todo en una sola propiedad `input` que es un
+**JSON en texto**; los parámetros declarados viajan adentro de ese string.
+
+```
+{"name": "listar_flujos", "arguments": {"input": "{\"limite\": \"3\"}"}}
+```
 
 **El Funnel se queda así, y es deliberado:** publica **solo `/mcp` y `/webhook`**, de forma
 permanente, porque la API de administración no debe estar expuesta a internet. El **conector
