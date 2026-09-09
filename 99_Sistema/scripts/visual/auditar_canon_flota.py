@@ -118,11 +118,18 @@ def poses_con_imagen(slug):
     return nums
 
 
-def auditar(slug, cfg, solo_sin_imagen=False, detalle=False):
+def auditar(slug, cfg, solo_sin_imagen=False, detalle=False, silencioso=False):
+
+    def _say(*a, **kw):
+        # La segunda pasada (el conteo de lo accionable) no vuelve a imprimir el
+        # detalle: se contaria dos veces en pantalla lo mismo. 09/09/2026.
+        if not silencioso:
+            print(*a, **kw)
+
     pb = PromptBuilder(slug, cfg)
     ruta = os.path.join(RAIZ, pb.perfil["galeria"].replace("/", os.sep))
     if not os.path.exists(ruta):
-        print("  [CRITICO] no existe la galeria %s" % pb.perfil["galeria"])
+        _say("  [CRITICO] no existe la galeria %s" % pb.perfil["galeria"])
         return 0, 0, 0
     texto = open(ruta, encoding="utf-8").read()
     arquetipos = L.extraer_arquetipos(texto)
@@ -154,7 +161,7 @@ def auditar(slug, cfg, solo_sin_imagen=False, detalle=False):
         for p in audit_garment(seg, archetype=arq, tag=tag):
             violaciones.append(("vestuario", lk["num"], p))
 
-    print("  %-10s looks=%-4d auditados=%-4d no auditables=%-4d VIOLACIONES=%d"
+    _say("  %-10s looks=%-4d auditados=%-4d no auditables=%-4d VIOLACIONES=%d"
           % (slug, len(looks), auditados, len(no_auditables), len(violaciones)))
     if violaciones:
         porluk = {}
@@ -162,13 +169,13 @@ def auditar(slug, cfg, solo_sin_imagen=False, detalle=False):
             porluk.setdefault(num, []).append((fam, p))
         for num in sorted(porluk):
             if detalle:
-                print("     L%d:" % num)
+                _say("     L%d:" % num)
                 for fam, p in porluk[num]:
-                    print("        [%s] %s" % (fam, p))
+                    _say("        [%s] %s" % (fam, p))
             else:
-                print("     L%-5d %s" % (num, "; ".join(p.split(":")[0] for _f, p in porluk[num])[:150]))
+                _say("     L%-5d %s" % (num, "; ".join(p.split(":")[0] for _f, p in porluk[num])[:150]))
     if no_auditables and detalle:
-        print("     no auditables: %s" % sorted(n for n, _ in no_auditables)[:30])
+        _say("     no auditables: %s" % sorted(n for n, _ in no_auditables)[:30])
     return auditados, len(violaciones), len(no_auditables)
 
 
@@ -191,8 +198,39 @@ def main():
         tn += n
     print("-" * 78)
     print("TOTAL  auditados=%d  violaciones=%d  no auditables=%d" % (ta, tv, tn))
+
+    # ------------------------------------------------------------------
+    # Lo ARREGLABLE arriba, lo historico contado aparte (09/09/2026).
+    #
+    # Deuda declarada el 08/09: este auditor iba en 872 violaciones sobre 685
+    # looks — "linter que grita lo inarreglable". Medido: **852 de las 872 son
+    # de looks YA MATERIALIZADOS**. El prompt de un look con sus 7 fotos hechas
+    # es historia; reescribirlo dejaria un archivo prolijo que MIENTE sobre su
+    # propia flota (misma razon por la que las 35 copias del ADN de Miss Doll no
+    # se actualizaron el 04/09). No son deuda: son registro.
+    #
+    # No se relaja ninguna regla ni se esconde un hallazgo: cambia QUE NUMERO
+    # QUEDA COMO TITULAR, que es lo que decide si alguien lo lee. Mismo patron
+    # que `rotacion_*.historicos_declarados`. Y el exit code pasa a mirar solo
+    # lo accionable — antes salia 1 siempre, o sea no servia de puerta.
+    # ------------------------------------------------------------------
+    accionables = tv
+    if not solo_sin_imagen:
+        accionables = 0
+        for slug in slugs:
+            accionables += auditar(slug, cfg, True, False, silencioso=True)[1]
+        historicos = tv - accionables
+        print("-" * 78)
+        print("  \U0001f6a9 ACCIONABLE (looks SIN imagen, el prompt todavia se puede arreglar): %d"
+              % accionables)
+        print("  \U0001f4dc historico  (looks YA materializados, su prompt es registro): %d"
+              % historicos)
+        print("     el historico NO se reescribe: dejaria la galeria describiendo algo")
+        print("     distinto de las fotos que ya existen. Se declara, no se arregla.")
+        if accionables:
+            print("     -> para verlos solos: outfit.py auditar --solo-sin-imagen")
     print("-" * 78)
-    return 1 if tv else 0
+    return 1 if accionables else 0
 
 
 if __name__ == "__main__":
