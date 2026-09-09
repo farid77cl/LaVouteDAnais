@@ -122,3 +122,23 @@ Candidato real por texto. **Verificado contra la foto:** Look 84 (índice 7,
 `miss_doll_084_odalisque.png`) sale arrodillada con la cadera hacia atrás sobre los
 talones, exactamente como se pidió — sin el defecto que el Seated de Ele sí tuvo.
 Se cierra sin tocar: la sospecha textual no se confirmó en la imagen real.
+
+## Barrido del mismo patrón en Side Profile — nada más que tocar
+
+Mismo chequeo (¿"perched" sin ancla de peso?) sobre Standing, Back View y Side Profile
+de las tres muñecas. Dos candidatos con la misma forma que el de Seated:
+
+- Miss Doll Side Profile #5 — *"perched on the front edge of {seat}"*, sin "weight down".
+- Anaïs Side Profile #4 — *"seated or perched"*, sin ancla de peso.
+
+**Verificado contra fotos reales** (Miss Doll L80 y Anaïs L80, ambas con esa variante):
+las dos salen correctamente sentadas, cadera abajo, sin el defecto del Seated de Ele.
+**No se tocan.** La diferencia con el caso real: en Ele el resto de la frase ("stilettos
+planted", "hands... behind her") describía activamente un cuerpo de pie; en estas dos el
+resto de la frase (rodillas juntas, apoyo en el mueble) ya lee sentado sin ambigüedad
+aunque falte la palabra "weight". El texto de la ancla no es la única señal — la escena
+completa que describe la frase importa más que una palabra suelta.
+
+Con esto se cierra el barrido de "lo que no se nombra" para esta ronda: 1 defecto real
+corregido (Seated de Ele), 3 candidatos revisados y descartados con foto (Odalisque MD,
+Side Profile MD y Anaïs).
