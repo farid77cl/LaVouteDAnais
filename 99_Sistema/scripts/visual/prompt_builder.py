@@ -634,6 +634,21 @@ class PromptBuilder(object):
         # Las dos sub-poses (seated[0] y odalisque[0]) se reescribieron con las
         # piernas cerradas en repertorios_pose.json.
 
+        # FABRIC_PRISTINE (global, todo look) dice "all garment surfaces clean,
+        # solid-coloured and unmarked:1.4" -- lo opuesto, palabra por palabra, de
+        # lo que ANIMAL_PRINT_LOCK declara sobre la MISMA prenda ("a genuine
+        # marking texture rendered consistently across every visible inch").
+        # Medido en vivo el 09/09/2026: el prompt de Standing del L832 (zebra
+        # cincher) lleva las dos clausulas, la primera con peso :1.4. Nace
+        # porque FABRIC_PRISTINE se agrego el 30/08 a `_todos` sin excepcion --
+        # el print animal como caso valido de "marca en la tela" no existia
+        # todavia como opt-in. Se descarta aca, nunca en el JSON: el candado
+        # sigue protegiendo a todo look SIN print declarado.
+        if "ANIMAL_PRINT_LOCK" in nombres_extra:
+            _fp = self.anclas.get("FABRIC_PRISTINE", {}).get("texto")
+            if _fp in globales:
+                globales = [t for t in globales if t != _fp]
+
         # ANIMAL_PRINT_LOCK es la unica ancla paramétrica del contrato: su texto
         # lleva {kind} y hay que resolverlo con la especie que nombra el BLOQUE B
         # ("the leopard print is a genuine leopard-skin marking texture..."). Un
