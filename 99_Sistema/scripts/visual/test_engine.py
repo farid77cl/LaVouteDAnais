@@ -920,6 +920,16 @@ _cod2, _cubierta2, _ = _clasificar_h6(
 check("H6 · control: un catsuit real SI clasifica M9 cubierta",
       _cod2 == "M9" and _cubierta2, (_cod2, _cubierta2))
 
+# H7 -- footwear_canon.HOSIERY y garment_canon.HOSIERY_CONTEXTO son dos listas
+# para la misma pregunta ("hay medias?") que habian divergido (09/09/2026):
+# la de footwear_canon (la que lee PromptBuilder._vocab() para HOSIERY_LOCK) no
+# tenia "tights" ni "thigh-high" -- un BLOQUE B que solo nombra tights no
+# disparaba HOSIERY_LOCK, el patron declarado quedaba sin el candado que lo
+# protege. Agregados los tres terminos que ya tenia garment_canon.
+check("H7 · HOSIERY_LOCK dispara con 'tights' (antes no disparaba nada)",
+      "HOSIERY_LOCK" in _pb_h.opt_in_de("sheer black polka-dot tights, no other legwear"),
+      _pb_h.opt_in_de("sheer black polka-dot tights, no other legwear"))
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))

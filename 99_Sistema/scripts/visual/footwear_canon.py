@@ -34,7 +34,14 @@ import re
 # MEDIAS: se detectan en la descripcion de PRENDAS (no en el token de calzado, para no confundir
 # con "thigh-high BOOTS", que son calzado). Tokens inequivocos de hosiery.
 HOSIERY = ["stocking", "fishnet", "nylon", "hosiery", "pantyhose", "bodystocking",
-           "hold-up", "holdup", "seamed", "sheer sock", " media", "medias"]
+           "hold-up", "holdup", "seamed", "sheer sock", " media", "medias",
+           # tights/thigh-high agregados 09/09/2026: HOSIERY_LOCK (prompt_builder.
+           # PromptBuilder._vocab(), que lee esta misma lista) nunca disparaba con
+           # un BLOQUE B que solo nombra "tights" o "thigh-high" -- medido con
+           # "sheer black polka-dot tights": cero opt-in, el patron declarado sin
+           # candado que lo proteja. garment_canon.HOSIERY_CONTEXTO ya los tenia
+           # -- las dos listas venian divergiendo (dueño unico roto).
+           "tights", "thigh-high", "thigh high"]
 # PUNTA ABIERTA prohibida con medias:
 OPEN_TOE = ["open toe", "open-toe", "opentoe", "peep toe", "peep-toe", "peeptoe", "toe cleavage"]
 # Calzado plano/no-canonico que NUNCA debe ir en el POSITIVE (va solo en el negative):

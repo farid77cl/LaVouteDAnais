@@ -277,3 +277,22 @@ más lo leía. Verificado extremo a extremo: el bikini clasifica M2 y conserva
 el negative de Miss Doll, los 6 candados de `opt_in_de`, y este clasificador)
 compartiendo la misma causa raíz — una ausencia declarada leída como presencia —
 encontrada primero en un lugar y generalizada después a los demás.
+
+## Octavo hallazgo real — dos listas para la misma pregunta, ya divergidas
+
+`footwear_canon.HOSIERY` y `garment_canon.HOSIERY_CONTEXTO` contestan la misma
+pregunta ("¿el BLOQUE B declara medias?") con dos listas distintas — y ya habían
+divergido. `PromptBuilder._vocab()` usa la de `footwear_canon` para disparar
+`HOSIERY_LOCK`, y a esa le faltaban `tights`, `thigh-high`, `thigh high` (que
+`garment_canon` sí tenía). **Medido:** *"sheer black polka-dot tights"* — un
+patrón real declarado — no disparaba ningún opt-in. Cero candado protegiendo un
+patrón que sí está en el prompt.
+
+**Fix:** se agregaron los tres términos faltantes a `footwear_canon.HOSIERY`
+(verificado que no introduce falsos positivos en su propio self-check). No se
+fusionaron las dos listas del todo — `footwear_canon.HOSIERY` incluye además
+`seamed`, `medias`, `sheer sock` sueltos que `garment_canon` no tiene, y unificar
+esos de más habría podido introducir falsos positivos nuevos en el ancla de
+costura sin evidencia que lo pida; se corrigió solo el hueco medido. 160/160 tests.
+
+**8 hallazgos reales hoy.**
