@@ -53,6 +53,16 @@ Cada campo declara: `id` · `bloque` · `dueño` · `obligatorio` · `vocabulari
 
 Las tres que cruzaban se **parten**, no se copian: el corte del calzón es B; que se vea o no el asiento depende de si B declara prenda encima, y eso lo decide C. Los ecos dejan de re-describir: *«exactly as described above»* y nada más.
 
+## 4bis · Un personaje nuevo es DATO, nunca código (Ama 09/09/2026: *«debe ser flexible para poder agregar nuevos personajes»*)
+
+Agregar una muñeca = tres archivos de datos y cero líneas de motor:
+
+1. su perfil visual con la cerca `ADN:BLOQUE_A` — **las mismas líneas, en el mismo orden universal** de `campos.json` (una vacía = campo que esa muñeca no tiene);
+2. su entrada en `anclas_universales.json` (rutas, slot5, anclas propias, rotación);
+3. su repertorio de sub-poses en `repertorios_pose.json`.
+
+Por eso el orden de campos A es **universal y no por personaje**: si cada muñeca declarara el suyo, la cuarta tendría que configurar el motor en vez de llenarlo. Lo que difiere por muñeca (guantes sí/no, rosa firma, lunar, iris) se expresa **en el contenido de sus campos**, no en la estructura. Guardia medible: un personaje de prueba, creado solo con datos en un directorio temporal, tiene que emitir sus 7 prompts sin tocar un `.py`.
+
 ## 5 · Ensamblado
 
 Orden fijo, siempre: **A → B → C**, y dentro de cada bloque el orden de `campos.json`. Tres oraciones, cada una cierra con punto. Sin pesos `:1.x` por defecto — el peso vuelve a ser **excepción declarada en el campo**, no rutina. El negativo se arma igual: base del perfil + `no_lleva` del look.
