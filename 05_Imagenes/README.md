@@ -4,6 +4,7 @@
 ## 📁 Subcarpetas / Colecciones
 - 📁 [**01 Personajes**](./01_Personajes/README.md)
 - 📁 [**Anais**](./anais/README.md)
+- 📁 [**Blog Tumblr**](./blog_tumblr/README.md)
 - 📁 [**Comics**](./comics/README.md)
 - 📁 [**Ele**](./ele/README.md)
 - 📁 [**Historias**](./historias/README.md)

@@ -172,6 +172,72 @@ Comprobado el 07-sep con un apretón de manos MCP hecho a mano (GET SSE → `ini
   conector le está haciendo POST directo estilo *streamable HTTP*. La URL y el Bearer están
   bien; lo que hay que elegir al registrarlo es el transporte **SSE**.
 
+## 3quater · Re-medido el 09-sep-2026 — **el 401 no es una credencial rota, es que NO HAY credencial**
+
+> Medido por la sesión que vive en la máquina DietPi, por API contra el workflow vivo, y
+> **deroga el diagnóstico del §3bis**. Lo escribo con el error a la vista porque mandó a
+> buscar durante dos días una credencial que no existe.
+
+**Lo que decía el §3bis:** «el nodo HTTP que llevan adentro le pega a la API de n8n con una
+credencial guardada dentro de n8n que está rechazada». **Falso.** Los cinco nodos salen
+**sin autenticación**:
+
+| Herramienta | `authentication` | `credentials` |
+|---|---|---|
+| `listar_flujos` | None | `{}` |
+| `activar_flujo` | None | `{}` |
+| `desactivar_flujo` | None | `{}` |
+| `ver_ejecuciones` | None | `{}` |
+| `detalle_ejecucion` | None | `{}` |
+
+No hay nada que reparar: **hay que crear la credencial y adjuntarla**. El arreglo por API
+(`POST /api/v1/credentials` + `PUT /api/v1/workflows/<id>`) sigue siendo el camino correcto.
+
+**Los nombres exactos, para no re-apuntar el nodo equivocado:**
+
+- Workflow: **`Ayünka · Servidor MCP para Claude`** — id `R1wREcQC6OLNEQ73`, activo.
+- ⚠️ **Sí existe** una credencial llamada `MCP Claude (auto)` (id `XWFF9tUd0u94I5z2`, tipo
+  `httpHeaderAuth`), y **NO es la de las herramientas**: es el Bearer del nodo trigger
+  `🔌 Servidor MCP`. Tocarla tumba el conector.
+
+**Dos trampas del `PUT`, aprendidas a golpes el 07-sep:**
+
+1. Rechaza campos extra en `settings` (`request/body/settings must NOT have additional
+   properties`). Este workflow trae `binaryMode` y `availableInMCP`: hay que filtrarlos y
+   dejar solo `executionOrder`, `timezone`, `saveDataErrorExecution`,
+   `saveDataSuccessExecution`, `saveManualExecutions`, `saveExecutionProgress`,
+   `executionTimeout`, `errorWorkflow`.
+2. El `PUT` **no acepta `active`**. Para re-registrar: `POST …/deactivate` y luego
+   `POST …/activate`.
+
+**El parámetro en blanco tampoco está donde se dijo.** El §3bis lo daba por «un campo de
+parámetro que quedó sin nombre en el nodo». Medido: los cinco declaran **un solo**
+`placeholderDefinitions`, todos con nombre — `limite` (listar_flujos, ver_ejecuciones) e `id`
+(activar_flujo, desactivar_flujo, detalle_ejecucion). El segundo parámetro requerido con
+nombre vacío **lo genera la capa MCP de n8n al exponer el esquema**, no el nodo. O sea **no
+se arregla editando el workflow**, y hay que mirarlo en el `tools/list` crudo.
+
+**El Funnel se queda así, y es deliberado:** publica **solo `/mcp` y `/webhook`**, de forma
+permanente, porque la API de administración no debe estar expuesta a internet. El **conector
+oficial de n8n por Funnel está muerto** — dese por muerto. Por LAN o Tailscale funciona.
+
+**Alcance de red medido el 09-sep desde el PC de La Voûte:**
+
+| Ruta | Código |
+|---|---|
+| `https://dietpi.tail05c49d.ts.net/` | 404 |
+| `https://dietpi.tail05c49d.ts.net/mcp/` | 200 |
+| `https://dietpi.tail05c49d.ts.net/api/v1/workflows` | 404 |
+| `http://192.168.1.200:5678/api/v1/workflows` | **401** `'X-N8N-API-KEY' header required` |
+| `http://100.117.183.70:5678/api/v1/workflows` (Tailscale) | **401** |
+
+> 📄 **Dueño real de esta sección:** la documentación viva está en la máquina DietPi, en
+> `/home/dietpi/docs/07-mcp-n8n.md`, actualizada el 09-sep con la tabla de alcance de red,
+> los nombres exactos y las fechas de la key. Este archivo es copia de referencia: si
+> divergen, manda el del server.
+
+---
+
 ## 3ter · Dónde guarda de verdad el flujo «todo relatos» (07-sep-2026)
 
 **n8n no es el dueño de esos datos — es quien los escribe.** El flujo que sigue las
@@ -403,11 +469,21 @@ de quien lo escribió meses atrás. Antes de actuar, preguntarle a la API.
 
 ## 9 · Resumen en cinco líneas
 
-1. n8n vive en la casa, en `192.168.1.200:5678`, y sale a internet por Tailscale Funnel en
-   `https://dietpi.tail05c49d.ts.net`.
-2. La conexión que importa es la **API de administración** con `X-N8N-API-KEY` — hoy está
-   viva y respondiendo.
-3. El **conector oficial de n8n** (API key) es el que deja operar los flujos. El conector
-   personalizado `/mcp-server/http` es un extra y hoy está mal apuntado.
-4. Si el Funnel se apaga, se publica igual pero el bot queda mudo y Claude queda afuera.
-5. **La API key vence el 27 de septiembre de 2026.** Es la única fecha que hay que recordar.
+> ♻️ **Reescrito el 09-sep-2026.** El resumen anterior se contradecía con el §3bis del propio
+> archivo: daba la API de administración por viva desde internet (muerta desde el 07-sep) y
+> ponía el vencimiento de la key el 27-sep cuando el §6 ya decía 07-oct. Un resumen viejo es
+> peor que ninguno, porque es lo primero que se lee.
+
+1. n8n vive en la casa, en `192.168.1.200:5678`. El Tailscale Funnel
+   (`https://dietpi.tail05c49d.ts.net`) publica **solo `/mcp` y `/webhook`**, a propósito y de
+   forma permanente: la API de administración **no** debe estar expuesta a internet.
+2. Por eso **la API de administración solo se alcanza desde dentro** — red de casa o
+   Tailscale. Ahí está viva: responde 401 «header required», medido el 09-sep. Desde
+   internet devuelve el 404 de Tailscale.
+3. **El conector oficial de n8n por Funnel está muerto**, no mal configurado. El que sí vive
+   es `/mcp/ayunka/sse`, con transporte **SSE clásico** (no streamable HTTP) y Bearer.
+4. Si el Funnel se apaga, se publica igual pero el bot de Telegram queda mudo y Claude queda
+   afuera.
+5. **La API key vence el 07 de octubre de 2026** (emitida el 07-sep 14:23 UTC, expira el
+   07-oct 03:00 UTC). Es la única fecha que hay que recordar — y **solo se emite a mano**
+   desde Settings → n8n API: la API pública no tiene endpoint para crear API keys.

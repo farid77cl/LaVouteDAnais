@@ -4,6 +4,30 @@
 
 ---
 
+## 👠 Look 832: Zebra Cincher De Cocina
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_832_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look832_zebra_cincher_de_cocina/ele_832_standing.png) | ![ele_832_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look832_zebra_cincher_de_cocina/ele_832_back_view.png) | ![ele_832_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look832_zebra_cincher_de_cocina/ele_832_seated.png) | ![ele_832_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look832_zebra_cincher_de_cocina/ele_832_side_profile.png) | ![ele_832_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look832_zebra_cincher_de_cocina/ele_832_ditzy.png) | ![ele_832_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look832_zebra_cincher_de_cocina/ele_832_pov.png) | ![ele_832_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look832_zebra_cincher_de_cocina/ele_832_odalisque.png) |
+
+---
+
+## 👠 Look 831: Sapphire Graphite Corner Office
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_831_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look831_sapphire_graphite_corner_office/ele_831_standing.png) | ![ele_831_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look831_sapphire_graphite_corner_office/ele_831_back_view.png) | ![ele_831_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look831_sapphire_graphite_corner_office/ele_831_seated.png) | ![ele_831_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look831_sapphire_graphite_corner_office/ele_831_side_profile.png) | ![ele_831_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look831_sapphire_graphite_corner_office/ele_831_ditzy.png) | ![ele_831_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look831_sapphire_graphite_corner_office/ele_831_pov.png) | ![ele_831_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look831_sapphire_graphite_corner_office/ele_831_odalisque.png) |
+
+---
+
+## 👠 Look 829: Dark Plum Cord Rooftop Twopiece
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_829_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look829_dark_plum_cord_rooftop_twopiece/ele_829_standing.png) | ![ele_829_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look829_dark_plum_cord_rooftop_twopiece/ele_829_back_view.png) | ![ele_829_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look829_dark_plum_cord_rooftop_twopiece/ele_829_seated.png) | ![ele_829_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look829_dark_plum_cord_rooftop_twopiece/ele_829_side_profile.png) | ![ele_829_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look829_dark_plum_cord_rooftop_twopiece/ele_829_ditzy.png) | ![ele_829_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look829_dark_plum_cord_rooftop_twopiece/ele_829_pov.png) | ![ele_829_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look829_dark_plum_cord_rooftop_twopiece/ele_829_odalisque.png) |
+
+---
+
 ## 👠 Look 827: Mirror Silver Harness Editorial
 
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
