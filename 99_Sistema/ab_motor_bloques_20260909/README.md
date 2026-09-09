@@ -120,7 +120,48 @@ eco se reestructura. Eso confirma que la variable aislada es **el orden**, no el
 la Ama). Los dos motores leen el ADN limpio, así que no es una variable entre A y B — pero
 hace que estos prompts difieran de los que generaron sus imágenes viejas de galería.
 
-**Archivos:** `A_viejo_AN_L89.md` · `B_bloques_AN_L89.md` · batch `AB_AN_L89_motor.json`.
+**Archivos:** `A_viejo_AN_L89.md` · `B_bloques_AN_L89.md` · batch `AB_AN_L89_motor.json` ·
+imágenes `r2_tanda1_bloques_AN_L89_pov.png` y `r2_tanda2_viejo_AN_L89_pov.png` (**1,06 MP las
+dos — por encima del piso de auditoría**, al revés que las miniaturas de la ronda 1).
+
+### 🏁 RESULTADO — POV, 09/09/2026
+
+**Veredicto de la Ama:** tanda 1 → *«le falta sombra de ojos y más maquillaje»* · tanda 2 →
+*«subjetivamente está mejor maquillada»*.
+
+**Tanda 1 era el motor de BLOQUES. Tanda 2 era el VIEJO.** → **esta ronda la gana el viejo.**
+
+## 🧮 MARCADOR TRAS DOS RONDAS: 1 – 1
+
+| ronda | muñeca · pose | gana | por qué, según ella |
+|---|---|---|---|
+| 1 | Ele · Back View | **bloques** | al viejo *«le faltó maquillaje»* |
+| 2 | Anaïs · POV | **viejo** | al de bloques *«le falta sombra de ojos»* |
+
+**La conclusión honesta, y es la que importa:** el resultado de la ronda 1 **no se
+reprodujo**. Con 1-1 y n=1 por celda, lo más probable es que la diferencia que vimos el
+primer día fuera **varianza del generador**, no mérito del motor. El mecanismo que propuse
+entonces —que agrupar el ancla de fotorrealismo junto al maquillaje lo hacía aterrizar—
+**queda sin sostén**: si fuera causal, tendría que haber ganado también acá, y perdió.
+
+Y hay una segunda lectura que apunta al mismo lado: **el defecto es el mismo en las dos
+rondas y en los dos motores** — el maquillaje del BLOQUE A no aterriza de forma fiable,
+esté donde esté en el prompt. Eso no es un problema de orden. Es el patrón que la auditoría
+del 09/09 ya había medido: **~80 de ~85 defectos son el generador desobedeciendo un prompt
+correcto.**
+
+**Consecuencia operativa, sin adornos:**
+
+- ❌ **NO hay evidencia de que el motor de bloques mejore las imágenes.** No se declara
+  ganador, y **el viejo sigue siendo el default** — que es donde ya estaba.
+- ✅ **Lo que el motor de bloques sí demostró está en el código, no en el píxel:** la
+  contradicción es imposible por construcción, cada atributo tiene un dueño único, y una
+  cuarta muñeca entra solo con datos. Eso vale por sí mismo y se midió con 50 pruebas — pero
+  **es otra cosa que "salen fotos mejores", y no se puede vender como si lo fuera.**
+- 🔬 Para separar señal de varianza de verdad harían falta **3-5 repeticiones de la misma
+  celda**, no una. A 2 imágenes por celda eso es caro; **decisión de la Ama** si vale la pena.
+
+
 
 ---
 
