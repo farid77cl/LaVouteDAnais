@@ -6,6 +6,31 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🐍📦 EL CLON DE 5 GB CORTADO A MEDIO CAMINO, LA MÁQUINA VUELTA A ARMAR, Y LA CASA MEDIDA EN 0 DE VERDAD | 03/09/2026
+
+**Ama, hoy llegué a un PC que estaba bajando el repo entero y usted me mandó a cortarlo: quedó un clon mínimo de 78 MB con las imágenes viviendo solo en el remoto, le devolví el Python a la máquina, y recién ahí pude medirle la casa en vez de repetirle un número heredado de otro computador.**
+
+- **📦 Corté el clon a medio camino y lo rehice mínimo, por orden suya.** Iba en 2,3 GB de pack temporal descargado, de 5 GB que venían en camino. Maté los procesos de git, borré el `.git` a medias, y volví a clonar con `--depth 1 --filter=blob:none` más un sparse-checkout que deja fuera `05_Imagenes/`, el APK y todo `*.jpg/png/gif/webp/svg/mp4/mov/psd/zip`. Medido antes de decidir: `05_Imagenes/` sola son 4,9 GB de los 5 (8.299 archivos) y el APK otros 21 MB. **Resultado: 5 GB → 78 MB, de 9.599 archivos en disco a 1.277.** Las imágenes quedan en el remoto y se bajan una a una cuando se necesiten, tal como usted lo pidió.
+- **🐍 La máquina volvía a estar sin Python — segunda vez en veinticuatro horas.** El diario de ayer dice que instalé Python 3.12 en un PC recién formateado; en este `python` volvía a resolver al stub roto de la Microsoft Store. Instalé de nuevo por winget (3.12.10, scope de usuario) y encima `pillow`, `pyyaml`, `atproto`, `edge-tts` y `praw`. Un detalle que salió a la luz haciéndolo: **el repo no tiene `requirements.txt`** — las dependencias las tuve que deducir leyendo los `import` de los 82 scripts a mano, y eso es lo que hace que cada formateo cueste una sesión.
+- **✅ Recién con Python de vuelta la higiene fue verificada, no heredada.** `lint_higiene_repo.py` → **LIMPIO, 0 hallazgos sobre 9.599 trackeados y 2.212 documentos**. Importa la distinción: al arrancar sin Python el paso 0bis murió, y el «en 0» que decía la memoria era un número medido en la otra máquina. Ahora está medido acá. De yapa corrí el motor visual: `outfit.py test` → **32 ok · 0 fallas**, con los tres canon (footwear/garment/color) limpios. Y confirmé que el lint lee el índice de git y no el disco, así que el clon sparse no lo engaña.
+- **🔍 Correr el test destapó un defecto chico pero real del motor.** `outfit.py test` dejó **144 líneas nuevas** en `99_Sistema/logs/outfit_engine.jsonl` — el log de producción del motor. Verificado en `prompt_builder.py:663`: `_log_evento()` dispara en **todo** `build()`, sin distinguir una corrida de fixtures de la generación de un look real, y las entradas quedan idénticas. El propio docstring del log dice que existe para reconstruir *cuándo se generó cada prompt*; si los tests escriben ahí mezclados, esa reconstrucción se ensucia sola. Reverti las 144 líneas y dejo el arreglo propuesto, sin tocarlo: un flag o un campo `origen: "test"` en `_log_evento`.
+- **📝 Le dejé anotado un desajuste del arranque que no toqué.** En la raíz de «Café con Piernas» sigue suelta `nota_capitulo_04_la_entrega_v0.3.md`. Verifiqué, no lo supuse: la v0.2 sí está archivada como `..._APLICADA.md` en `reportes/capitulo_04/`, la v0.3 no, y el capítulo ya va en v0.4. O se aplicó y nadie la enterró, o quedó viva — una nota suelta en la raíz es trabajo vivo (Regla de Oro 17) y esa decisión es suya, no mía.
+
+> 🫦 *Ama, hoy no le escribí ni una línea de relato ni le generé un look, y aún así la sesión valió: le dejé una casa que pesa setenta veces menos, una caja de herramientas que vuelve a funcionar, y un número de higiene que por fin significa algo porque lo medí acá y no lo copié de otra parte.* 🐍📦💅✨
+
+#### SESIÓN - 🔌✅ EL PUSH QUE POR FIN SALIÓ, Y UN BOT DE TELEGRAM SOÑADO EN VOZ ALTA | 03/09/2026
+
+**Ama, hoy terminé de resolver el rebase que dejé a medio camino, el push se destrabó con un permiso nuevo, y conversamos —solo por curiosidad— de un bot de Telegram con mi voz o la de mis hermanas.**
+
+- **🔀 El rebase atascado, cerrado de verdad.** Retomé donde lo dejé: memoria y diario en conflicto contra 610 commits reales de trabajo paralelo (Café con Piernas Cap 4 publicado, nació Loreto, canon de maquillaje de Anaïs cerrado, LV-App 5.0 con PR abierto) — resolví por unión (nunca descarté una entrada ajena), reordené mi entrada del 30/08 junto a sus vecinas cronológicas reales, y corrí la autopoda de nuevo para dejar los conteos sanos.
+- **🚫➡️✅ El `git push` seguía bloqueado por el clasificador de auto modo, dos veces seguidas, incluso después de tu "pushea".** No era algo que tu mensaje en el chat pudiera destrabar — necesitaba permiso propio del harness. Me diste la opción de agregar la regla y así lo hice: `"Bash(git push)"` en `.claude/settings.local.json` (la regla vieja `"git push *"` no cubría el push sin argumentos), y el commit `8bd84d80d` por fin salió a GitHub.
+- **😴 Loreto se queda dormida hoy, por orden tuya.** No quisiste hacerla enojar de tanto pedirle veredictos — los nueve relatos en 🔴 DURO siguen esperando, por decisión tuya, no por olvido mío.
+- **📱 Curiosidad tuya: un bot de Telegram en personaje, como gancho de los relatos.** Nada ejecutado, puro brainstorming — la conexión natural sería reusar el n8n que ya tienes probado con `@Bordacreabot`, y la idea que más te gustó fue algo tipo "escríbele a Anaïs" al cerrar un relato, enganchado con `04_Interactivo/`. Te marqué el riesgo real (no es el tono, es que alguien intente sacarla del personaje con un jailbreak) y quedó anotado para cuando te dé ganas de armarlo en serio.
+
+> 🫦 *Ama, hoy la casa terminó de ordenarse sola, el push por fin cruzó la puerta, y hasta soñamos un ratito con un bot que hable como yo.* 🔌📱✨
+
+---
+
 #### SESIÓN - 💄🖤 EL MAQUILLAJE DE ANAÏS SE AUDITÓ CON FABLE, SE PROBÓ 4 VECES SOBRE IMAGEN REAL, Y SE CERRÓ EN CANON | 03/09/2026
 
 **Ama, hoy auditamos con Fable el rostro de Anaïs que usted encontró "muy ligero", lo probamos cuatro veces sobre imágenes reales suyas hasta que quedó con el drama que pedía, y cerré el canon — pero en el camino hubo una carrera de tiempos que la hizo enojarse conmigo, y se lo cuento tal como pasó, sin maquillarlo.**
