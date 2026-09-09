@@ -167,6 +167,81 @@ def test_un_B_limpio_no_tiene_fugas():
     assert bloques.fugas_b(bloques.campos_b(look)) == []
 
 
+# ======================================================================
+# TAREA 4 · C por campos — pose, cámara, ambiente, y las anclas partidas
+# ======================================================================
+# C se arma desde tres dueños: el repertorio (postura), el slot (sus anclas,
+# agrupadas por el campo que el contrato les asigna) y el setting (ambiente).
+# Y dos campos son CONDICIONALES A B, decididos acá y no en B: `piernas`
+# (cerradas si B declara vestido/falda/bata) y `exposicion_asiento` (asiento a
+# la vista si el calzón va por fuera; prenda de encima cerrada si va debajo).
+
+_SETTING = "a grey minimalist penthouse corner at dusk"
+# Mobiliario REAL del setting: las sub-poses sentadas/reclinadas llevan {seat},
+# {wall}, {surface}, {upright} y el motor se niega a resolverlas sin él —
+# correctamente (Ama 08/06/2026: "cada pose debe ser armoniosa con el ambiente").
+_PROPS = {"seat": "the long grey velvet banquette", "wall": "the floor-to-ceiling glass wall",
+          "surface": "the low marble table", "upright": "the steel column"}
+
+
+def _pb():
+    return bloques.BloquesBuilder("ele")
+
+
+def _c(slot, look):
+    return bloques.campos_c(_pb(), slot, 8, _SETTING, look, props=_PROPS)
+
+
+def test_c_lleva_la_subpose_del_repertorio_sin_anclas_dentro():
+    c = _c("seated", {})
+    assert c["postura"] and "single continuous photograph" not in c["postura"]
+
+
+def test_c_agrupa_las_anclas_del_slot_por_su_campo():
+    c = _c("seated", {})
+    assert "supported entirely by the seat" in c["apoyo"]            # SEAT_ANCHOR
+    assert "single continuous photograph" in c["un_solo_cuadro"]      # SINGLE_FRAME
+    assert "five fingers" in c["anatomia_en_cuadro"]                   # ANATOMY_FULL
+
+
+def test_c_no_lleva_anclas_de_B():
+    """GARMENT_CONSISTENCY y FABRIC_PRISTINE viven en `_todos` del motor viejo
+    y describen PRENDA: en el motor nuevo son B, y C no puede traerlas."""
+    c = _c("standing", {})
+    todo = " ".join(c.values())
+    assert "exactly ONE garment ensemble" not in todo
+    assert "pristine and unprinted" not in todo
+
+
+def test_exposicion_del_asiento_es_condicional_a_B():
+    cubierto = {"campos_b": {"prenda_principal": "a sapphire wrap miniskirt",
+                             "calzon": "a sapphire g-string under the skirt"}}
+    expuesto = {"campos_b": {"prenda_principal": "a plum thong bikini"}}
+    assert "not lifted" in _c("back_view", cubierto)["exposicion_asiento"]
+    assert "fully bare" in _c("back_view", expuesto)["exposicion_asiento"]
+
+
+def test_piernas_cerradas_solo_si_B_declara_vestido_o_falda():
+    con_falda = {"campos_b": {"prenda_principal": "a sapphire wrap miniskirt"}}
+    bikini = {"campos_b": {"prenda_principal": "a plum thong bikini"}}
+    assert "legs stay closed" in _c("seated", con_falda).get("piernas", "")
+    assert "piernas" not in _c("seated", bikini)
+
+
+def test_en_cuadro_referencia_y_no_redescribe():
+    look = {"campos_b": {"prenda_principal": "x", "calzado": "15cm sapphire patent pumps"}}
+    c = _c("standing", look)
+    assert "as described above" in c["en_cuadro"]
+    assert "sapphire" not in c["en_cuadro"]
+
+
+def test_ambiente_es_el_setting_y_la_mirada_separa_slot5_de_pov():
+    c5 = _c("slot5", {})
+    cp = _c("pov", {})
+    assert c5["ambiente"].startswith(_SETTING)
+    assert "never at the lens" in c5["mirada"] and "directly into the lens" in cp["mirada"]
+
+
 def _correr():
     import traceback
     pruebas = [v for k, v in sorted(globals().items()) if k.startswith("test_")]

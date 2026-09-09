@@ -161,3 +161,77 @@ def fugas_b(campos):
     """Vocabulario de C (pose, cámara, encuadre) dentro de un campo de B."""
     return ["B/%s: «%s» es vocabulario de C (pose/cámara)" % (k, m.group(0))
             for k, t in campos.items() for m in [RX_VOCAB_C.search(t or "")] if m]
+
+
+# ======================================================================
+# C · la toma, por campos — repertorio + slot + setting, y lo condicional a B
+# ======================================================================
+
+class BloquesBuilder(PromptBuilder):
+    """El motor nuevo. Hereda el ACCESO A DATOS que ya funciona (perfil,
+    repertorio de sub-poses y su rotación, negativo base, anclas) y reemplaza
+    el ENSAMBLADO. Misma superficie que `generar` exige del builder viejo."""
+
+
+def _mapa_anclas_a_campos():
+    """{id_ancla: (bloque, campo)} desde el contrato. Una ancla partida
+    (ID#parte) se registra por su parte; su ID pelado NO aparece: el motor
+    nuevo no la inyecta entera nunca."""
+    m = {}
+    for c in cargar_campos()["campos"]:
+        for f in c["fuente"].split("+"):
+            if f.startswith("ancla:"):
+                m[f.split(":", 1)[1]] = (c["bloque"], c["id"])
+    return m
+
+
+def _exposicion_asiento(pb, texto_b):
+    """La cola de EXPOSICIÓN de BOTTOM_CUT_LOCK, y solo ella: el corte es B.
+    Elige la variante leyendo B (calzón por fuera -> asiento a la vista;
+    calzón debajo de prenda -> la prenda de encima se mantiene cerrada)."""
+    a = pb.anclas["BOTTOM_CUT_LOCK"]
+    texto = a["texto_cubierto"] if pb.calzon_va_cubierto(texto_b) else a["texto"]
+    return texto[texto.rfind("("):].strip()
+
+
+def campos_c(pb, slot, look_number, setting, look, props=None):
+    """{campo: texto} de C en el orden del contrato, solo los que aplican.
+
+    pb           : BloquesBuilder (o PromptBuilder) del personaje
+    slot         : standing | back_view | seated | side_profile | slot5 | pov | odalisque
+    look_number  : para la rotación del repertorio y la orientación alterna
+    setting      : el ambiente del look (texto)
+    look         : el look del batch (para lo condicional a B: piernas, exposición)
+    """
+    slot_n = pb.normalizar_slot(slot)
+    ruta = _mapa_anclas_a_campos()
+    texto_b = " ".join(campos_b(look).values()) if look else ""
+    acum = {}
+
+    def poner(campo, texto):
+        if texto:
+            acum.setdefault(campo, []).append(texto)
+
+    # 1) la sub-pose del repertorio, con su rotación — pelada, sin anclas
+    poner("postura", pb.pose(slot_n, look_number, props=props or (look or {}).get("props")))
+    # 2) el ambiente
+    poner("ambiente", setting)
+    # 3) las anclas del slot (+ las de siempre del personaje), CADA UNA a su
+    #    campo del contrato. Las de bloque B o A NO entran acá: son de otro dueño.
+    nombres = list(pb.anclas_de_slot(slot_n))
+    if slot_n == "odalisque" and not any(n.startswith("ASPECT_") for n in nombres):
+        nombres.append(pb.orientacion_odalisque(look_number))   # orientación alterna
+    # 4) las que B dispara por su texto (DRESS_LEG_CLOSURE, SEAM_BACK…)
+    for n in pb.opt_in_de(texto_b):
+        if n not in nombres:
+            nombres.append(n)
+    for n in nombres:
+        if n == "BOTTOM_CUT_LOCK":
+            if "BOTTOM_CUT_LOCK" in pb.anclas_siempre:
+                poner("exposicion_asiento", _exposicion_asiento(pb, texto_b))
+            continue
+        bloque, campo = ruta.get(n, (None, None))
+        if bloque == "C":
+            poner(campo, pb.anclas[n]["texto"])
+    # salida en el orden del contrato
+    return {c["id"]: ", ".join(acum[c["id"]]) for c in _campos_de("C") if c["id"] in acum}

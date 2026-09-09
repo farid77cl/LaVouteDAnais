@@ -332,7 +332,7 @@
       "id": "en_cuadro",
       "bloque": "C",
       "dueño": "slot",
-      "fuente": "slot+ancla:FOOTWEAR_ECHO#referencia+ancla:SEAM_BACK",
+      "fuente": "slot+ancla:FOOTWEAR_ECHO+ancla:SEAM_BACK",
       "obligatorio": false,
       "que": "REFERENCIAS a B, nunca re-descripciones: 'the footwear exactly as described above', 'the back-seam visible'. Un eco que re-describe es una segunda version de la prenda, y dos versiones se pelean"
     }
