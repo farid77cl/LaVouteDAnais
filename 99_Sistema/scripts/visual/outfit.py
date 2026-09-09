@@ -760,8 +760,13 @@ def cmd_test(args):
         return 1 if fallo else 0
 
     print("\n2. Pruebas del motor\n")
+    # El subproceso se declara como fixture: sus builds son sobre datos inventados
+    # y no deben quedar en logs/outfit_engine.jsonl como si fueran reales.
+    _entorno = dict(os.environ)
+    _entorno["OUTFIT_ENGINE_ORIGEN"] = "fixture"
     r = subprocess.run([sys.executable, os.path.join(AQUI, "test_engine.py")], cwd=RAIZ,
-                       capture_output=True, text=True, encoding="utf-8", errors="replace")
+                       capture_output=True, text=True, encoding="utf-8", errors="replace",
+                       env=_entorno)
     salida = (r.stdout or "") + (r.stderr or "")
     for linea in salida.split("\n"):
         if linea.startswith("  \U0001f534") or "RESULTADO:" in linea:

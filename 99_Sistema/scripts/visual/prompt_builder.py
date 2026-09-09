@@ -75,6 +75,21 @@ JSON_POSES = os.path.join(AQUI, "repertorios_pose.json")
 ECO_BUSTO_SLOTS = frozenset(("slot5", "pov"))
 LOG_PATH = os.path.normpath(os.path.join(AQUI, "..", "..", "logs", "outfit_engine.jsonl"))
 
+# De donde viene este build. Por defecto produccion; las baterias lo ponen en
+# "fixture" (test_engine.py al importar, y `outfit.py test` en el subproceso).
+#
+# Existe porque el log se escribia igual corriendo la bateria: `outfit.py test`
+# construye prompts sobre fixtures inventados y quedaban mezclados con los builds
+# reales, sin nada que los distinguiera. El log es la fuente para reconstruir de
+# donde salio cada prompt (auditoria del 17/08/2026), asi que un build de fixture
+# sin marcar no es ruido inocente: envenena justo la consulta para la que existe.
+ORIGEN_ENV = "OUTFIT_ENGINE_ORIGEN"
+
+
+def origen_log():
+    """'fixture' si lo declara el entorno, 'produccion' si no. Nunca vacio."""
+    return (os.environ.get(ORIGEN_ENV) or "").strip() or "produccion"
+
 
 def _log_evento(entrada):
     """Escribe una linea JSONL en LOG_PATH. Dueno unico del log del motor.
@@ -88,6 +103,7 @@ def _log_evento(entrada):
     """
     entrada = dict(entrada)
     entrada["ts"] = datetime.datetime.now().isoformat(timespec="seconds")
+    entrada["origen"] = origen_log()
     try:
         os.makedirs(os.path.dirname(LOG_PATH), exist_ok=True)
         with open(LOG_PATH, "a", encoding="utf-8") as f:

@@ -637,9 +637,9 @@
 | **825** | Tangerine Python Domestic Set | 05/09/2026 | Domestic | — | — | 7/7 | — |
 | **826** | Deep Teal Mesh Nightclub Slip | 05/09/2026 | Nightclub | — | — | 7/7 | — |
 | **827** | Mirror Silver Harness Editorial | 05/09/2026 | Escort | — | — | 7/7 | — |
-| **828** | Emerald Bustier de Casa de Baños | 07/09/2026 | Lencería | — | — | 0/7 | ✅ Completo |
+| **828** | Emerald Bustier de Casa de Baños | 07/09/2026 | Lencería | — | — | 4/7 | ✅ Completo |
 | **829** | Dark Plum Cord Rooftop Two-Piece | 07/09/2026 | Bikini | — | — | 7/7 | — |
-| **830** | Oil-Slick Gallery Catsuit | 07/09/2026 | High-Fashion Editorial | — | — | 0/7 | ⏳ Pendiente |
+| **830** | Oil-Slick Gallery Catsuit | 07/09/2026 | High-Fashion Editorial | — | — | 7/7 | — |
 | **831** | Sapphire Graphite Corner Office | 07/09/2026 | Corporate | — | — | 7/7 | — |
 | **832** | Zebra Cincher de Cocina | 07/09/2026 | Domestic | — | — | 7/7 | — |
 
@@ -805,8 +805,6 @@
 | **811** | Nude Bordelle Harness Atelier | 0/7 | ⏳ Pendiente |
 | **818** | Jade Liquid Catsuit | 2/7 | ⏳ Pendiente |
 | **824** | Acid Chartreuse Wide-Leg Boardroom | 0/7 | ⏳ Pendiente |
-| **828** | Emerald Bustier de Casa de Baños | 0/7 | ✅ Completo |
-| **830** | Oil-Slick Gallery Catsuit | 0/7 | ⏳ Pendiente |
 
 ---
 

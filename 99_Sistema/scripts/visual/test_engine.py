@@ -40,7 +40,13 @@ RAIZ = os.path.normpath(os.path.join(V, "..", "..", ".."))
 sys.path.insert(0, V)
 os.chdir(RAIZ)
 
+import prompt_builder as pbmod  # noqa: E402
 from prompt_builder import PromptBuilder, cargar_config  # noqa: E402
+
+# Esta bateria construye prompts sobre fixtures inventados. Se declara como
+# fixture ANTES del primer build para que ni una sola de sus lineas caiga en el
+# log del motor haciendose pasar por un build real (bloque F, abajo).
+os.environ.setdefault(pbmod.ORIGEN_ENV, "fixture")
 
 cfg = cargar_config()
 PR = {"seat": "a velvet chair", "wall": "a mirrored wall",
@@ -687,6 +693,54 @@ for _raiz, _dirs, _files in os.walk(os.path.join(RAIZ, "99_Sistema", "scripts"))
         _mal = sorted({hex(ord(c)) for c in _t if ord(c) < 32 and c not in _CTRL_OK})
         if _mal:
             _sucios.append("%s %s" % (os.path.relpath(_ruta, RAIZ), _mal))
+# ---------------------------------------------------------------------------
+# F. EL LOG NO SE ENSUCIA CON FIXTURES (09/09/2026)
+#
+# La bateria construye prompts sobre fixtures inventados y esos builds se
+# escribian en 99_Sistema/logs/outfit_engine.jsonl igual que los reales, sin
+# nada que los distinguiera. El log existe para reconstruir de donde salio cada
+# prompt (auditoria 17/08/2026): un build de fixture sin marcar envenena justo
+# la consulta para la que el log se creo.
+#
+# El log se redirige a un temporal a proposito: una prueba que comprueba que no
+# se ensucia el log real no puede escribir en el log real.
+_log_tmp = os.path.join(tempfile.gettempdir(), "outfit_engine_prueba_origen.jsonl")
+_log_real = pbmod.LOG_PATH
+_antes = os.environ.get(pbmod.ORIGEN_ENV)
+try:
+    pbmod.LOG_PATH = _log_tmp
+    if os.path.exists(_log_tmp):
+        os.remove(_log_tmp)
+
+    os.environ[pbmod.ORIGEN_ENV] = "fixture"
+    pbmod._log_evento({"evento": "prueba"})
+    os.environ.pop(pbmod.ORIGEN_ENV, None)
+    pbmod._log_evento({"evento": "prueba"})
+
+    _lineas = [json.loads(l) for l in io.open(_log_tmp, encoding="utf-8") if l.strip()]
+finally:
+    pbmod.LOG_PATH = _log_real
+    if _antes is None:
+        os.environ.pop(pbmod.ORIGEN_ENV, None)
+    else:
+        os.environ[pbmod.ORIGEN_ENV] = _antes
+    if os.path.exists(_log_tmp):
+        os.remove(_log_tmp)
+
+check("log: cada linea declara su origen",
+      len(_lineas) == 2 and all("origen" in l for l in _lineas),
+      repr(_lineas))
+check("log: con el entorno en fixture, la linea sale marcada fixture",
+      len(_lineas) == 2 and _lineas[0].get("origen") == "fixture",
+      repr(_lineas[:1]))
+check("log: sin entorno declarado, la linea sale produccion",
+      len(_lineas) == 2 and _lineas[1].get("origen") == "produccion",
+      repr(_lineas[1:]))
+check("log: la bateria corre declarada como fixture",
+      pbmod.origen_log() == "fixture",
+      "origen_log() devolvio %r — outfit.py test debe exportar %s=fixture"
+      % (pbmod.origen_log(), pbmod.ORIGEN_ENV))
+
 check("fuentes: ningun script lleva caracteres de control invisibles",
       not _sucios, "; ".join(_sucios[:5]))
 
