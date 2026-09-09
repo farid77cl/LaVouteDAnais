@@ -78,3 +78,38 @@ Restituir jerarquía al Bloque C (ej. agrupar candados por familia, mover pose+s
 más cerca del inicio) es un cambio de canon visual — afecta las tres muñecas y cientos
 de looks futuros. La Ama decide si vale la pena vs. el riesgo de reabrir defectos ya
 cerrados uno por uno.
+
+## 5 · La pregunta que disparó todo esto — la falda abierta mostrando la tanga
+
+**Sí lo pidió el prompt, aunque no con la palabra "abierta".** Verificado por mí
+directamente en `anclas_universales.json:97` y `prompt_builder.py` (`anclas_siempre`
+de Ele = `["BOTTOM_CUT_LOCK"]`, sin condición de código):
+
+`BOTTOM_CUT_LOCK` va en **TODO** look de Ele y Miss Doll — catsuit, vestido, falda,
+lo que sea — porque vive en `anclas_siempre`, que `anclas_de_slot()` concatena siempre,
+sin filtro. Su propio texto (`:1.4`, o sea con peso) dice: *"the curve of the hips and
+the seat is left uncovered ... both seat cheeks fully bare"*. Su propio comentario
+(`"porque"`, línea 96) AFIRMA que *"es inerte en looks sin calzón separado"* — pero eso
+nunca se implementó como código, solo se quedó escrito como intención.
+
+En el Look 831 (falda wrap de Ele) ese candado con peso convive con `DRESS_LEG_CLOSURE`
+pidiendo *"the hem falling closed over the lap so the line of the skirt stays
+unbroken"*. Dos órdenes contrarias sobre la misma prenda, y el generador partió la
+diferencia abriendo el panel — visible en `ele_831_seated.png` y `ele_831_standing.png`
+(auditoría externa Fable, 09/09/2026). **Control cruzado:** Miss Doll L89 tiene la
+misma arquitectura de falda wrap y el mismo candado, y el mismo defecto aparece ahí
+también — dos muñecas, dos prompts distintos, mismo mecanismo. No es azar del
+generador: es una instrucción real del prompt peleando contra otra.
+
+**El fix real es el mismo patrón que hoy con `FABRIC_PRISTINE`:** que `BOTTOM_CUT_LOCK`
+deje de ser incondicional y se excluya en el código cuando el look clasifica como
+arquitectura "cubierta" (`arquitecturas_de_prenda`, que ya existe y ya distingue
+vestido/falda de bikini/bodysuit) — restituyendo lo que su propio comentario ya
+declaraba como intención desde el 13/08. Afecta el prompt de todo look futuro de Ele
+y Miss Doll con falda o vestido: se anota para que decida antes de tocarlo.
+
+*(El resto de hallazgos de la auditoría externa —contradicciones de sub-pose contra
+`SEAT_ANCHOR`, el ADN de Miss Doll/Anaïs perdiendo contra el Bloque B del día, y la
+repetición de anclas que dicen lo mismo con otra palabra— no los reverifiqué línea por
+línea: quedan en el reporte de la sesión, no transcritos aquí, para no anotar como
+hecho algo que no medí yo misma.)*
