@@ -100,3 +100,14 @@ demasiado genéricas — capturan sentido de camino, no de tela/cobertura. No se
 hoy: afinarlas de más arriesga silenciar el próximo caso real (falso negativo), que es
 justo el error que este mecanismo existe para evitar. El heurístico se deja tal cual,
 advirtiendo con ruido, y la revisión humana sigue siendo la Etapa 2 real.
+
+## Extensión — las otras dos variantes "perched", por consistencia (no por foto)
+
+Comparado el repertorio de Seated de las tres muñecas: Miss Doll (10 variantes) y
+Anaïs (12) **nunca** usan "perched" sola — las 22 anclan el peso explícitamente
+("weight fully down", "hips fully down"). Solo Ele se desviaba, y solo en sus 4
+variantes "perched". Las 0 y 1 no tienen foto que las delate (su propia geometría —
+piernas cruzadas en alto, codos sobre las rodillas — ya hace improbable el mismo
+error), pero se les agregó la misma cláusula de peso para que el repertorio de Ele
+deje de ser la excepción sin ancla dentro de las tres. Verificado: JSON válido,
+140/140 tests.
