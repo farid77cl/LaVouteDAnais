@@ -111,3 +111,14 @@ piernas cruzadas en alto, codos sobre las rodillas — ya hace improbable el mis
 error), pero se les agregó la misma cláusula de peso para que el repertorio de Ele
 deje de ser la excepción sin ancla dentro de las tres. Verificado: JSON válido,
 140/140 tests.
+
+## Revisado y cerrado sin tocar — Odalisque de Miss Doll (kneeling)
+
+Mismo patrón de sospecha que el de Seated: `FLOOR_SEAT_ANCHOR` exige *"the hips and
+the backs of the thighs resting on the ground"*, y dos sub-poses de Odalisque de Miss
+Doll (7 y 8) describen un **kneeling** ("both knees planted", "pelvis pushed forward")
+— geometría donde el peso va en las rodillas, no en la cadera contra el suelo.
+Candidato real por texto. **Verificado contra la foto:** Look 84 (índice 7,
+`miss_doll_084_odalisque.png`) sale arrodillada con la cadera hacia atrás sobre los
+talones, exactamente como se pidió — sin el defecto que el Seated de Ele sí tuvo.
+Se cierra sin tocar: la sospecha textual no se confirmó en la imagen real.
