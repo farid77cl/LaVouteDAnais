@@ -93,6 +93,7 @@ AQUI = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.abspath(os.path.join(AQUI, "..", "..", ".."))
 sys.path.insert(0, AQUI)
 from prompt_builder import PromptBuilder, cargar_config, PLACEHOLDERS_PROHIBIDOS  # noqa: E402
+from garment_canon import clasificar_arquitectura  # noqa: E402
 # ⚠️ NO PODAR ESTE BLOQUE. `EMOJI`, `detectar_pose` y `sin_tildes` parecen sin
 # uso dentro de este archivo, pero `inyectar_anclas.py:83` hace
 # `from lint_prompts_personaje import LOOK_HEADING, detectar_pose`: este linter
@@ -225,33 +226,9 @@ def plano(s):
     return "".join(c for c in s if unicodedata.category(c) != "Mn")
 
 
-def clasificar_arquitectura(bloque_b, tax):
-    """(codigo, cubierta_bool, aviso_o_None) para un BLOQUE B.
-
-    Primero borra las AUSENCIAS declaradas (`no corset`, `no stockings`): sin
-    eso un look que dice literal "no corset" se clasificaba como corseteria."""
-    b = re.sub(tax["_regex_ausencias"], " ", bloque_b.lower())
-    for regla in tax["orden"]:
-        if not re.search(regla["regex"], b):
-            continue
-        cubierta = regla["cobertura"] == "cubierta"
-        aviso = None
-        req = regla.get("requiere_para_cubierta")
-        if cubierta and req and not re.search(req, b):
-            cubierta = False
-            aviso = regla.get("si_falta", "")
-        # SUBFAMILIA (05/09/2026). Sin esto, "corseteria" es UNA arquitectura y la
-        # orden de la Ama se vuelve imposible de cumplir: pidio corse+tanga mas
-        # seguido (perfil §8, >=2 de cada 5) y ADEMAS variedad, y a granularidad
-        # M4 cada corse marcaria repeticion del corse anterior. Lo que no puede
-        # repetirse en la ventana no es "corseteria" — es LA MISMA corseteria.
-        cod = regla["codigo"]
-        for sub in regla.get("subfamilias", []):
-            if re.search(sub["regex"], b):
-                cod = "%s/%s" % (cod, sub["codigo"])
-                break
-        return cod, cubierta, aviso
-    return None, False, None
+# clasificar_arquitectura vive en garment_canon.py desde el 09/09/2026: PromptBuilder
+# la necesita EN LA PUERTA (ver su docstring ahí) y este módulo importa de
+# prompt_builder.py, así que no podía vivir en ninguno de los dos sin un ciclo.
 
 
 # --- auditoria --------------------------------------------------------------

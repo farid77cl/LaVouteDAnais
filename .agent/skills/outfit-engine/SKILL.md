@@ -374,6 +374,40 @@ Tercer alcance, entre `_todos` (las tres muñecas) y `overrides` (un slot). Se d
 
 > ⚠️ **Al agregar una `ancla_siempre` hay que mover `n_globales`, no un número escrito a mano.** `build()` separa anclas globales de anclas de slot por posición; el builder ya lo calcula con la propiedad `n_globales` (= `_todos` + `anclas_siempre`). Si alguna vez vuelve a aparecer un `len(self.mapa["_todos"])` suelto en el código, es un bug esperando: el ancla del personaje se colaría al bloque de pose.
 
+## 🎯 Doctrina del motor (v3.1 — 09/09/2026): cero interpretación, máximo detalle
+
+**Ama, 09/09/2026:** *"lo que debe hacer el prompt es hacer que Gemini haga lo que dice el
+prompt, sin lugar a interpretaciones y con el mayor detalle. desde ahí hay que construir el
+outfit engine."* No es una corrección puntual — es el criterio con el que se juzga cada
+ancla, cada opt-in y cada combinación de los dos, de ahora en adelante.
+
+**Lo que significa en la práctica:** más detalle SIEMPRE ayuda (una prenda descrita al
+milímetro no deja nada a la imaginación del generador — ese es el motivo original de casi
+toda ancla de este archivo). Pero dos anclas que AFIRMAN cosas contrarias sobre la MISMA
+prenda no son "más detalle" — son una moneda al aire: Gemini resuelve la ambigüedad como
+puede, y lo que resuelve no es decisión de nadie, es azar. Esa clase de conflicto es un
+bug aunque cada ancla, leída sola, esté perfectamente escrita.
+
+**El caso que lo probó, el mismo día:** `BOTTOM_CUT_LOCK` (`anclas_siempre` de Ele y Miss
+Doll) afirma con peso `:1.4` que el asiento queda descubierto — correcto en un look de
+calzón separado. Pero es incondicional: viaja también a looks de falda o vestido, donde
+`DRESS_LEG_CLOSURE` pide el ruedo cerrado en el MISMO prompt. Medido en el Look 831 (falda
+wrap de Ele) y cruzado contra Miss Doll L89 (misma arquitectura, mismo defecto): el
+generador partió la diferencia abriendo el panel de la falda para mostrar la tanga. El
+propio comentario de la ancla ya declaraba desde el 13/08/2026 que debía ser *"inerte en
+looks sin calzón separado"* — la intención estaba escrita, nunca se implementó como
+código. Corregido el 09/09: `PromptBuilder.build()` clasifica el BLOQUE B con
+`garment_canon.clasificar_arquitectura()` (el mismo criterio que ya usa el linter, nunca
+sobre el prompt ensamblado) y descarta `BOTTOM_CUT_LOCK` cuando el look clasifica
+"cubierta". Mismo patrón usado horas antes con `FABRIC_PRISTINE` contra `ANIMAL_PRINT_LOCK`.
+
+**La tarea que queda, y es más grande que estos dos casos:** una auditoría sistemática de
+CADA par de anclas que pueden coexistir en un mismo prompt (globales × opt-in × slot),
+buscando afirmaciones contrarias — no solo las que ya se fotografiaron fallando. Los dos
+casos cerrados hoy se encontraron mirando imágenes reales después del hecho; la doctrina
+pide que se puedan encontrar ANTES, leyendo el texto. Pendiente, y de tamaño real: no se
+hace de memoria en una sesión, se planea aparte.
+
 ## 📂 Recursos
 
 - [`references/_plantilla_perfil_visual.md`](references/_plantilla_perfil_visual.md) — esquema de perfil (para personajes nuevos).

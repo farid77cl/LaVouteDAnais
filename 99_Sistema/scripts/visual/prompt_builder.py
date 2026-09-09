@@ -66,7 +66,7 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
-from garment_canon import eco_busto   # noqa: E402
+from garment_canon import eco_busto, clasificar_arquitectura   # noqa: E402
 
 JSON_ANCLAS = os.path.join(AQUI, "anclas_universales.json")
 JSON_POSES = os.path.join(AQUI, "repertorios_pose.json")
@@ -648,6 +648,27 @@ class PromptBuilder(object):
             _fp = self.anclas.get("FABRIC_PRISTINE", {}).get("texto")
             if _fp in globales:
                 globales = [t for t in globales if t != _fp]
+
+        # BOTTOM_CUT_LOCK (Ele y Miss Doll, via anclas_siempre) afirma con peso :1.4
+        # "el asiento queda descubierto" -- correcto en un look de calzon separado,
+        # pero peleando por atencion con DRESS_LEG_CLOSURE ("el ruedo cae cerrado")
+        # cuando el mismo look es falda o vestido. Medido en vivo el 09/09/2026: el
+        # L831 (falda wrap de Ele) lleva las dos, y el generador partio la diferencia
+        # abriendo el panel para mostrar la tanga -- cruzado contra Miss Doll L89,
+        # misma arquitectura, mismo defecto. El propio comentario de la ancla ya
+        # declaraba desde el 13/08 que debia ser "inerte en looks sin calzon
+        # separado"; nunca se implemento esa condicion. Ama 09/09/2026: "lo que debe
+        # hacer el prompt es hacer que Gemini haga lo que dice el prompt, sin lugar a
+        # interpretaciones" -- dos anclas afirmando lo contrario sobre la misma
+        # prenda es exactamente esa ambiguedad. Se clasifica el BLOQUE B con el mismo
+        # criterio que ya usa el linter (nunca el prompt ensamblado -- ver
+        # arquitecturas_de_prenda._como_se_clasifica) y se descarta si es "cubierta".
+        if "BOTTOM_CUT_LOCK" in self.anclas_siempre:
+            tax = self.cfg.get("arquitecturas_de_prenda")
+            if tax and clasificar_arquitectura(b, tax)[1]:
+                _bcl = self.anclas.get("BOTTOM_CUT_LOCK", {}).get("texto")
+                if _bcl in globales:
+                    globales = [t for t in globales if t != _bcl]
 
         # ANIMAL_PRINT_LOCK es la unica ancla paramétrica del contrato: su texto
         # lleva {kind} y hay que resolverlo con la especie que nombra el BLOQUE B

@@ -824,3 +824,40 @@ def eco_busto(bloque_b, declarado=None, limite=250):
     cola = (", and it stays %s" % " and ".join(matices)) if matices else ""
     return ("the upper garment in THIS frame exactly as described: %s%s"
             % (texto, cola))
+
+
+def clasificar_arquitectura(bloque_b, tax):
+    """(codigo, cubierta_bool, aviso_o_None) para un BLOQUE B.
+
+    Dueño único (09/09/2026, movida desde lint_prompts_personaje.py): PromptBuilder
+    la necesita EN LA PUERTA (Ama 09/09/2026: "el prompt debe hacer que Gemini haga
+    lo que dice, sin lugar a interpretaciones" — BOTTOM_CUT_LOCK afirmando el asiento
+    descubierto con :1.4 en el MISMO prompt donde DRESS_LEG_CLOSURE pide el ruedo
+    cerrado es exactamente esa clase de ambigüedad, medida en el L831), y
+    lint_prompts_personaje.py importa de prompt_builder.py — vivir ahí habría hecho
+    un import circular. garment_canon no depende de ninguno de los dos.
+
+    Primero borra las AUSENCIAS declaradas (`no corset`, `no stockings`): sin
+    eso un look que dice literal "no corset" se clasificaba como corseteria."""
+    b = re.sub(tax["_regex_ausencias"], " ", bloque_b.lower())
+    for regla in tax["orden"]:
+        if not re.search(regla["regex"], b):
+            continue
+        cubierta = regla["cobertura"] == "cubierta"
+        aviso = None
+        req = regla.get("requiere_para_cubierta")
+        if cubierta and req and not re.search(req, b):
+            cubierta = False
+            aviso = regla.get("si_falta", "")
+        # SUBFAMILIA (05/09/2026). Sin esto, "corseteria" es UNA arquitectura y la
+        # orden de la Ama se vuelve imposible de cumplir: pidio corse+tanga mas
+        # seguido (perfil §8, >=2 de cada 5) y ADEMAS variedad, y a granularidad
+        # M4 cada corse marcaria repeticion del corse anterior. Lo que no puede
+        # repetirse en la ventana no es "corseteria" — es LA MISMA corseteria.
+        cod = regla["codigo"]
+        for sub in regla.get("subfamilias", []):
+            if re.search(sub["regex"], b):
+                cod = "%s/%s" % (cod, sub["codigo"])
+                break
+        return cod, cubierta, aviso
+    return None, False, None
