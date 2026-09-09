@@ -551,61 +551,53 @@ class PromptBuilder(object):
                 return term
         return None
 
-    @staticmethod
-    def _sin_ausencias_de(texto, terminos):
-        """`texto` sin los tramos "no <termino>" de la lista dada.
+    # Una ausencia declarada ("no dress", "no stockings") no es una presencia,
+    # pero solo mira la PALABRA -- nunca si venia negada -- seguia atrapando
+    # disparadores nuevos cada vez que se revisaba uno. Parchado a mano una vez
+    # (SEAM_FRONT/BACK, 06/09, solo "no stockings") y otra vez con una lista de
+    # terminos por candado (09/09, tarde) antes de medir que el hueco real vivia
+    # en SEIS sitios: HOSIERY_LOCK, DRESS_LEG_CLOSURE, ASYMMETRY_LOCK,
+    # ACCESSORY_COUNT_LOCK, WRAP_BACK_ROBE y WRAP_BACK_TAILORED -- cada uno con
+    # su propio vocabulario, cada lista una copia que puede desincronizarse de
+    # su regex real. Generalizado 09/09/2026 (noche) a UNA sola regla: se borra
+    # la clausula completa que empieza en "no " hasta la coma/punto y coma
+    # siguiente (el estilo de este repo separa cada atributo por coma, medido
+    # sobre 5.021 apariciones de "no " en la galeria de Ele, cero de "not a/the"
+    # -- la convencion real es una sola). `GARMENT_EXCLUSION_LOCK` es la UNICA
+    # excepcion deliberada: esa ancla existe justo para disparar CON "no X".
+    _RX_AUSENCIA_CLAUSULA = re.compile(r"\bno\s+[^,;]*", re.I)
 
-        Una ausencia declarada no es una presencia. Generalizado 09/09/2026 desde
-        el fix puntual de SEAM_FRONT/BACK del 06/09 (que solo cubria "no stockings"
-        a mano): medido el mismo dia que `opt_in_de` tiene el MISMO hueco en dos
-        sitios mas -- `HOSIERY_LOCK` dispara con "no stockings" (la cadena CONTIENE
-        "stockings") y `DRESS_LEG_CLOSURE` con "no dress" en un look de bikini real
-        (`legs stay closed` inyectado en un prompt sin falda ni vestido). No filtra
-        `GARMENT_EXCLUSION_LOCK`: esa ancla existe justo para disparar CON "no X"."""
-        if not terminos:
-            return texto or ""
-        patron = r"\bno\s+(?:%s)s?\b" % "|".join(re.escape(t) for t in terminos)
-        return re.sub(patron, " ", texto or "", flags=re.I)
-
-    # Vocabulario propio de DRESS_LEG_CLOSURE, espejo del que usa su regex en
-    # `OPT_IN` -- para poder re-verificarla sin ausencias sin duplicar el regex.
-    _DRESS_TERMINOS = ["dress", "dresses", "gown", "gowns", "skirt", "skirts",
-                        "skirted", "robe", "robes", "kimono", "tunic", "cheongsam",
-                        "qipao", "sarong"]
+    @classmethod
+    def _sin_ausencias(cls, texto):
+        return cls._RX_AUSENCIA_CLAUSULA.sub(" ", texto or "")
 
     def animal_print_kind(self, bloque_b):
         """Especie de estampado animal que nombra el BLOQUE B, o None."""
-        libre = self._sin_ausencias_de(bloque_b, self._vocab()["ANIMAL_PRINT_LOCK"])
-        return self._nombra(libre, self._vocab()["ANIMAL_PRINT_LOCK"])
+        return self._nombra(self._sin_ausencias(bloque_b), self._vocab()["ANIMAL_PRINT_LOCK"])
 
     def opt_in_de(self, bloque_b):
         """Anclas opt-in que dispara el BLOQUE B de este look (registro: anclas_opt_in)."""
-        nombres = [n for n, rx in self.OPT_IN if rx.search(bloque_b or "")]
+        libre = self._sin_ausencias(bloque_b)
+        nombres = []
+        for n, rx in self.OPT_IN:
+            # GARMENT_EXCLUSION_LOCK necesita ver el "no X" para disparar --
+            # todo el resto se evalua sobre el texto SIN las clausulas de ausencia.
+            objetivo = bloque_b if n == "GARMENT_EXCLUSION_LOCK" else libre
+            if rx.search(objetivo or ""):
+                nombres.append(n)
         for nombre, terminos in self._vocab().items():
-            if nombre not in nombres:
-                libre = self._sin_ausencias_de(bloque_b, terminos)
-                if self._nombra(libre, terminos):
-                    nombres.append(nombre)
-        # DRESS_LEG_CLOSURE vive en OPT_IN (regex simple) y ese regex no distingue
-        # "no dress" de "dress" -- mismo hueco que arriba, verificado con un BLOQUE
-        # B real de bikini ("no dress, no gown, legs bare") que se lo llevaba igual.
-        if "DRESS_LEG_CLOSURE" in nombres:
-            libre = self._sin_ausencias_de(bloque_b, self._DRESS_TERMINOS)
-            if not dict(self.OPT_IN)["DRESS_LEG_CLOSURE"].search(libre):
-                nombres.remove("DRESS_LEG_CLOSURE")
+            if nombre not in nombres and self._nombra(libre, terminos):
+                nombres.append(nombre)
         # SEAM_* pide DOS condiciones: costura declarada Y que sea de media. Un
         # blazer tambien tiene "centre-back seam" — el ancla WRAP_BACK_TAILORED lo
         # dice con esas palabras — y sin el segundo filtro la costura de la chaqueta
         # activaria el candado de la media (medido 29/08/2026).
         import garment_canon as G
-        # TERCERA condicion (06/09/2026): que el look LLEVE medias de verdad.
-        # Las dos anteriores no miraban la AUSENCIA declarada, y la cadena
-        # "no stockings" CONTIENE la palabra "stockings" — asi es como el L77
-        # de una de las munecas, cuyo BLOQUE B dice `bare legs, no stockings`,
-        # se llevo el ancla de costura en sus 7 prompts: texto que se
-        # contradice a si mismo y le roba atencion al generador en cada pose.
-        if (self._nombra(bloque_b, G.SEAMED)
-                and self._nombra(bloque_b, G.HOSIERY_CONTEXTO)
+        # TERCERA condicion (06/09/2026): que el look LLEVE medias de verdad
+        # (chequeo propio de `lleva_medias`, sobre el texto original -- ya trae
+        # su propia deteccion de ausencia).
+        if (self._nombra(libre, G.SEAMED)
+                and self._nombra(libre, G.HOSIERY_CONTEXTO)
                 and G.lleva_medias(bloque_b)):
             nombres += ["SEAM_FRONT", "SEAM_BACK"]
         return nombres
@@ -841,7 +833,7 @@ class PromptBuilder(object):
                 terminos = regla.get("terminos", [])
                 # Una ausencia declarada ("no corset") no es que el look SI lo lleve --
                 # es lo contrario. Mismo helper que usa `opt_in_de()`.
-                disparado = bool(self._nombra(self._sin_ausencias_de(bloque_b, terminos), terminos))
+                disparado = bool(self._nombra(self._sin_ausencias(bloque_b), terminos))
             elif regla.get("disparador") == "arquetipo_es":
                 disparado = (arquetipo or "").strip().lower() == regla.get("valor", "").strip().lower()
             else:

@@ -228,3 +228,28 @@ Con este son **6 contradicciones/omisiones reales corregidas hoy**, todas con el
 mismo origen: algo en el prompt no dice exactamente lo que quiere decir, y el
 generador — o el propio motor, en los dos últimos casos — rellena el resto con su
 propio criterio.
+
+## El hueco de ausencias, refactorizado a UNA regla (09/09/2026, noche)
+
+El fix anterior mantenía una lista de términos por candado (una copia del vocabulario
+de cada regex). Al revisar los otros disparadores de `OPT_IN` con el mismo criterio,
+el hueco vivía en **cuatro sitios más**:
+
+- `ASYMMETRY_LOCK` disparaba con *"no asymmetric hem"*.
+- `ACCESSORY_COUNT_LOCK` disparaba con *"no single cuff"*.
+- `WRAP_BACK_ROBE` disparaba con *"no robe, no kimono"*.
+- `WRAP_BACK_TAILORED` disparaba con *"no blazer, no cardigan"*.
+
+Seis sitios con el mismo bug y seis vocabularios copiados es la misma enfermedad que
+este motor existe para curar (dueño único). **Refactorizado a una sola regla**: se
+borra la cláusula completa que empieza en `"no "` hasta la coma/punto y coma
+siguiente — verificado que esa es la convención real del repo (5.021 apariciones de
+`"no "` en la galería de Ele, cero de `"not a/the"`, y cada atributo va separado por
+coma). `PromptBuilder._sin_ausencias()` reemplaza el helper con lista de términos.
+Única excepción deliberada: `GARMENT_EXCLUSION_LOCK`, que sigue viendo el texto
+original — existe justo para disparar CON `"no X"`. Verificado: 12 casos (6 que no
+deben disparar + 6 controles que sí deben seguir disparando), todos correctos.
+157/157 tests.
+
+**Con este son los mismos 6 hallazgos de hoy, pero el sexto ahora cubre 6 candados en
+vez de 2** — el refactor no fue un hallazgo nuevo, fue terminar de medir el mismo.

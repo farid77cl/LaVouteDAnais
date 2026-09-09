@@ -875,6 +875,33 @@ _opt_medias = _pb_h.opt_in_de("sheer seamed stockings with a back seam, held up 
 check("H5 · control: medias reales con costura SI disparan HOSIERY_LOCK",
       "HOSIERY_LOCK" in _opt_medias, _opt_medias)
 
+# H5b -- refactorizado a UNA regla general (09/09/2026, noche): se borra la
+# clausula completa desde "no " hasta la coma siguiente, en vez de mantener un
+# vocabulario por candado. Medido que el hueco vivia en CUATRO sitios mas.
+_opt_asym_no = _pb_h.opt_in_de("no asymmetric hem, a symmetrical straight neckline, two straps")
+check("H5b · ASYMMETRY_LOCK no dispara con 'no asymmetric hem'",
+      "ASYMMETRY_LOCK" not in _opt_asym_no, _opt_asym_no)
+check("H5b · control: asimetria real SI dispara ASYMMETRY_LOCK",
+      "ASYMMETRY_LOCK" in _pb_h.opt_in_de("an asymmetric one-shoulder gown"), None)
+
+_opt_acc_no = _pb_h.opt_in_de("a matching pair of earrings on both ears, no single cuff, no anklet at all")
+check("H5b · ACCESSORY_COUNT_LOCK no dispara con 'no single cuff'",
+      "ACCESSORY_COUNT_LOCK" not in _opt_acc_no, _opt_acc_no)
+check("H5b · control: un accesorio unico real SI dispara ACCESSORY_COUNT_LOCK",
+      "ACCESSORY_COUNT_LOCK" in _pb_h.opt_in_de("a single gold cuff on the left wrist, no other jewelry"), None)
+
+_opt_robe_no = _pb_h.opt_in_de("no robe, no kimono, a fitted catsuit")
+check("H5b · WRAP_BACK_ROBE no dispara con 'no robe, no kimono'",
+      "WRAP_BACK_ROBE" not in _opt_robe_no, _opt_robe_no)
+check("H5b · control: una bata real SI dispara WRAP_BACK_ROBE",
+      "WRAP_BACK_ROBE" in _pb_h.opt_in_de("a silk robe worn open over lingerie"), None)
+
+_opt_blazer_no = _pb_h.opt_in_de("no blazer, no cardigan, a simple tank top")
+check("H5b · WRAP_BACK_TAILORED no dispara con 'no blazer, no cardigan'",
+      "WRAP_BACK_TAILORED" not in _opt_blazer_no, _opt_blazer_no)
+check("H5b · control: un blazer real SI dispara WRAP_BACK_TAILORED",
+      "WRAP_BACK_TAILORED" in _pb_h.opt_in_de("a tailored blazer over a bra top"), None)
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))
