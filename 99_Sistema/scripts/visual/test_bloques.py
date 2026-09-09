@@ -242,6 +242,64 @@ def test_ambiente_es_el_setting_y_la_mirada_separa_slot5_de_pov():
     assert "never at the lens" in c5["mirada"] and "directly into the lens" in cp["mirada"]
 
 
+# ======================================================================
+# TAREA 5 · ensamblar() + fugas() — tres oraciones y la guardia
+# ======================================================================
+# Orden fijo, siempre: A -> B -> C, y dentro de cada bloque el orden del
+# contrato (que ya viene dado por campos_a/b/c). Tres oraciones, cada una
+# cierra con punto. Sin pesos por defecto. Determinista byte a byte.
+
+def test_ensamblar_produce_tres_oraciones_en_orden_A_B_C():
+    p = bloques.ensamblar({"ojos": "grey-green eyes"}, {"calzado": "black pumps"},
+                          {"postura": "seated", "ambiente": "a grey room"})
+    assert p == "grey-green eyes. black pumps. seated, a grey room."
+
+
+def test_ensamblar_salta_campos_vacios_y_no_deja_comas_dobles():
+    p = bloques.ensamblar({"ojos": "grey-green eyes", "cejas": ""},
+                          {"calzado": "black pumps,"}, {"postura": " seated "})
+    assert p == "grey-green eyes. black pumps. seated."
+
+
+def test_ensamblar_es_deterministico():
+    args = ({"ojos": "x"}, {"calzado": "y"}, {"postura": "z"})
+    assert bloques.ensamblar(*args) == bloques.ensamblar(*args)
+
+
+def test_ensamblar_devuelve_tambien_el_texto_por_bloque():
+    """Para medir el largo por bloque y para `fugas()`: el prompt final es
+    UNA cadena, pero quien lo arma tiene que poder mirar cada tercio."""
+    p, por_bloque = bloques.ensamblar({"ojos": "x"}, {"calzado": "y"}, {"postura": "z"},
+                                      con_bloques=True)
+    assert por_bloque == {"A": "x", "B": "y", "C": "z"} and p == "x. y. z."
+
+
+def test_fugas_detecta_calzado_en_A_e_iris_en_C():
+    f = bloques.fugas({"A": "grey eyes, black stiletto pumps", "B": "a bikini", "C": "blue iris"})
+    assert any(x.startswith("A") and "pumps" in x for x in f), f
+    assert any(x.startswith("C") and "iris" in x for x in f), f
+
+
+def test_fugas_detecta_pose_en_B_y_prenda_en_C():
+    f = bloques.fugas({"A": "grey eyes", "B": "a bikini, standing facing the camera",
+                       "C": "seated on the banquette wearing a wrap skirt"})
+    assert any(x.startswith("B") and "standing" in x for x in f), f
+    assert any(x.startswith("C") and ("skirt" in x or "wearing" in x) for x in f), f
+
+
+def test_un_prompt_limpio_no_tiene_fugas():
+    assert bloques.fugas({"A": "grey-green eyes, dark cherry red hair",
+                          "B": "black patent pumps, a plum latex bikini",
+                          "C": "seated on the grey banquette, a penthouse at dusk"}) == []
+
+
+def test_fugas_deja_pasar_las_referencias_de_C_a_B():
+    """C puede REFERIRSE a B («the footwear exactly as described above») sin
+    re-describirlo. Una referencia no es una fuga; una descripción sí."""
+    assert bloques.fugas({"A": "x", "B": "y",
+                          "C": "the footwear clearly visible and exactly as described above"}) == []
+
+
 def _correr():
     import traceback
     pruebas = [v for k, v in sorted(globals().items()) if k.startswith("test_")]

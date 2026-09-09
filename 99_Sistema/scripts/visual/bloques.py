@@ -235,3 +235,78 @@ def campos_c(pb, slot, look_number, setting, look, props=None):
             poner(campo, pb.anclas[n]["texto"])
     # salida en el orden del contrato
     return {c["id"]: ", ".join(acum[c["id"]]) for c in _campos_de("C") if c["id"] in acum}
+
+
+# ======================================================================
+# ensamblar() + fugas() — tres oraciones y la guardia
+# ======================================================================
+
+def _oracion(campos):
+    """Une los campos no vacíos de un bloque con ', ', sin comas dobles ni
+    espacios de más. Devuelve '' si el bloque está vacío."""
+    partes = []
+    for t in (campos or {}).values():
+        t = re.sub(r"\s+", " ", (t or "")).strip().strip(",;. ").strip()
+        if t:
+            partes.append(t)
+    return ", ".join(partes)
+
+
+def ensamblar(A, B, C, con_bloques=False):
+    """El prompt: A. B. C. — orden fijo, tres oraciones, cada una cierra con punto.
+
+    Determinista byte a byte: el mismo input da el mismo prompt. Con
+    `con_bloques=True` devuelve también {'A':…,'B':…,'C':…} (sin el punto), que
+    es lo que miden `fugas()` y el reporte de largo por bloque.
+    """
+    por_bloque = {"A": _oracion(A), "B": _oracion(B), "C": _oracion(C)}
+    prompt = " ".join(t + "." for t in por_bloque.values() if t)
+    return (prompt, por_bloque) if con_bloques else prompt
+
+
+# Sustantivos de A (cuerpo) y de B (prenda) que, DESCRITOS con color o material
+# fuera de su bloque, son una segunda versión del atributo — una fuga. Pelados
+# son una referencia («the eyes unfocused», «wearing a dress, skirt or robe her
+# legs stay closed») y se dejan pasar.
+_NOUN_A = r"(?:iris|eyes|hair|skin|breasts?|bust|implants?|lips|cheekbones?|nails?)"
+_NOUN_B = (r"(?:pumps?|sandals?|boots?|stiletto heels?|thong|g-string|stockings?|gloves?|"
+           r"dress|skirt|gown|robe|corset|bikini|bodysuit|catsuit|trousers|jacket|coat)")
+_DESCRIPTOR = (r"(?:black|white|ivory|cream|nude|blush|pink|rose|red|crimson|oxblood|burgundy|"
+               r"plum|purple|violet|lilac|lavender|blue|sapphire|cobalt|navy|teal|jade|emerald|"
+               r"green|olive|chartreuse|yellow|gold|golden|bronze|copper|tan|beige|taupe|brown|"
+               r"grey|gray|graphite|gunmetal|silver|chrome|champagne|magenta|coral|orange|"
+               r"vinyl|latex|pvc|leather|patent|satin|silk|lace|mesh|velvet|chiffon|gauze|fur|"
+               r"suede|lamé|wet-look|glossy|matte|"
+               # …y el CORTE también describe: «a wrap skirt» en C introduce una
+               # prenda, mientras «wearing a dress, skirt or robe» (la condición
+               # de DRESS_LEG_CLOSURE) no lleva ningún modificador y es referencia.
+               r"wrap|mini|micro|pleated|high-waisted|low-rise|over-the-knee|thigh-high|"
+               r"knee-high|platform|open-toe|pointed|halter|strapless|sheer|sleeveless|"
+               r"fitted|tailored|structured|boned|laced|zipped|buttoned|belted)")
+RX_A_DESCRITO = re.compile(r"\b" + _DESCRIPTOR + r"(?:[\s-]+[\w-]+){0,3}?\s+" + _NOUN_A + r"\b", re.I)
+RX_B_DESCRITO = re.compile(r"\b" + _DESCRIPTOR + r"(?:[\s-]+[\w-]+){0,3}?\s+" + _NOUN_B + r"\b", re.I)
+
+
+def fugas(por_bloque):
+    """Vocabulario de un bloque viviendo en otro. Lista vacía = limpio.
+
+    A no referencia nada: cualquier prenda o pose en A es fuga. En B y C un
+    sustantivo ajeno solo es fuga si viene DESCRITO (color/material pegado).
+    """
+    A = por_bloque.get("A", "") or ""
+    B = por_bloque.get("B", "") or ""
+    C = por_bloque.get("C", "") or ""
+    out = []
+    for m in RX_VOCAB_B.finditer(A):
+        out.append("A: «%s» es vocabulario de B (prenda)" % m.group(0))
+    for m in RX_VOCAB_C.finditer(A):
+        out.append("A: «%s» es vocabulario de C (pose/cámara)" % m.group(0))
+    for m in RX_VOCAB_C.finditer(B):
+        out.append("B: «%s» es vocabulario de C (pose/cámara)" % m.group(0))
+    for m in RX_A_DESCRITO.finditer(B):
+        out.append("B: «%s» describe el cuerpo, que es A" % m.group(0))
+    for m in RX_A_DESCRITO.finditer(C):
+        out.append("C: «%s» describe el cuerpo, que es A" % m.group(0))
+    for m in RX_B_DESCRITO.finditer(C):
+        out.append("C: «%s» describe la prenda, que es B" % m.group(0))
+    return out
