@@ -82,11 +82,19 @@ def _has_any(text, needles):
 
 def _platform_inches(footwear):
     """Devuelve la altura de PLATAFORMA en pulgadas si el token la declara, o None.
-    Acepta pulgadas (4\", 4 inch, 4in) y cm (>=10cm ~ 4in). Busca el numero cercano a 'platform'."""
+    Acepta pulgadas (4\", 4 inch, 4in, 4-inch) y cm (>=10cm ~ 4in). Busca el numero
+    cercano a 'platform'.
+
+    El guion NO es opcional de adorno (09/09/2026): el canon del repo escribe la
+    plataforma como `plus a 4-inch emerald platform` —asi sale de los batches y asi
+    esta en la galeria— y este patron exigia espacio o nada entre el numero y la
+    unidad. Resultado medido: looks que SI declaraban su plataforma se reportaban
+    como "MULE sin plataforma declarada", inflando el conteo de violaciones de la
+    flota con falsos positivos."""
     t = (footwear or "").lower()
     best = None
     # patrones "<n> in/\" platform"  y  "platform ... <n> in/\""
-    for m in re.finditer(r'(\d+(?:\.\d+)?)\s*(?:\"|inch(?:es)?|in)\b', t):
+    for m in re.finditer(r'(\d+(?:\.\d+)?)\s*-?\s*(?:\"|inch(?:es)?|in)\b', t):
         # ¿hay 'platform' cerca (misma clausula, +-30 chars)?
         a, b = max(0, m.start()-30), min(len(t), m.end()+30)
         if "platform" in t[a:b]:
@@ -232,6 +240,13 @@ if __name__ == "__main__":
         dict(tag="MD70fix", category="Nightclub",
              outfit="magenta chrome bodysuit, sheer black hold-up stockings, suspender belt",
              footwear="closed pointed-toe platform stiletto pumps in mirror-chrome, 17cm heel"),  # pump cerrada + medias OK
+        # 09/09/2026 — la plataforma con GUION. Es la forma en que el canon la escribe
+        # de verdad en la galeria ("plus a 4-inch emerald platform") y el patron la
+        # ignoraba, asi que un mule correcto salia como "sin plataforma declarada".
+        dict(tag="L483fix", category="Lenceria",
+             outfit="orange and black Bordelle-style harness over bare skin, suntan sheer stockings",
+             footwear="orange backless platform mule pin-heel slides, a 14cm pin stiletto heel "
+                      "plus a 4-inch orange platform, high-gloss patent finish, a closed pointed toe"),
     ]
     print("=== DEBEN saltar (bad) ===")
     pb = audit_footwear_batch(bad)

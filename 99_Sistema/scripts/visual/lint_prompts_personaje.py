@@ -110,6 +110,9 @@ METALENGUAJE = ["in every shot", "identical across all", "in all poses",
                 "in each pose", "across all poses", "contact sheet of"]
 
 ARQUETIPO_LINEA = re.compile(r"\*\*Arquetipo:\*\*\s*([^·\n]+)")
+# Respaldo para los looks de antes de que existiera el campo `**Arquetipo:**`:
+# ellos declaran lo mismo como `- **Categoria:** Lencería`. Ver extraer_arquetipos.
+CATEGORIA_LINEA = re.compile(r"\*\*Categor[ií]a:\*\*\s*([^·\n]+)")
 
 
 def extraer_arquetipos(texto):
@@ -117,8 +120,20 @@ def extraer_arquetipos(texto):
     `**Arquetipo:** X · **Paleta:** ...` que antecede al concepto de cada
     look. Independiente del parser de poses: es una pasada aparte porque
     `parse_como_la_app` deja de leer el bloque de canon antes de llegar a
-    esta linea (corta en el primer `### `, que es la seccion de imagenes)."""
+    esta linea (corta en el primer `### `, que es la seccion de imagenes).
+
+    Si un look no tiene `**Arquetipo:**`, cae a `**Categoria:**` (09/09/2026).
+    No es cortesia: los looks de la era previa al retrofit del campo declaran su
+    arquetipo ahi y solo ahi, y devolver cadena vacia hace que los chequeos que
+    dependen del arquetipo **inventen violaciones**. Medido ese dia en el Look 483,
+    cuyo bloque dice `- **Categoria:** Lencería` y al que el auditor de flota le
+    reportaba "MULE fuera de Lenceria (arquetipo='')" — siendo de Lenceria, que es
+    justo el unico arquetipo donde el mule SI va. Un dato declarado que el lector
+    no sabe leer vale lo mismo que un dato ausente, y cuesta mas: da un falso
+    positivo con aire de hallazgo.
+    """
     arquetipos = {}
+    respaldo = {}
     num_actual = None
     for linea in texto.split("\n"):
         t = linea.strip()
@@ -127,9 +142,17 @@ def extraer_arquetipos(texto):
             if m:
                 num_actual = int(m.group(1))
             continue
+        if num_actual is None:
+            continue
         m = ARQUETIPO_LINEA.search(t)
-        if m and num_actual is not None and num_actual not in arquetipos:
+        if m and num_actual not in arquetipos:
             arquetipos[num_actual] = m.group(1).strip()
+            continue
+        m = CATEGORIA_LINEA.search(t)
+        if m and num_actual not in respaldo:
+            respaldo[num_actual] = m.group(1).strip()
+    for num, valor in respaldo.items():
+        arquetipos.setdefault(num, valor)
     return arquetipos
 
 

@@ -694,6 +694,40 @@ for _raiz, _dirs, _files in os.walk(os.path.join(RAIZ, "99_Sistema", "scripts"))
         if _mal:
             _sucios.append("%s %s" % (os.path.relpath(_ruta, RAIZ), _mal))
 # ---------------------------------------------------------------------------
+# G. EL ARQUETIPO SE LEE TAMBIEN DE `Categoria` (09/09/2026)
+#
+# Los looks previos al retrofit del campo `**Arquetipo:**` declaran lo mismo como
+# `- **Categoria:** Lenceria`. Devolver cadena vacia para ellos no es neutro: los
+# chequeos que dependen del arquetipo inventan violaciones. Caso real, Look 483:
+# el auditor de flota reportaba "MULE fuera de Lenceria (arquetipo='')" sobre un
+# look cuyo bloque dice Lenceria — el unico arquetipo donde el mule SI va.
+import lint_prompts_personaje as lpp  # noqa: E402
+
+_g_nuevo = """## 👗 Look 900: Prueba
+- **Arquetipo:** Corporate · **Paleta:** azul
+"""
+_g_viejo = """## Look 483: Prueba vieja
+- **Categoria:** Lencería
+- **Subcategoria:** Fetish
+"""
+_g_ambos = """## Look 901: Los dos
+- **Categoria:** Domestic
+- **Arquetipo:** Nightclub
+"""
+_g_ninguno = """## Look 902: Sin nada
+- **Concepto:** algo
+"""
+_a = lpp.extraer_arquetipos(_g_nuevo + _g_viejo + _g_ambos + _g_ninguno)
+check("arquetipo: se lee del campo Arquetipo cuando existe",
+      _a.get(900) == "Corporate", repr(_a))
+check("arquetipo: cae a Categoria en los looks viejos (Look 483 real)",
+      _a.get(483) == "Lencería", repr(_a))
+check("arquetipo: si estan los dos, manda Arquetipo y no Categoria",
+      _a.get(901) == "Nightclub", repr(_a))
+check("arquetipo: un look sin ninguno de los dos no aparece",
+      902 not in _a, repr(_a))
+
+# ---------------------------------------------------------------------------
 # F. EL LOG NO SE ENSUCIA CON FIXTURES (09/09/2026)
 #
 # La bateria construye prompts sobre fixtures inventados y esos builds se
