@@ -1,0 +1,79 @@
+{
+  "_dueno_unico": "Fase 1 del plan del 09/09/2026 (manifiesto tipado para BLOQUE B). Consolida el vocabulario que HOY vive disperso en garment_canon.py, footwear_canon.py y color_canon.py -- no lo copia donde ya hay un dueño mejor (color y estampado siguen apuntando a su origen, ver abajo). Este archivo es la aprobación de canon, no código: lo edita la Ama, el motor solo lo lee.",
+  "_estado": "BORRADOR -- Fase 1 entregada, pendiente su revisión antes de pasar a la Fase 2 (el renderizador). Ver '_pendientes_de_aprobar' al final.",
+
+  "piezas": {
+    "_porque": "De la taxonomia arquitecturas_de_prenda (anclas_universales.json, dueño único de los códigos M1-M10 y sus subfamilias A2-A8). Aca solo se apunta el codigo y la cobertura -- el regex de detección histórico se retira cuando el manifiesto reemplace la prosa como fuente para un look; para looks sin manifiesto, sigue siendo el dueño real.",
+    "M1_bodysuit": {"cobertura": "piel", "arquitectura": "M1"},
+    "M2_bikini": {"cobertura": "piel", "arquitectura": "M2"},
+    "M3_lenceria_dos_piezas": {"cobertura": "piel", "arquitectura": "M3"},
+    "M4_corseteria_tanga": {"cobertura": "piel", "arquitectura": "M4", "subfamilias": ["A2", "A4", "A5", "A6", "A7", "A8"]},
+    "M5_arnes": {"cobertura": "piel", "arquitectura": "M5"},
+    "M6_vestido_segunda_piel": {"cobertura": "cubierta", "arquitectura": "M6"},
+    "M7_minifalda_top": {"cobertura": "cubierta", "arquitectura": "M7"},
+    "M8_pantalon_legging_top": {"cobertura": "cubierta", "arquitectura": "M8"},
+    "M9_catsuit_unitard_jumpsuit": {"cobertura": "cubierta", "arquitectura": "M9"},
+    "M10_slip_dress_malla": {"cobertura": "cubierta", "arquitectura": "M10"}
+  },
+
+  "_nota_arquetipo_vs_pieza": "OJO al migrar: garment_canon.COVERED_ARCHETYPES mezclaba hoy dos cosas distintas -- piezas reales (catsuit, blazer, gown, bustier, corset -- ya cubiertas arriba por M6/M9/M4) Y nombres de ARQUETIPO/escenario (corporate, office, executive, domme, maid, gala, power suit -- que NO son una prenda, son el §6 de cada perfil). En el manifiesto nuevo esto se resuelve solo: 'cobertura' es un campo declarado en la PRENDA, nunca inferido del arquetipo. Blazer/tuxedo quedan en 'materiales_mate_prone' de abajo porque son pieza Y material-mate a la vez.",
+
+  "materiales_mate_prone": {
+    "_porque": "garment_canon.MATTE_PRONE, dueño único -- siluetas que priman tela mate y necesitan GLOSS_LOCK explícito porque el token 'vinyl/latex' no basta.",
+    "lista": ["suit", "suiting", "blazer", "pencil skirt", "ribbed", "rib knit", "wool", "crepe", "tweed",
+              "cotton", "jersey", "knit set", "sports bra", "leggings", "seamless set", "athletic set",
+              "sweatpant", "hoodie", "tracksuit", "plain satin", "matte satin"]
+  },
+
+  "estampado_animal": {
+    "_porque": "garment_canon.ANIMAL_PRINTS, dueño único -- especies que disparan ANIMAL_PRINT_LOCK. Cuota viva de Ele: mín. 1 de cada 8 looks (perfil §8), 'no repetir depredador'.",
+    "aprobadas": ["python", "snake", "leopard", "tiger", "zebra"]
+  },
+
+  "estampado_hosiery": {
+    "_porque": "garment_canon.HOSIERY_PATTERNED, dueño único -- patrones de media que exigen FABRIC_PRISTINE excluido + HOSIERY_LOCK exigiendo fidelidad.",
+    "aprobadas": ["fishnet", "lace-top", "polka dot", "houndstooth", "diamond grid", "argyle", "checkered", "chevron"]
+  },
+
+  "hosiery_vocabulario": {
+    "_porque": "footwear_canon.HOSIERY, dueño único de '¿el BLOQUE B declara medias?' (unificado con garment_canon.HOSIERY_CONTEXTO el 09/09 tras medir que habían divergido).",
+    "lista": ["stocking", "fishnet", "nylon", "hosiery", "pantyhose", "bodystocking", "hold-up", "seamed",
+              "sheer sock", "media", "medias", "tights", "thigh-high"]
+  },
+
+  "calzado_no_canonico": {
+    "_porque": "footwear_canon.NON_CANON_POSITIVE, dueño único -- NUNCA en el positive de ninguna muñeca. Canon absoluto: stiletto ≥12cm o Pleaser ≥6\" siempre.",
+    "lista": ["flat shoe", "flat sandal", "sneaker", "barefoot", "kitten heel", "wedge", "block heel",
+              "espadrille", "slipper", "ballet flat", "loafer", "clog", "birkenstock", "ugg"]
+  },
+
+  "color": {
+    "_porque": "color_canon.FAMILY es el dueño único de las familias cromáticas -- no se copia aquí, se apunta. Ver 99_Sistema/scripts/visual/color_canon.py."
+  },
+
+  "por_personaje": {
+    "ele": {
+      "anclas_siempre": ["BOTTOM_CUT_LOCK"],
+      "nota": "Calzón SIEMPRE tanga/g-string (nunca talle alto de cobertura total). Gloves PROHIBIDOS siempre. No repite outfit jamás."
+    },
+    "miss_doll": {
+      "anclas_siempre": ["BOTTOM_CUT_LOCK"],
+      "negativo_condicional": [
+        {"pieza": "M4_corseteria_tanga", "excluir_del_negativo": ["corset", "waist cincher", "bustier"],
+         "nota": "El corsé no es obligatorio (perfil §5.5) -- va negado por defecto, se saca del negative SOLO si la pieza declarada es M4."},
+        {"arquetipo": "Girly Girl", "excluir_del_negativo": ["warm smile", "laughing"],
+         "nota": "Único arquetipo con calidez -- el resto exige cero calidez en el negative base."}
+      ]
+    },
+    "anais": {
+      "anclas_siempre": ["SENSUAL_STATE", "LIVED_IN_ROOM"],
+      "nota": "Calzón retro de talle alto es LEGÍTIMO (Vintage Noir / Bettie Page) -- NO lleva BOTTOM_CUT_LOCK. Gloves PERMITIDOS (a diferencia de Ele). Lunar sobre el labio obligatorio."
+    }
+  },
+
+  "_pendientes_de_aprobar": {
+    "_porque": "Se encontraron al consolidar. No se agregan solos -- las decisiones de canon son de la Ama.",
+    "cheetah_print": "Aparece en 1 look histórico de Ele (L384). No está en 'estampado_animal' ni en la cuota del perfil §8 (que dice 'leopard/tiger/snake/zebra'). ¿Entra al cupo futuro?",
+    "giraffe_print": "Aparece en 1 look histórico de Ele (L386). Mismo caso que cheetah -- y giraffe ni siquiera es depredador, que es el criterio de la regla del 11/07. ¿Entra, o queda fuera a propósito?"
+  }
+}
