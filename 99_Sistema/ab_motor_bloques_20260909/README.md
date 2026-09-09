@@ -1,4 +1,44 @@
-# A/B del motor de tres bloques — Miss Doll L86 «Perla y Rosa, Sala Privada»
+# A/B del motor de tres bloques
+
+> ✅ **RONDA ELEGIDA POR LA AMA (09/09/2026): la opción B — Ele L831.** Archivos
+> `A_viejo_ELE_L831.md` / `B_bloques_ELE_L831.md`. La ronda de Miss Doll L86 queda
+> abajo como antecedente y **no se genera**: su vestido de malla no ejercitaba el eje.
+
+## Ronda viva — Ele L831 «Sapphire Graphite Corner Office»
+
+Es el look que falló: su Back View salió con la falda abierta y el glúteo al aire.
+Falda **opaca** + tanga debajo, o sea el eje de exposición entra completo.
+
+**Medido antes de generar (los 7 prompts, los dos motores):**
+
+| | A · viejo | B · bloques |
+|---|---|---|
+| chars totales | 47.114 | 46.875 (**−0,5 %**) |
+| cláusulas con peso por prompt | 5 (6 en Back View) | 5 (6 en Back View) |
+| contradicciones | 0 en las 7 | 0 en las 7 |
+| **similitud del texto (Back View)** | — | **48,6 %** |
+
+**Qué mide esta ronda, exactamente.** Los dos prompts llevan **el mismo contenido**
+—las mismas ~24 cláusulas— en **orden distinto**. O sea aísla la variable
+*agrupación/orden*, que es la hipótesis del motor nuevo, y **nada más**.
+
+**Qué NO mide, y hay que decirlo:**
+- **La exposición ya está arreglada en los dos.** El fix de `BOTTOM_CUT_LOCK`
+  (commit `812e82f88`, esta misma mañana) vive en el motor viejo también: los dos
+  piden `not lifted, not parted` y ninguno pide `both seat cheeks fully bare`.
+- **El largo no cambia** (−0,5 %). Adelgazar es otra cosa y es la Fase 3.
+
+**El tercer punto de comparación, que es lo que hace valiosa esta ronda:** el L831
+**ya tiene sus 7 imágenes** generadas con el prompt **roto** (antes del fix). Así que
+al comparar salen tres cosas y no dos:
+
+1. **lo ya materializado** → prompt roto *(mide el fix de la exposición)*
+2. **tanda A** → motor viejo con el fix
+3. **tanda B** → motor de bloques *(mide el orden)*
+
+---
+
+## Antecedente — Miss Doll L86 «Perla y Rosa, Sala Privada» (emitido, NO se genera)
 
 | Campo | Valor |
 |---|---|

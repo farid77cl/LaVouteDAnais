@@ -1,0 +1,32 @@
+{
+  "_ab": "EXPERIMENTO A/B DEL MOTOR DE TRES BLOQUES — SEGUNDA RONDA, el look que FALLO (Ama 09/09/2026, eligio la opcion B). Ele L831 «Sapphire y Grafito, Oficina de Esquina» copiado VERBATIM de L828_L832_casa_fria.json. Se emite dos veces: A = motor viejo (`generar` sin flag), B = motor de bloques (`--motor bloques`). Mismo ADN, mismo bloque_b, mismo setting, misma sub-pose, mismos props. La UNICA variable es como se ensambla el prompt.",
+  "_porque_este_look": "Su Back View salio con la falda ABIERTA en un recorte, dejando el gluteo entero al aire, con el BLOQUE B diciendo `g-string under the skirt` y otra ancla pidiendo `the wrap skirt stays unbroken`: gano la cola de peso `both seat cheeks fully bare:1.4`. Falda OPACA + tanga debajo = el eje de exposicion entra completo, que es lo que el L86 de Miss Doll (malla transparente) NO ejercitaba. Y el look YA tiene sus 7 imagenes del motor viejo ROTO, asi que la comparacion tiene TRES puntos, no dos: (1) lo ya materializado, (2) motor viejo con el arreglo del 09/09, (3) motor de bloques.",
+  "_no_es_produccion": "Este batch NO se escribe en la galeria y NO reemplaza al L831 real. Es prueba: se emite con --out a 99_Sistema/ab_motor_bloques_20260909/. Las imagenes que genere la Ama son de PRUEBA y no entran a la flota — el L831 materializado se queda como esta hasta que ella decida.",
+  "personaje": "ele",
+  "batch": "AB_ELE_L831_motor",
+  "fecha": "07/09/2026",
+  "categoria": "Mix",
+  "rango": "831",
+  "tags_comunes": [
+    "deficit",
+    "V7poses",
+    "batchL828-L832"
+  ],
+  "negative_extra": "cotton, denim, wool, linen, matte natural fabric, flat shoes, sneakers, barefoot, kitten heel, wedge, block heel, gloves, opera gloves, lace gloves",
+  "looks": {
+    "831": {
+      "titulo": "Sapphire Graphite Corner Office",
+      "codigo": "C5",
+      "polo": "Corporate",
+      "concepto": "Corporate (9,0% contra meta 9,4%, segundo deficit). Arquitectura M7 (minifalda + top, CUBIERTA) -- bloqueadas M4/A8, M2 y M9. Zafiro saturado contra grafito: azul frio, familia que no aparece como dominante desde el cyan del L821 y que su §5.2b nombra entre las que le favorecen. Modo Neutro+Pop, base grafito y el zafiro mandando en la falda. Setting nocturno de oficina en esquina, distinto del sala de directorio del L824.",
+      "bloque_b": "a sapphire blue high-gloss vinyl wrap miniskirt, its outer panel crossing over the front and fastening on the left hip under a flat gunmetal plate, the band sitting on the natural waist and the hem finishing high on the thigh; above it a graphite mirror-vinyl halter blouse tied behind the neck, a deep V opening at the front held by two gunmetal loops, the whole back open to the shoulder blades and the hem knotted just under the ribs; a sapphire vinyl g-string under the skirt, cut narrow at the front and down to one cord behind; ultra-sheer graphite-tinted hosiery at 10 denier on a sapphire vinyl suspender belt with four thin straps clipped at mid-thigh; no gloves at any point, hands bare; narrow rectangular black-framed glasses, small gunmetal bars at the ears and nothing at the throat; XXXL French manicure at 5cm, sharp white tips with translucent pink underneath; closed pointed-toe stiletto court pumps in sapphire mirror patent vinyl, 13cm razor-thin gunmetal pin heel with no platform, sharp closed pointed toe, a single thin sapphire ankle strap fastened with a gunmetal pin buckle, gunmetal sole edge and a gunmetal heel cap",
+      "setting": "a corner office at night, floor-to-ceiling glass with the city grid laid out below it, a long slab of graphite stone serving as the desk, one low desk lamp and the cold spill of the city as the only other light",
+      "props": {
+        "seat": "the graphite leather desk chair",
+        "wall": "the floor-to-ceiling office glass",
+        "surface": "the graphite stone desk slab",
+        "upright": "a slim steel window mullion"
+      }
+    }
+  }
+}
