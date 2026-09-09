@@ -569,12 +569,29 @@ class PromptBuilder(object):
     def _sin_ausencias(texto):
         return sin_clausulas_de_ausencia(texto)
 
-    def animal_print_kind(self, bloque_b):
-        """Especie de estampado animal que nombra el BLOQUE B, o None."""
+    def animal_print_kind(self, bloque_b, manifiesto=None):
+        """Especie de estampado animal que nombra el BLOQUE B, o None.
+
+        Con manifiesto (Fase 3, 09/09/2026): se lee el campo declarado, cero
+        adivinanza."""
+        if manifiesto is not None:
+            import vestuario_renderer as VR
+            especie = VR.lleva_estampado_animal(manifiesto)
+            if especie:
+                return especie
         return self._nombra(self._sin_ausencias(bloque_b), self._vocab()["ANIMAL_PRINT_LOCK"])
 
-    def opt_in_de(self, bloque_b):
-        """Anclas opt-in que dispara el BLOQUE B de este look (registro: anclas_opt_in)."""
+    def opt_in_de(self, bloque_b, manifiesto=None):
+        """Anclas opt-in que dispara el BLOQUE B de este look (registro: anclas_opt_in).
+
+        `manifiesto` (Fase 3 del plan del 09/09/2026, opcional): si el look
+        declara manifiesto tipado, ANIMAL_PRINT_LOCK y OPAQUE_LOCK dejan de
+        inferirse leyendo `bloque_b` con regex -- se leen del dato declarado
+        (`vestuario_renderer.lleva_estampado_animal`/`cobertura_de`), sin
+        adivinar nada. El resto de los opt-in (asimetria, conteo de
+        accesorios, bata/blazer, brillo, costura) todavia no tienen campo
+        propio en el manifiesto -- siguen por regex sobre el texto renderizado
+        hasta que la Fase 3 los cubra tambien."""
         libre = self._sin_ausencias(bloque_b)
         nombres = []
         for n, rx in self.OPT_IN:
@@ -598,11 +615,24 @@ class PromptBuilder(object):
                 and self._nombra(libre, G.HOSIERY_CONTEXTO)
                 and G.lleva_medias(bloque_b)):
             nombres += ["SEAM_FRONT", "SEAM_BACK"]
+
+        if manifiesto is not None:
+            import vestuario_renderer as VR
+            tiene_estampado = bool(VR.lleva_estampado_animal(manifiesto))
+            if tiene_estampado and "ANIMAL_PRINT_LOCK" not in nombres:
+                nombres.append("ANIMAL_PRINT_LOCK")
+            elif not tiene_estampado and "ANIMAL_PRINT_LOCK" in nombres:
+                nombres.remove("ANIMAL_PRINT_LOCK")
+            es_cubierta = VR.cobertura_de(manifiesto)
+            if es_cubierta and "OPAQUE_LOCK" not in nombres:
+                nombres.append("OPAQUE_LOCK")
+            elif not es_cubierta and "OPAQUE_LOCK" in nombres:
+                nombres.remove("OPAQUE_LOCK")
         return nombres
 
     def build(self, bloque_a, bloque_b, slot, pose_text, setting,
               extra_final=None, extra_anclas=None, auto_opt_in=True,
-              eco_busto_declarado=None):
+              eco_busto_declarado=None, manifiesto=None):
         """
         Devuelve el prompt final expandido.
 
@@ -611,12 +641,22 @@ class PromptBuilder(object):
                       property `bloque_a`). Se sigue aceptando un texto explícito
                       para los batches viejos que lo traen hardcodeado, pero eso es
                       justamente la copia a mano que el dueño único vino a terminar
-        bloque_b    : outfit del dia (se copia textual e identico en las N poses)
+        bloque_b    : outfit del dia (se copia textual e identico en las N poses).
+                      Con manifiesto, este es el string YA RENDERIZADO
+                      (`vestuario_renderer.renderizar(manifiesto)`) — build() no
+                      renderiza solo, lo recibe listo.
         slot        : standing | back_view | seated | side_profile | <slot5> | pov | odalisque
         pose_text   : lo UNICO que varia entre poses (encuadre, gesto, mirada)
         setting     : BLOQUE C base del look
         extra_final : texto que se agrega al cierre (ej. prefijo cinematografico ya
                       resuelto aparte, o un refuerzo puntual del look)
+        manifiesto  : Fase 3 del plan del 09/09/2026 (opcional). Si el look declara
+                      manifiesto tipado, las decisiones que hoy se infieren leyendo
+                      `bloque_b` con regex (¿lleva estampado animal? ¿es arquitectura
+                      cubierta?) se leen del dato declarado en su lugar — cero
+                      adivinanza. Sin manifiesto, build() sigue exactamente igual
+                      que antes de esta fase (retrocompatible con los ~1.400 looks
+                      históricos).
         """
         slot_n = self.normalizar_slot(slot)
         a = self._limpiar(bloque_a if bloque_a is not None else self.bloque_a)
@@ -634,7 +674,7 @@ class PromptBuilder(object):
         # Anclas opt-in: las dispara el BLOQUE B del look, no el slot.
         nombres_extra = list(extra_anclas or [])
         if auto_opt_in:
-            for n in self.opt_in_de(bloque_b):
+            for n in self.opt_in_de(bloque_b, manifiesto=manifiesto):
                 if n not in nombres_extra:
                     nombres_extra.append(n)
 
@@ -700,8 +740,16 @@ class PromptBuilder(object):
         # criterio que ya usa el linter (nunca el prompt ensamblado -- ver
         # arquitecturas_de_prenda._como_se_clasifica) y se descarta si es "cubierta".
         if "BOTTOM_CUT_LOCK" in self.anclas_siempre:
-            tax = self.cfg.get("arquitecturas_de_prenda")
-            if tax and clasificar_arquitectura(b, tax)[1]:
+            # Con manifiesto (Fase 3, 09/09/2026): la cobertura es un dato
+            # declarado, no algo que clasificar_arquitectura() tenga que leer
+            # del texto. Sin manifiesto, sigue el camino de siempre.
+            if manifiesto is not None:
+                import vestuario_renderer as VR
+                es_cubierta = VR.cobertura_de(manifiesto)
+            else:
+                tax = self.cfg.get("arquitecturas_de_prenda")
+                es_cubierta = bool(tax and clasificar_arquitectura(b, tax)[1])
+            if es_cubierta:
                 _bcl = self.anclas.get("BOTTOM_CUT_LOCK", {}).get("texto")
                 if _bcl in globales:
                     globales = [t for t in globales if t != _bcl]
@@ -711,7 +759,7 @@ class PromptBuilder(object):
         # ("the leopard print is a genuine leopard-skin marking texture..."). Un
         # {kind} sin resolver lo caza validar() como placeholder prohibido, que es
         # la red de seguridad deliberada.
-        kind = self.animal_print_kind(b) if "ANIMAL_PRINT_LOCK" in nombres_extra else None
+        kind = self.animal_print_kind(b, manifiesto=manifiesto) if "ANIMAL_PRINT_LOCK" in nombres_extra else None
         textos_extra = []
         for n in nombres_extra:
             txt = self.anclas[n]["texto"]

@@ -190,13 +190,15 @@
         "codigo": "M6",
         "nombre": "Vestido de segunda piel",
         "cobertura": "cubierta",
-        "regex": "\\bdress\\b|\\bgown\\b"
+        "regex": "\\b(?!headdress|undress|nodress)[a-z]*dress(es)?\\b|\\bgown\\b",
+        "_porque_el_regex": "Ampliado 09/09/2026: '\\bdress\\b' no calzaba con compuestos de una sola palabra ('sundress', 'shirtdress') -- mismo patron y misma exclusion que ya usa DRESS_LEG_CLOSURE en prompt_builder.py (dueño del vocabulario real), copiado aca para que las dos lecturas coincidan."
       },
       {
         "codigo": "M7",
         "nombre": "Minifalda + top",
         "cobertura": "cubierta",
-        "regex": "\\bskirt\\b"
+        "regex": "\\b[a-z]*skirt(ed|s)?\\b",
+        "_porque_el_regex": "Ampliado 09/09/2026: '\\bskirt\\b' no calzaba con 'miniskirt' (una sola palabra, la forma real que usa la galeria) -- solo clasificaba bien de milagro cuando el BLOQUE B repetia la palabra 'skirt' suelta en otra parte (medido en el Look 831 real: salvaba por la frase 'under the skirt' del calzon, no por nombrar la falda). Mismo patron que ya usa DRESS_LEG_CLOSURE."
       },
       {
         "codigo": "M8",

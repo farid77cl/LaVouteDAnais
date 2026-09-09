@@ -1031,6 +1031,29 @@ try:
 except PrendaInvalida:
     check("K5 · una pieza fuera del vocabulario aprobado es error de compilacion", True, None)
 
+# K6 -- Fase 3: build() con manifiesto lee cobertura/estampado del dato
+# declarado, no de regex sobre el texto.
+_manif_falda = {"prendas": [{"pieza": "M7_minifalda_top", "color": "sapphire",
+                             "color_desc": "sapphire", "pieza_desc": "wrap miniskirt"},
+                            {"color_desc": "sapphire", "pieza_desc": "g-string"}]}
+_b_falda_render = renderizar(_manif_falda)
+_pose_k6 = _pb_h.pose("standing", 901, props={"wall": "w", "surface": "s", "seat": "c", "upright": "w"})
+_prompt_con_manif = _pb_h.build(None, _b_falda_render, "standing", _pose_k6, "a room", manifiesto=_manif_falda)
+check("K6 · build() con manifiesto excluye BOTTOM_CUT_LOCK en falda, sin regex",
+      "both seat cheeks fully bare" not in _prompt_con_manif, None)
+
+# L. LA TAXONOMIA M6/M7 NO CALZABA CON COMPUESTOS DE UNA PALABRA (09/09/2026)
+# "\bskirt\b" no calzaba con "miniskirt" -- el Look 831 real clasificaba bien
+# SOLO por casualidad (la frase "under the skirt" del calzon, no la falda).
+# Mismo patron que ya usa DRESS_LEG_CLOSURE (prompt_builder.py), copiado a la
+# taxonomia para que las dos lecturas coincidan.
+_tax_l = cfg["arquitecturas_de_prenda"]
+check("L1 · 'miniskirt' (una palabra) clasifica M7 sin ayuda de otra mencion",
+      _clasificar_h6("a sapphire blue high-gloss vinyl wrap miniskirt, its outer panel "
+                     "crossing over the front", _tax_l)[0] == "M7", None)
+check("L2 · 'sundress' (una palabra) clasifica M6",
+      _clasificar_h6("a beige cotton sundress with a full skirt", _tax_l)[0] == "M6", None)
+
 print()
 print("=" * 74)
 print("RESULTADO: %d ok · %d fallas" % (ok, fallo))

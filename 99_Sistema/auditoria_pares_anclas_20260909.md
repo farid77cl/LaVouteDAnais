@@ -355,3 +355,30 @@ de `color_canon.py` sigue limpio, un negro real sigue detectándose. 165/165 tes
 
 **11 hallazgos reales hoy — cinco mecanismos distintos, misma causa raíz, y este
 último vivía justo en la puerta que hoy mismo se declaró "el gate" del motor.**
+
+## Fase 3 del manifiesto tipado — y un duodécimo hallazgo real en el camino
+
+`opt_in_de()`, `animal_print_kind()` y el candado de `BOTTOM_CUT_LOCK` en `build()`
+ganaron un parámetro `manifiesto` opcional: si el look lo declara, `OPAQUE_LOCK`,
+`ANIMAL_PRINT_LOCK` y la exclusión de `BOTTOM_CUT_LOCK` se leen directo del dato
+(`cobertura_de`, `lleva_estampado_animal`) — cero regex. Sin manifiesto, todo sigue
+exactamente igual que antes de hoy (retrocompatible con los ~1.400 looks históricos).
+Los demás opt-in (asimetría, conteo de accesorios, bata/blazer, brillo, costura)
+todavía no tienen campo propio en el manifiesto — quedan para una vuelta futura.
+
+**Al verificar extremo a extremo apareció un hallazgo real, no de esta fase:**
+`clasificar_arquitectura()` — la que ya se corrigió hoy por el bug de ausencias —
+tenía OTRO problema, anterior e independiente: sus regex M6/M7 (`\bdress\b`,
+`\bskirt\b`) no calzan con compuestos de una sola palabra. **"miniskirt" no
+clasifica como M7.** El Look 831 (mi caso de referencia todo el día) clasificaba
+bien por pura casualidad: su BLOQUE B real dice *"a sapphire vinyl g-string
+**under the skirt**"* para el calzón — esa frase, no la falda misma, es la que
+salvaba la clasificación.
+
+**Fix:** M6/M7 copian el mismo patrón que ya usa `DRESS_LEG_CLOSURE`
+(`prompt_builder.py`) — `\b(?!headdress|undress|nodress)[a-z]*dress(es)?\b` y
+`\b[a-z]*skirt(ed|s)?\b` — para que las dos lecturas del mismo vocabulario
+coincidan. Verificado: "miniskirt" y "sundress" solos, sin ayuda de ninguna otra
+mención, clasifican bien. 176/176 tests.
+
+**12 hallazgos reales hoy.**
