@@ -85,6 +85,45 @@ este Back View 2-3 veces para separar señal de varianza.
 
 ---
 
+## Ronda 2 — Anaïs L89 «Marta Cibelina y Bronce en la Biblioteca» · pose POV
+
+🔀 **ASIGNACIÓN INVERTIDA A PROPÓSITO: tanda 1 = motor de BLOQUES · tanda 2 = motor VIEJO.**
+En la ronda 1 la tanda 1 era el viejo; si el orden se repite, la Ama puede formar expectativa
+sin darse cuenta. Se registra acá y **no se le dice hasta que juzgue**.
+
+**Por qué Anaïs.** La ronda 1 la ganó el motor de bloques porque un atributo del **BLOQUE A**
+—el maquillaje— aterrizó en el nuevo y no en el viejo. Anaïs es la réplica más dura de esa
+misma hipótesis: sus prompts son **los más saturados de la flota** (7.700-8.200 chars contra
+6.000-6.600 de Ele, o sea el muro es mayor), y sus **tres defectos medidos el 09/09 son todos
+de bloque A y todos de la cara** — lunar correcto en **8 de 27**, iris ámbar aterrizando a
+medias, boca cerrada contra su canon de femme fatale.
+
+**Por qué POV.** Es el retrato con la mirada **al lente**: pone la cara lo más cerca posible,
+que es exactamente donde viven esos tres defectos. El Back View —que daría comparabilidad con
+la ronda 1— le deja la cara chica y de perfil, justo donde el defecto no se puede juzgar.
+
+**Medido antes de generar (las 7 poses):**
+
+| | A · viejo | B · bloques |
+|---|---|---|
+| chars totales | 56.590 | 56.074 |
+| cláusulas con peso (POV) | 9 | 9 |
+| contradicciones | 0 en las 7 | 0 en las 7 |
+| **similitud del texto (POV)** | — | **69,0 %** |
+| lunar · iris ámbar · boca entreabierta pedidos | ✅ los 3 | ✅ los 3 |
+
+⚠️ Reordenar **preserva el largo exacto**: 5 de las 7 poses coinciden carácter a carácter en
+total (son textos distintos, verificado). Solo cambian de largo Sovereign Gaze y POV, donde un
+eco se reestructura. Eso confirma que la variable aislada es **el orden**, no el volumen.
+
+⚠️ El BLOQUE A de Anaïs **ya no lleva calzado, uñas ni corsé** (salieron el 09/09 por orden de
+la Ama). Los dos motores leen el ADN limpio, así que no es una variable entre A y B — pero
+hace que estos prompts difieran de los que generaron sus imágenes viejas de galería.
+
+**Archivos:** `A_viejo_AN_L89.md` · `B_bloques_AN_L89.md` · batch `AB_AN_L89_motor.json`.
+
+---
+
 ## Antecedente — Miss Doll L86 «Perla y Rosa, Sala Privada» (emitido, NO se genera)
 
 | Campo | Valor |

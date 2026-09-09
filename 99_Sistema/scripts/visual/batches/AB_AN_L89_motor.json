@@ -1,0 +1,34 @@
+{
+  "_ab": "SEGUNDA RONDA DEL A/B DEL MOTOR DE TRES BLOQUES — otra muñeca (Ama 09/09/2026: 'genera otra prueba con otra muñeca'). Anais L89 «Marta Cibelina y Bronce en la Biblioteca», copiado VERBATIM de AN_L86_L90_la_casa_de_ella.json. Se emite dos veces: A = motor viejo, B = motor de bloques. Mismo ADN, mismo bloque_b, mismo setting, misma sub-pose, mismos props.",
+  "_porque_anais": "La primera ronda (Ele L831 Back View) la gano el motor de bloques porque un atributo del BLOQUE A —el maquillaje— aterrizo en el nuevo y no en el viejo. Anais es la REPLICA mas dura de esa misma hipotesis: (1) sus prompts son los mas saturados de la flota, 8.500-9.000 chars contra 6.000-6.600 de Ele, o sea el muro de anclas es mayor; (2) sus tres defectos medidos el 09/09 son TODOS de bloque A y todos de la cara — lunar correcto en 8 de 27 imagenes, iris ambar aterrizando a medias, boca cerrada contra su canon de femme fatale. Si agrupar el bloque A hace aterrizar sus atributos, tiene que verse ahi.",
+  "_pose_elegida": "POV. Es el encuadre de retrato con la mirada AL LENTE: pone la cara lo mas cerca posible, que es donde viven los tres defectos medidos de Anais. La alternativa era repetir Back View para comparabilidad con la ronda de Ele, pero el Back View le deja la cara chica y de perfil — justo donde el defecto no se puede juzgar.",
+  "_no_es_produccion": "Este batch NO se escribe en la galeria y NO reemplaza al L89 real (que va 1/7, solo su Standing). Las imagenes que genere la Ama son de PRUEBA.",
+  "_ojo": "El BLOQUE A de Anais ya NO lleva calzado, uñas ni corse: salieron el 09/09 por orden de la Ama. Los DOS motores leen el ADN limpio, asi que eso no es una variable entre A y B — pero si hace que estos prompts difieran de los que generaron sus imagenes viejas de galeria.",
+  "personaje": "anais",
+  "batch": "AB_AN_L89_motor",
+  "fecha": "07/09/2026",
+  "categoria": "Mix",
+  "rango": "89",
+  "tags_comunes": [
+    "deficit",
+    "V7poses",
+    "batchL86-L90"
+  ],
+  "negative_extra": "modern clothing, contemporary streetwear, plastic, neon, cyberpunk, athleisure, chrome highlighter, silver strobing, metallic mirror highlight, cool pink blush, platform sole, visible platform",
+  "looks": {
+    "89": {
+      "titulo": "Marta Cibelina y Bronce en la Biblioteca",
+      "codigo": "SL4",
+      "polo": "Sesión Literaria",
+      "concepto": "Segunda Sesion Literaria: con -1,9 puntos, una sola no mueve la aguja. Arquitectura A10 (balconette) -- bloqueadas M6, M10 y M4/A7 -- bajo capelet corto de piel, que segun el §5.1b cae sobre el escote sin taparlo. PAGA LA CUOTA DE PIELES del §8 con marta cibelina: el ultimo fue zorro plateado en el L85 y antes vison en el L72, o sea que ninguno de los tres se repite. Bronce/cobre antiguo, familia de su paleta que no usa desde hace tiempo. Modo Triada -- bronce, marron de la piel y el negro del fondo. Guantes hasta la muñeca, asi que se omite el token de uñas.",
+      "bloque_b": "an antique bronze silk-satin balconette bra with wide-set moulded cups cut low and horizontal across the bust, a narrow band beneath and fine bronze straps set wide on the shoulder, the upper edge of each cup finished with a band of bronze French lace; a matching antique bronze silk thong, its front a slim tapered panel and its back a single fine cord, worn UNDER a bronze silk suspender belt sitting on the natural waist with six taut straps; sheer bronze-tinted stockings, 15 denier, clipped to the six straps at mid-thigh; over the shoulders a short capelet of dark sable fur fastened at the throat with a single bronze clasp, falling to just below the collarbone and leaving the bust and waist entirely in view; bronze silk gloves reaching the wrist, closed at the fingers; a fine bronze chain at the throat and long faceted citrine drop earrings; 12cm mid-calf stiletto boot ending below the knee, in dark bronze patent leather, closed pointed toe, a red lacquered sole",
+      "setting": "8k ultra cinematic intimate portrait, warm amber dramatic lighting, the corner library at first light, floor-to-ceiling shelves in oxblood-stained oak, a deep wing chair drawn up to the tall window, a low fire almost out in the grate and the first grey light coming through the panes",
+      "props": {
+        "seat": "the deep leather wing chair",
+        "wall": "the oxblood-stained oak shelving",
+        "surface": "the low marble hearthstone",
+        "upright": "the carved oak upright of the bookcase"
+      }
+    }
+  }
+}
