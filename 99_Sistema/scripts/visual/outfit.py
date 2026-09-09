@@ -747,7 +747,8 @@ def cmd_test(args):
     """
     print("1. Self-checks de la capa de reglas (fixtures, NO la flota)\n")
     fallo = 0
-    for s in ("footwear_canon.py", "garment_canon.py", "color_canon.py"):
+    for s in ("footwear_canon.py", "garment_canon.py", "color_canon.py",
+              "auditar_anclas_pares.py"):
         r = subprocess.run([sys.executable, os.path.join(AQUI, s)], cwd=RAIZ,
                            capture_output=True, text=True, encoding="utf-8", errors="replace")
         linea = [l for l in (r.stdout or "").strip().split("\n") if "self-check" in l.lower()]
@@ -755,6 +756,20 @@ def cmd_test(args):
         malo = "LIMPIO" not in estado
         fallo += malo
         print("  %s %-20s %s" % ("\U0001f534" if malo else "  ok  ", s, estado))
+
+    # Escaneo heuristico de anclas nuevas (09/09/2026) -- ADVERTENCIA, nunca
+    # bloqueo: el detector prioriza recall sobre precision a proposito (ver su
+    # docstring), asi que aqui solo informa cuantos candidatos hay hoy. Bloquear
+    # duro entrenaria a ignorarlo -- mismo error ya documentado con otros linters
+    # de este repo. La revision humana de la lista completa es
+    # `auditar_anclas_pares.py --escanear`.
+    r = subprocess.run([sys.executable, os.path.join(AQUI, "auditar_anclas_pares.py"),
+                        "--escanear"], cwd=RAIZ, capture_output=True, text=True,
+                       encoding="utf-8", errors="replace")
+    m = re.search(r"(\d+) par\(es\) candidato\(s\) en total", r.stdout or "")
+    if m:
+        print("  aviso pares de anclas candidatos a contradiccion: %s "
+              "(revisar con --escanear)" % m.group(1))
 
     if "--solo-reglas" in args:
         return 1 if fallo else 0

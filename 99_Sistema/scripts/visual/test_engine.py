@@ -21,6 +21,14 @@ Que cubre cada bloque, y por que existe:
   E. REGRESIONES — lo arreglado el 29/08: ancla de bata solo en Back View, cero
      piernas abiertas en Miss Doll, ADN leido del perfil, los cuatro candados de
      material, la costura por slot y el falso positivo del pelo.
+  F. ORIGEN DEL LOG — cada build() declara si es fixture o produccion (17/08),
+     para que una bateria de pruebas no envenene el log real que audita de donde
+     salio cada prompt.
+  G. ARQUETIPO POR CATEGORIA — extraer_arquetipos() ya no da un look por sin-
+     arquetipo si declara **Categoria:** en vez de **Arquetipo:** (looks viejos).
+  H. CONTRADICCIONES DE ANCLAS (09/09/2026) — los tres casos reales de anclas
+     que le dan a Gemini dos ordenes contrarias sobre la misma prenda, cada uno
+     con su control de que el candado ganador sigue vivo donde corresponde.
 
 Se corre solo (`python test_engine.py`) o via `outfit.py test`.
 """
@@ -777,6 +785,54 @@ check("log: la bateria corre declarada como fixture",
 
 check("fuentes: ningun script lleva caracteres de control invisibles",
       not _sucios, "; ".join(_sucios[:5]))
+
+# H. CONTRADICCIONES DE ANCLAS -- regresion permanente (09/09/2026, doctrina de la
+# Ama: "el prompt debe hacer que Gemini haga lo que dice, sin lugar a
+# interpretaciones"). Los tres casos reales encontrados hoy -- dos mirando fotos
+# ya generadas, el tercero por `auditar_anclas_pares.py --escanear` antes de que
+# existiera una foto rota -- quedan fijados aca para que un ancla nueva no los
+# reabra sin que la bateria lo note.
+_pb_h = PromptBuilder("ele")
+_pose_h = _pb_h.pose("standing", 900, props={"wall": "w", "surface": "s",
+                                              "seat": "c", "upright": "w"})
+
+
+def _build_h(bloque_b):
+    return _pb_h.build(None, bloque_b, "standing", _pose_h, "a room")
+
+
+_p_zebra = _build_h("a zebra-print high-gloss vinyl waist cincher as the centre "
+                     "of the look")
+check("H1 · FABRIC_PRISTINE se cae con print animal declarado",
+      "solid-coloured and unmarked" not in _p_zebra, _p_zebra[:200])
+check("H1 · y el print real SI queda, con su clausula anti-tatuaje-en-tela",
+      "genuine zebra-skin" in _p_zebra and "beyond that genuine printed pattern" in _p_zebra,
+      _p_zebra[:200])
+
+_p_falda = _build_h("a sapphire blue high-gloss vinyl wrap miniskirt, the hem "
+                     "finishing high on the thigh; a sapphire vinyl g-string "
+                     "under the skirt")
+check("H2 · BOTTOM_CUT_LOCK se cae en look de falda/vestido",
+      "both seat cheeks fully bare" not in _p_falda, _p_falda[:200])
+check("H2 · y DRESS_LEG_CLOSURE sigue pidiendo el ruedo cerrado",
+      "legs stay closed" in _p_falda, _p_falda[:200])
+
+_p_bikini = _build_h("a dark plum high-gloss latex micro bikini in two pieces; "
+                      "a plum thong; legs bare, no stockings anywhere")
+check("H2 · control: BOTTOM_CUT_LOCK SIGUE presente en look de calzon separado",
+      "both seat cheeks fully bare" in _p_bikini, _p_bikini[:200])
+
+_p_fishnet = _build_h("a black fishnet-pattern seamed stocking with a diamond "
+                       "grid weave; a black vinyl bra and thong")
+check("H3 · FABRIC_PRISTINE se cae con patron de hosiery declarado (fishnet)",
+      "solid-coloured and unmarked" not in _p_fishnet, _p_fishnet[:200])
+check("H3 · y el patron de la media SI queda exigido",
+      "never missing their pattern" in _p_fishnet, _p_fishnet[:200])
+
+_p_liso = _build_h("sheer nude plain stockings, no pattern; a black vinyl bra "
+                    "and thong")
+check("H3 · control: FABRIC_PRISTINE SIGUE presente sin patron de hosiery",
+      "solid-coloured and unmarked" in _p_liso, _p_liso[:200])
 
 print()
 print("=" * 74)

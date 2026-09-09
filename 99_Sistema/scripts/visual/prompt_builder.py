@@ -66,7 +66,7 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
-from garment_canon import eco_busto, clasificar_arquitectura   # noqa: E402
+from garment_canon import eco_busto, clasificar_arquitectura, HOSIERY_PATTERNED   # noqa: E402
 
 JSON_ANCLAS = os.path.join(AQUI, "anclas_universales.json")
 JSON_POSES = os.path.join(AQUI, "repertorios_pose.json")
@@ -648,6 +648,20 @@ class PromptBuilder(object):
             _fp = self.anclas.get("FABRIC_PRISTINE", {}).get("texto")
             if _fp in globales:
                 globales = [t for t in globales if t != _fp]
+
+        # Mismo mecanismo, segunda familia de patron real (09/09/2026, encontrado
+        # por auditar_anclas_pares.py --escanear, verificado reconstruyendo un look
+        # de medias fishnet con este mismo build()): FABRIC_PRISTINE afirma
+        # "unmarked" en TODO look con HOSIERY_LOCK activo, incluso cuando el BLOQUE B
+        # declara un patron real de media (fishnet, encaje, lunares) que HOSIERY_LOCK
+        # exige mantener "word for word" en el mismo prompt. No se excluye por
+        # HOSIERY_LOCK a secas (medias LISAS no tienen patron que proteger y
+        # FABRIC_PRISTINE sigue siendo valido ahi) -- solo cuando el BLOQUE B nombra
+        # un patron de hosiery real.
+        if "HOSIERY_LOCK" in nombres_extra and self._nombra(b, HOSIERY_PATTERNED):
+            _fp2 = self.anclas.get("FABRIC_PRISTINE", {}).get("texto")
+            if _fp2 in globales:
+                globales = [t for t in globales if t != _fp2]
 
         # BOTTOM_CUT_LOCK (Ele y Miss Doll, via anclas_siempre) afirma con peso :1.4
         # "el asiento queda descubierto" -- correcto en un look de calzon separado,

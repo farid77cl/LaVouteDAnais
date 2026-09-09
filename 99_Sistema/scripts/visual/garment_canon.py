@@ -86,6 +86,15 @@ COVERED_ARCHETYPES = ["corporate", "office", "executive", "power suit", "domme",
 ANIMAL_PRINTS = ["python", "snake", "leopard", "tiger", "zebra"]
 ANIMAL_PRINT_MARKER = "not a lace pattern"
 
+# Hosiery con un PATRON real declarado (bug hermano del estampado animal, cazado
+# 09/09/2026 por la auditoria de pares de anclas: FABRIC_PRISTINE afirma "unmarked"
+# en TODO look, incluso uno con medias de fishnet o encaje, mientras HOSIERY_LOCK
+# exige que ESE patron se respete "word for word" en el mismo prompt -- verificado
+# reconstruyendo un look de fishnet con PromptBuilder.build().
+HOSIERY_PATTERNED = ["fishnet", "lace-top", "lace top", "polka dot", "houndstooth",
+                      "diamond grid", "diamond-grid", "argyle", "patterned stocking",
+                      "patterned hosiery", "checkered", "chevron"]
+
 # Siluetas que PRIMEAN tela mate (exigir GLOSS_LOCK, el token fuerte, no solo "vinyl"):
 MATTE_PRONE = ["suit", "suiting", "blazer", "pencil skirt", "ribbed", "rib knit", "rib-knit",
                "wool", "crepe", "tweed", "cotton", "jersey", "knit set", "sports-bra", "sports bra",
