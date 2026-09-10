@@ -1,150 +1,170 @@
 # Canon Relato — El podcast
 
-> v4.7 / Nivel 4 — Un solo documento. Máximo ~2,000 palabras. La voz literal de la Ama gana sobre cualquier interpretación.
+> v4.8 / Nivel 4 + Investigación — Revisión sobre v4.7 (Ama, 10/09/2026): el espinazo irónico y los personajes no cambian; el centro erótico se mueve hacia la experiencia sensorial fetichista del gear de encierro (látex, breast plate, fem mask, hip pads, gaff). Beats dictados literal por la Ama, transcritos sin suavizar. La voz literal de la Ama gana sobre cualquier interpretación.
 
 ## 1. Premisa
 
-Un tipo común y corriente —**Nicolás "Nico"**, un poco inseguro, con ganas de "subir de nivel" con las minas— recibe de su mejor amigo, **Rodrigo**, la recomendación de un podcast de superación masculina llamado **«ALFA»**, que promete *reprogramarte en macho dominante mientras duermes*. Nico lo escucha dormido cada noche, un episodio por noche. **Nunca oye conscientemente lo que dice** — está dormido. Pero de día empiezan a brotarle pensamientos que primero lo extrañan y de a poco le parecen los más naturales del mundo. Se va feminizando, amanerando, y Rodrigo se le va volviendo, sin que él sepa por qué, el hombre ante el cual quiere agradar.
+Nicolás "Nico" recibe de su mejor amigo, **Rodrigo**, la recomendación de un podcast de superación llamado **«ALFA»**, vendido en lenguaje de armadura y control corporal —*"vai a quedar invencible, blindado, nada te va a poder tocar, weón"*—, no de conquista social. Nico lo escucha dormido cada noche, un episodio por noche, sin oír nunca conscientemente el contenido. De día empiezan a brotarle pensamientos, gestos, hambres que primero lo extrañan y de a poco le parecen los más naturales del mundo: se depila, se pone su primera tanga, su verga deja de responder, y sin buscarlo empieza a desear el gear que le va llegando —látex, prótesis, encierro— y a Rodrigo debajo de todo eso.
 
-**El espinazo irónico (núcleo, inviolable):** el podcast promete hacerlo a ÉL el alfa; lo que instala es su propia **sumisión, con Rodrigo en el trono de alfa**. Nico descarga dominación; se sube rendición. El condicionamiento le talla el hueco y le mete a Rodrigo adentro. Y como NUNCA lo sabe, termina creyendo que ELIGIÓ venerarlo, que "por fin es él mismo".
+**El espinazo irónico (inviolable):** el podcast promete hacerlo a ÉL el alfa; lo que instala es su sumisión, con Rodrigo en el trono. Nico NUNCA lo sabe — muere convencido de que se descubrió a sí mismo.
 
-> **🧠 SIN MAGIA — EL CAMBIO ES SOLO MENTAL (Ama 01/07, directiva dura):** acá **NO hay cambios físicos mágicos.** El cuerpo de Nico **no se transforma** (no le crecen tetas, no le cambia la voz por arte de magia, no se le achica nada). Lo único que cambia es la **cabeza**: cómo se mueve, cómo desea, cómo se ve a sí mismo, qué quiere ser, cómo se arregla/presenta. La feminización es 100% de **conducta, deseo y autoimagen** — no de carne. Se distingue de «La app» / «La Piel», que sí tenían aparato físico/mágico. El aparato acá es SOLO el condicionamiento subliminal.
->
-> **✅ EL TIPO DE MUJER (Ama 01/07 — decisión tomada, resuelve el flag):** Nico se convierte en la **mujer sumisa doméstica de su hombre (Rodrigo).** La que **hace el aseo de la casa y atiende a las visitas de su hombre**, la que **siempre lo atiende y siempre lo provoca** — el arquetipo *"recatada en la cocina, puta en la cama."* Recato y servicio hacia afuera (limpia, cocina, recibe, le sirve el trago a los amigos de Rodrigo, se porta bien) + provocación y hambre hacia él en privado. **Grooming SÍ (sin magia corporal):** **depilación, maquillaje, peinado y vestuario adecuados** al rol — se arregla para servir y para gustar, aunque su cuerpo no mute. Ironía: el podcast «ALFA» le prometió tener minas atendiéndolo; lo vuelve **la mina que atiende.** Su vida entera se reorganiza en torno a servir y agradar a Rodrigo.
+**🧠 Sin magia — el cambio es solo mental y de vestuario:** el cuerpo de Nico no muta. Todo el nuevo giro es gear que se pone y se saca —nunca carne que cambia sola—; lo único irreversible es la cabeza: cómo desea, cómo se ve, qué quiere ser. El sexo, cuando llega, es real y explícito; la transformación, nunca.
 
-**Temas:** feminización (MtF) + hipnosis/condicionamiento subliminal + circuito de traición + cuerpo/deseo descubiertos desde adentro. Registro chileno actual.
+**El tipo de mujer, actualizado:** la base sigue siendo la mujer sumisa doméstica de Rodrigo —recatada afuera, hambrienta con él en privado, atiende su casa y a sus visitas— pero **el remate del relato ya no es servicio doméstico silencioso: es exposición grupal explícita.** El gear vive oculto bajo la fachada recatada hasta que Rodrigo decide mostrarlo.
+
+**Temas:** feminización (MtF) + hipnosis/condicionamiento subliminal + fetiche de encierro (látex/encasement) + circuito de traición + cuerpo/deseo descubiertos desde adentro. Registro chileno.
 
 ---
 
 ## 2. Pivotes Narrativos (5)
 
-### Pivote 1 — La recomendación (el arquitecto planta)
-- **Qué ocurre:** Rodrigo le pasa el podcast a Nico con el gancho de ego (*"vas a tener a las minas comiendo de tu mano, weón"*). Nico escucha el Episodio 1 dormido. Primera mañana: un pensamiento raro + el sueño más rico de su vida.
-- **Por qué excita:** el morbo del que enciende la mecha con la mano abierta, sonriendo, sin forzar nada — solo recomienda y se sienta a mirar.
-- **Emoción objetivo:** confianza cómplice (Nico) + anticipación fría (lector) + soberbia contenida (Rodrigo).
-- **Error fatal:** que Rodrigo se vea villano-de-catálogo o que empuje. Rodrigo NUNCA fuerza — el podcast hace el trabajo, él solo recibe. El horror lo carga el lector.
-- **Ubicación temporal:** Episodio 1 / Noche 1 / Cap 1.
+### Pivote 1 — La promesa de armadura (el arquitecto planta)
+- **Qué ocurre:** Rodrigo le pasa el podcast con gancho de invencibilidad/control corporal, no de minas. Nico escucha el Ep. 1 dormido; primera mañana, el mejor sueño de su vida.
+- **Por qué excita:** el mismo arquitecto de siempre que enciende la mecha sin forzar nada — solo que ahora la promesa que Nico traga es literalmente sobre su cuerpo, la trampa perfecta para lo que viene: el gear que lo va a encerrar SÍ es una armadura, puesta al revés.
+- **Emoción objetivo:** confianza cómplice (Nico) + anticipación fría irónica (lector, que ya sabe qué clase de "blindaje" es esto) + soberbia contenida (Rodrigo).
+- **Error fatal:** que suene a venta de gimnasio o a villano-de-catálogo. Rodrigo no empuja, solo entrega la idea y se sienta a mirar.
+- **Ubicación temporal:** Episodio 1 / Cap 1 apertura.
 
-### Pivote 2 — Los pensamientos (ideas que no son suyas y le calzan)
-- **Qué ocurre:** primera semana (Episodios 2-7), **fusionada con la recomendación en el Cap 1 (Ama 04/07: fusión + paso acelerado + más cambios).** Le brotan ideas ajenas —cuidarse las uñas, fijarse en los antebrazos de Rodrigo, ablandar sus opiniones— que en segundos le parecen razonables, **más densas y seguidas** (acelera el paso). Se pilla mirando a Rodrigo. Los "beneficios" (duerme increíble, se calma, se cree más seguro) lo amarran. **🆕 Hitos del grooming (Ama 01/07 + Gate 04/07 — sin magia corporal, solo conducta):** **(1) SE DEPILA COMPLETO** — le "nace" depilarse; **depilación TOTAL** (piernas, pecho, guata, y de ahí a todo el cuerpo, no parcial), razonada como comodidad/limpieza/*"me quedó más regio"*; el cuerpo lampiño lo hace sentir algo que no nombra. **(2) SU PRIMERA ROPA INTERIOR FEMENINA — TANGA + MEDIAS** — en la misma salida se compra su **primera prenda interior de mujer** (tanga) **y además medias/pantis**; lo justifica (*"es más cómodo", "por probar"*), y le gusta cómo se siente y cómo se ve — grieta de deseo/placer que archiva mal. **(3) LA VERGA QUE YA NO RESPONDE (redirección psicológica, SIN magia — Gate 04/07):** cuando se pone la tanga **se excita**, pero la excitación **ya no le llega a la verga** — se le queda blanda, encogida, ignorada, y **de ahí en adelante se mantiene flácida y chica**; el calor se le fue a la piel, al espejo, a otra parte. NO es que la verga se achique por magia (eso sería «La app»): es que el deseo se le reprogramó lejos de ahí y el sexo-de-macho se le apagó. **(4) PRIMER DESEO DE SERVIR A RODRIGO:** en el partido, cuando Rodrigo estira el brazo por la chela, a Nico **le nace servirle** — se le adelanta y **le pasa la cerveza a Rodrigo**, y le da un gustito que archiva como amistad. Todo vivido de DÍA, en la cabeza despierta que racionaliza (extrañeza→*"¿por qué no?"*), nunca clínico ni aceptación desde la primera línea.
-- **Por qué excita:** el lector ve la reprogramación operar en la cabeza DESPIERTA mientras Nico la vive como mejora propia. Ironía dramática pura: la calma nueva ES el ablandamiento.
+### Pivote 2 — Los pensamientos y el grooming (con el servicio expandido)
+- **Qué ocurre:** Ep. 2-6. Pensamientos ajenos que le calzan en segundos: se cuida las manos, se depila completo, se compra su primera tanga y medias, se excita pero la verga no responde y queda flácida de ahí en adelante. En el partido, el servicio a Rodrigo ya no es un gesto de una línea (pasarle la cerveza): Nico se anticipa, se mueve antes de que se lo pidan, busca la cercanía física de servirlo — el detalle exacto queda a criterio del Escritor, pero debe pesar más que un gesto suelto y dejarle el mismo gustito mal archivado como amistad.
+- **Por qué excita:** ironía dramática pura — la reprogramación operando en la cabeza despierta que racionaliza cada peldaño como mejora propia.
 - **Emoción objetivo:** extrañeza que se ablanda a *"¿por qué no?"* + vértigo (lector).
-- **Error fatal:** que Nico "resista y se erosione" a lo dramático, o que sospeche del podcast. No sospecha. Se encoge de hombros y sigue, feliz de dormir así de rico.
-- **Ubicación temporal:** Episodios 2-7 / Semana 1 / **Cap 1 (segunda mitad — fusionado con P1).**
+- **Error fatal:** que Nico sospeche del podcast, o que el servicio expandido quede en una línea sin cuerpo.
+- **Ubicación temporal:** Episodios 2-6 / Cap 1 medio.
 
-### Pivote 3 — El deseo redirigido (Rodrigo sube al trono)
-- **Qué ocurre:** Episodios ~8-14. Lo que Nico llama "respeto" a Rodrigo empieza a no poder dejar de mirarlo, después a querer complacerlo. Rodrigo ocupa el polo de autoridad y deseo, y recibe cada gesto nuevo de Nico como espejo (*"siempre fuiste así, weón"*), cementando el "nunca lo sabe". 🆕 **La escalada morbosa (Ama 07/07):** el "querer complacerlo" se vuelve carnal y concreto — a Nico empiezan a asaltarlo pensamientos de **la verga de Rodrigo**. No de cualquier hombre, no de una idea abstracta: específicamente la de Rodrigo, imaginada, medida, deseada. Se pilla pensando en cómo se vería, en probarla, en qué se sentiría tenerla en la boca — y el pensamiento lo asquea y lo prende al mismo tiempo, con la misma violencia. Lo descarta como *"qué webada es esta, yo no soy gay"* — pero vuelve, cada vez más nítido, cada vez menos descartable. Es la contraparte exacta de H20 (la verga propia apagada): donde su deseo-de-macho murió, crece este, específico, morboso, dirigido a un solo cuerpo.
-- **Por qué excita:** el deseo se instala en mitad de una amistad de años, disfrazado de admiración, mientras el arquitecto lo confirma sin levantar la voz. El asco-que-también-calienta es el motor: Nico no se permite querer, así que lo primero que siente es rechazo de sí mismo — y ese rechazo mismo es parte de lo que lo prende.
-- **Emoción objetivo:** calorcito que Nico no ubica + ternura peligrosa + dread (lector) + 🆕 el morbo específico del deseo-por-un-cuerpo-concreto (no genérico).
-- **Error fatal:** que Nico nombre el deseo como deseo demasiado pronto. Lo archiva mal (como respeto/admiración) hasta que ya no puede. 🆕 Que el pensamiento de la verga sea genérico o abstracto ("una verga cualquiera") — SIEMPRE es la de Rodrigo, nombrada, específica; la genericidad mata el morbo.
-- **Ubicación temporal:** Episodios ~8-14 / Semana 2 / **Cap 2 (arranca).**
+### Pivote 3 — El primer gear y el quiebre del tabú (fusionados)
+- **Qué ocurre:** le llega o encuentra su primera pieza de gear (gaff o lencería de látex). Se la pone a solas. Mientras se la pone, intenta visualizar mujeres, algo hétero — y sin poder evitarlo empieza a pensar en Rodrigo: en su bulto, en su verga, en sí mismo más femenino, recibiéndola. Rasgos sumisos hacia Rodrigo emergen en la misma escena (lo ve más grande, más masculino). Se corre. **Es la ÚNICA vez en TODO el relato que se corre de esta forma exacta — no se repite este patrón después** (el resto del relato puede dejarlo a medias, con ganas de más).
+- **Por qué excita:** es donde el mecanismo raíz del gear (investigacion.md §2.0) se activa por primera vez — el material no le da a la mente ningún espacio para reinterpretar lo que pasó: el gear aprieta, el pensamiento de Rodrigo llega solo, y el cuerpo confirma antes de que la cabeza pueda negarlo.
+- **Emoción objetivo:** pánico físico real (shock etapa 1, ver §4c) mezclado con el quiebre del tabú heteronormativo — terror y excitación simultáneos, nunca aceptación limpia.
+- **Error fatal:** que el placer llegue limpio desde el primer contacto sin el párrafo largo de pánico/sofoco antes; que el pensamiento de Rodrigo sea genérico; que este patrón de descarga se repita más adelante.
+- **Ubicación temporal:** Episodio 7 / Cap 1 cierre.
 
-### Pivote 4 — El amaneramiento / el cuerpo (todo "porque le nació")
-- **Qué ocurre:** Episodios ~15-21. Voz, gesto, cómo cruza las piernas, las manos, diminutivos que se le cuelan — los demás notan, él explica. Se arregla, ropa distinta, **cambia cómo presenta el cuerpo** (arreglo, ropa, cómo lo mueve y lo mira) — **sin magia: el cuerpo no muta, cambia la cabeza que lo habita.** 🆕 **PROGRESIÓN DEL GROOMING (Ama 01/07):** en el Cap 2 ya **usa MAQUILLAJE y MÁS ropa femenina** — escala desde la ropa interior del Cap 1 (tanga + medias) hacia **maquillaje + prendas femeninas exteriores**, de a poco, cada una razonada como gusto propio ("me queda regio", "por probar") y archivada como natural. Rodrigo entra full al trono, recibe la deferencia como natural y la alimenta. Escala el calor con Rodrigo, sin que Rodrigo fuerce. 🆕 **Escalada del morbo (Ama 07/07):** el pensamiento de la verga de Rodrigo (Pivote 3) deja de ser un asalto que se descarta — ahora Nico lo sostiene, lo elabora: se imagina de rodillas, se toca pensando específicamente en probarla, en cómo sabría, en el peso de ella en la lengua. La fantasía es cada vez más explícita y cada vez menos vergonzosa de sostener (aunque sigue negando ser gay: *"es que es EL Rodrigo, es distinto"*). **La escena con Rodrigo que descarga (H12)** es el primer acto real sobre esta fantasía — Nico la inicia por "curiosidad", Rodrigo la recibe sin pedirla ni forzarla (invariante del trono intacta).
-- **Por qué excita:** para el lector el deseo es innegable; para Nico es *"por fin me entiendo"*. La prosa ya se feminizó con él. 🆕 El morbo de la fantasía cada vez más nítida escalando hasta el acto.
-- **Emoción objetivo:** liberación (Nico) + horror (lector) + hambre + 🆕 el vértigo de ver la fantasía volverse acto.
-- **Error fatal:** que la feminización sea clínica (procedimiento visto desde afuera) o que a Nico le pase a un cuerpo dormido pasivo. Vive de DÍA, en la cabeza despierta que racionaliza. Pánico/extrañeza primero, después el desborde.
-- **Ubicación temporal:** Episodios ~15-21 / fin Semana 3 / **Cap 2 (clímax).**
+### Pivote 4 — La escalada de encierro y Rodrigo lo toma así
+- **Qué ocurre:** Ep. 8-21. El gear escala: lo usa bajo la ropa en público (gaff, hip pads, lencería de látex invisibles), en casa el breast plate, después catsuit y tacones. Primera vez con la fem mask puesta: no se reconoce en el espejo, no puede hablar bien, podría sacársela y no lo hace. Rodrigo lo ve así —vestido, encerrado, comprometido— y tienen sexo. **Primer encuentro sexual real entre ambos**, adelantado desde donde vivía en el canon viejo.
+- **Por qué excita:** la reversibilidad nunca usada se vuelve prueba física ante testigo — Rodrigo lo ve exactamente como está y en vez de que Nico se avergüence y se lo saque, lo deja mirar y sigue. El deseo por Rodrigo (la verga imaginada, la fantasía sostenida) por fin tiene un acto real encima.
+- **Emoción objetivo:** liberación (Nico) + horror/hambre (lector) + el vértigo de ver la fantasía volverse acto sobre un cuerpo ya encerrado en material.
+- **Error fatal:** que la fem mask llegue tranquila, sin el pánico de la boca/nariz primero; que Rodrigo pida o fuerce el encuentro en vez de recibirlo cuando Nico ya está ahí, vestido, ofrecido.
+- **Ubicación temporal:** Episodios 8-21 / Cap 2.
 
-### Pivote 5 — La entrega y el eco (el ciclo)
-- **Qué ocurre:** feminización + rendición completas, narradas como autenticidad. Nico organiza su vida alrededor de la aprobación de Rodrigo **como su mujer sumisa doméstica: le hace el aseo, cocina, atiende a las visitas de Rodrigo (les sirve el trago, se porta bien) — recatada afuera, puta con él en privado.** 🆕 **La escalada final (Ama 07/07):** en las juntas de fútbol —el mismo ritual donde en el Cap 1 le nació pasarle su primera cerveza a Rodrigo (H21)— termina sirviendo a **TODOS los amigos de la vuelta**: reparte cervezas, sirve las papas, atiende cada pedido sin que nadie se lo pida, mientras el partido pasa y ellos apenas la miran dos veces. Lo que lo enciende no es solo servir — es que **todo el grupo** lo vea hacerlo, que sea lo más normal del mundo para ellos y una humillación ardiente para él: la vergüenza de que los mismos weones con los que jugaba de macho ahora lo vean moverse como la dueña de casa. Y narra su feminización como liberación. Remate: **le recomienda el podcast a otro** (*"tenís que escucharlo, me cambió la vida"*). Última imagen: aprieta play en el Episodio N, en paz.
-- **Por qué excita:** el eco de «La app» — él ya vuelto correa sin saberlo, la rueda que sigue. 🆕 Y la humillación grupal: el círculo que antes lo medía como macho ahora lo ve servir sin que nadie diga una palabra — el silencio colectivo ES la humillación, nadie necesita señalarlo. El horror queda entero con el lector.
-- **Emoción objetivo:** paz siniestra + hambre + vértigo del ciclo + 🆕 el ardor de la vergüenza pública vuelta combustible.
-- **Error fatal:** que Nico llegue a saber, o que haya paz redentora limpia. Nunca sabe. Muere convencido de que se descubrió a sí mismo. SIN revelación. Puerta abierta. 🆕 Que algún amigo del grupo SE DÉ CUENTA, lo comente o se burle explícitamente — igual que Rodrigo, el grupo entero recibe el servicio como si siempre hubiera sido así, sin forzarlo ni nombrarlo (extensión del mismo espejo, H9). Burla explícita de terceros = rompe el mecanismo (pasaría a humillación impuesta desde afuera, no auto-generada).
-- **Ubicación temporal:** Episodio ~28 / fin Semana 4 / **Cap 3.**
+### Pivote 5 — El remate grupal
+- **Qué ocurre:** junta de fútbol de siempre. Nico sirve a todo el grupo, recatado y silencioso, con el gear oculto bajo la ropa de calle como siempre. Rodrigo le da un agarrón de culo y una nalgada delante de todos y le ordena ir a cambiarse — *"así no se debe presentar"*. Nico sale, se pone TODO el gear, vuelve expuesto al grupo entero. Obedece sumisa, asume su nueva posición. **Los amigos lo usan por todas partes, cada agujero, lo que deseen.**
+- **Por qué excita:** es la humillación silenciosa del canon viejo (el grupo que nunca comenta) llevada a su versión física y explícita — el mismo círculo que lo medía como macho ahora lo usa como objeto encerrado, sin que nadie tenga que nombrar lo que pasa. El gear vuelve literal el mecanismo raíz: tiene el gaff, las botas, la máscara — podría negarse — no lo hace.
+- **Emoción objetivo:** sumisión total + exposición pública + el ardor de la vergüenza vuelta combustible + horror pleno del lector.
+- **Error fatal:** que algún amigo lo comente, se burla o rompa el silencio colectivo; que Nico dude o resista en vez de obedecer.
+- **Ubicación temporal:** Episodios 22-28 / Cap 3, clímax.
+- **⚠️ Nota abierta:** el epílogo exacto post-clímax (Nico le recomienda «ALFA» a otro, aprieta play en paz, nunca supo) se mantiene del canon viejo **por defecto** — la Ama no lo objetó ni lo confirmó explícitamente. Queda marcado como pendiente de su Gate, no como decisión suya ya tomada.
 
 ---
 
 ## 3. Personajes (voz)
 
 ### Nicolás "Nico" — el que se feminiza sin saberlo
-- **Rol narrativo:** POV único, primera persona. Arco macho inseguro → mujer rendida feliz. La prosa se feminiza CON él, párrafo a párrafo.
+- **Rol narrativo:** POV único, primera persona. Arco macho inseguro → mujer rendida y usada. La prosa se feminiza CON él.
 - **Frase tipo (inicio, macho):** *"Yo cachaba que me faltaba calle. Por eso le dije al Rodrigo que sí altiro, si el weón nunca me ha recomendado algo malo."*
-- **Frase tipo (medio, ablandándose):** *"No sé, me nació cuidarme las manos. ¿Qué tiene? Igual me quedaron regias. El Rodrigo hasta me las miró."*
-- 🆕 **Frase tipo (pensamiento intrusivo, morboso):** *"Qué webada es esta, no soy gay... pero pensé en la verga del Rodrigo otra vez, en cómo se sentiría, y no la pude sacar de la cabeza en toda la noche."*
-- **Frase tipo (final, entregado):** *"Por fin soy yo, ¿cachai? Todo este tiempo andaba apretado y no sabía. Ahora duermo rico y sé para quién soy."*
-- **Detalle físico ancla:** las manos — arranca con manos de hombre que no sabe dónde poner; empieza a cuidárselas, a moverlas al hablar, a mirárselas; termina con gestos blandos, uñas cuidadas, la mano que sube al pelo. (Rima con el gesto invariante de «De Esteban»: la mano que busca algo — acá busca gustar, y ya no sabe qué hacía antes con las manos.)
-- **Invariante:** las ganas de agradar / de ser aprobado. Antes por las minas, después por Rodrigo, al final por quien lo mire — 🆕 en el cierre, literalmente por todo el grupo de amigos en las juntas de fútbol. La aprobación le da calor — eso NO cambia, solo se redirige y se expande.
+- **Frase tipo (grieta, gear):** *"No sé qué webada es esta, no soy gay... pero me lo puse pensando en cualquier hueá, en cualquier mina, y terminé pensando en el Rodrigo, en cómo se vería, y no lo pude sacar de la cabeza."*
+- **Frase tipo (final, entregado):** *"Por fin soy yo, ¿cachai? Todo este tiempo andaba apretado y no sabía. Ahora sé para quién soy, y para quién sirvo."*
+- **Detalle físico ancla:** las manos, que evolucionan a lo largo del relato — de manos de hombre que no sabe dónde poner, a manos cuidadas, a manos que ahora también entran y salen de guantes de látex, cierres, correas.
+- **Invariante:** las ganas de agradar / de ser aprobado. Antes por las minas, después por Rodrigo, al final por todo el grupo que lo mira usarlo.
 
 ### Rodrigo — el amigo arquitecto (el trono)
-- **Rol narrativo:** el que sabe todo. Curó/pasó el podcast a propósito, mira caer a Nico y lo alimenta. Máximo circuito de traición: el lector sabe, Rodrigo sabe, Nico no. NUNCA fuerza — recibe la adoración como si fuera natural.
-- **Frase tipo:** *"Siempre fuiste así, weón. Yo lo cachaba de antes que tú."* (el espejo con que cementa el "nunca lo sabe" — cada gesto nuevo se lo devuelve como si siempre hubiera estado ahí).
-- **Detalle físico ancla:** los antebrazos / las manos de Rodrigo — lo primero que Nico "nota" sin saber por qué (Episodio ~3). Rodrigo apoyado, tranquilo, ocupando espacio sin esfuerzo; la calma del que ya ganó. 🆕 **La rima baja (Cap 2, Ama 07/07):** el mismo ancla escala hacia abajo — de los antebrazos a la entrepierna/el bulto de Rodrigo, siempre a través de los ojos de Nico que "no debería" mirar ahí y mira igual.
-- **Invariante:** la quietud del que ocupa el trono sin levantar la voz. No pide, no exige, no explica. Recibe. Su poder es no tener que hacer nada.
+- **Rol narrativo:** el que sabe todo. Curó el podcast a propósito, mira caer a Nico y lo alimenta. NUNCA fuerza la revelación ni explica el mecanismo — pero, una vez que la rendición ya está instalada, SÍ toma la iniciativa física y sexual sobre lo que Nico ya desea y ofrece; eso no rompe la regla del trono, la corona.
+- **Frase tipo (Ep. 1, el gancho nuevo):** *"Vai a quedar invencible, blindado, nada te va a poder tocar, weón."*
+- **Frase tipo (el espejo, sigue igual):** *"Siempre fuiste así, weón. Yo lo cachaba de antes que tú."*
+- **Frase tipo (Cap 3, el remate):** *"Así no te tenís que presentar. Anda a cambiarte."*
+- **Detalle físico ancla:** los antebrazos y el bulto de Rodrigo, lo primero que Nico "nota" sin saber por qué y después no puede dejar de mirar.
+- **Invariante:** la quietud del que ocupa el trono sin levantar la voz. No pide, no exige, no explica. Recibe — y cuando decide tomar, lo hace como quien confirma algo que ya era suyo.
 
-### El podcast «ALFA» — la tercera presencia (la caja negra)
-- **Rol narrativo:** el aparato. NO es voz-personaje que se oiga: es **caja negra**. Nico nunca oye el contenido (está dormido). Vive en la interfaz de día: la app de podcast, el número de episodio, la racha de noches, la descripción marketinera del canal.
-- **Renderizado:** cuando aparece, aparece como UI/copy de app de podcast (título del episodio, duración, "reproduciendo", la bio del canal), bloque visual distinto de la prosa. El contenido de audio queda NEGRO.
-- **La regla de la caja negra:** a lo más un jirón de frase que Nico caza medio dormido y descarta como *"soñé raro"* — **usar con cuentagotas, 1-2 veces en TODO el relato**, para dread; nunca romper la regla revelando lo que dice.
-- **Invariante:** promete dominación ("hacerte el alfa"), instala rendición. El copy del canal es de macho-superación; el efecto es lo contrario. El horror vive en el contraste entre lo que promete y lo que hace.
+### El podcast «ALFA» — la caja negra
+- **Rol narrativo:** el aparato. Nico nunca oye el contenido; vive en la interfaz de día (app, número de episodio, racha, bio del canal).
+- **El copy nuevo:** ya no vende minas — vende **control total del cuerpo, invencibilidad, blindaje**. El horror vive en que esa promesa se cumple al revés: el cuerpo termina bajo control, sí — pero del de Rodrigo, encerrado en material que no puede sacarse aunque podría.
+- **La regla de la caja negra:** máximo 1-2 jirones de frase en TODO el relato, cazados medio dormido y descartados como "soñé raro".
 
 ---
 
-## 4. Mecanismo Psicológico Transversal (qué te excita del relato TODO)
+## 4. Mecanismo Psicológico Transversal (qué excita del relato TODO)
 
-El que aprieta play para volverse el alfa es el que termina de rodillas — y **nunca lo sabe**. El morbo es la ironía dramática del montaje: el lector ve a Nico feminizarse y rendirse a Rodrigo mientras Nico lo vive como descubrirse a sí mismo, como liberación, como "por fin soy yo". La excitación es saber la verdad que él no sabe: que su calma nueva es ablandamiento, que su "respeto" es deseo, que "eligió" venerar a Rodrigo porque le tallaron el hueco. Control que se instala desde adentro, invisible, y que el sujeto firma creyendo que se emancipa.
+El que aprieta play para volverse invencible es el que termina encerrado en látex, sirviendo cada agujero a los amigos que antes lo medían como macho — y nunca lo sabe. El morbo dobla la ironía dramática de siempre (el lector ve lo que Nico no puede ver) con la física del encasement: el gear no le da a la mente ningún espacio para reinterpretar lo que pasó — la constricción, el olor, el sofoco son hechos del cuerpo, no opiniones, así que cada rendición llega como evidencia, no como elección moral que haya que defender. Y la prueba más dura no es la magia —acá no hay— es que podría sacárselo en cualquier momento y jamás lo hace.
 
-🆕 **En su versión más alta (Ama 07/07), el mecanismo se hace grupal:** el mismo círculo de amigos que antes lo medía como uno más de ellos ahora lo ve, sin decir nada, servirles como la dueña de casa en cada junta de fútbol — y la humillación de eso, la vergüenza ardiente de ser visto así por todos, es lo que más lo calienta. Nadie fuerza, nadie comenta: el silencio colectivo es la humillación, el mismo espejo de Rodrigo (H9) multiplicado por el grupo entero.
+---
+
+## 4b. 🔁 MOTIVOS PERMANENTES (copiados literal de `investigacion.md` §5)
+
+> Lo que debe estar en **CADA escena**, a partir de que el gear entra en juego.
+
+1. **El olor a látex como presencia de fondo.** No solo al ponérselo — se le queda en la piel, en el pelo, y él lo nota en momentos random del día (en el trabajo, en la calle) sin el gear puesto. Escala: al principio lo extraña y lo disimula; después lo busca sin darse cuenta (se huele la muñeca).
+2. **La constricción como estado continuo, no evento.** Si trae algo de gear puesto en una escena (gaff, hip pads, lencería de látex bajo la ropa de calle), el cuerpo lo sabe todo el rato — no se menciona una vez y se olvida. Escala: de "raro/incómodo" a "no puede pensar en otra cosa" a "no puede imaginarse sin eso".
+3. **El calor atrapado / el sudor bajo el material.** Presente cada vez que trae puesto algo de látex por tiempo prolongado — nunca "cómodo", siempre negociado.
+4. **La voz o la cara comprometidas cuando trae la máscara puesta.** No hablar bien, no reconocerse en el espejo — cada aparición de la máscara debe tocar al menos uno de los dos.
+5. **La reversibilidad nunca usada.** Puede sacárselo. No lo hace. Este motivo no se narra como frase explícita cada vez — se manifiesta en que NUNCA aparece la opción de sacárselo como algo que efectivamente considera hacer.
+
+---
+
+## 4c. 🐢 CURVA DE RESISTENCIA (copiada literal de `investigacion.md` §6)
+
+**Nota de investigación, no de estructura:** el Compositor decide en qué capítulo cae cada peldaño; esto es el material de referencia sobre cómo se comporta ESTE fetiche específico cuando alguien lo prueba por primera vez, para que la curva que arme no salga inventada.
+
+- **Etapa 1 — Shock físico puro (primer contacto con cualquier gear):** la primera reacción real a látex/constricción es de tipo casi claustrofóbico — calor, presión, dificultad para respirar bien las primeras veces. NO puede haber placer limpio en el primer contacto — hay pánico físico real que se confunde con otra cosa. Esto encaja exacto con la ley ya canon del relato (extrañeza → "¿por qué no?" → naturalidad), pero acá la extrañeza tiene un componente FÍSICO, no solo mental: el cuerpo también necesita adaptarse (aprender a respirar bajo la máscara, tolerar el calor, acostumbrarse al peso).
+- **Etapa 2 — Disimulo bajo la ropa de calle:** gaff, hip pads, lencería de látex se pueden usar bajo ropa normal sin que nadie note — este es el punto donde puede sostener el secreto más tiempo, y es el peldaño más largo, porque no obliga a ninguna confrontación con el espejo ni con otros.
+- **Etapa 3 — El primer encierro completo, a solas:** bodysuit completo o máscara puesta por primera vez, sin nadie mirando. Acá es donde el pánico es más alto (no puede hablar, no se reconoce) y donde MÁS fácil sería sacárselo — y no lo hace. Este es el peldaño que no puede saltarse ni acortarse: si el personaje llega tranquilo a la primera vez con máscara puesta, la escena está rota.
+- **Etapa 4 — Tolerancia repetida:** vuelve a ponérselo pese a la incomodidad (calor, sudor, dificultad para hablar) porque el cuerpo ya asoció el material con la descarga que vino después. Acá el motivo de la reversibilidad nunca usada (§5.5) empieza a pesar.
+- **Etapa 5 — Encierro frente a otro (Rodrigo):** el punto más alto de exposición — que Rodrigo lo vea con el gear puesto, sabiendo que no puede hablar bien, que no puede ocultar el cuerpo cambiado bajo el material. Este peldaño no puede llegar antes de que la etapa 3 esté completamente asentada — sería exactamente el error que el canon ya nombra como "que salte de inmediato".
+
+**Dónde todavía NO puede haber cedido:** en el primer contacto con cualquier prenda de gear, el pánico físico (calor, sofoco, no poder hablar bien) tiene que sostenerse un mínimo de un párrafo largo ANTES de que aparezca cualquier señal de placer — igual que la ley ya vigente del canon para el deseo por Rodrigo (asco/negación antes que aceptación). Saltarse esto convierte el gear en accesorio cosmético en vez de en fetiche.
 
 ---
 
 ## 5. Imágenes Ancla (5)
 
-- El dedo de Nico apretando **play** en el episodio de la noche, la app iluminando la cara en el dormitorio a oscuras, feliz, "el mejor sueño de mi vida".
-- Nico mirándose las manos —recién cuidadas, uñas prolijas— a plena luz del día, sin saber por qué le nació.
-- Los antebrazos de Rodrigo apoyados en la mesa, y los ojos de Nico que se van solos, primera vez que "nota" algo y lo llama respeto.
-- Rodrigo devolviéndole el espejo con una media sonrisa: *"siempre fuiste así, weón"*, y Nico aliviado de que alguien lo confirme.
-- La última pantalla: Nico apretando play en el Episodio N, en paz, después de recomendárselo a otro — el mismo gesto del Día 1, ahora ya correa.
+- El dedo de Nico apretando **play** en la noche, la pantalla iluminándole la cara a oscuras, feliz.
+- El talco frío y el "pop" de succión cuando la primera pieza de gear por fin cede y entra en la piel recién depilada.
+- El espejo con la fem mask puesta — la cara que le devuelve el vidrio ya no es la suya, y la voz sale apagada cuando intenta hablar.
+- Rodrigo mirándolo de pie, encerrado en el catsuit y los tacones, y decidiendo tomarlo tal cual está.
+- La nalgada y el agarrón de Rodrigo delante de todo el grupo en la junta de fútbol — *"así no te tenís que presentar"*— y la vuelta con el gear completo expuesto.
 
 ---
 
-## 6. Mapa de Capítulos (estructura minimalista)
+## 6. Mapa de Capítulos
 
-> **COCCIÓN ACELERADA — 3 capítulos anclados a episodios (Ama 04/07: fusión Cap 1+2, acelera el paso, más cambios; el final es el mismo).** El número de episodio ES el termómetro del descenso: el lector mide cuánto cayó Nico por qué episodio va. Cada cap escala varios peldaños de la escalera de rendición (recomendación+pensamientos → amaneramiento+deseo+cuerpo → entrega). Cada cap abre en T° ≥ cierre del anterior; la feminización solo sube. POV único de Nico, viviendo en los DÍAS (las noches = caja negra). **El paso es más rápido y hay MÁS cambios por capítulo que en la versión de 4 caps: no se demora una noche idéntica tras otra — apila los peldaños más densos y seguidos.**
+> 🪝 **Cliffhanger obligatorio por capítulo (Ama 31/08/2026):** todo capítulo salvo el último cierra en su beat de mayor carga, con calentura distribuida en más de una escena. El último capítulo cierra en el clímax del relato, nunca en frío.
 
-| Cap | Episodios / tiempo | Pivote(s) | Peldaños de la escalera | Mecanismo dominante | Beat de ironía | Cierre / cliffhanger |
-|-----|-------------------|-----------|------------------------|---------------------|----------------|----------------------|
-| 1 — La recomendación (**FUSIÓN Cap 1+2**) | Ep. 1-7 / Noche 1 + Semana 1 (aprieta Ep. 8 al cerrar) | P1, P2 | (pre-escalera) **+ 1. Pensamientos** | **FUSIONADO Y ACELERADO:** Rodrigo planta con gancho de ego; Nico escucha dormido; sueño increíble + beneficios que amarran; los pensamientos ajenos que le calzan en segundos, **más densos y rápidos** → manos/uñas → **DEPILACIÓN COMPLETA** → **primera ropa interior femenina: TANGA + MEDIAS** → **la verga que ya no responde** (redirección psicológica, sin magia; se excita pero no se para, queda flácida y chica de ahí en adelante) → **primer deseo de servir a Rodrigo** (en el partido le pasa la cerveza). Grooming sí, cuerpo NO muta | Llama "seguridad"/"subir de nivel" a la calma que en verdad lo ablanda; se cuida "porque le nació" | Primera grieta de deseo por Rodrigo + placer de la tanga/medias, ambos mal archivados como admiración/comodidad. La niega. "Episodio 8." |
-| 2 — El amaneramiento | Ep. 8-21 / Semanas 2-3 | P3, P4 | **2. Amaneramiento · 3. Deseo redirigido · 4. Cuerpo** | Voz/gesto/manos ya se notan; **maquillaje + más ropa femenina exterior**; **empieza a atender/servir a Rodrigo** (le cocina, lo recibe, se arregla para él — grooming sí, cuerpo NO muta); 🆕 **pensamientos intrusivos de la verga de Rodrigo** (asco+calentura, negación "no soy gay") que escalan a fantasear con probarla; Rodrigo entra full al trono y alimenta la deferencia; escala el calor con Rodrigo | Los demás notan, él explica; para el lector el deseo es innegable, para él *"por fin me entiendo"* | Escena con Rodrigo que descarga (🆕 primer acto sobre la fantasía de la verga); Nico lo vive como autenticidad. "Episodio 22." |
-| 3 — La entrega | Ep. ~22-28 / Semana 4 | P4 (cierre), P5 | **5. Entrega** | Feminización + rendición plenas narradas como liberación; **la mujer sumisa doméstica plena: le hace el aseo, atiende a las visitas de Rodrigo, recatada afuera / puta con él**; 🆕 **en las juntas de fútbol sirve a TODOS los amigos (cervezas, papas, cada pedido) — la humillación de que todo el grupo lo vea así, en silencio, es lo que lo enciende**; organiza su vida en torno a la aprobación de Rodrigo | Cree que se descubrió a sí mismo — el lector ve la correa | **Le recomienda el podcast a otro** (*"me cambió la vida"*); aprieta play en el Ep. N, en paz. SIN PAZ para el lector. FIN abierto. |
-
-*Cada capítulo: situación/escena que DESCARGUE + cierre en cliffhanger anclado al número de episodio. **La prosa se feminiza CON él** — registro macho inicial que se ablanda párrafo a párrafo (diminutivos que se filtran, sintaxis que se suaviza); el lector lo SIENTE en el texto, no se lo cuentan. Disciplina anti-repetición: ningún cap repite el mismo latido; cada peldaño escala una función distinta.*
+| Cap | Episodios | Pivote(s) | Mecanismo dominante | Cierre del cap | Cliffhanger/Gancho |
+|-----|-----------|-----------|----------------------|-----------------|----------------------|
+| 1 — La promesa de armadura | Ep. 1-7 | P1, P2, P3 | Reprogramación en la cabeza despierta + primer contacto físico con gear (shock etapa 1) | Depilación, tanga+medias, verga apagada y servicio expandido ya asentados; primera pieza de gear usada | El único orgasmo-mientras-piensa-en-Rodrigo de todo el relato, y el pánico/asco que lo precede. "Episodio 8." |
+| 2 — El encierro escala | Ep. 8-21 | P4 | Escalada de encasement bajo ropa + primer sexo real con Rodrigo mientras Nico está vestido/encerrado | Fem mask puesta por primera vez; Rodrigo lo ve así y lo toma | El primer polvo real con Rodrigo cierra el capítulo, narrado por Nico como autenticidad, no como rendición. "Episodio 22." |
+| 3 — El remate | Ep. 22-28 | P5 | Exposición pública + uso grupal | Clímax: usado por todo el grupo, en silencio colectivo | N/A — último capítulo, cierra en el clímax/resolución, no en gancho. Epílogo pendiente de confirmar con la Ama. |
 
 ---
 
 ## 7. Vocabulario Autorizado (chileno)
 
-weón · cachai / cachar · po · altiro · rico · regio · heavy · atroz · la raja · fome · verga · coger · mojado/a · pololo · pinta · minas · pituto · celular · app · episodio · racha · departamento
+weón · cachai / cachar · altiro · regio · atroz · verga · coger · mojado/a · látex · aprieta · sofoca · gaff
 
 ---
 
 ## 8. Cementerio (lo que NO debe hacer el Escritor)
 
-- **NO que Nico llegue a SABER.** Nunca sospecha del podcast, nunca cacha la trampa, nunca hay revelación. Muere convencido de que se descubrió a sí mismo. El horror es SOLO del lector.
-- **NO que Rodrigo fuerce, presione o explique.** El podcast hace el trabajo; Rodrigo solo recibe y devuelve el espejo (*"siempre fuiste así"*). Villano-de-catálogo = REPUDIADO.
-- **NO romper la caja negra.** Nico está dormido cuando suena; NUNCA se transcribe lo que dice el podcast. Máximo 1-2 jirones de frase medio dormido, descartados como "soñé raro", en todo el relato.
-- **NO feminización clínica ni cuerpo pasivo dormido.** Se vive de DÍA, en la cabeza despierta racionalizando: pánico/extrañeza primero (nunca aceptación desde la primera línea), después el desborde. El calor está en el squirm despierto, no en lo que le pasa a un vaso dormido.
-- **NO cambios físicos mágicos (Ama 01/07).** El cuerpo de Nico **no muta solo**: nada de tetas que crecen, voz que cambia por magia, verga que se achica. La feminización es **100% mental/conductual** (voz que él mismo modula, gestos, arreglo, ropa, deseo, autoimagen). El aparato es SOLO el condicionamiento subliminal — eso de cuerpo que se transforma es «La app», no esto.
-- **NO que Nico "resista y se erosione" a lo dramático** ni que nombre el deseo demasiado pronto. Extrañeza → *"¿por qué no?"* → naturalidad. El deseo se archiva mal (respeto/admiración) hasta que ya no puede.
-- **NO describir la voz que se feminiza — feminizarla.** El registro se ablanda en la PROSA misma (diminutivos, sintaxis blanda), no en un narrador que anuncia "yo hablaba distinto".
-- **NO léxico España** (polla, follar, tío, móvil, coche, piso, vale). **NO voceo argentino** (vos/podés/mirá). Chileno contemporáneo, tú, siempre.
-- **NO final con paz/redención limpia.** El ciclo queda abierto (le pasa el podcast a otro). SIN revelación.
-- **NO metadata visible al lector.** Archivo del capítulo = SOLO prosa; autoverificación a `reportes/`.
-- 🆕 **NO que ningún amigo del grupo se dé cuenta, lo comente o se burle explícitamente** de que Nico les sirve en las juntas de fútbol. Igual que Rodrigo, el grupo entero lo recibe como si siempre hubiera sido así — la humillación es el silencio colectivo, no la burla. Burla o comentario explícito de un tercero = REPUDIADO (rompe el mecanismo de "nunca fuerzan, nunca señalan").
-- 🆕 **NO que el deseo/pensamiento de verga sea genérico o abstracto** ("una verga", "un hombre") — SIEMPRE es la verga de Rodrigo, específica, nombrada. Despersonalizarlo mata el morbo (deja de ser sobre Rodrigo y pasa a ser sobre "ser mujer" en abstracto — error distinto, ya cubierto por el resto del canon).
-- 🆕 **NO que Nico acepte el pensamiento de la verga sin asco/negación primero.** Sigue la misma ley que el resto del relato (extrañeza→"¿por qué no?"): el primer pensamiento es asco-que-también-calienta y negación ("no soy gay"), NUNCA aceptación limpia desde la primera vez.
+- **NO que Nico llegue a SABER.** Nunca sospecha del podcast, nunca cacha la trampa. Muere convencido de que se descubrió a sí mismo.
+- **NO que Rodrigo fuerce la revelación o presione antes de que la rendición esté instalada.** Una vez instalada, SÍ puede iniciar sexo u ordenar (Cap 2-3) — pero nunca explicando el mecanismo, nunca antes de que Nico ya lo desee y lo ofrezca.
+- **NO romper la caja negra.** Máximo 1-2 jirones de frase medio dormido en TODO el relato, descartados como "soñé raro".
+- **NO cambios físicos mágicos.** Todo es gear que se pone y se saca; el sexo es real y explícito, la transformación nunca.
+- **NO narrar el gear desde afuera, como ficha técnica de catálogo.** La voz caliente es la piel de Nico reaccionando —calor, succión, peso, sofoco— nunca la descripción del producto.
+- **NO resolver la incomodidad física en una frase.** El pánico (calor, sofoco, no poder hablar) debe sostenerse un párrafo largo antes de cualquier señal de placer, sobre todo en el primer contacto de Cap 1.
+- **NO repetir el patrón exacto del orgasmo del Cap 1** (visualiza hetero → Rodrigo irrumpe → se corre) en ningún capítulo posterior — es la ÚNICA vez.
+- **NO que ningún amigo del grupo comente o se burle explícitamente** en el clímax de Cap 3. La humillación es el silencio colectivo, no la burla.
+- **NO léxico España ni voceo argentino.** Chileno contemporáneo, tú, siempre.
+- **NO metadata visible al lector.** Archivo del capítulo = solo prosa.
 
 ---
 
-## 9. Frases canónicas (declaradas hoy)
+## 9. Frases canónicas
 
-- *"Vas a tener a las minas comiendo de tu mano, weón."* (gancho de ego — Rodrigo, Ep. 1)
-- *"Siempre fuiste así, weón. Yo lo cachaba de antes que tú."* (el espejo con que Rodrigo cementa el "nunca lo sabe")
-- *"Reprográmate en macho dominante mientras duermes."* (promesa del canal «ALFA» — la mentira central, que instala lo contrario)
-- *"Por fin soy yo."* (Nico narrando su rendición como liberación — el horror del lector)
-- *"Tenís que escucharlo, me cambió la vida."* (cierre — Nico le pasa el podcast a otro, el eco de «La app», ya vuelto correa sin saberlo)
-- 🆕 *"Yo no soy gay... es que es EL Rodrigo, es distinto."* (la negación-que-no-niega — cómo Nico archiva mal el pensamiento de la verga de Rodrigo, Cap 2)
+- *"Vai a quedar invencible, blindado, nada te va a poder tocar, weón."* (Rodrigo, Ep. 1 — nuevo gancho de armadura)
+- *"Siempre fuiste así, weón. Yo lo cachaba de antes que tú."* (el espejo de Rodrigo)
+- *"Así no te tenís que presentar. Anda a cambiarte."* (Rodrigo, Cap 3, el remate)
+- *"Yo no soy gay... es que es el Rodrigo, es distinto."* (la negación que no niega)
+- *"Por fin soy yo."* (Nico narrando su rendición como liberación)
+- *"Tenís que escucharlo, me cambió la vida."* (epílogo, pendiente de confirmar)
 
 ---
 
-*Canon El podcast — v4.7 / Nivel 4. Descarga dominación; se sube rendición. Y nunca lo sabe.*
+*Canon El podcast — v4.8 / Nivel 4 + Investigación. El gear no libera a Nico — lo encierra, y encierra es lo que calienta. Descarga dominación; se sube rendición. Y nunca lo sabe.*
