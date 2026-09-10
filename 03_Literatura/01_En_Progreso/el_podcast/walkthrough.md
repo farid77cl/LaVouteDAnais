@@ -10,6 +10,10 @@
 - **Pendiente marcado, no resuelto por la Ama:** el epílogo post-clímax (recomienda el podcast a otro, aprieta play en paz) se mantiene por defecto del canon viejo — H34 y Pivote 5 lo marcan explícitamente como "⚠️ pendiente de confirmar con la Ama", no como su decisión.
 - **Siguiente paso:** Gate de la Ama sobre el canon nuevo — pregunta abierta: "¿Reconoces este canon como tuyo, o lo procesé y se perdió el matiz?". Si aprueba, Cap 1 v0.1 arranca desde cero sobre este canon (el v0.4 archivado en `borradores/capitulo_01/` queda obsoleto — escrito antes del giro de gear).
 
+## 10/09/2026 — Gate del canon + mandato de temperatura
+- **La Ama, palabras literales:** *"déjalo así, por favor esto es un relato erótico, debe ser caliente, acá hay femenizacion forzada y sumisión. que se note"*. Confirma el canon tal cual quedó (epílogo por defecto incluido, largo ~2.450 palabras sin recortar) y refuerza el mandato de temperatura para lo que viene — no es una corrección al canon, es la instrucción de cabecera para la Fase 2.
+- Canon **APROBADO**. Arranca Fase 2 — Escritura (Escritor-Nivel4), Cap 1 «La promesa de armadura», v0.1 desde cero sobre este canon.
+
 ## 10/09/2026 — Reactivación: reset de versión + premisa en revisión
 - Cap 1 v0.4 llevaba desde el 29/07 esperando Gate, nunca llegó. La Ama lo reseteó: v0.4 archivado en `borradores/capitulo_01/`, raíz sin capítulo activo — la próxima escritura arranca en v0.1 limpio.
 - La Ama nunca quedó conforme con la excusa de Rodrigo para pasarle el podcast a Nico (Pivote 1) — pendiente de resolver en el intake del Compositor.
