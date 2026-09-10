@@ -16,13 +16,13 @@ Escritor-Nivel4 · 2026-09-10 · 3 tramos · primera versión sobre canon v4.8 (
 - ✅ T3-B1 Primera pieza de gear (H26): gaff — «calzón de compresión» negro, comprado por él online la noche del partido (*"busqué en el celular calzón que aplane … Lo pedí por curiosidad"*), llega en sobre negro. Se lo pone a solas, con pestillo, siguiendo el papelito de tres dibujos.
 - ✅ T3-B2 Pánico físico sostenido ANTES del placer (párrafo largo: horno, huevos empujados, verga aplastada, *"No podía respirar"*, sudor frío, *Sácatelo.*, las manos en el elástico sin tirar). Espejo con las manos antes que el pensamiento. La Cata falla: *"La imagen estaba. Estaba entera y estaba muerta."* Rodrigo irrumpe: *"Y en el hueco que dejó apareció el antebrazo. No lo llamé."* → bulto, verga, Nico más chico y liso recibiéndola. Rasgo sumiso emergente: *"Porque él era más grande. Eso hizo la imagen sola. Lo agrandó."*
 - ✅ T3-B3 Orgasmo único (H27), verga nombrada en el pico: *"Estoy pensando en la verga del Rodrigo."* / *"Me corrí con la verga blanda. Doblada, apretada, sin pararse…"* Archivado mal, sin vergüenza redentora: *"Fue por el calzón, pensé. La novedad. … Una casualidad."*
-- ✅ T3 cierre: mismo gesto del Día 1 (*"Vi mi mano, las uñas redondas, el pulgar suspendido encima."*) con lo nuevo instalado sin nombrar (*"El cosquilleo me bajó de las rodillas a las nalgas y se instaló ahí, cómodo, y la verga no se movió, y estaba bien."*). *"Episodio 8."*
+- ✅ T3 cierre: mismo gesto del Día 1 (*"Vi mi mano con las uñas redondas y el pulgar suspendido encima."*) con lo nuevo instalado sin nombrar (*"El cosquilleo me bajó de las rodillas a las nalgas y se instaló ahí, cómodo, y la verga no se movió, y estaba bien."*). *"Episodio 8."*
 
 ## Voz autoral aplicada
 
 - §1 Cuerpo antes que cabeza: ≥2 circuitos por escena — la contracción bajo el ombligo ante la frase de Rodrigo (archivada como esperanza) · el estómago en la caja del supermercado · el escalofrío adelante de la media que desarma la lógica · el tirón en las nalgas cuando aparece el antebrazo · el asco esperado que no llega.
 - §2 Ola y golpe: olas largas con *y* que revientan en fragmento (*"…y me corrí."* / *"Me paré."* / *"Y no pasó nada."*). Refranes que escalan: *nada te va a poder tocar* (esperanza → blindaje → conformidad) · *el que trae las bebidas* (herida → gusto) · *Siempre fuiste así, weón* (dicho → fantaseado).
-- §3 Cursivas: ~30 en ~7.800 palabras (≈3,8/1000). Registro 1 (frase entera con la palabra): *Estoy pensando en la verga del Rodrigo.* · *Soy un hombre de treinta y un años en medias, tirado en la cama, frotándome el calzón sin verga, pensando en chupársela al Rodrigo.* · *Tengo que cuidarme las manos.* Registro 2 (voz de abajo): *rico* · *suave. más.* · *se ve rico.* · *sí. esa.*
+- §3 Cursivas: Loreto contó 17 en la primera pasada (2,2/1000 — mi conteo a ojo de ~30 incluía cursivas de diálogo/énfasis que ella no cuenta). Tras la corrección se agregaron 5 donde el cuerpo ya hablaba (*Qué lindas.* en el espejo · *Se va a dar cuenta.* en la caja · *qué grande* bajo el antebrazo · *Quiero la tira.* al despertar · *el Rodrigo. el Rodrigo.* en las olas del orgasmo) → 22 en ~7.750 ≈ 2,8/1000. Registro 1 (frase entera con la palabra): *Estoy pensando en la verga del Rodrigo.* · *Soy un hombre de treinta y un años en medias, tirado en la cama, frotándome el calzón sin verga, pensando en chupársela al Rodrigo.* · *Tengo que cuidarme las manos.* Registro 2 (voz de abajo): *rico* · *suave. más.* · *se ve rico.* · *sí. esa.*
 - §4 Dominante: Rodrigo canónicamente silencioso (nota del Orquestador en el brief §4). Sus líneas caen con peso: la del gancho, *Pruébalo*, *Siempre fuiste así, weón*, *Gracias, Nico*. Cero parlamentos ≥45 palabras — por diseño, no por omisión.
 - §5 Palabra cruda en el pico: *verga* en la paja del T1, en el espejo del T2 y en la descarga del T3; *culo*, *leche*, *huevos*, *chupársela* donde el cuerpo sube.
 - §6 Espejo con las manos: T2 (palmas en los muslos, la tira con los dedos, se aprieta una nalga → *Un culo de mujer*) y T3 (palmas en el frente plano, caderas, nalgas → *No tengo nada adelante. Se me ve como a ella.*).
@@ -49,7 +49,7 @@ Escritor-Nivel4 · 2026-09-10 · 3 tramos · primera versión sobre canon v4.8 (
 - C0: ninguna escena solo informa; el día de oficina (2 párrafos) lleva la contracción ante la Cata y las manos quietas.
 - C1 trámite: día de oficina T1 (2 párrafos) · farmacia T2 (1) · entrega del paquete T3 (3 líneas + diálogo cortado). Sin inventarios en bloque: el gaff se describe desde la mano (*"un elástico grueso que se estiraba en la mano y volvía"*), no como ficha.
 - C2: cero eufemismos en los picos. Estados reportados: ninguno (los *tenía calor* se ejecutan con orejas/nalgas/boca abierta/caderas).
-- C3 frases-imagen repetidas después de podar: *la contracción de abajo del ombligo* ×3 (refrán que escala, T1→T2) · *chica, blanda* ×4 (estado de la verga, refrán) · *con esa calma que tiene* ×3 (Rodrigo). Podados: *sin apuro* (4→3), *pestillo* (4→3), un tricolon y un remate de relleno. No hay versión anterior que retocar (primera versión).
+- C3 frases-imagen repetidas después de podar (segunda pasada, tras `medicion_v0.1.md`): *chica, blanda* ×3 (estado de la verga, refrán) · *con esa calma que tiene* ×3 (Rodrigo) · *te va a poder tocar* ×3 (refrán canónico H2). Podados en la segunda pasada: la oración clonada *la A blanca me iluminó la cara* (2→1) · *me puse los audífonos* (6→2, el eco Día 1/Ep. 8) · *con las medias puestas* (6→1) · *con las piernas abiertas* (4→1, la del sillón en la fantasía) · *la parte de adentro de los muslos* (3→1) · *la contracción de abajo del ombligo* (2→1) · *me pasé las manos por* (3→2) · *el celular en la mano* (3→2) · *la mano en mi nuca* (3→2) · *me quedé mirando la lista* / *senté al borde de la cama* / *hombre de treinta y un años* (2→1 cada una). Primera pasada: *sin apuro* (4→3), *pestillo* (4→3). No hay versión anterior que retocar (primera versión).
 - C4: ningún término inventado; pronombres/género masculinos en todo el capítulo (Nico no está feminizado en gramática todavía — la voz solo se ablanda). Voceo chileno solo en boca de personajes (*vai, escuchai, tenís, ponís*).
 - C5: cada acercamiento a Rodrigo lleva distancia que se cierra (diez centímetros del antebrazo, un centímetro de la cara), olor (*jabón y piel caliente*), piel (mano en la nuca).
 - C6: el pico (T3, gaff → Cata fallida → Rodrigo → descarga) es la sección más larga y más sucia; lleva el eje del relato (sumisión/feminización sin lucidez).
@@ -63,9 +63,9 @@ Escritor-Nivel4 · 2026-09-10 · 3 tramos · primera versión sobre canon v4.8 (
 
 | # | Métrica | Umbral (brief §6) | Conteo real tras la pasada |
 |---|---|---|---|
-| H1 | Tricolones de relleno | ≤2 por escena | ≤2 en todas (podado *sin ayudar, sin ofrecer, sin agradecer* y *sin títulos, sin descripción, sin fotos*); los que quedan cargan cuerpo |
-| H2 | «no era X, era Y» | ≤1 por cap (criterio §2 voz_autoral: cuerpo corrigiendo cabeza) | 3, los tres cuerpo-corrige-cabeza (*no era flojera. Era otra cosa* · *no eran mis muslos. Eran los muslos de alguien liso* · *no adelante, sino atrás*); podados 3 |
-| H3 | Remates aforísticos de relleno | ≤6 por cap | 5 (*Ni feo ni tonto. Blando.* · *Había dormido.* · *No supe por quién.* · *Antes me dolía.* · *Nada me iba a poder tocar.*); podado *Ese es el resumen* |
+| H1 | Tricolones de relleno | ≤2 por escena | Loreto midió esc.9 ×17 (el beat central). Segunda pasada: 24 listas-de-tres de la escena 9 rotas a pares o a frase corrida (*apretado y sin aire* · *Doblada y apretada* · *por las caderas y las nalgas hasta las rodillas* · *La Cata de rodillas, abierta* · etc.); en esc.1 y esc.7 se rompieron 3 más. Los que quedan cargan cuerpo |
+| H2 | «no era X, era Y» | ≤1 por cap | Loreto detectó 2; cortado el de *no fue un recuerdo… sino* (T1 cierre). Queda 1 detectable (*no era flojera. Era otra cosa* — cuerpo corrigiendo cabeza) |
+| H3 | Remates aforísticos de relleno | ≤6 por cap | Loreto midió 10. Cortados 5 (*Abrí la app.* · *Puede que nunca.* · *Tampoco pregunté.* · *Me sequé.* · *Me paré.* → fundidos en la frase anterior). Quedan ~5 (*Había dormido.* · *No me tocó.* · *No supe por quién.* · *Blando.* · *Antes me dolía.*) |
 | H4 | Abstractos que nombran el tema | 0 | 0 |
 | H5 | «algo» comodín | ≤2 por cap | 2 (podados 3) |
 | H6 | Dobletes de adjetivos | ≤3 por cap | ~4, todos refrán de estado (*chica, blanda* / *tibio, dulce*) — el Validador afina |
@@ -73,12 +73,14 @@ Escritor-Nivel4 · 2026-09-10 · 3 tramos · primera versión sobre canon v4.8 (
 | H8 | Varianza de frase (≤5 y ≥35 por 500) | cumple | cumple en los tres tramos |
 | H9 | Lastre (L2/L4; L1/L6 derogados) | presente | L2: *No supe con qué no se podía. Tampoco pregunté.* / *No supe qué era.* / *no supe qué quería* · L4: *Por todo. Por todo.* / *me frotaba y me frotaba* |
 | H10 | Varianza de cláusula | mezcla | cláusulas de 1-2 palabras (*Las dos.* / *Solas.* / *Nada.*) contra olas de 15-25 sin coma |
-| H11 | Dos puntos reveladores | ~0 | 3 restantes, todos introduciendo cursiva o enumeración (podados 4) |
+| H11 | Dos puntos reveladores | ~0 (cupo Loreto 1,5/1000) | Loreto: 4 (0,52/1000, bajo cupo). Cortado el de *en el medio: A* → quedan 3, todos introduciendo cursiva o enumeración |
 | H12 | «como si / como quien» | ~0 | 2 (*como si me hubieran pasado cera* — temático · *como si hubiera ido a buscar sal*); podados 2 |
 | H13 | Recibo de excitación al cierre de párrafo | 0 | 0 (reescritos 2 como cuerpo ejecutado) |
 | H14 | Habla real / interrupciones | presente | *—¿Y tú qué…* / *—Nada.* · *—Te llegó un…* / *—Sí. Gracias.* · *Ya po, Nico, mozo* · *me ponís nervioso* |
 
-**M11 (cursivas/1000):** ≈3,8 · **M12 (parlamentos ≥45 palabras):** 0 — Rodrigo silencioso por canon (brief §4), compensado con la cursiva de Nico.
+**M11 (cursivas/1000):** ≈2,8 tras la segunda pasada (Loreto medía 2,2 antes; piso 2,5) · **M12 (parlamentos ≥45 palabras):** 1, y es de Nico (la historia de la Cata, 67 palabras) — Rodrigo silencioso por canon (brief §4), compensado con la cursiva de Nico.
+
+**Apertura (T8):** Loreto midió 3,0 % de cuerpo en las primeras 500 palabras. Reescritos los dos bloques de apertura interleando cuerpo en el backstory (lata helada en la palma, la polera pegada a la espalda, tragar saliva sin nada que tragar, la verdad *bajándome por el pecho como la cerveza, fría y después caliente*, las manos escondidas bajo la mesa, la garganta que se cierra, el calor en las orejas) y sacado «control remoto» (vocabulario de trámite). La oración clonada *la A blanca me iluminó la cara* quedó una sola vez; el cierre del T1 ahora dice *La pantalla me encendió la cara en la oscuridad.*
 
 ## Notas internas del Escritor
 
