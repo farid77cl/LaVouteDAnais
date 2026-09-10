@@ -16,7 +16,7 @@
 | **Categoría** | **Ficción General** |
 | **Rating** | 🔴 **Mature** — obligatorio |
 | **Copyright** | Todos los derechos reservados |
-| **Estado** | Marcar **Completa** al subir la parte 4. ✅ **Las 4 partes están listas (05/09/2026):** la Ama dio su Gate sobre el Cap 4 v0.5 (*«cap aprobado»*, `01_En_Progreso/cafe_con_piernas/reportes/capitulo_04/gate_capitulo_04_cuanto_es_v0.5.md`). Relato completo y publicable entero. |
+| **Estado** | Marcar **Completa** al subir la parte 4. ✅ **Las 4 partes están listas (05/09/2026):** la Ama dio su Gate sobre el Cap 4 v0.5 (*«cap aprobado»*, `_proceso/reportes/capitulo_04/gate_capitulo_04_cuanto_es_v0.5.md`). Relato completo y publicable entero. |
 | **Partes** | 4 (~48.200 palabras) — **las 4 publicables** |
 
 ---
