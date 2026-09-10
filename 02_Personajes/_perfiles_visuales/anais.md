@@ -389,8 +389,11 @@ Corrección directa sobre el batch L26-L30: *"la ropa interior rica en encaje y 
 | A8 | **Bodystocking / red** | `sheer fishnet bodystocking worn under the open robe` |
 | A9 | **Peignoir de gasa** | `sheer silk gauze peignoir over bare skin, transparent under the light` |
 | A10 | **Balconette** | *(el que había — sigue válido, pero deja de ser el default)* |
+| A14 | **Peek-a-boo / copa abierta** | `open-cup lace bra, the sheer lace parting at the center of each cup so the nipple shows through the filigree, the underwire and band fully structured` *(añadida 10/09/2026 — el catálogo de pin-up glamour de los 50s vivía en esta pieza y su biblioteca nunca la tuvo)* |
+| A15 | **Slip con liguero integrado** | `full-length silk charmeuse slip with the garter straps sewn directly into the hem seam, no separate belt, the straps cut from the same satin as the trim` *(añadida 10/09/2026 — distinta del A12: aquí el liguero nace de la prenda, no se agrega encima)* |
+| A16 | **Sujetador con lazo al centro** | `demi-cup lace bra with a small satin bow stitched at the center front between the cups, a matching bow echoed at the top of each garter strap` *(añadida 10/09/2026 — el detalle-firma de sus fotografías, nunca escrito antes)* |
 
-- **Ventana anti-repetición:** una arquitectura **no se repite en los últimos 3 looks** de Boudoir/Lencería. Balconette entra en la rotación como una más de diez, nunca como default.
+- **Ventana anti-repetición:** una arquitectura **no se repite en los últimos 3 looks** de Boudoir/Lencería. Balconette entra en la rotación como una más de diez, nunca como default. A14-A16 entran a la misma rotación.
 - **🎀 Liguero — obligatorio con medias (recupera `CANON_VISUAL_ANAIS.md` §86, que se perdió al reescribir este perfil).** Si el look lleva medias, lleva liguero: **6 tirantes, siempre POR ENCIMA del calzón** (regla histórica), tensos y visibles en el muslo. Medido antes del fix: 9 apariciones en 98 prompts.
 - **Transparencia:** al menos una zona declarada transparente por look de Boudoir (`sheer`, `open lace`, `gauze`) — nombrando **dónde**, nunca suelto.
 
@@ -419,7 +422,7 @@ Corrección directa sobre el batch L26-L30: *"la ropa interior rica en encaje y 
 
 **La regla de fondo, en una línea:** en La Perla la prenda **acompaña** el cuerpo; en la corsetería lo **rehace**. Anaïs es aristocracia, no arquitectura.
 
-**Arquitecturas vivas de la §5.6 tras el veto:** A1 quarter-cup · A2 bullet bra *(sigue válida — es sostén, no corsetería)* · A3 plunge demi-cup · A8 bodystocking de red · A9 peignoir de gasa · A10 balconette. **Muertas: A4, A5, A6, A7.** Y se suman tres de este registro:
+**Arquitecturas vivas de la §5.6 tras el veto:** A1 quarter-cup · A2 bullet bra *(sigue válida — es sostén, no corsetería)* · A3 plunge demi-cup · A8 bodystocking de red · A9 peignoir de gasa · A10 balconette · A14 peek-a-boo · A15 slip con liguero integrado · A16 sujetador con lazo *(las tres últimas, añadidas 10/09/2026 — ninguna lleva ballenas ni construye la silueta, así que ninguna choca con el veto)*. **Muertas: A4, A5, A6, A7.** Y se suman tres de este registro:
 
 | # | Arquitectura | Token base |
 |---|---|---|
