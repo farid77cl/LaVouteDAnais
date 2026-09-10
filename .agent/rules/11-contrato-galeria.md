@@ -1,6 +1,6 @@
 # 📋 REGLA 11 — CONTRATO DE LAS GALERÍAS (Ele · Miss Doll · Anaïs)
 
-> **Para qué existe:** `00_Ele/galeria_outfits.md` lo leen **tres** actores distintos — la **app Android** de la Ama (genera las imágenes y las sube), el **bot paralelo** (mantiene READMEs/galerías) y el **agente** (diseña los looks). Cuando cada uno interpreta el archivo a su manera, el resultado no es un desacuerdo de estilo: son **carpetas duplicadas, contadores que mienten y cuota API quemada regenerando imágenes que ya existían**.
+> **Para qué existe:** `00_Ele/galeria_outfits.md` lo leen **dos** actores distintos — la **app Android** de la Ama (genera las imágenes y las sube) y el **agente** (diseña los looks Y mantiene galerías/READMEs — corregido 10/09/2026, el "bot paralelo" que se creía dueño de eso nunca existió: medido contra `git log`, cero commits a galerías/READMEs son de la app). Cuando cada uno interpreta el archivo a su manera, el resultado no es un desacuerdo de estilo: son **carpetas duplicadas, contadores que mienten y cuota API quemada regenerando imágenes que ya existían**.
 >
 > Este archivo es el **contrato único**. Lo que no esté aquí, no es formato válido.
 >
@@ -364,8 +364,9 @@ git ls-files | Where-Object { $_ -match '\.md$' } | Where-Object { $l=$_.ToLower
   $l -notmatch 'galeria_index|report|\.bkp|03_literatura|canon_visual|ficha_|sistema_poses|banco_prompts' }
 ```
 
-5. **Excepciones intencionales de Ele** (NO tocar): `galeria_outfits_archivo.md` (L85-L199) y `memoria_historica/galeria_outfits_era_gotica.md` (L01-L84, era Helena) alimentan la app a propósito y **no colisionan** porque la galería viva arranca en L200.
-6. La app limpia su base en cada sync (`clearLooks()` + `clearPrompts()` en `replaceDataSilent`), así que **no hay que borrarle los datos**: basta con sincronizar.
+5. **Excepción intencional de Ele:** `galeria_outfits_archivo.md` (L46-L199) alimenta la app a propósito, junto con la galería viva (arranca en L200).
+6. **Colisión real encontrada y corregida 10/09/2026 (auditoría Fable):** esta misma sección decía que el archivo (L85-L199) y `memoria_historica/galeria_outfits_era_gotica.md` (L01-L84, era Helena) "no colisionan" — medido, los dos rangos habían crecido y se solapaban en **L46-L128**, con `galeria_outfits_era_gotica.md` ganando en silencio por orden alfabético (regla §9bis) sobre el archivo V3.5 real. Renombrado a `memoria_historica/ARCHIVO_LEGACY_ELE_ERA_GOTICA.md` — ya no contiene la subcadena gatillo `galeria_outfits`, deja de competir. Lección: una "excepción que no colisiona" hay que volver a medirla, no asumirla — los rangos crecen.
+7. La app limpia su base en cada sync (`clearLooks()` + `clearPrompts()` en `replaceDataSilent`), así que **no hay que borrarle los datos**: basta con sincronizar.
 
 ---
 

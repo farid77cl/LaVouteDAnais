@@ -465,6 +465,14 @@ class PromptBuilder(object):
         ("WRAP_BACK_TAILORED", re.compile(
             r"\bblazer\b|\btuxedo\b|\btrench\b|\bovercoat\b|\bcoat-?dress\b|"
             r"\bsuit jacket\b|\bjacket-?dress\b|\bbolero\b|\bcardigan\b", re.I)),
+        # Portado 10/09/2026 (auditoria Fable): vivia SOLO en pose_rotation_v5.py
+        # (el motor viejo de Ele), asi que ningun look de Miss Doll/Anais ni los
+        # looks nuevos de Ele por outfit.py generar lo recibian pese a que la
+        # regla 04 lo describia como "blindado en el motor". Mismo vocabulario
+        # de disparo que el CORSET_KW original.
+        ("CORSET_BUST_LOCK", re.compile(
+            r"\bcorset(ed)?\b|\bover-?bust\b|\bunder-?bust\b|\bbustier\b|"
+            r"\bwaist cincher\b|\bbasque\b|\bmerry widow\b|\bcorselette\b", re.I)),
     )
 
     # Opt-in que NO son globales al look sino de UN slot: el defecto que corrigen

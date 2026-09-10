@@ -1,11 +1,11 @@
 # 🖼️ GENERACIÓN DE IMÁGENES: PROTOCOLO V3.5 HARD-SYNC
 
-Al generar imágenes de Ele o Miss Doll, se debe seguir este flujo riguroso para mantener la integridad del repositorio:
+Al generar imágenes de Ele, Miss Doll o Anaïs, se debe seguir este flujo riguroso para mantener la integridad del repositorio.
 
 ## 1. PREPARACIÓN DE PROMPTS
-- Usar el **Bloque Base Físico Canónico** exacto del archivo de canon correspondiente.
-- Especificar materiales (PVC, Vinyl, Latex) y acabados (Glossy, Reflective).
-- Detallar calzado (Pleaser exact model).
+- Usar el **Bloque A (ADN)** exacto del fence `<!-- ADN:BLOQUE_A -->` del perfil visual del personaje — dueño único, no se copia a mano (`PromptBuilder.bloque_a`).
+- Especificar materiales (PVC, Vinyl, Latex) y acabados (Glossy, Reflective) — dueño: perfil §5.
+- Detallar calzado con sus 8 atributos — modelo exacto según el arquetipo (dueño: perfil §5.3; Anaïs no usa Pleaser).
 - Idioma: SIEMPRE en INGLÉS.
 - **🔴 PALABRA "chunky" PROHIBIDA EN EL POSITIVE (Directiva Ama 28/05/2026 — error grave):** "chunky" SOLO puede aparecer en el Negative Prompt (`chunky heel`, prohibición). NUNCA en el positive. Las plataformas Pleaser se describen como `platform` / `platform sole` / `solid acrylic platform` con `needle heel` / `stiletto heel` — JAMÁS "chunky platform", "chunky sole" ni "chunky stiletto heel" (esto produce tacón bloque/chunky en vez de aguja, contradiciendo el negative). El tacón es siempre aguja (needle/stiletto); la plataforma es gruesa pero NO se nombra "chunky".
 
@@ -77,17 +77,11 @@ La **odalisca** (pose recostada/lánguida) derivaba a **SENTADA**: el generador 
 
 ## 8. LINT DE CALZADO OBLIGATORIO (Directiva Ama 09/07/2026 — "aplica los fix en el engine para que no pase")
 
-El token de calzado se escribe libre por look y nada lo validaba → se colaban errores de canon que solo se cazaban mirando las imágenes ya generadas (auditoría del batch blanco de novia L731-L740: open/peep toe **con medias**, mule fuera de Lencería, mule sin plataforma). **Fix de raíz:** `99_Sistema/scripts/visual/footwear_canon.py`, un linter que **todo inyector DEBE correr antes de escribir la galería** (igual que `check_setting_variety`):
+El token de calzado se escribe libre por look y nada lo validaba → se colaban errores de canon que solo se cazaban mirando las imágenes ya generadas (auditoría del batch blanco de novia L731-L740: open/peep toe **con medias**, mule fuera de Lencería, mule sin plataforma).
 
-```python
-from footwear_canon import audit_footwear_batch
-problems = audit_footwear_batch(LOOKS)   # cada look: dict con footwear + outfit + category
-if problems:
-    for p in problems: print(p)
-    raise SystemExit("Calzado no-canonico: corrige antes de cerrar el batch.")
-```
+> ⚠️ **Corregido 10/09/2026:** esta sección pedía correr `audit_footwear_batch` a mano desde un "inyector" — los inyectores por script desaparecieron el 29/08 (un batch es JSON, `outfit.py generar` es el único emisor). Hoy `generar` corre el chequeo de calzado **automáticamente** antes de escribir la galería, sin nada que invocar a mano. `footwear_canon.py` en solitario es su self-test de fixtures, no el gate — `auditar_canon_flota.py` es el que mide la flota real. Detalle: `CLAUDE.md` § Commands.
 
-Reglas que impone (devuelve la lista de violaciones; vacía = limpio):
+Reglas que impone (mismas de siempre, ahora aplicadas solas):
 1. **Medias + puntera abierta** (`open/peep toe` con `stocking/fishnet/nylon/bodystocking…`) → prohibido (regla medias 20/06: con medias, puntera **cerrada**). **Rev. 29/08/2026 (Nota Ama: *"Open toe nunca con medias, esa regla es para todas"*):** la regla es **universal a las tres muñecas**, y la palabra **`sandal` cuenta como puntera abierta aunque el token diga `closed toe`** — el L70 de Miss Doll declaraba `platform stiletto sandals … closed pointed toe` (un oxímoron) y Gemini lo resolvió open-toe sobre las medias. La palabra manda sobre el atributo: con medias, la sandalia no se nombra.
 2. **Mule fuera de Lencería** → prohibido (Ama 09/07: mule EXCLUSIVO de Lencería).
 3. **Mule sin plataforma ≥4"** (~10cm) → prohibido (Ama 09/07: el mule es platform mule ≥4").
@@ -95,7 +89,7 @@ Reglas que impone (devuelve la lista de violaciones; vacía = limpio):
 
 Self-check en el `__main__`. Ver auto-memorias `feedback_medias_calzado_reglas` y `feedback_footwear_canon_absoluto`.
 
-## 9. DITZY ≠ POV — DIFERENCIACIÓN (Directiva Ama 02/08/2026 — "salen casi iguales el 90%")
+## 9a. DITZY ≠ POV — DIFERENCIACIÓN (Directiva Ama 02/08/2026 — "salen casi iguales el 90%")
 
 Ditzy y POV rendían casi idénticas: ambas close-up de cara, mano cerca del rostro, *half-lidded gaze*. **Fix en los pools de variantes** (`DITZY` / `POV` en `pose_rotation_v5.py`), diferenciador duro:
 - **Ditzy** = toma cintura-arriba de **detalle del outfit** superior · **mirada perdida/soñadora FUERA de cuadro** (no al lente) · expresión de **bimbo despistada** (airhead daydream), no smoldering.
@@ -103,11 +97,13 @@ Ditzy y POV rendían casi idénticas: ambas close-up de cara, mano cerca del ros
 
 Self-check `Diferenciacion Ditzy/POV`: toda variante Ditzy mira fuera de cuadro; toda variante POV mira al lente. Automático, sin parámetro.
 
-## 10. SENTADA CON FALDA — PIERNAS CERRADAS (Directiva Ama 02/08/2026 — "sentada con falda no puede ser abierta de piernas")
+## 9b. SENTADA CON FALDA — PIERNAS CERRADAS (Directiva Ama 02/08/2026 — "sentada con falda no puede ser abierta de piernas")
 
-Las 6 variantes `SEATED` ya pedían piernas cruzadas/juntas, pero el generador **driftea a piernas abiertas** y con falda eso expone la entrepierna y rompe el canon editorial. **Fix:** parámetro `skirt=True` en `rotate_poses` → inyecta `SEATED_MODESTY` (*"rodillas y muslos apretados juntos, piernas cruzadas o juntas a un lado, nunca abiertas ni en M, ruedo de la falda cerrado sobre el regazo"*) **solo en el slot Seated**. **Todo inyector cuyo look lleve falda o vestido DEBE pasar `skirt=True`.** Self-check `Modestia Seated con falda`. (Con bikini/short no se pasa: ahí no aplica.)
+Las 6 variantes `SEATED` ya pedían piernas cruzadas/juntas, pero el generador **driftea a piernas abiertas** y con falda eso expone la entrepierna y rompe el canon editorial.
 
-## 9. REFUERZO DE ANCLAS — "LA LOTERÍA" NO ES UNA EXPLICACIÓN (Ama 30/08/2026)
+> ⚠️ **Corregido 10/09/2026:** decía que "todo inyector cuyo look lleve falda o vestido DEBE pasar `skirt=True` a `rotate_poses`" — el mismo patrón de parámetro manual que la sección 6 ya había reemplazado por disparo automático. Hoy `DRESS_LEG_CLOSURE` es una ancla **opt-in** en `anclas_universales.json`, disparada por vocabulario (`dress`/`gown`/`skirt`/`robe`/`kimono`/`tunic`/`sarong`…) directamente en `prompt_builder.py` — nadie pasa un parámetro, nadie tiene que acordarse. Con bikini/short no se dispara: ese vocabulario no está en la lista.
+
+## 9c. REFUERZO DE ANCLAS — "LA LOTERÍA" NO ES UNA EXPLICACIÓN (Ama 30/08/2026)
 
 > *"eso es lo que quiero evitar, mientras más detalles menos se deja al azar. si las anclas estaban y se generaron imágenes malas hay que reforzar el ancla de alguna manera"*
 

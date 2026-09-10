@@ -1,7 +1,7 @@
 {
   "_dueno_unico": "Este archivo es el DUEÑO ÚNICO del texto literal de las anclas anti-defecto del outfit-engine. La doctrina (cuándo aplica cada una) vive en .agent/skills/outfit-engine/SKILL.md §Ensamblado; el texto operativo vive AQUÍ y nadie más lo copia. prompt_builder.py lo carga, el linter lo verifica.",
-  "version": "2.5",
-  "fecha": "2026-08-30",
+  "version": 2.6,
+  "fecha": "2026-09-10",
   "idioma": "en",
   "anclas": {
     "SINGLE_FRAME": {
@@ -167,6 +167,11 @@
     "FABRIC_PRISTINE": {
       "porque": "NUEVA 30/08/2026. El Back View del L813 rindió rayas de tatuaje sobre la chaqueta chartreuse con las 3 cláusulas del ADN presentes ('shown only on bare uncovered skin', 'stay concealed beneath the fabric', 'never through or over any garment'). Todas describen los TATUAJES; ninguna describía LA TELA. Esta la describe, afirmativa y con peso.",
       "texto": "every fabric surface is pristine and unprinted: no tattoo, rune, glyph, line, scribble or drawing appears on any garment, (all garment surfaces clean, solid-coloured and unmarked:1.4)"
+    },
+    "CORSET_BUST_LOCK": {
+      "porque": "Portado 10/09/2026 (auditoria externa Fable) desde pose_rotation_v5.py, el motor viejo de Ele -- vivia solo ahi, asi que ningun look de Miss Doll ni Anais lo recibia nunca, y los looks nuevos de Ele por outfit.py generar tampoco (el emit path no importa pose_rotation_v5). Sin el ancla, la relacion prenda-busto en siluetas de corse/overbust/bustier salia por azar; el Bloque A fija el implante (1000cc, ultra high-profile, esferico) pero no esta RELACION. Redaccion anti-filtro deliberada: describe la ARQUITECTURA (borde bajo, apoyo por debajo, altura y redondez) sin nombrar escote profundo -- 'deep cleavage' dispara el safe de Gemini y quema cuota.",
+      "opt_in": "Solo en looks cuyo BLOQUE B declare corset, overbust, under-bust, bustier, waist cincher, basque, merry widow o corselette.",
+      "texto": "the corset is laced to its tightest with its rigid structured upper edge cut low and sitting firmly beneath the augmented bust, so the two perfectly spherical implants rest very high, full and rounded above the neckline, the glossy porcelain skin taut and lifted over the corset's rim, the boned waist collapsed to its narrowest directly below, the garment's edge crisp and unbroken against the skin"
     }
   },
   "negative_universal": {
@@ -323,7 +328,8 @@
     "HOSIERY_LOCK": "el BLOQUE B nombra medias (stocking · fishnet · nylon · hosiery · pantyhose · hold-up · bodystocking)",
     "ANIMAL_PRINT_LOCK": "el BLOQUE B nombra estampado animal (python · snake · leopard · tiger · zebra). El {kind} lo resuelve build() con la especie detectada",
     "WRAP_BACK_ROBE": "el BLOQUE B nombra prenda envolvente de frente abierto: robe · kimono · peignoir · bata · wrap dress. SOLO se aplica al slot back_view (Ama 29/08/2026)",
-    "WRAP_BACK_TAILORED": "el BLOQUE B nombra chaqueta estructurada de frente abierto: blazer · coat · trench · tuxedo · coat-dress · bolero. SOLO se aplica al slot back_view (Ama 02/08/2026, subida al motor genérico 29/08/2026)"
+    "WRAP_BACK_TAILORED": "el BLOQUE B nombra chaqueta estructurada de frente abierto: blazer · coat · trench · tuxedo · coat-dress · bolero. SOLO se aplica al slot back_view (Ama 02/08/2026, subida al motor genérico 29/08/2026)",
+    "CORSET_BUST_LOCK": "el BLOQUE B declara silueta de corse: corset • overbust • under-bust • bustier • waist cincher • basque • merry widow • corselette"
   },
   "anclas_siempre": {
     "_nota": "Anclas que un personaje lleva en TODOS sus slots, además de `mapa_por_defecto._todos` (13/08/2026). Existe porque hay prohibiciones de canon que son de un personaje y no del repo: meterlas en `_todos` se las impondría a los tres, y repetirlas en los 7 `overrides` sería copia. `prompt_builder.anclas_de_slot()` las concatena después de `_todos`; el linter las exige igual que a las demás. Se declaran en `personajes.<slug>.anclas_siempre`."
@@ -475,7 +481,10 @@
         "_cuota_porque": "Misma cuota que miss_doll (1 de cada 4). Ele tiene 618 looks y una historia cromatica propia, pero el eje que esta cuota protege -- que no se encadenen arquitecturas de pura piel -- es identico para las tres.",
         "desde_look": 818,
         "_desde_look_porque": "Ele iba en 818 looks el 04/09/2026: la ventana arranca en el PROXIMO look nuevo y no juzga retroactivamente 618 looks ya materializados. Misma convencion retrofit-al-tocar que uso miss_doll con su desde_look 26.",
-        "historicos_declarados": [818, 823],
+        "historicos_declarados": [
+          818,
+          823
+        ],
         "_historicos_porque": "Ama 08/09/2026, decidido en la Mesa de La Voute: 'Declararlo historico'. L818 y L823 son casi el mismo parrafo -- 48,4% de lexico comun y 15 n-gramas verbatim, hallazgo del candado de clon intra-personaje. Los DOS estan materializados (L823 con sus 7 imagenes, L818 con 2), asi que rediseñar cualquiera de ellos bota generacion ya pagada sin arreglar lo publicado. Bajan a AVISO, misma politica que miss_doll L72/L78. La regla sigue dura de aqui en adelante.",
         "cross_batch_desde_look": 828,
         "_cross_batch_porque": "Ama 05/09/2026: 'me gusta ver a anais con corset y tanga... pero la volviste a poner con el mismo vestuario en el nuevo batch' + 'debes darme variedad en vestuario'. X4 del auditor cruzado pasa de avisar a BLOQUEAR con UNA sola arquitectura repetida contra el batch inmediatamente anterior. El ancla es el PROXIMO lote y no el actual a proposito: los looks ya materializados no se pueden rediseñar, y un linter que grita lo inarreglable enseña a ignorarlo (misma disciplina que `desde_look` en rotacion_color)."
@@ -545,14 +554,25 @@
         {
           "_porque": "El corse ya no es obligatorio (perfil §5.5), asi que va en negative BASE por defecto -- pero eso significa que un look que SI lo lleva necesita sacarlo del negative, y ese paso dependia de que quien escribiera el batch se acordara de poner `negative_excluir`. Medido 09/09/2026: 2 de 5 looks de corseteria (L62, L68) lo tenian en `None` -- el prompt le pedia el corse al positive y se lo negaba al mismo tiempo. Se detecta solo desde ahora, leyendo el BLOQUE B en vez de confiar en el campo manual.",
           "disparador": "bloque_b_nombra",
-          "terminos": ["corset", "waist cincher", "bustier"],
-          "excluir": ["corset", "waist cincher", "bustier"]
+          "terminos": [
+            "corset",
+            "waist cincher",
+            "bustier"
+          ],
+          "excluir": [
+            "corset",
+            "waist cincher",
+            "bustier"
+          ]
         },
         {
           "_porque": "Girly Girl es el unico arquetipo con calidez (perfil §6) -- el resto exige 'cero calidez' en el negative base, y esa base incluye 'warm smile, laughing'. Mismo hueco que el corse, medido el mismo dia: 2 de 4 looks de Girly Girl (L66, L83) tenian `negative_excluir` en `None`.",
           "disparador": "arquetipo_es",
           "valor": "Girly Girl",
-          "excluir": ["warm smile", "laughing"]
+          "excluir": [
+            "warm smile",
+            "laughing"
+          ]
         }
       ],
       "anclas_siempre": [
