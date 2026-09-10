@@ -429,6 +429,22 @@ Corrección directa sobre el batch L26-L30: *"la ropa interior rica en encaje y 
 
 > ⚠️ **A13 y `BOTTOM_CUT_LOCK`:** el culotte de encaje **no** es el «culotte de cobertura total» que su §5.4 prohíbe — ahí la palabra nombra un calzón de talle alto que tapa el asiento. Aquí es la pieza de encaje de corte alto del registro italiano, y **igual se escribe su corte con todas sus letras** (`cut high on the hip, the back a narrow panel`). El atributo que no se nombra lo resuelve el generador.
 
+### 5.6c · 🕴️ Biblioteca de arquitecturas alternativas — Separates & Sastrería (Ama 10/09/2026)
+
+> **Por qué nace:** el 09/09/2026, al probar el motor a escala con 13 looks nuevos, el chequeo de arquitectura-contra-lote-anterior más el veto de corsetería del 08/09 le dejaron a Anaïs **solo 3 códigos de arquitectura disponibles sin chocar** — y los tres eran de **una sola pieza** (vestido, catsuit, bodysuit). El techo no era falta de looks, era falta de *categorías*: D1-D11 son todos vestido, A1-A13 son todos lencería de una pieza o de cuerpo entero. Nunca existió un molde de **dos piezas separadas** ni uno de **sastrería**, pese a que ambos son firma directa de sus referencias (`estudio_estilo_kitrysha.md`, Bettie Page, Marlene Dietrich). La Ama las aprobó en vivo el 10/09/2026 (*"me gustan los 3, agrega otro más... la versión femenina de los trajes masculinos"*).
+
+| # | Arquitectura | Token base |
+|---|---|---|
+| S1 | **Conjunto pin-up de dos piezas** | `matching two-piece set, a structured bullet-cup halter bra top paired with high-waisted fitted shorts (or a high-waisted pencil skirt), a bare midriff between the two pieces` *(referencia Bettie Page — el molde de separates que su galería nunca tuvo)* |
+| S2 | **Playsuit / romper de época** | `fitted vintage playsuit, a sweetheart or halter neckline, the waist nipped by a thin belt, tailored short shorts below — a single continuous garment, not two pieces` |
+| S3 | **Traje sastre "Le Smoking"** | `tailored double-breasted pantsuit with peaked satin lapels, the fitted blazer cinched sharply at the waist and worn open over bare skin (or over a fitted bustier beneath), matching high-waisted wide-leg trousers` *(referencia Marlene Dietrich / Le Smoking de Saint Laurent — el poder masculino vestido en su cuerpo, nunca andrógino en la actitud)* |
+| S4 | **Arnés de cuero fino sobre lencería** | `fine leather body harness in narrow straps crossing over a lace body or silk slip worn beneath, no boning, no rigid structure — a strap accessory layer, never corsetry` *(registro Dita Von Teese / Dominatriz Vintage — no viola el veto del §5.6bis porque no construye la silueta, la cruza)* |
+
+- **No son vestido ni lencería:** S1 y S2 son sus propias categorías de arquitectura (separates y enterito corto), transversales a Noche/Ejecutivo/Sesión Literaria según el concepto. S3 vive naturalmente en Ejecutivo de Poder y Noche (llegada/salida), como alternativa real a vestido o piel — la sastrería que §5.1c solo nombraba de pasada, ahora con token propio. S4 es capa de accesorio: se combina SOBRE una arquitectura de la §5.6/§5.6bis (nunca reemplaza la prenda base), y por eso no compite con su ventana de repetición.
+- **Ventana anti-repetición:** mismo criterio transversal ≥5 looks del §7 — S1-S4 entran a la rotación general de arquitecturas, no a una lista aparte.
+- **Materiales:** dentro del universo permitido de Anaïs (§5.1) — satén, seda, terciopelo, cuero de sastrería fino. Nunca vinyl/PVC/látex de motociclista (eso es el léxico de Ele).
+- **Pendiente técnico, no bloqueante:** estas 4 piezas no están todavía en el vocabulario categórico (`vocabulario_vestuario.json`) del manifiesto tipado v4.0 — un batch que las use cae al camino de prosa/regex de siempre (funciona igual, como todo lo histórico), y solo hace falta declararlas ahí si se quiere que el manifiesto las lea como datos.
+
 ---
 
 ### 5.5 · Campos obligatorios de descripción
