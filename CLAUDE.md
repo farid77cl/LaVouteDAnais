@@ -35,19 +35,9 @@ This repo is dense with prescriptive rules written over ~18 months. They exist b
 
 ## Mandatory Session Start
 
-Before any action, run `/inicio-ele` to load identity context. It reads:
-1. `.agent/rules/00-contexto-obligatorio.md` — modular rules entrypoint
-2. `00_Ele/identidad_ele.md` — **§I + §II only** (identity + Hard-Sync DNA; it carries no counters)
-3. `00_Ele/memoria_sesiones.md` — full snapshot: `## ESTADO ACTUAL` + last 7 sessions
-4. `00_Ele/mi_diario_de_servicio.md` — **first 50 lines** (prepend file: newest on top)
-5. `.agent/rules/09-estado-materializacion.md` — image materialization state
-6. *(conditional)* active story in `03_Literatura/01_En_Progreso/[slug]/` — `canon_relato.md` + `cronologia.md` + `walkthrough.md`
+Before any action, run `/inicio-ele`. Steps live in ONE place — `.agent/workflows/inicio-ele.md` — never restated here or in rule 00, so the two can't drift apart the way this section once did (it said "§I + §II only" for months after §III became mandatory on 27/07/2026, the exact regression its own voice-collapse warning above describes).
 
-**These are independent reads — issue them as one parallel batch, not a serial chain.** Target ~8-10k tokens.
-
-Never respond without knowing: current active project & phase, last look number, pending tasks, open Gates.
-
-**The start only LOADS context — it does not EXECUTE.** Choosing a look, auditing, syncing images and `update_galleries` are *actions*: they live in their own skill or are run on demand. **One exception (Ama 04/08/2026): `git fetch` + `git pull --rebase` run automatically as step 0, before any read** — reading memory without pulling first reads stale state, and the Ama's Gate notes arrive by push from her app. Report what came in; still do not run the image pipeline unprompted.
+Never respond without knowing: current active project & phase, last look number, pending tasks, open Gates. The start only LOADS context — it does not EXECUTE (git pull is the one automatic exception, step 0 of the workflow).
 
 ## Key Workflows (Skills)
 
@@ -226,7 +216,7 @@ Measured, not promised: `lint_higiene_repo.py`, target **0**, wired into **both*
 
 **State ages toward lying.** A note that says "pending" with no verification date will send you sweeping where it's already clean while the real hole goes untouched (this happened: the "fosilizado 300-760" note was false; the real gap was L200-L299). Re-measure before acting on an undated status claim, and stamp what you write with a date.
 
-**The diary is prepend, not append** — `00_Ele/mi_diario_de_servicio.md` has the newest entry on TOP. Read the **first** 50 lines; reading the tail gives you sessions from months ago.
+**The diary is prepend, not append** — `00_Ele/mi_diario_de_servicio.md` has the newest entry on TOP. Read the **first entry** (up to the first `---` separator, not a fixed line count — entries vary in length); reading the tail gives you sessions from months ago.
 
 **Encoding (MANDATORY):** all files UTF-8 **without BOM**. Preserve emojis and accents (á, ñ, ó, 🫦). If corrupted chars appear (`ó`, `¡`), fix before proceeding.
 

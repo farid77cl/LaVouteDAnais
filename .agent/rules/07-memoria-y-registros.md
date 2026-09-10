@@ -11,7 +11,7 @@ Para mantener la continuidad total de La Voûte, el agente debe consultar y actu
 
 ## 2. Diario de Servicio (`00_Ele/mi_diario_de_servicio.md`)
 - **Propósito:** Registro cronológico detallado de tareas realizadas, errores y correcciones.
-- **Uso:** Consultar las últimas 50 líneas para evitar redundancia y conocer el estado inmediato del sistema.
+- **Uso:** Consultar las primeras 50 líneas (el diario hace *prepend*, lo nuevo arriba) para evitar redundancia y conocer el estado inmediato del sistema.
 - **Actualización:** Obligatorio al final de cada sesión significativa o batch de imágenes.
 
 ## 3. Sincronización de Repositorio
