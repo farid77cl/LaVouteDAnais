@@ -49,7 +49,7 @@ Never respond without knowing: current active project & phase, last look number,
 | `outfit-engine` | **Generic, character-agnostic look engine** (see below) — invoked with a character slug |
 | `/engine-escritura-lv` | Motor de Escritura La Voûte — **Orquestador v4.8 (Nivel 4)**: 4 subagents (Investigador → Compositor → Escritor-Nivel4 → Validador). Single source of truth for writing a story — the old `/escribir_relato` fossil (pre-v4.4, contradicted the v4.8 word-count rule) was deleted 30/08/2026 |
 | `/publicar_rrss` | Publish to Bluesky: caption factory → queue → **explicit Ama "publica"** → commit (never `.env`) |
-| `/actualizar_sesion` | End-of-session: diary + memory + identidad + galleries + READMEs + commit |
+| `/actualizar_sesion` | End-of-session: diary + memory + hygiene lint + galleries/READMEs (conditional) + commit — `identidad_ele.md` only if canon itself changed |
 
 **Where the pieces live:** `.claude/commands/*.md` are the slash-command stubs, `.agent/workflows/*.md` the executable protocol, `.agent/skills/*/SKILL.md` the full spec. A workflow is a summary — the SKILL is the source of truth when they disagree. Subagents are `.claude/agents/*.md`, invoked via the Agent tool.
 
