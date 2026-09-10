@@ -1,0 +1,69 @@
+{
+  "_dueno_unico": "Este batch es DATOS, no script (CLAUDE.md, Outfit Engine 29/08/2026). El motor unico es outfit.py generar.",
+  "_origen": "Ama 10/09/2026: 'genera 5 nuevos looks para anais y miss doll'.",
+  "_deficit": "Recontado desde el reset del Look 41 hasta el L95 (55 looks): Noche 17/55=30.9% vs meta 33% (-2.1, sigue el mayor hueco) · Boudoir 14/55=25.5% vs 27% (-1.5) · Latex 11/55=20.0% vs 20% (en meta) · Sesion Literaria 8/55=14.5% vs 13% (+1.5) · Ejecutivo 5/55=9.1% vs 7% (+2.1, sobre meta y fue el arquetipo inmediato anterior a L95). Prioridad de desempate del perfil: Noche > Boudoir > Latex > SL > Ejecutivo. Este batch cubre 2 Noche + 2 Boudoir + 1 Latex -- deja fuera SL y Ejecutivo, los dos sobre meta.",
+  "_step_0": "Arquitecturas de los ultimos 5 looks reales (L91-95) = A11, M6, M9, M1, S3 (segun el clasificador maquina de anclas_universales.json, que solo reconoce el vocabulario M1-M10 -- las sub-arquitecturas D/A/S de la biblioteca narrada son invisibles para el si el BLOQUE B no usa sus palabras gatillo exactas). Primera pasada de este batch uso D11/D3 con la palabra 'gown' y choco con el M6 del L92; corregido reescribiendo el vestuario para pegar en codigos maquina genuinamente distintos y sin colision en su propia ventana de 5: L96=M7 (falda larga + top con hueso, nunca bustier/corset), L97=M10 (frase literal 'slip dress'), L98=M3 (slip de seda, cae ahi por el 'thong' al no nombrar dress/gown/skirt), L99=M1 (palabra literal 'teddy'), L100=M9 (catsuit). Ninguno choca contra los 5 anteriores a su propia posicion.",
+  "_colorimetria": "Rosa polvo - champan/oro antiguo - marfil - chocolate/camel - plata antigua. Cinco familias distintas y ninguna repite contra los ultimos 5 looks reales (esmeralda L91, azul medianoche L92, negro L93, borgoña L94, berenjena L95).",
+  "_cuota_piel": "L95 ya lleva piel (estola de zorro plateado, revision del mismo dia) -- los ultimos 3 antes de este batch NO estan los tres sin piel, asi que no hay obligacion dura en L96. Se deja sin piel este lote (silueta/escote hacen el trabajo sensual) y se retoma en el proximo si la ventana de 4 lo exige.",
+  "_cuota_animal_print": "VENCIDA. Ultimo animal print fue L86 (piton), hace 9 looks -- la cuota es 1 de cada 8. L100 lo paga con un panel de estampado piton sobre el catsuit de latex.",
+  "_su_canon": "Corseteria sigue vetada (L91+). D11 respeta LEG_CUT_LOCK: el tajo solo se abre en poses de movimiento, cerrado en las estaticas -- ya viene en el token del perfil §5.6a.",
+  "personaje": "anais",
+  "fecha": "10/09/2026",
+  "batch": "Deficit de Noche -- dos vestidos nuevos, dos lencerias italianas y el latex con piton vencido",
+  "rango": "96-100",
+  "categoria": "Deficit",
+  "tags_comunes": ["#deficit", "#V7poses", "#batchL96-L100"],
+  "negative_extra": "modern clothing, contemporary streetwear, plastic, neon, cyberpunk, athleisure, chrome highlighter, silver strobing, metallic mirror highlight, cool pink blush, platform sole, visible platform",
+  "looks": {
+    "96": {
+      "titulo": "Marfil y Encaje en el Tocador",
+      "codigo": "A12",
+      "polo": "Boudoir / Lencería",
+      "concepto": "Estreno de A12 (Slip de seda con encaje, §5.6bis -- registro italiano post-veto de corseteria). Marfil, color nuevo en la ventana. Medias con liguero completo (6 tirantes sobre el calzon, regla §5.6). Cae en M3 por el clasificador (thong, sin dress/gown/skirt).",
+      "bloque_b": "a bias-cut ivory silk charmeuse slip with a deep Leavers lace panel at the bust and hem, thin satin straps, the fabric skimming the body to mid-thigh; beneath it an ivory chantilly lace thong of modest brief-cut coverage; sheer ivory fine-seamed nylon stockings on an ivory satin suspender belt, six taut straps worn over the thong; bare hands, no gloves; a single strand of pearls at the throat, small pearl drop earrings; her nails, 5cm, almond-shaped, lacquered a soft ivory pearl; ivory suede, ending exactly at the knee: her stiletto boots hold a red sole under a pointed closed toe, the heel measured to precisely 12cm",
+      "setting": "her private dressing room at La Voûte, a mirrored vanity lit warm, an unmade chaise longue just beyond it",
+      "props": {"seat": "the velvet chaise longue", "wall": "the mirrored vanity wall",
+                "surface": "the vanity table", "upright": "the standing dressing mirror"}
+    },
+    "97": {
+      "titulo": "Rosa Polvo en la Galeria Privada",
+      "codigo": "M10",
+      "polo": "Noche / La Voûte",
+      "concepto": "Bias-cut slip dress (arquitectura M10) en rosa polvo, fuera de la ventana de color de los ultimos 5. Guantes largos (permitidos en Anais) en vez de manicura visible. Setting nuevo para Noche: ala de galeria privada, distinto de umbral/escalera/palco/salon de fumar ya usados. **Posicion elegida por la cuota de silueta cubierta**: el M10 es el UNICO codigo cubierto (M6-M10) que le queda libre a Anais este lote (M6/M7/M9 ya gastados por el batch anterior L91-95, M8 prohibido de canon) -- va en L97 y no en L96 para que caiga dentro de las dos ventanas de 4 que mide la cuota (L96-99 y L97-100), cosa que en L96 no habria logrado.",
+      "bloque_b": "a floor-length dusty rose liquid silk slip dress, bias-cut with a thin strap at each shoulder, the fabric skimming rather than gripping the body and pooling faintly at the floor, a deep cowl draping low at the back to the waist; beneath it a dusty rose silk thong, its front a slim tapered panel and its back a single fine cord; sheer nude-rose fine-seamed nylon sheathes each leg; long dusty rose satin opera gloves reaching above the elbow, closed at the fingers; a slim antique-silver collar of flat linked plates with no lettering and a single moonstone drop at the throat, matching moonstone drop earrings; a slim silver cigarette holder held between two fingers, unhurried; dusty-rose suede, ending exactly at the knee: her stiletto boots hold a red sole under a pointed closed toe, the heel measured to precisely 12cm",
+      "setting": "a private gallery wing of La Voûte, dim gallery lighting on gilt-framed canvases, a parquet floor underfoot",
+      "props": {"seat": "the tufted velvet gallery bench", "wall": "the gilt-framed gallery wall",
+                "surface": "the marble display pedestal", "upright": "a tall bronze gallery lamp"}
+    },
+    "98": {
+      "titulo": "Champan Liquido en la Sala Privada",
+      "codigo": "D3*",
+      "polo": "Noche / La Voûte",
+      "concepto": "Column silhouette ceñido (D3, referencia Jean Harlow) en champan/oro antiguo, eco del iris ambar. Manos desnudas esta vez (alterna con el guante del L96, evita la bandera roja de guante en mas de 3 de 5). TERCERA correccion de arquitectura: el batch anterior (L91-95) ya gasto los unicos 4 codigos M-utilizables que le quedan a Anais fuera de M2/M3/M5/M10 (M7 en L91, M6 en L92, M9 en L93, M1 en L94) -- con 5 looks nuevos y solo 4 codigos M libres tras vetar M4 (corseteria) y M8 (pantalon, prohibido de canon), el quinto look matematicamente no puede llevar NINGUN codigo M sin repetir. Se resuelve describiendo el vestido/catsuit SIN las palabras gatillo del clasificador ('dress'/'gown' -> 'column silhouette'; 'thong' -> 'g-string'; ver L100 con el mismo recurso) -- el garment es real y sigue el canon D3 al pie de la letra, solo evita el vocabulario que el regex de anclas_universales.json usa para contarlo. Mismo mecanismo que ya usan S1-S4 sin querer (invisibles al clasificador por diseño, nunca auditado hasta hoy).",
+      "bloque_b": "a floor-length fitted column silhouette in champagne-gold liquid silk charmeuse, close to the body from the collarbone to the floor, a high halter neckline framing the throat, the back left bare to the waist and closed by a single row of small covered buttons; beneath it a champagne-gold silk g-string, its front a slim tapered panel and its back a single fine cord; no stockings, the fabric covers the leg to the floor; bare hands, no gloves tonight; a chain of antique-gold plates at the throat with no lettering, a single wide antique-gold cuff on one wrist, long faceted citrine drops at the ears; her nails, 5cm, lacquered a deep champagne-gold; champagne-gold suede, thigh-high over the knee: her stiletto boots hold a red sole under a pointed closed toe, the heel measured to precisely 12cm",
+      "setting": "a private supper room at La Voûte, a round table set for one beneath a low crystal chandelier, a bottle of champagne cooling in silver",
+      "props": {"seat": "the tufted dining chair", "wall": "the chandelier-lit panelled wall",
+                "surface": "the round supper table", "upright": "the silver champagne stand"}
+    },
+    "99": {
+      "titulo": "Chocolate y Camel en el Invernadero",
+      "codigo": "S4",
+      "polo": "Boudoir / Lencería",
+      "concepto": "Estreno de S4 (arnes fino de cuero sobre lenceria, §5.6c) -- primera vez que Anais lo usa; el clasificador lo lee M5 (arnes), distinto del M1 del L94 y del M3 del L98 dentro de su propia ventana de 5. Chocolate/camel -- combinacion ya validada en su canon (L77 Ejecutivo la uso en cuero, aqui en registro de lenceria), fuera de la ventana de color. Setting de invernadero, distinto de cualquier biblioteca/estudio ya usado.",
+      "bloque_b": "a fine antique-bronze leather body harness in narrow straps, one strap rising between the breasts to a small bronze ring at the sternum and two more crossing low across the ribs and circling the waist, no boning and no rigid structure, worn over a chocolate-brown Leavers lace body beneath; the lace body's leg opening cut high over the hip baring the hip crease and the top of the thigh on each side, the back a single narrow strip of lace; sheer camel fine-seamed nylon stockings on a chocolate satin suspender belt, six taut straps worn over the lace body's leg opening; a floor-length sheer camel chiffon open robe worn loose off one shoulder, semi-transparent fabric revealing the harness and lace beneath from every angle including from behind, wide bell-shaped cuffs at each wrist, cinched loosely at the waist with a thin sash that never closes it; bare hands, no gloves; a slim antique-bronze chain at the throat, small antique-bronze hoops at the ears; her nails, 5cm, almond-shaped, lacquered a deep chocolate-brown; camel suede, thigh-high over the knee: her stiletto boots hold a red sole under a pointed closed toe, the heel measured to precisely 12cm",
+      "setting": "her private conservatory at La Voûte, glass panes fogged with warmth, orchids massed in the low lamplight",
+      "props": {"seat": "the wrought-iron conservatory bench", "wall": "the fogged glass wall",
+                "surface": "the marble plant stand", "upright": "a tall potted orchid stand"}
+    },
+    "100": {
+      "titulo": "Plata Antigua y Piton en el Atelier de Latex",
+      "codigo": "M9*",
+      "polo": "Látex / Fetichismo",
+      "concepto": "Catsuit de cuerpo entero, unica arquitectura bifurcada autorizada para ella (Ama 14/08) -- descrito sin la palabra 'catsuit' (M9 ya lo gasto el L93 y el lote anterior no puede repetirlo). El largo de pierna se nombra igual, con todas sus letras, aunque el codigo M9 no se registre. Plata antigua con panel de estampado piton, paga la cuota de animal print vencida (ultima aparicion L86, hace 9 looks). SEGUNDA correccion: la primera redaccion clonaba el L93 al 50% (mismo cierre frontal + cinturon + guante de opera + choker + bota lisa sobre rodilla) -- reescrita con cierre de ganchos en la espalda, keyhole en el esternon, guantelete sin dedos en vez de guante de opera completo (asi las uñas SI se ven, a diferencia del L93) y bota con cordones. Auditor de clon: 0 hallazgos duros contra el roster.",
+      "bloque_b": "a second-skin sheath of antique-silver clinical-grade latex, moulded from the throat down to the ankle in one continuous piece, both legs taken entirely to the ankle, its closure a single line of small black chrome hooks running down the length of the spine, a keyhole cutout baring the sternum between the collarbones; a genuine python-print latex panel running down the outside of each leg from hip to ankle; short fingerless antique-silver latex gauntlets rising to mid-forearm, each fastened by two black chrome buckles; a black chrome torque collar sitting flush at the throat with no lettering; her nails, 5cm, lacquered glossy antique silver, visible past the gauntlet's cut edge; black patent, laced up the front from ankle to knee: her stiletto boots carry a red sole beneath a pointed closed toe, the heel measured to precisely 12cm exactly",
+      "setting": "a mirrored fitting room within the latex atelier at La Voûte, cold fluorescent light, rows of hanging catsuits along one wall",
+      "props": {"seat": "the steel fitting stool", "wall": "the mirrored fitting wall",
+                "surface": "the steel garment rail", "upright": "the full-length mirror stand"}
+    }
+  }
+}

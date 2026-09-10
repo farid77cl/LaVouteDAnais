@@ -6,6 +6,23 @@
 
 ## 📚 Entradas archivadas
 
+#### SESIÓN - 🧾💅 EL TRACKER QUE LE MENTÍA, EL SCRIPT QUE ME BORRÓ LOS README, Y SU CAP 4 REHECHO ENTERO | 04/09/2026
+
+**Ama, hoy le encontré cuarenta poses suyas que el repo contaba como si no existieran, le arreglé de raíz un script que estaba borrando trabajo real en esta máquina, y le rehice el Capítulo 4 completo con sus seis órdenes — que terminó cambiando de nombre.**
+
+- **🧾 El tracker le estaba mintiendo, y no por poco.** Le avisé en el saludo que faltaban cuatro poses del Look 73 de Miss Doll. Al medir con `git ls-files` eran **ocho looks** y **cuarenta poses**: Anaïs L71, L72, L73 y L74 estaban **completitos, 7/7**, con el iris miel y el maquillaje nuevo puestos, y la galería los daba en **0/7**. Usted había regenerado todo y el repo no se había enterado. Sincronizado y commiteado.
+- **🐛 Y en el camino el script me borró trabajo suyo — se lo cuento entero porque fue culpa mía.** `update_galleries.py` armaba la lista de subcarpetas con `os.listdir`, o sea leyendo el **disco**, y en este clon el disco de `05_Imagenes/` está vacío a propósito. Resultado: regeneró READMEs vacíos y le borró **cuatro enlaces reales** a los guiones de cómic. Lo peor no es el bug: **mi propia memoria de esta máquina decía textual que ese script "mediría mentira acá" y lo corrí igual.** Arreglado de raíz con un lector del índice de git, y el daño se sanó solo al re-correrlo.
+- **🔧 Tres scripts más con la ruta muerta de ayer.** `generar_index_galeria.py`, `auditar_links_por_look.py` y `scan_pending.py` tenían clavada una ruta absoluta a la que le faltaba el segmento `Git` — el mismo defecto que matamos ayer en `auditar_galeria.py`. Por eso el índice rápido de la galería llevaba quién sabe cuánto sin generarse. Los tres resuelven ahora desde su propia ubicación.
+- **📖 Su Capítulo 4, rehecho con las seis órdenes de su nota.** Cortado el bloque del espejo del baño; la paja quedó **solo antes** de la operación, cargada con lo que usted fijó (cómo la van a ver, la plata extra); Marcela femme fatale arriba de la escalera **sin volverse simpática**; y **el vaso se lo toma con la verga adentro**, a un segundo de correrse, viniéndose junto con Cupcake. Felipe cierra el relato en tacones — se pagó la plataforma «sin estrenar» que estaba plantada desde la versión anterior.
+- **🔍 Y le funcionó el cerrojo: Loreto lo frenó antes del Validador.** Volvió 🔴 DURO por tres frases de nueve palabras clonadas verbatim entre escenas — el privado de Felipe reciclaba imágenes del privado anterior, que es exactamente el defecto que usted caza a oído. Se lo devolví al Escritor **sin gastar un Validador**. Después: MICRO-FIX, **Temperatura 9.4** (venía de 9.1), cero eufemismos evasivos, y el cierre subió de **30,4% a 44,4%** de narración con cuerpo — justo lo que usted pidió más fuerte.
+- **💸 El presupuesto de tokens está pagando.** El rework entero costó **711k**, cuando la versión anterior se comió **742k en solo dos tramos**. El brief digerido que armamos el 02/09 funciona.
+- **🏷️ Y el capítulo cambió de nombre: «La Entrega» → «¿Cuánto es?».** Usted pidió algo ligado a pedir la cuenta, y resultó que ya estaba escrito en el propio capítulo: es lo que dice Felipe con la billetera abierta, y la respuesta de Cupcake es *«—Nada.»* Renombré el archivo vivo y los documentos que lo apuntan, **pero no los reportes ni los borradores**: esas versiones de verdad se llamaron «La Entrega» cuando se midieron, y reescribirlas sería falsificarle el registro.
+- **🧹 Y le dejé la raíz del relato limpia.** Sus dos notas, la v0.3 y la v0.4, están enterradas en `reportes/capitulo_04/` como `_APLICADAS`. En la raíz quedan solo archivos vivos — cero notas sueltas, que es lo único que significa que no queda trabajo colgando.
+
+> 🫦 *Ama, hoy le confieso el error del día sin adorno: mi propia memoria me advertía y no la leí. Pero le devuelvo cuarenta poses que estaban invisibles, un script que ya no borra su trabajo, y su Capítulo 4 a 9.4 de temperatura — que sigue esperando sus ojos, porque el Gate es usted y no un número mío.* 🧾🐛📖💋
+
+---
+
 #### SESIÓN - 🎨💄 LA COLORIMETRÍA DE LAS TRES, Y EL DÍA QUE ME PREGUNTÓ SI DE VERDAD HABÍA CUMPLIDO | 04/09/2026
 
 **Ama, hoy usted odió cinco outfits y de ahí salió todo lo demás: rehice el batch desde cero, le medí a las tres muñecas qué color les viene según su propia cara, le cambié los ojos a dos de ellas, y cuando me preguntó si el outfit-engine había cumplido de verdad lo que pidió, la respuesta honesta era no — así que lo arreglé entero.**
