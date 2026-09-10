@@ -1,4 +1,6 @@
-# Investigación de Tema — «El Podcast»
+# Investigación de Tema — «El Podcast» [SUPERADO 10/09/2026]
+
+> ⚠️ **Reemplazado por `investigacion.md`** (formato v4.8 completo, retrofit 10/09/2026 — cubre el giro de premisa hacia el fetiche de encierro-por-gear: látex, breast plates, fem mask, hip pads, gaff/vagina panty). Este documento queda como antecedente del tabú central (Rodrigo, caja negra, disonancia cognitiva) — sigue siendo válido como capa de fondo, pero el documento vigente para el Escritor es `investigacion.md`.
 
 > **Fase de Investigación Previa (v4.8 / Nivel 4)**
 > **Pregunta Rectoral:** ¿Por qué excita y aterroriza a la vez el miedo de desear a otro hombre (a tu mejor amigo), y cómo el condicionamiento subliminal rompe ese tabú convirtiendo el pánico en rendición sensual y servicio doméstico?
