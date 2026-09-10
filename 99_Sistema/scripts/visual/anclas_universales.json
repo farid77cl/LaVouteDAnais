@@ -397,9 +397,9 @@
       "galeria": "00_Ele/galeria_outfits.md",
       "galerias_extra": [
         "00_Ele/galeria_outfits_archivo.md",
-        "00_Ele/memoria_historica/galeria_outfits_era_gotica.md"
+        "00_Ele/memoria_historica/ARCHIVO_LEGACY_ELE_ERA_GOTICA.md"
       ],
-      "_galerias_extra_porque": "Regla 11 §9bis item 5: `galeria_outfits_archivo.md` (L85-L199) y `memoria_historica/galeria_outfits_era_gotica.md` (L01-L84, era Helena) alimentan la app A PROPOSITO y no colisionan con la viva porque esta arranca en el L200. El generador leia solo `galeria` y por eso el indice nuevo salio con CERO looks de Ele bajo el 200 — 178 looks que el indice anterior si publicaba. El campo es NUEVO en vez de convertir `galeria` en lista: `galeria` la leen otros scripts y cambiarle el tipo los rompe. Orden = prioridad: la viva primero, y si un numero se repite gana ella y la corrida lo reporta. El archivo va antes que la gotica porque en el solape (46-128) es la que trae prompts.",
+      "_galerias_extra_porque": "Regla 11 §9bis item 5: `galeria_outfits_archivo.md` (L85-L199) y `memoria_historica/ARCHIVO_LEGACY_ELE_ERA_GOTICA.md` (L01-L84, era Helena; renombrado 10/09/2026 al corregir la colision de 44 looks con la sesion en curso -- este campo no se actualizo entonces, roto hasta hoy) alimentan la app A PROPOSITO y no colisionan con la viva porque esta arranca en el L200. El generador leia solo `galeria` y por eso el indice nuevo salio con CERO looks de Ele bajo el 200 — 178 looks que el indice anterior si publicaba. El campo es NUEVO en vez de convertir `galeria` en lista: `galeria` la leen otros scripts y cambiarle el tipo los rompe. Orden = prioridad: la viva primero, y si un numero se repite gana ella y la corrida lo reporta. El archivo va antes que la gotica porque en el solape (46-128) es la que trae prompts.",
       "perfil_visual": "02_Personajes/_perfiles_visuales/ele.md",
       "emoji_look": "👗",
       "carpeta_imagenes": "05_Imagenes/ele",
