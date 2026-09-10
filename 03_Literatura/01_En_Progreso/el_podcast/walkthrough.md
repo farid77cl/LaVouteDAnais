@@ -1,7 +1,13 @@
 # Walkthrough — El podcast (Nivel 4)
 
 > Bitácora viva del proyecto. Estado para resume en frío.
-> Creado: 2026-07-01. Última actualización: 2026-07-29 (Reescritura Cap 1 v0.4 con el tabú del deseo por Rodrigo).
+> Creado: 2026-07-01. Última actualización: 2026-09-10 (reactivación tras >1 mes parado, reset de versión + revisión de premisa en curso).
+
+## 10/09/2026 — Reactivación: reset de versión + premisa en revisión
+- Cap 1 v0.4 llevaba desde el 29/07 esperando Gate, nunca llegó. La Ama lo reseteó: v0.4 archivado en `borradores/capitulo_01/`, raíz sin capítulo activo — la próxima escritura arranca en v0.1 limpio.
+- La Ama nunca quedó conforme con la excusa de Rodrigo para pasarle el podcast a Nico (Pivote 1) — pendiente de resolver en el intake del Compositor.
+- Cambio de mecanismo pedido: sigue sumiso y femenino, pero el fetiche de la reprogramación se mueve hacia **látex, breast plates y fem mask** — se aleja del arquetipo genérico "mujer doméstica" hacia el universo fetish/rubber-doll. Compatible con la directiva "sin magia corporal" del 01/07 (son prendas, no transformación de carne).
+- Retrofit v4.8 pendiente antes de tocar canon: el proyecto nació en v4.7, `investigacion_tema.md` (formato viejo, pre-22/07, no cubre el nuevo fetiche) en vez de `investigacion.md`; canon sin §4b/§4c. Fase 0 retroactiva en curso.
 
 ## Concepto (decisiones de la Ama, cosidas)
 - Referencia semilla: capítulo de Friends (Chandler y las cintas subliminales de mujer). Una de las 6 semillas MtF parqueadas (23/06), ahora elegida.
