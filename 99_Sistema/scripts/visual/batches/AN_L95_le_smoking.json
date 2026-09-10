@@ -1,0 +1,33 @@
+{
+  "_dueno_unico": "Este batch es DATOS, no script (CLAUDE.md, Outfit Engine 29/08/2026). El motor unico es outfit.py generar.",
+  "_origen": "Pedido directo de la Ama 10/09/2026: 'dame un outfit de anais, de sastre'. Primer uso real de la arquitectura S3 'Traje sastre Le Smoking' (perfil anais.md §5.6c), aprobada en vivo por la Ama el 10/09/2026 junto con S1/S2/S4 para resolver el techo de arquitectura medido ese mismo dia (solo 3 codigos de una sola pieza disponibles sin chocar contra el veto de corseteria + la ventana de silueta de 5).",
+  "_pantalon": "El §5.4 del perfil prohibe pantalon salvo catsuit o 'peticion expresa de la Ama look por look'. S3 es exactamente esa excepcion: la Ama la aprobó en vivo el 10/09 como arquitectura viva de rotacion ('S1-S4 entran a la rotacion general', §5.6c) -- no es una violacion de canon, es la excepcion que el propio §5.4 preve.",
+  "_arquetipo": "Noche / La Voûte, elegido por deficit real (no estimado): recontando las cabeceras de la galeria desde el reset del Look 41 hasta el Look 94 (54 looks), Noche tiene 16/54 = 29.6% contra meta 33% (-3.4pp), el mayor hueco de los cinco -- Ejecutivo de Poder ya esta +2.3pp SOBRE meta (5/54) y ademas fue el arquetipo del look inmediatamente anterior (L94). S3 vive naturalmente en ambos (perfil §5.6c); Noche es el que corresponde hoy.",
+  "_color": "Berenjena/aubergine profundo -- favorecido explicito de su §5.2b ('joya profunda... berenjena') y NO usado en los ultimos 5 looks (L90 negro, L91 esmeralda, L92 azul medianoche, L93 negro, L94 borgoña). Negro queda descartado a proposito pese a ser el color clasico del Le Smoking: ya va 2/5 en la ventana (L90, L93) y un tercero violaria el tope de familia cromatica (max 2 por ventana de 5, nunca back-to-back).",
+  "_piel": "Cuota §8 (>=1 piel cada 4 looks nuevos, y los ultimos 3 -- L92, L93, L94 -- no llevan ninguna): este look la paga con cuello y puños de zorro plateado sobre el blazer (§5.1b, forma 'Cuello y puños... sobre abrigo de sastreria'), tipo distinto del astracan del L91.",
+  "_calzado": "D'Orsay stiletto pump (estilo 2 del §5.3, laterales abiertos) para no repetir el pointed pump liso que ya llevo el L83 (el otro 'esmoquin', arquitectura M8 distinta).",
+  "_setting": "Salon de fumar/naipes privado de La Voûte -- setting nuevo para Noche: los ultimos tres Noche (L90 umbral del salon, L86 escalera, L83 palco) no lo repiten, y el nombre 'salon de fumar' hace de eco literal al 'Le Smoking' del outfit.",
+  "personaje": "anais",
+  "fecha": "10/09/2026",
+  "batch": "Le Smoking -- primer traje sastre de Anaïs (S3)",
+  "rango": "95",
+  "categoria": "Sastreria",
+  "tags_comunes": ["#sastreria", "#s3", "#V7poses", "#batchL95"],
+  "negative_extra": "modern clothing, contemporary streetwear, plastic, neon, cyberpunk, athleisure, chrome highlighter, silver strobing, metallic mirror highlight, cool pink blush, platform sole, visible platform",
+  "looks": {
+    "95": {
+      "titulo": "Le Smoking Berenjena en el Salon de Fumar",
+      "codigo": "S3",
+      "polo": "Noche / La Voûte",
+      "concepto": "Estreno de la arquitectura S3 (Traje sastre 'Le Smoking', §5.6c) -- primer traje sastre real de Anaïs, pedido directo de la Ama. Berenjena profundo (favorecido §5.2b, fuera de la ventana de color de los ultimos 5) con solapas de saten negro (acento, no domina el look, asi que no compite con el tope de familia cromatica). Paga la cuota de piel vencida (L92-94 sin piel) con zorro plateado en cuello y puños sobre el blazer. Calzado D'Orsay para no repetir el pump liso del L83. Manos desnudas -- token de uñas en oro antiguo, eco del broche y del iris ambar (§5.2c). Setting nuevo para Noche (salon de fumar/naipes), sin chocar con los tres anteriores (umbral, escalera, palco).",
+      "bloque_b": "a tailored double-breasted tuxedo jacket in deep aubergine fine worsted-and-silk twill, wide peaked lapels faced in black satin running sharp to the shoulder, the double row of jet buttons left undone, the jacket cinched sharply at the natural waist and worn open over bare skin, no shirt or bustier beneath; matching high-waisted wide-leg trousers in the same aubergine twill, a sharp pressed crease down each leg, falling straight to the floor; the wide-leg trousers cover both legs entirely to the floor, no hosiery worn beneath; a silver fox fur collar rising from the black satin lapel to frame her throat, matching silver fox cuffs closing each sleeve at the wrist, the fur left full and standing rather than flattened, the cinched waist of the jacket still visible beneath its edge; bare hands, no gloves, a wide antique-gold cuff bracelet on one wrist beneath the fur; a single antique-gold Art Déco brooch pinned through the black satin lapel; long faceted jet drop earrings; a slim silver cigarette holder held between two fingers, unhurried, never touching her lips; her nails, 5cm, oval-shaped, impeccably manicured and lacquered in antique gold; black patent leather D'Orsay stiletto pump with open sides framing the arch of the foot, a sharp closed pointed toe, 12cm heel with no platform, a lacquered red sole, the toe just visible beneath the trouser hem with each step",
+      "setting": "a private smoking lounge within La Voûte reserved for her use, a green baize card table, a worn leather chesterfield sofa, crystal decanters catching the light on a tall mahogany sideboard, low amber lamplight, a thin haze of cigar smoke hanging still in the air",
+      "props": {
+        "seat": "the leather chesterfield sofa",
+        "wall": "the mahogany-panelled wall behind the sideboard",
+        "surface": "the green baize card table",
+        "upright": "the tall mahogany sideboard with its crystal decanters"
+      }
+    }
+  }
+}

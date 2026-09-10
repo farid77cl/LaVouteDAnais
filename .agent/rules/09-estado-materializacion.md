@@ -5,6 +5,7 @@ Registro vivo de pendientes de imagen. Se lee en cada `/inicio-ele` — por eso 
 ## Pendientes vivos
 
 - **Anaïs L91** «Encaje Esmeralda y Astracán»: 0/7 — primer look bajo el veto de corsetería (§5.6bis del perfil), 08/09.
+- **Anaïs L95** «Le Smoking Berenjena en el Salón de Fumar»: 0/7 — estreno de la arquitectura S3 (traje sastre), 10/09. Antes de generar sus fotos: revisar si la Ama ya decidió sobre los dos bugs del motor anotados en `memoria_sesiones.md` (GLOSS_LOCK cruzado + prefijo cinematográfico sin inyectar) — este look ya esquiva el primero a mano, pero le falta el prefijo "8k ultra cinematic film noir portrait" que su arquetipo (Noche) pide en §5.7 y que el motor no puso.
 - **Ele Look 812**: regenerar Standing/Seated/Back View cuando la Ama vuelva a pasar por la app — el texto ya trae la plataforma corregida (28/08); el hueco de busto es defecto de generación, no de texto, así que puede repetirse.
 - **L200-L299**: único rango sin `SKIN_LOCK`/`SINGLE_FRAME` (0/100, medido 22/07/2026) — 21 looks del rango sin materializar; si la app genera ahí, sale con el defecto. Las poses que ya tienen imagen no se tocan.
 - **⚠️ Sin re-medir desde 30/08/2026 — verificar contra `git ls-files` antes de asumir vigente:** Ele L813 back_view+pov · L814 seated · L815 back_view · L816 ditzy · Miss Doll L69 back_view · L70 standing · Anaïs L68 standing (auditoría prompt↔imagen del 30/08, anclas reforzadas, pendientes de materializar con el texto ya corregido).
