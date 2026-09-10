@@ -1,4 +1,4 @@
-![Portada](05_Imagenes/historias/la_piel_que_diseno/imagen3_camarin.jpg)
+![Portada](../../../../05_Imagenes/historias/la_piel_que_diseno/imagen3_camarin.jpg)
 
 **«El cuerpo que sabe» — Capítulo 3**
 

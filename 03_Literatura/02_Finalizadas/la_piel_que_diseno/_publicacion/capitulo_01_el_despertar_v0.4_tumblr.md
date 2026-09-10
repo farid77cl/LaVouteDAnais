@@ -1,4 +1,4 @@
-![Portada](05_Imagenes/historias/la_piel_que_diseno/portada_la_piel_que_diseno.jpg)
+![Portada](../../../../05_Imagenes/historias/la_piel_que_diseno/portada_la_piel_que_diseno.jpg)
 
 **«El despertar» — Capítulo 1**
 

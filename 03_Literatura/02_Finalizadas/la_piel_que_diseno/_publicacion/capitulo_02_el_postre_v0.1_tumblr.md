@@ -1,4 +1,4 @@
-![Portada](05_Imagenes/historias/la_piel_que_diseno/imagen2_postre.jpg)
+![Portada](../../../../05_Imagenes/historias/la_piel_que_diseno/imagen2_postre.jpg)
 
 **«El postre» — Capítulo 2**
 

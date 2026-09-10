@@ -1,4 +1,4 @@
-![Portada](05_Imagenes/historias/la_piel_que_diseno/imagen4_bailarina.jpg)
+![Portada](../../../../05_Imagenes/historias/la_piel_que_diseno/imagen4_bailarina.jpg)
 
 **«La primera bailarina» — Capítulo 4**
 
