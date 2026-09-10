@@ -30,21 +30,21 @@ Cualquier referencia a estos servicios en scripts antiguos (`99_Sistema/scripts/
 
 **Para revivirlo:** generar key nueva en *Settings → n8n API* y reimportar los workflows (`PUT` para reemplazar; `POST` duplica — así se llegó a tener 37 en vez de 9).
 
-**Detalle completo:** `LV-App/.planning/reference/n8n-conexion.md` (otro repo, privado). Las credenciales viven en `G:\Otros ordenadores\Mi portátil\negocio-accesorios-3d-costura\credenciales-privadas.txt` — **nunca en este repo, que es público**.
+**Detalle completo:** `99_Sistema/n8n_conexion.md` (copiado en-repo 30/08/2026 desde `LV-App/.planning/reference/n8n-conexion.md`, otro repo privado). Las credenciales viven en `G:\Otros ordenadores\Mi portátil\negocio-accesorios-3d-costura\credenciales-privadas.txt` — **nunca en este repo, que es público**.
 
 ### Lo que SÍ funciona hoy
 
 | Componente | Ubicación | Función |
 |------------|-----------|---------|
 | **Claude Code** | terminal / VSCode extension | Motor de ejecución de todos los agentes (literarios y visuales) |
-| **System prompts** | `07_Recursos/prompts/*.md` | Definición de rol y conducta de cada agente; Claude los carga manualmente al asumir cada rol |
-| **Skills** | `.agent/skills/` (proyecto) + `~/.claude/skills/` (global) | Procedimientos reutilizables (engine-escritura-lv, ele-outfit-engine, etc.) |
-| **Generación visual** | Antigravity / IA externa | Disparado bajo demanda, no requiere infraestructura local |
+| **Subagentes** | `.claude/agents/*.md`, invocados vía Agent tool (v4.8: `investigador`·`compositor`·`escritor-nivel4`·`validador`) | Roles operativos — `07_Recursos/prompts/*.md` es archivo, **deprecado 29/08/2026**, no se carga como rol |
+| **Skills** | `.agent/skills/` (spec propia: engine-escritura-lv, outfit-engine…) + `.claude/skills/` (superpowers vendorizada, regla 13) | Procedimientos reutilizables |
+| **Generación visual** | App Android de la Ama → Gemini → PNG subido directo a GitHub | Disparado por la Ama, no requiere infraestructura local (detalle: regla 09) |
 
 ### Reglas operativas
 
 1. **Cero levantamiento de servicios.** Si un script `.bat` o `.ps1` intenta arrancar Docker u Ollama, está obsoleto.
-2. **Roles via system prompts.** Para invocar un agente (Ideador, Crítico, Termómetro, etc.), el operador carga el prompt correspondiente como contexto y asume el rol.
+2. **Roles vía subagentes**, nunca system prompts cargados a mano (ver tabla arriba).
 3. **Persistencia en archivos.** Todo output canónico se guarda como `.md` en su carpeta de proyecto; no hay servicios de cola ni base de datos.
 
-*Actualizado: 13/05/2026 — sincronizado con la realidad operativa post-Ollama.*
+*Actualizado: 10/09/2026 — subagentes reemplazan a los system prompts, n8n copiado en-repo.*
