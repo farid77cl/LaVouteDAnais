@@ -1,0 +1,127 @@
+{
+  "_origen": "Continuacion pedida por la Ama tras el pull con L837-L838 materializados. Ultimo look real confirmado en galeria: 838.",
+  "_step_0": "Batch anterior L834-L838 uso M8, M10, M5+M4, M6, M1. Este usa M9, M2, M4(A6), M7, M3 -- cero solapamiento contra ese batch, cumple rotacion_prenda.cross_batch_desde_look=828.",
+  "_cuota_cubierta": "M9 (839) y M7 (842) son arquitectura CUBIERTA -- 2 de 5, sobre la cuota de 1 de cada 4.",
+  "_colorimetria": "Teal - leopard/amber-gold - esmeralda (eco de iris) - cobalto - amatista: cinco familias distintas, ninguna repetida contra L836 oxblood / L837 violeta / L838 chrome, ni dentro de la ventana de 3 dentro del propio batch.",
+  "_cuota_animal_print": "L840 lleva leopard. Los dos prints previos fueron L832 (zebra) y L833 (cheetah); se rota de depredador y de sub-arquetipo (Pin-Up, no Bikini/Domestic).",
+  "_anti_monoblock": "Sin dominante negra/metalica en el batch -- no aplica racha.",
+  "personaje": "ele",
+  "fecha": "11/09/2026",
+  "batch": "Cinco Arquitecturas Libres -- post pull L837-L838",
+  "rango": "839-843",
+  "categoria": "Mix",
+  "tags_comunes": ["#manifiesto", "V7poses", "batchL839-L843"],
+  "negative_extra": "cotton, denim, wool, linen, matte natural fabric, flat shoes, sneakers, barefoot, kitten heel, wedge, block heel, gloves, opera gloves, lace gloves",
+  "looks": {
+    "839": {
+      "titulo": "Teal Chrome Unitard en el Home Gym",
+      "polo": "Gym",
+      "concepto": "Gym, arquitectura M9 (unitard de pierna completa, CUBIERTA) -- libre en la ventana global y contra el batch anterior. Teal profundo, familia expandida V3.5 poco usada. Calzado stiletto/plataforma incluso en contexto de gimnasio -- canon absoluto, sin excepcion contextual.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M9_catsuit_unitard_jumpsuit", "color": "teal", "color_desc": "deep teal",
+         "material_desc": "high-gloss PVC", "pieza_desc": "full-length unitard",
+         "descripcion": ", a mock neck closed at the throat, a chrome zip pull shaped like a teardrop descending from the throat to the sternum, the body built in vertical panels running unbroken from shoulder to ankle, both legs running full-length down to the ankle with no cuff or break, the leg openings cut high at the hip in a thong-high silhouette and the back reduced to a single thin strip"},
+        {"descripcion": "a slim mirror-chrome collar with no lettering and small chrome stud earrings, nothing else worn above the neckline"},
+        {"descripcion": "the unitard covers her to the ankle, so no hosiery layers under it at all; both hands stay bare through every pose, not a glove in sight"},
+        {"descripcion": "the manicure sits at French XXXL, 5cm, a teal-lacquer base catching a single fleck of chrome near the tip"},
+        {"descripcion": "teal patent platform stiletto sandals leave the toes open, 16cm of razor-thin chrome pin heel riding a 6-inch teal platform, a wide ankle strap fastened with a chrome buckle, mirror-chrome sole edge"}
+      ]},
+      "setting": "a private glass-walled home gym at dawn, matte black rig equipment along one wall, a full mirror wall throwing back the low pink morning light, a black rubber floor underfoot",
+      "props": {
+        "seat": "the black leather weight bench",
+        "wall": "the full mirror wall",
+        "surface": "the black rubber gym floor",
+        "upright": "the matte black squat-rack post"
+      }
+    },
+    "840": {
+      "titulo": "Leopard Halter Bikini en la Azotea Retro",
+      "polo": "Pin-Up",
+      "concepto": "Pin-Up, deficit del roster reciente (ninguno en los ultimos 12 looks). Arquitectura M2 (bikini dos piezas, piel) -- libre en la ventana. PAGA LA CUOTA DE ANIMAL PRINT: los dos prints previos fueron L832 (zebra) y L833 (cheetah); se rota a leopard y a un sub-arquetipo distinto de ambos (Pin-Up, no Domestic ni Bikini). Amber-gold contra el negro del leopardo, ningun rojo ni cherry en la prenda.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M2_bikini", "color": "amber-gold", "color_desc": "sun-warmed amber gold",
+         "material_desc": "high-gloss vinyl", "pieza_desc": "halter triangle bikini",
+         "descripcion": ", a true leopard-rosette coat pattern in black over amber gold rendered consistently across every inch of the printed fabric, NOT a lace pattern, NOT a floral or vine motif, NOT embroidery or filigree, and NOT a plain fabric with no pattern at all; the triangle top tied high at the nape and low across the spine with a small gold ring at the sternum joining the cups; a matching leopard-print vinyl bikini bottom cut to a narrow front triangle no wider than two fingers, the back nothing more than a thin knotted cord riding high on each hip"},
+        {"descripcion": "a fine gold chain resting low across the collarbones and small gold hoop earrings, nothing at the throat"},
+        {"descripcion": "legs bare, no stockings anywhere; hands stay uncovered, no gloves at any point"},
+        {"descripcion": "5cm XXXL French tips finished in glossy amber-gold over a translucent pink base"},
+        {"descripcion": "gold mirror-patent platform stiletto sandals bare the toes, 15cm of razor-thin gold pin heel riding a 5-inch platform, a thin ankle strap fastened with a gold buckle, mirror-gold sole edge"}
+      ]},
+      "setting": "a sun-bleached diner rooftop at golden hour, chrome signage catching the low light, a low painted parapet wall and the city skyline soft behind it, striped deck chairs folded against the ledge",
+      "props": {
+        "seat": "the striped vintage deck chair",
+        "wall": "the low painted parapet wall",
+        "surface": "the sun-bleached rooftop tiles",
+        "upright": "the chrome diner signage post"
+      }
+    },
+    "841": {
+      "titulo": "Emerald Overbust en la Cocina",
+      "polo": "Domestic",
+      "concepto": "Domestic, arquitectura M4/A6 (corse overbust + tanga, piel) -- libre en la ventana y distinta de las subfamilias recientes (A8 en L828, A2 en L832). Esmeralda, el eco de su iris grey-green segun §5.2b -- el unico plano frio que separa el hot pink de la boca del cereza del pelo, y no se habia repetido desde el L828 (fuera de toda ventana).",
+      "manifiesto": {"prendas": [
+        {"pieza": "M4_corseteria_tanga", "color": "emerald", "color_desc": "deep emerald green",
+         "material_desc": "high-gloss latex", "pieza_desc": "overbust corset",
+         "descripcion": ", its structure built from a dozen spiral-steel bones fanning out from a narrow underbust point, a mirror-chrome busk splitting the centre front from bust to waist and closing on six hidden hooks, the top edge scooping low across the bust and the bottom edge flaring out just past the hip bone"},
+        {"descripcion": "a matching emerald latex thong beneath the corset, the front rising to a slender point below the busk and the back nothing more than a fine cord threading between the cheeks, its band riding the hip bone"},
+        {"descripcion": "legs bare, no stockings under the corset; hands stay uncovered, no gloves anywhere on her"},
+        {"descripcion": "a slim mirror-chrome collar with no lettering and long faceted emerald drop earrings"},
+        {"descripcion": "the nails French XXXL, 5cm, an emerald lacquer flecked with chrome"},
+        {"descripcion": "closed pointed-toe platform stiletto pumps in emerald mirror patent latex, 15cm of razor-thin chrome pin heel plus a 4-inch emerald platform, a single thin emerald ankle strap fastened with a chrome pin buckle, mirror-chrome sole edge and a chrome heel cap"}
+      ]},
+      "setting": "a sunlit kitchen with white marble counters and brushed brass fixtures, morning light pouring flat through a tall window, nothing else on the counters",
+      "props": {
+        "seat": "the brass-and-leather counter stool",
+        "wall": "the white marble splashback",
+        "surface": "the long white marble island",
+        "upright": "the tall brass-framed window jamb"
+      }
+    },
+    "842": {
+      "titulo": "Cobalt Wrap en la Suite Privada",
+      "polo": "Escort",
+      "concepto": "Escort Haute, arquitectura M7 (minifalda + top, CUBIERTA) -- libre en la ventana y contra el batch anterior. Cobalto saturado, familia fria que su §5.2b nombra entre las que le favorecen y que no se repite contra el zafiro del L835 (fuera de la ventana de 3).",
+      "manifiesto": {"prendas": [
+        {"pieza": "M7_minifalda_top", "color": "cobalt", "color_desc": "saturated cobalt blue",
+         "material_desc": "high-gloss vinyl", "pieza_desc": "pleated micro-skirt",
+         "descripcion": ", built from a dozen fine knife-pleats radiating out of a narrow waistband riding low on the hip, closed by a slim concealed zip at the left hip, the pleats swinging loose just below the curve of the glute with every step"},
+        {"descripcion": "a structured cobalt vinyl crop top boned through the bust, a single wide strap crossing the right shoulder while the left shoulder stays completely bare, cropped to sit just under the bust and closed by a hook fastening at the spine"},
+        {"descripcion": "a cobalt vinyl g-string worn under the skirt, barely a vertical strip at the front and a single invisible thread at the back"},
+        {"descripcion": "ultra-sheer graphite-tinted hosiery at 10 denier, held up by a slim cobalt suspender clipped at mid-thigh on the inside of each leg; her hands go bare, gloves nowhere on this look"},
+        {"descripcion": "a slim mirror-silver collar with no lettering and small silver bar earrings"},
+        {"descripcion": "XXXL French manicure at 5cm, sharp white tips over a translucent pink base with a fleck of cobalt"},
+        {"descripcion": "closed pointed-toe stiletto court pumps in cobalt mirror patent vinyl, 13cm of razor-thin silver pin heel with no platform, a single thin cobalt ankle strap fastened with a silver pin buckle, mirror-silver sole edge and a silver heel cap"}
+      ]},
+      "setting": "a private members' suite at night, floor-to-ceiling glass over the city grid, a low graphite stone console against one wall, the cold spill of the skyline as the only other light",
+      "props": {
+        "seat": "the graphite velvet chaise",
+        "wall": "the floor-to-ceiling suite glass",
+        "surface": "the low graphite stone console",
+        "upright": "a slim steel window mullion"
+      }
+    },
+    "843": {
+      "titulo": "Amethyst Crystal Mesh Guepiere en el Vestier",
+      "polo": "Lencería",
+      "concepto": "Lenceria, arquitectura M4/A5 (guepiere + tanga, piel) -- subfamilia distinta de la A6 del L841 (las subfamilias de M4 cuentan como arquitecturas separadas) y M4 no fue usado por el lote anterior L834-L838, asi que tambien queda libre cruzando lotes. Amatista profundo, familia fria de los Morados que no aparece en los ultimos looks. Redaccion anti-filtro en la malla del top: se describe por su construccion (sin forro, tejido abierto, capa exterior), no por lo que deja ver.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M4_corseteria_tanga", "color": "amethyst", "color_desc": "deep amethyst violet",
+         "material_desc": "high-gloss latex", "pieza_desc": "guepiere",
+         "descripcion": ", sitting at the natural waist and leaving the bust to a separate piece, six fine garter straps descending from its lower edge to sheer stockings, laced up the centre back over a mirror-silver ribbon threaded through matching eyelets"},
+        {"descripcion": "a matching amethyst crystal-mesh bralette above it, moulded cups linked by a single silver ring at the centre gore, fine straps crossing wide over the shoulders, the open mesh worn as the outer layer with no lining beneath it"},
+        {"descripcion": "a matching amethyst latex thong beneath the guepiere, its front no more than a slender triangle and its back a single fine thread"},
+        {"descripcion": "sheer amethyst-tinted stockings at 15 denier, held by the six garter straps of the guepiere; hands stay uncovered, no gloves anywhere on her"},
+        {"descripcion": "a slim mirror-silver collar with no lettering and long faceted amethyst drop earrings"},
+        {"descripcion": "5cm XXXL French tips, an amethyst lacquer flecked with silver"},
+        {"descripcion": "closed pointed-toe stiletto pumps in mirrored silver patent latex, 15cm of razor-thin silver pin heel with no platform, a single thin silver ankle strap fastened with a silver buckle, mirror-silver sole edge and a silver heel cap"}
+      ]},
+      "setting": "a mirrored dressing room past midnight, a curved chaise upholstered in deep violet velvet, a single warm vanity bulb strip framing the mirror, the rest of the room in soft shadow",
+      "props": {
+        "seat": "the curved violet velvet chaise",
+        "wall": "the mirrored vanity wall",
+        "surface": "the vanity counter",
+        "upright": "the freestanding brass coat rack"
+      }
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "personaje": "miss_doll",
+  "fecha": "11/09/2026",
+  "batch": "Variedad de Arquitectura -- 5 looks nuevos por manifiesto tipado",
+  "rango": "96-100",
+  "categoria": "Variedad",
+  "tags_comunes": ["#manifiesto"],
+  "looks": {
+    "96": {
+      "titulo": "Sapphire Mirror Dress en el Penthouse",
+      "polo": "Penthouse / Off-duty",
+      "concepto": "Penthouse/Off-duty, el mayor deficit real del roster (ultimo look del arquetipo: L51, hace 45 looks). Arquitectura M6 (vestido de segunda piel, CUBIERTA) -- bloqueadas M1, M9, M3 por la ventana global de 3, y libre contra el lote anterior (L91-95 uso M5/M8/M1/M9/M3, ninguno M6). Zafiro: familia azul, el eco de su iris cobalto (perfil §5.2b), ausente en toda la ventana de color de los ultimos 4 looks. El rosa firma va en el ribete del dobladillo, discreto pero presente en toda la prenda.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M6_vestido_segunda_piel", "color": "sapphire", "color_desc": "sapphire blue",
+         "material_desc": "liquid-finish latex", "pieza_desc": "second-skin mini dress",
+         "descripcion": ", a high halter neckline plunging to the sternum and fastened behind the neck by a small chrome ring, the back left bare to the base of the spine, a thigh-high slit cut into the left side seam, a hot-pink neon piping tracing the entire hemline"},
+        {"descripcion": "a fine chrome choker with no lettering and a matching chrome cuff on one wrist; small sapphire drop earrings"},
+        {"descripcion": "no hosiery tonight, legs bare and glossy; hands ungloved"},
+        {"descripcion": "eyeshadow in sapphire-blue shimmer coordinated with the dress, lips in glossy deep wine"},
+        {"descripcion": "almond-shaped nails at 5cm, a sapphire-blue chrome finish"},
+        {"descripcion": "closed pointed-toe platform stiletto pumps in midnight-blue patent vinyl, 8-inch platform, chrome mirror finish on the platform edge, hot-pink undersole, a razor-thin metal needle heel"}
+      ]},
+      "setting": "her own penthouse at night, floor-to-ceiling glass and the city skyline below, low cold blue lighting",
+      "props": {"seat": "the chaise by the window", "wall": "the floor-to-ceiling glass",
+                "surface": "the marble console", "upright": "the floor lamp"}
+    },
+    "97": {
+      "titulo": "Jade Cabana Micro Bikini",
+      "polo": "Bikini / Lencería Erótica",
+      "concepto": "Bikini/Lenceria Erotica (ultimo look del arquetipo: L83, hace 13 looks). Arquitectura M2 (micro bikini, piel) -- libre en la ventana de 3 (L94-96 fueron M9/M3/M6) y libre contra el lote anterior. Jade: familia verde, ausente en toda la casa desde el L84 (esmeralda). Frontera con VIP (§6): la prenda ES el sujeto de la toma, el escenario de piscina existe para lucirla. Rosa firma en la cinta de la cadera.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M2_bikini", "color": "jade", "color_desc": "jade green",
+         "material_desc": "high-gloss vinyl", "pieza_desc": "micro triangle bikini",
+         "descripcion": ", the top's triangle cups strung on a fine chrome ring at the sternum, the bottom a high-leg g-string riding high on the hip bones, a hot-pink neon ribbon knotted at the left hip"},
+        {"descripcion": "a slim chrome anklet on the right leg; small chrome hoop earrings, nothing at the throat"},
+        {"descripcion": "no hosiery, legs bare and glossy; hands ungloved"},
+        {"descripcion": "eyeshadow in emerald-teal smoky, lips in glossy oxblood"},
+        {"descripcion": "coffin-shaped nails at 5cm, a jade-green chrome finish"},
+        {"descripcion": "closed pointed-toe platform stiletto sandals in jade patent vinyl, 8-inch platform, chrome mirror finish, hot-pink undersole, a razor-thin metal needle heel, a single ankle strap with a chrome pin buckle"}
+      ]},
+      "setting": "a private rooftop cabana beside an infinity pool at dusk, chrome loungers and cold blue pool light",
+      "props": {"seat": "the chrome poolside lounger", "wall": "the glass cabana wall",
+                "surface": "the marble poolside table", "upright": "the cabana post"}
+    },
+    "98": {
+      "titulo": "Violet Miniskirt en la Tarima",
+      "polo": "Club / Escenario",
+      "concepto": "Club/Escenario, su arquetipo de mayor peso (18%), ultimo uso L89, hace 9 looks. Arquitectura M7 (minifalda + top, CUBIERTA) -- unico codigo libre a la vez contra la ventana de 3 (L95-97: M3/M6/M2) y contra el lote anterior completo (L91-95 uso M5/M8/M1/M9/M3): M7 es el unico de los diez que ninguno de los dos bloqueos toca. Violeta electrico: familia violeta, ausente en la ventana de color de los ultimos 4 looks. Rosa firma en la cadena que cruza la cadera.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M7_minifalda_top", "color": "violet", "color_desc": "electric violet",
+         "material_desc": "high-gloss vinyl", "pieza_desc": "miniskirt and matching crop top",
+         "descripcion": ", the miniskirt riding low on the hips with a single chrome ring at one hip, the crop top cut halter-style with a plunging V to the sternum and closed by a small chrome hook, a hot-pink neon chain looping from the skirt's hip ring across to the top's hem"},
+        {"descripcion": "a slim chrome collar with no lettering, chrome cuffs on both wrists"},
+        {"descripcion": "sheer black fishnet stockings, the waistband hidden beneath the miniskirt"},
+        {"descripcion": "eyeshadow in UV-violet smoky, lips in glossy blood-red"},
+        {"descripcion": "stiletto-shaped nails at 5cm, a violet chrome finish"},
+        {"descripcion": "closed pointed-toe platform stiletto pumps in violet patent vinyl, 8-inch platform, chrome mirror finish, hot-pink undersole, a razor-thin metal needle heel"}
+      ]},
+      "setting": "a revue stage seen from the wings, heavy violet-lit smoke drifting over black lacquer, cold chrome footlights along its edge",
+      "props": {"seat": "the black lacquer runway step", "wall": "the heavy stage drapes",
+                "surface": "the runway floor", "upright": "the chrome pole"}
+    },
+    "99": {
+      "titulo": "Champagne Robe sobre Guepiere en el Loft",
+      "polo": "VIP / Privado",
+      "concepto": "VIP/Privado, ultimo uso L91, hace 8 looks. Arquitectura M4 (guepiere + tanga, piel) -- libre en la ventana de 3 (L96-98: M6/M2/M7) y libre contra el lote anterior (que uso M4 como codigo pero via A6 overbust en el L85, fuera de este lote; el lote INMEDIATO anterior real, L91-95, uso M5/M8/M1/M9/M3, sin M4). Champagne: familia metal, ausente en la ventana de color de los ultimos 4 looks; hardware en oro viejo, nunca cromo, siguiendo la recomendacion tecnica vigente de la Ama sobre calidos (perfil §5.2b/§5.2c). PAGA LA CUOTA DE BATA del §5.1b -- gasa semitransparente, largo al suelo, punos acampanados anchos, nunca saten opaco ni bata corta -- que era el piso pendiente de la pareja VIP/Penthouse de este lote (L96 Penthouse no llevo bata). Es una ESCENA (frontera §6): la energia de sala privada manda, la lenceria es contexto.",
+      "manifiesto": {"prendas": [
+        {"color": "champagne", "color_desc": "champagne",
+         "material_desc": "sheer chiffon", "pieza_desc": "floor-length open robe",
+         "descripcion": ", left open and draped off both shoulders with dramatic wide bell-shaped cuffs, cinched loosely at the waist with a thin champagne sash tied in a hot-pink neon knot, the fabric sheer enough to read the guepiere beneath it from every angle including from behind"},
+        {"pieza": "M4_corseteria_tanga", "color": "champagne", "color_desc": "antique-gold",
+         "material_desc": "liquid-finish latex", "pieza_desc": "guepiere corset",
+         "descripcion": " cinching the waist alone with its antique-gold boning left the bust uncovered above it, laced up the back and finished as a thong at the back, its front a slim tapered panel"},
+        {"descripcion": "a fine antique-gold chain at the throat, small antique-gold hoop earrings"},
+        {"descripcion": "no hosiery, legs bare beneath the robe; hands ungloved"},
+        {"descripcion": "eyeshadow in deep plum smoky, lips in glossy deep berry"},
+        {"descripcion": "square-shaped nails at 5cm, a champagne-gold gloss finish"},
+        {"descripcion": "closed pointed-toe platform stiletto pumps in champagne patent vinyl, 8-inch platform, antique-gold mirror finish, hot-pink undersole, a razor-thin metal needle heel"}
+      ]},
+      "setting": "a private loft lounge after hours, floor cushions and low amber lighting",
+      "props": {"seat": "the low floor cushion", "wall": "the exposed brick wall",
+                "surface": "the brass side table", "upright": "the standing brass lamp"}
+    },
+    "100": {
+      "titulo": "Onyx Slip Dress en el Estudio",
+      "polo": "Editorial / Portada",
+      "concepto": "Editorial/Portada, ultimo uso L93, hace 6 looks. Arquitectura M10 (slip dress de malla sobre lenceria, CUBIERTA) -- libre en la ventana de 3 (L97-99: M2/M7/M4) y libre contra el lote anterior (L91-95 sin M10). Onix: familia neutral-oscura, ausente en la ventana de color de los ultimos 4 looks. Cierra el lote con la segunda silueta cubierta (junto al L96), pasando comodo la cuota de 1 de cada 4. Rosa firma en el cordon que cierra el escote.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M10_slip_dress_malla", "color": "onyx", "color_desc": "onyx black",
+         "material_desc": "sheer mesh", "pieza_desc": "slip dress",
+         "descripcion": " worn over a matching lingerie set beneath, its sheer mesh reading the bralette and g-string clearly through the fabric from every angle, thin straps crossing the bare back, a hot-pink neon cord lacing the plunging neckline closed"},
+        {"descripcion": "a fine chrome chain at the throat, small chrome studs at the ears"},
+        {"descripcion": "sheer black stockings, 15 denier, seamed up the back of each leg"},
+        {"descripcion": "eyeshadow in cobalt-blue shimmer, lips in glossy crimson-plum"},
+        {"descripcion": "almond-shaped nails at 5cm, an onyx-black chrome gloss"},
+        {"descripcion": "closed pointed-toe platform stiletto pumps in black patent vinyl, 8-inch platform, chrome mirror finish, hot-pink undersole, a razor-thin metal needle heel"}
+      ]},
+      "setting": "a stark white cyclorama studio under hard editorial lighting",
+      "props": {"seat": "the white studio block", "wall": "the seamless white cyclorama",
+                "surface": "the white studio platform", "upright": "the studio light stand"}
+    }
+  }
+}
