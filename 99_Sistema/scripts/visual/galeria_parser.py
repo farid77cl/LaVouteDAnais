@@ -43,6 +43,29 @@ _DISPLAY_A_SLUG = {
 }
 
 
+def _extraer_campo_simple(texto, campo):
+    """Extrae el valor de `**campo:**` del cuerpo crudo (sin fences) de un look.
+
+    Cubre las DOS formas reales que usan las tres galerías para el campo de
+    arquetipo (Ama 12/09/2026, Tarea 5 ux-flujo-corto): `- **Categoria:**
+    valor` / `- **Arquetipo:** valor` en línea propia (forma canónica de Ele
+    y de la mayoría de Miss Doll, dentro del bloque canon) y `**Arquetipo:**
+    valor · **Paleta:** ...` compartiendo línea con más campos (forma que usa
+    Anaïs desde el reset del 11/08/2026 y que Miss Doll adoptó también desde
+    el Look 47 — ninguna convención reemplazó a la otra, conviven en la misma
+    galería). El valor se corta en el primer `·` y se le quita cualquier
+    emoji pegado (Miss Doll escribe `🎀 Girly Girl` en esa segunda forma).
+    """
+    if not campo:
+        return None
+    m = re.search(rf"\*\*{re.escape(campo)}:\*\*\s*([^\n]*)", texto)
+    if not m:
+        return None
+    valor = m.group(1).split("·")[0]
+    valor = EMOJI.sub("", valor).strip().strip("*").strip()
+    return valor or None
+
+
 def slug_de_pose(nombre_display, slot5):
     """Nombre de pose para mostrar -> llave canónica del JSON.
 
@@ -88,8 +111,15 @@ def detectar_pose(linea, slot5):
     return None
 
 
-def parse_como_la_app(texto, slot5):
-    """Devuelve [{num, titulo, meta, ubicacion, tags, negative, prompts:{pose:txt}}]."""
+def parse_como_la_app(texto, slot5, campo_arquetipo=None):
+    """Devuelve [{num, titulo, meta, ubicacion, tags, negative, arquetipo, prompts:{pose:txt}}].
+
+    `campo_arquetipo` es el nombre del campo declarado en
+    `anclas_universales.json → personajes.<slug>.campo_arquetipo`
+    ("Categoria" para Ele, "Arquetipo" para Miss Doll/Anaïs). `None` (el
+    default, usado por los llamadores que no lo necesitan, p.ej.
+    `construir_prompts`) deja `arquetipo` en `None` para todos los looks.
+    """
     looks = []
     cur = None
     pose = None
@@ -97,6 +127,11 @@ def parse_como_la_app(texto, slot5):
     leyendo_canon = False
     buf = []
     canon = []
+    arq_buf = []
+
+    def cerrar_arquetipo():
+        if cur is not None:
+            cur["arquetipo"] = _extraer_campo_simple("\n".join(arq_buf), campo_arquetipo)
 
     def cerrar_prompt():
         nonlocal pose, buf
@@ -128,16 +163,26 @@ def parse_como_la_app(texto, slot5):
                 leyendo_codigo = False
                 cerrar_prompt()
             cerrar_canon()
+            cerrar_arquetipo()
             canon = []
+            arq_buf = []
             leyendo_canon = True
             cur = {"num": int(m.group(1)), "titulo": (m.group(2) or "").strip(),
                    "meta": (m.group(3) or "").strip() or None,
-                   "ubicacion": None, "tags": None, "negative": None, "prompts": {}}
+                   "ubicacion": None, "tags": None, "negative": None,
+                   "arquetipo": None, "prompts": {}}
             looks.append(cur)
             pose = None
             continue
         if cur is None:
             continue
+
+        # El campo de arquetipo se busca en TODO el cuerpo del look fuera de
+        # fences, no solo en el bloque canon (ubicacion/tags): la forma
+        # inline de Anaïs/Miss-Doll-desde-L47 vive DESPUÉS del primer
+        # `### 📸 Imágenes`, que es justo donde `leyendo_canon` ya cerró.
+        if not leyendo_codigo:
+            arq_buf.append(linea)
 
         if leyendo_canon:
             if t.startswith("### "):
@@ -184,4 +229,5 @@ def parse_como_la_app(texto, slot5):
     if leyendo_codigo:
         cerrar_prompt()
     cerrar_canon()
+    cerrar_arquetipo()
     return looks

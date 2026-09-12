@@ -40,6 +40,16 @@ CADA LOOK DECLARA LAS 7 POSES, TENGA O NO IMAGEN:
     La app sube con el nombre que el índice le dicta y deja de inventarlo:
     `img[pose] = {"a": nombre_archivo, "hay": bool}`.
 
+ARQUETIPO POR LOOK + META POR CATEGORÍA (Ama 12/09/2026, Tarea 5 ux-flujo-corto):
+    Cada look trae `"arq"`: el valor real del campo `Categoria`/`Arquetipo`
+    de su galería (`anclas_universales.json → personajes.<slug>.campo_arquetipo`
+    dice cuál), o `null` si el look no lo declara — hay looks así, ver el
+    diagnóstico que imprime la corrida. El índice también trae un bloque
+    TOP-LEVEL `"metas"` ({slug: {arquetipo: %}}), copia máquina-legible de la
+    tabla §6 de cada perfil visual (`personajes.<slug>.arquetipos_meta` en
+    `anclas_universales.json`) — es el objetivo declarado, no un conteo en
+    vivo de `arq`; prerrequisito de la Tarea 7 (resumen por arquetipo).
+
 Uso:
     python 99_Sistema/scripts/visual/generar_app_index.py
     python 99_Sistema/scripts/visual/generar_app_index.py --dry-run
@@ -159,7 +169,7 @@ def _fecha_de(meta):
     return m.group(1) if m else None
 
 
-def looks_de(galeria, slot5_nombre, hallazgos=None, slug=""):
+def looks_de(galeria, slot5_nombre, hallazgos=None, slug="", campo_arquetipo=None):
     """Parsea UNA o VARIAS galerías del mismo personaje y devuelve sus looks.
 
     Un personaje puede alimentar la app desde más de un archivo: la regla 11
@@ -172,11 +182,15 @@ def looks_de(galeria, slot5_nombre, hallazgos=None, slug=""):
     galerías o dentro de una misma— gana la primera aparición y la repetida se
     anota en `hallazgos`, porque una colisión silenciosa es exactamente la
     cicatriz que la regla 11 §9bis documenta.
+
+    `campo_arquetipo` viaja hasta `galeria_parser.parse_como_la_app` para que
+    cada look traiga su `arquetipo` (campo `Categoria`/`Arquetipo` de la
+    galería, Ama 12/09/2026, Tarea 5 ux-flujo-corto).
     """
     textos = [galeria] if isinstance(galeria, str) else list(galeria)
     vistos = {}
     for texto in textos:
-        for parsed in galeria_parser.parse_como_la_app(texto, slot5_nombre):
+        for parsed in galeria_parser.parse_como_la_app(texto, slot5_nombre, campo_arquetipo):
             if parsed["num"] in vistos:
                 if hallazgos is not None:
                     hallazgos.append(
@@ -292,7 +306,8 @@ def construir_indice(cfg_personajes, imagenes_por_personaje, galerias, hallazgos
             "carpeta": cfg["carpeta_imagenes"],
         }
         imagenes = imagenes_por_personaje.get(slug, {})
-        for parsed in looks_de(galerias[slug], cfg["slot5_nombre"], hallazgos, slug):
+        for parsed in looks_de(galerias[slug], cfg["slot5_nombre"], hallazgos, slug,
+                                cfg.get("campo_arquetipo")):
             numero = parsed["num"]
             entrada = imagenes.get(numero) or {}
             presentes = entrada.get("poses", {})
@@ -331,15 +346,19 @@ def construir_indice(cfg_personajes, imagenes_por_personaje, galerias, hallazgos
                 "img": img,
                 "c": portada,
                 "np": sum(1 for p in POSES_CANON if img[p]["hay"]),
+                "arq": parsed.get("arquetipo"),
             })
 
     looks.sort(key=lambda l: (l["p"], l["n"]))
+    metas = {slug: cfg["arquetipos_meta"]["metas"]
+             for slug, cfg in cfg_personajes.items() if "arquetipos_meta" in cfg}
     return {
         "v": 2,
         "generado": date.today().isoformat(),
         "poses": POSES_CANON,
         "personajes": cabecera_personajes,
         "looks": looks,
+        "metas": metas,
     }
 
 
@@ -455,8 +474,17 @@ def main():
     print(f"Imágenes:         {sum(l['np'] for l in indice['looks'])}")
     print(f"Completos (7/7):  {completos}")
     print(f"Con título:       {sum(1 for l in indice['looks'] if l['t'])}")
+    print(f"Con arquetipo:    {sum(1 for l in indice['looks'] if l['arq'])}")
+    print(f"Sin arquetipo:    {sum(1 for l in indice['looks'] if not l['arq'])}")
     print(f"Tamaño índice:    {kb:.1f} KB")
     print(f"Archivos prompts: {len(prompts)}")
+
+    print("\n--- Sin arquetipo, por muñeca (diagnóstico) ---")
+    for slug in indice["personajes"]:
+        sin = sorted(l["n"] for l in indice["looks"] if l["p"] == slug and not l["arq"])
+        if sin:
+            muestra = ", ".join(str(n) for n in sin[:8])
+            print(f"  {slug}: {len(sin)} looks sin arquetipo (ej.: {muestra})")
 
     _reportar_descartes(diagnosticos, indice, imagenes, hallazgos)
 

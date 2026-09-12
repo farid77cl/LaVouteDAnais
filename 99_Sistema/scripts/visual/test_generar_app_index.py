@@ -68,6 +68,84 @@ def test_el_nombre_de_la_quinta_pose_viaja_en_la_cabecera():
     assert idx["personajes"]["ele"]["slot5"] == "Ditzy"
 
 
+# --- arquetipo por look (`arq`) + meta por categoria (`metas`), Tarea 5
+# ux-flujo-corto (Ama 12/09/2026) ---------------------------------------
+
+
+def test_el_campo_arq_llega_desde_el_campo_real_de_la_galeria():
+    """Cada muñeca declara el campo con un nombre distinto (`campo_arquetipo`
+    en `anclas_universales.json`) y en una forma de texto distinta: Ele en
+    `- **Categoria:**` de linea propia, Miss Doll en `- **Arquetipo:**` de
+    linea propia, Anaïs en `**Arquetipo:** X · **Paleta:** Y` compartiendo
+    linea con otro campo (la forma que tambien usa Miss Doll desde su
+    Look 47 en adelante)."""
+    idx = _indice()
+    ele = next(l for l in idx["looks"] if l["p"] == "ele")
+    miss_doll = next(l for l in idx["looks"] if l["p"] == "miss_doll")
+    anais = next(l for l in idx["looks"] if l["p"] == "anais")
+    assert ele["arq"] == "Lencería"
+    assert miss_doll["arq"] == "Calabozo / Dungeon"
+    assert anais["arq"] == "Boudoir / Lencería"
+
+
+def test_un_look_sin_el_campo_declara_arq_null():
+    """`ele_archivo_min.md` no lleva `- **Categoria:**` en ninguno de sus dos
+    looks — exactamente el caso real: hay looks sin etiquetar (auditoria
+    05/09 en CLAUDE.md), y el índice no debe inventar un valor."""
+    idx = GEN.construir_indice(CFG, IMAGENES, _galerias_con_archivo())
+    look_42 = next(l for l in idx["looks"] if l["p"] == "ele" and l["n"] == 42)
+    assert look_42["arq"] is None
+
+
+def test_arquetipo_forma_inline_con_emoji_pegado_al_valor():
+    """Reproduce el Look 47 real de Miss Doll: el campo aparece en la forma
+    inline (`**Arquetipo:** 🎀 Girly Girl · **Paleta:** ...`) con un emoji
+    pegado al valor. Debe llegar limpio, sin el emoji ni la Paleta."""
+    texto = "\n".join([
+        "## 💅 Look 47: Bubblegum Ballerina Skirt (23/08/2026 · batch L47-L51)",
+        "- **Ubicacion:** `05_Imagenes/miss_doll/look47_bubblegum_ballerina_skirt/`",
+        "- **Tags:** #girlygirl",
+        "",
+        "**Arquetipo:** 🎀 Girly Girl · **Paleta:** Baby Pink + Oro",
+        "",
+        "**1. Standing:**",
+        "",
+        "```",
+        "prompt de pie",
+        "```",
+    ])
+    looks = GEN.galeria_parser.parse_como_la_app(texto, "Glacial Command", "Arquetipo")
+    assert looks[0]["arquetipo"] == "Girly Girl"
+
+
+def test_el_bloque_metas_trae_las_tres_munecas():
+    idx = _indice()
+    assert set(idx["metas"]) == {"ele", "miss_doll", "anais"}
+
+
+def test_cada_tabla_de_metas_suma_cerca_de_cien():
+    idx = _indice()
+    for slug, tabla in idx["metas"].items():
+        assert abs(sum(tabla.values()) - 100) < 1, (slug, tabla)
+
+
+def test_los_valores_de_metas_son_numericos_no_string():
+    idx = _indice()
+    for tabla in idx["metas"].values():
+        for valor in tabla.values():
+            assert isinstance(valor, (int, float)), valor
+
+
+def test_las_claves_de_metas_calzan_con_categorias_validas():
+    """Las claves de `arquetipos_meta` deben ser texto real de campo, no la
+    redaccion corta de la tabla del perfil — verificadas 12/09/2026 contra
+    `categorias_validas.nombres`, que ya reconcilia mayusculas/acentos."""
+    idx = _indice()
+    for slug, tabla in idx["metas"].items():
+        validas = set(CFG[slug]["categorias_validas"]["nombres"])
+        assert set(tabla) <= validas, (slug, set(tabla) - validas)
+
+
 # --- varias galerías por personaje (regla 11 §9bis: el archivo de Ele y la era
 # gótica alimentan la app a propósito) --------------------------------------
 

@@ -523,6 +523,23 @@
           "Gym",
           "Alfombra Roja / Gala"
         ]
+      },
+      "arquetipos_meta": {
+        "_dueno_unico": "02_Personajes/_perfiles_visuales/ele.md §6 (tabla 'Categoría | Meta'). Copia maquina-legible que lee `generar_app_index.py` para el bloque top-level `metas` del indice de LV-App-3.",
+        "_porque": "Ama 12/09/2026: 'en algun momento existieron metas, para mantener equilibrio' -- confirmado, la tabla de §6 sigue vigente. Tarea 5 del plan ux-flujo-corto (LV-App-3), prerequisito de la Tarea 7 (resumen por arquetipo). Valores copiados verbatim de la tabla del perfil -- este JSON no los recalcula.",
+        "_comparacion": "Verificado 12/09/2026 contra el campo real `- **Categoria:**` de la galeria (no solo contra la tabla del perfil): la tabla dice 'Gym/Athleisure' pero la galeria escribe 'Gym' a secas (59 looks) -- clave corregida a 'Gym' para que calce con `arq`, mismo valor 9.4. El resto de las 9 claves calza igual en la tabla, la galeria y `categorias_validas.nombres`. Hallazgo aparte que esta tarea NO corrige: la galeria tiene una 11a categoria real, 'Alfombra Roja / Gala' (19 looks, ya en `categorias_validas.nombres`), sin meta declarada en el perfil -- la suma de abajo sigue siendo sobre 10 categorias, no 11.",
+        "metas": {
+          "Lencería": 15,
+          "Nightclub": 9.4,
+          "High-Fashion Editorial": 9.4,
+          "Corporate": 9.4,
+          "Domestic": 9.4,
+          "Stripper": 9.4,
+          "Escort": 9.4,
+          "Pin-Up": 9.4,
+          "Gym": 9.4,
+          "Bikini": 9.4
+        }
       }
     },
     "miss_doll": {
@@ -666,6 +683,21 @@
           "Penthouse / Off-duty",
           "Editorial / Portada"
         ]
+      },
+      "arquetipos_meta": {
+        "_dueno_unico": "02_Personajes/_perfiles_visuales/miss_doll.md §6 (tabla 'Arquetipo | Descripción | Meta'). Copia maquina-legible que lee `generar_app_index.py` para el bloque top-level `metas` del indice de LV-App-3.",
+        "_porque": "Ama 12/09/2026: 'en algun momento existieron metas, para mantener equilibrio' -- confirmado, la tabla de §6 sigue vigente ('Suma verificada 13/08/2026: 18+15+13+12+12+12+9+9=100%'). Tarea 5 del plan ux-flujo-corto (LV-App-3), prerequisito de la Tarea 7 (resumen por arquetipo). Valores copiados verbatim de la tabla del perfil -- este JSON no los recalcula.",
+        "_comparacion": "Verificado 12/09/2026 contra el campo real `- **Arquetipo:**` de la galeria: la tabla del perfil escribe las 8 etiquetas SIN espacio alrededor de la barra ('Club/Escenario'), pero la galeria y `categorias_validas.nombres` usan espacio ('Club / Escenario') -- claves corregidas a la forma con espacio en las 5 que llevan barra para que calcen con `arq`. Los valores (%) no cambian. 'Bikini / Lencería Erótica' ademas aparece en la galeria sin tildes en 12 de sus 16 apariciones ('Bikini / Lenceria Erotica') -- se dejo la forma acentuada de `categorias_validas` como clave, que es la que ya reconcilia esa variacion (ver su `_comparacion`: se compara sin acentos y sin mayusculas).",
+        "metas": {
+          "Club / Escenario": 18,
+          "Bikini / Lencería Erótica": 15,
+          "Calabozo / Dungeon": 13,
+          "VIP / Privado": 12,
+          "Gym / Athletic": 12,
+          "Girly Girl": 12,
+          "Penthouse / Off-duty": 9,
+          "Editorial / Portada": 9
+        }
       }
     },
     "anais": {
@@ -763,6 +795,18 @@
           "Sesión Literaria",
           "Ejecutivo de Poder"
         ]
+      },
+      "arquetipos_meta": {
+        "_dueno_unico": "02_Personajes/_perfiles_visuales/anais.md §6 (tabla 'Arquetipo | Descripción | Meta'). Copia maquina-legible que lee `generar_app_index.py` para el bloque top-level `metas` del indice de LV-App-3 -- mismo patron que `cuota_corseteria` mas abajo (el perfil narra, este JSON es lo que se edita si la meta cambia).",
+        "_porque": "Ama 12/09/2026: 'en algun momento existieron metas, para mantener equilibrio' -- confirmado, la tabla de §6 sigue vigente. Tarea 5 del plan ux-flujo-corto (LV-App-3), prerequisito de la Tarea 7 (resumen por arquetipo). Valores copiados verbatim de la tabla del perfil -- este JSON no los recalcula.",
+        "_comparacion": "Verificado 12/09/2026 contra el campo real `**Arquetipo:**` de la galeria (forma inline, no `- **`): la tabla del perfil ya escribe las claves con espacio alrededor de la barra ('Noche / La Voûte'), igual que `categorias_validas.nombres` y que la mayoria de las apariciones reales (29 de 34 para esta; 5 aparecen sin circunflejo, 'Noche / La Voute', misma categoria por `_comparacion` de `categorias_validas`). Ninguna clave necesito correccion de formato.",
+        "metas": {
+          "Noche / La Voûte": 33,
+          "Boudoir / Lencería": 27,
+          "Látex / Fetichismo": 20,
+          "Sesión Literaria": 13,
+          "Ejecutivo de Poder": 7
+        }
       },
       "cuota_corseteria": {
         "_dueno_unico": "02_Personajes/_perfiles_visuales/anais.md §8 (fila «Corse + tanga — BLOQUEADO») + §5.6bis. Copia maquina-legible.",

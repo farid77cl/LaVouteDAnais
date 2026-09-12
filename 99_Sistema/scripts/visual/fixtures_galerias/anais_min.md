@@ -4,6 +4,8 @@
 - **Ubicacion:** `05_Imagenes/anais/look9_esmeralda_intima/`
 - **Tags:** #boudoir #encaje #anais
 
+**Arquetipo:** Boudoir / Lencería · **Paleta:** Marfil encaje + Rosa polvo látex · **Sin medias**
+
 **Concepto:** Encaje negro bajo una bata de seda esmeralda.
 
 **1. Standing:**

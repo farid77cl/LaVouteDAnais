@@ -323,6 +323,7 @@ El BLOQUE B debe nombrar, sin excepción:
 - **Prioridad de desempate:** Club > Bikini/Lencería > Calabozo > VIP > Gym > Girly Girl > Penthouse > Editorial.
 - **Suma verificada 13/08/2026:** 18 + 15 + 13 + 12 + 12 + 12 + 9 + 9 = **100%**. El 15% del arquetipo nuevo salió prorrateado de los siete existentes, no de uno solo.
 - **⚠️ Excepción de negative prompt SOLO en Girly Girl:** el negative base (§3) incluye `warm smile, laughing` porque el resto de sus arquetipos exige cero calidez. En un prompt de Girly Girl, **sacar esos dos términos** del negative — de lo contrario el prompt se contradice a sí mismo.
+- **Espejo máquina-legible (12/09/2026):** `anclas_universales.json → personajes.miss_doll.arquetipos_meta` — mismos valores que la tabla de arriba, con las claves de barra escritas con espacio ("Club / Escenario", no "Club/Escenario"): así es como la galería real y `categorias_validas.nombres` las escriben. Es lo que edita `generar_app_index.py` para el bloque `metas` del índice de LV-App-3; si la meta cambia, se edita ahí también.
 
 ---
 

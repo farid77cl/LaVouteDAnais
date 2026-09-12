@@ -2,6 +2,7 @@
 
 ## 🎀 Look 10: Midnight Plum Rite (18/08/2026 · batch L06-L10)
 - **Ubicacion:** `05_Imagenes/miss_doll/look10_midnight_plum_rite/`
+- **Arquetipo:** Calabozo / Dungeon
 - **Tags:** #missdoll #ciruela
 
 **3. Seated:**

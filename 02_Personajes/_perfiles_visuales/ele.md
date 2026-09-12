@@ -200,6 +200,7 @@ red lips, dark lips, wine lips, maroon lips, crimson lips, natural makeup, subtl
 
 - **Biblioteca de siluetas y specs por sub-arquetipo:** [`ele-outfit-engine/SKILL.md`](../../.agent/skills/ele-outfit-engine/SKILL.md) — 10 specs con referencias reales (House of CB, Schiaparelli, Mugler, Atsuko Kudo, Agent Provocateur, Bombshell…). **Es material de Ele. No se copia al motor.**
 - **Biblioteca de siluetas por sub-arquetipo:** `00_Ele/biblioteca_siluetas.md` (se carga solo al generar looks).
+- **Espejo máquina-legible (12/09/2026):** `anclas_universales.json → personajes.ele.arquetipos_meta` — mismos valores que la tabla de arriba (clave "Gym", no "Gym/Athleisure": la galería real escribe "Gym"). Es lo que edita `generar_app_index.py` para el bloque `metas` del índice de LV-App-3; si la meta cambia, se edita ahí también.
 
 ---
 

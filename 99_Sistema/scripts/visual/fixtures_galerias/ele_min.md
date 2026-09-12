@@ -2,6 +2,7 @@
 
 ## 👗 Look 800: Chrome Hooded Column (05/09/2026 · batch 796-800)
 - **Ubicacion:** `05_Imagenes/ele/look800_chrome_hooded_column/`
+- **Categoria:** Lencería
 - **Tags:** #vinilo #cromo #ele
 
 **1. Standing:**

@@ -483,6 +483,7 @@ Describir **en este orden**:
 - **Regla de déficit:** si un arquetipo está bajo meta, el próximo look **debe** ser de esa categoría. Conteo empieza en Look 41, no antes.
 - **Prioridad de desempate:** Noche > Boudoir > Látex > Sesión Literaria > Ejecutivo.
 - **Etiquetado obligatorio:** el campo `**Arquetipo:**` de cada look nuevo debe usar **textualmente** uno de los 5 nombres de esta tabla — nada de variantes ad-hoc ("Exotic", "Noir Glamour", "High-Fashion..."), esa fue la causa raíz del desorden. **Gala/Premiere y Viaje/Jet Set no desaparecen del todo** — si vuelven, es como escenario/paleta dentro de uno de los 5 arquetipos, no como categoría propia; a definir cuando se necesite.
+- **Espejo máquina-legible (12/09/2026):** `anclas_universales.json → personajes.anais.arquetipos_meta` — mismos valores que la tabla de arriba (mismo patrón que la fila de `cuota_corseteria` en §8: el perfil narra, el JSON es lo que se edita si la meta cambia). Es lo que lee `generar_app_index.py` para el bloque `metas` del índice de LV-App-3.
 
 ---
 
