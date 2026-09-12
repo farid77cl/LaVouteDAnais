@@ -560,6 +560,35 @@ def audit_negative(negative, tag=""):
     return out
 
 
+def audit_setting(setting, tag="", vetados=None):
+    """Lintea el BLOQUE C (setting) de UN look contra el veto de estetica del personaje.
+
+    Nace de la auditoria visual del 12/09/2026 (L834-838 de Ele): `outfit.py generar`
+    auditaba calzado y vestuario del BLOQUE B, pero NUNCA leia el setting -- y el L836
+    ("a converted warehouse studio lit by a single industrial spotlight") escribio la
+    violacion de "NADA DE INDUSTRIAL" (`00_Ele/identidad_ele.md` §I) directamente en el
+    prompt que se genero, sin que nada la frenara antes de escribirse. El L835
+    ("a mirrored dressing room backstage before a runway call") invito ademas al equipo
+    de produccion que SINGLE_SUBJECT tuvo que aprender a excluir (ver esa ancla). Mismo
+    patron que `calzado_vetado`: el veto es del PERFIL del personaje
+    (`anclas_universales.json -> personajes.<slug>.setting_vetado.terminos`), nunca una
+    lista cableada aqui -- Miss Doll y Anais no comparten necesariamente esta estetica.
+
+    Devuelve lista de violaciones (vacia = limpio)."""
+    pre = f"[{tag}] " if tag else ""
+    out = []
+    s = (setting or "").lower()
+    for veto in (vetados or []):
+        termino = veto.get("termino") if isinstance(veto, dict) else veto
+        if not termino or termino.lower() not in s:
+            continue
+        sust = veto.get("sustituto", "") if isinstance(veto, dict) else ""
+        out.append(f"{pre}SETTING VETADO ('{termino}') en el positive"
+                   + (f": usa {sust}." if sust else ".")
+                   + " El veto es del perfil del personaje, no del motor.")
+    return out
+
+
 def _get(look, *keys, default=""):
     for k in keys:
         if k in look and look[k] not in (None, ""):

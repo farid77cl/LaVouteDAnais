@@ -134,8 +134,8 @@
       "texto": "shot by a photographer with a real camera and never by the subject herself: no phone, no smartphone, no device, no screen and no selfie anywhere in frame, and her hands never raised as though holding a camera"
     },
     "SINGLE_SUBJECT": {
-      "porque": "El POV en primera persona ha generado DOS mujeres en el cuadro.",
-      "texto": "a single woman alone in the frame"
+      "porque": "Nacio POV-only (12/08/2026): el POV en primera persona habia generado DOS mujeres en el cuadro. SUBIDA A GLOBAL y reforzada 12/09/2026 (auditoria visual L834-838/L96-100): vivia solo en `pov`, y el Look 835 de Ele salio con gente real de fondo en 6 de 7 poses (maquilladoras, bolsos, percheros) y un fotografo reflejado en el espejo de su Odalisque -- ninguna de esas dos tomas llevaba el ancla. El setting del look ('mirrored dressing room backstage') invita a un equipo entero y nada en el positive lo prohibia fuera del retrato de POV. Texto ampliado para cubrir tambien reflejos de espejo/vidrio, no solo el cuadro directo.",
+      "texto": "a single woman alone in the frame with no other people, models, staff or photographers visible anywhere in the shot, including in any mirror, window or other reflective surface"
     },
     "SINGLE_HAND_CLOSE": {
       "porque": "Fix manos close-up (Ama 30/06/2026): en Ditzy y POV el encuadre es cerrado y solo cabe UNA mano. Forzar dos metía una mano fantasma o deformada. Canon: `.agent/rules/06-generacion-imagenes.md` §5 y `pose_repertoire_v5.md` §5-§6.",
@@ -339,7 +339,8 @@
       "SINGLE_FRAME",
       "GARMENT_CONSISTENCY",
       "PHOTOREAL_LOCK",
-      "FABRIC_PRISTINE"
+      "FABRIC_PRISTINE",
+      "SINGLE_SUBJECT"
     ],
     "standing": [
       "ANATOMY_FULL",
@@ -374,7 +375,6 @@
     "pov": [
       "ANATOMY_CLOSE",
       "SINGLE_HAND_CLOSE",
-      "SINGLE_SUBJECT",
       "GAZE_TO_LENS",
       "POV_NO_DEVICE",
       "ASPECT_VERTICAL"
@@ -522,6 +522,21 @@
           "Bikini",
           "Gym",
           "Alfombra Roja / Gala"
+        ]
+      },
+      "setting_vetado": {
+        "_dueno_unico": "00_Ele/identidad_ele.md §I ('PROHIBICIÓN ESTÉTICA ABSOLUTA') -- esto es su copia maquina-legible, para que el linter pueda verificarla. Si se edita un lado, editar el otro.",
+        "_porque": "Auditoria visual 12/09/2026: el Look 836 escribio 'a converted warehouse studio lit by a single industrial spotlight' como setting y rindio en las 7 poses ladrillo con acero oxidado, hormigon crudo y lampara industrial colgante -- la violacion de NADA DE INDUSTRIAL nacio en el prompt mismo, y `outfit.py generar` auditaba calzado y vestuario pero jamas leia `setting`. El Look 835 ('a mirrored dressing room backstage before a runway call') invito ademas al equipo de produccion completo a la toma (ver el `porque` de SINGLE_SUBJECT). Un chequeo que corre despues (esta misma auditoria) no evita el defecto: lo documenta -- la puerta tiene que estar en `generar`.",
+        "_alcance": "Lista de arranque, NO exhaustiva: cubre las dos familias que la auditoria encontro escritas de verdad (industrial y backstage-con-equipo). El resto de la prohibicion de identidad_ele.md §I (ciber/sci-fi, gotico) no tiene todavia un caso real fotografiado que la dispare -- se agrega cuando aparezca, no por anticipacion.",
+        "terminos": [
+          {"termino": "warehouse", "sustituto": "un penthouse o estudio editorial minimalista blanco/gris"},
+          {"termino": "factory", "sustituto": "un penthouse o estudio editorial minimalista blanco/gris"},
+          {"termino": "industrial", "sustituto": "un penthouse o estudio editorial minimalista blanco/gris"},
+          {"termino": "backstage", "sustituto": "un camarin privado de lujo sin equipo de produccion visible"},
+          {"termino": "runway call", "sustituto": "un contexto sin otras modelos ni staff en escena"},
+          {"termino": "exposed pipes", "sustituto": "quitar la tuberia; superficie de lujo lisa"},
+          {"termino": "rusted", "sustituto": "acabado impecable, nunca oxidado"},
+          {"termino": "basement", "sustituto": "un penthouse o estudio editorial minimalista blanco/gris"}
         ]
       },
       "arquetipos_meta": {

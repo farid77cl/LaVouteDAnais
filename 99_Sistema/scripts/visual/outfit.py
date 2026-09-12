@@ -73,7 +73,7 @@ sys.path.insert(0, AQUI)
 
 from color_canon import audit_rotacion_familia  # noqa: E402
 from footwear_canon import audit_footwear  # noqa: E402
-from garment_canon import racha_medias_detalle, audit_banda_cuota, audit_garment, audit_safe_filter, warn_safe_filter, warn_glove_nail_conflict, audit_clon_intra  # noqa: E402
+from garment_canon import racha_medias_detalle, audit_banda_cuota, audit_garment, audit_safe_filter, warn_safe_filter, warn_glove_nail_conflict, audit_clon_intra, audit_setting  # noqa: E402
 from lint_prompts_personaje import extraer_bloques_b, clasificar_arquitectura, plano as _plano  # noqa: E402
 from prompt_builder import PromptBuilder, cargar_config, slugify  # noqa: E402
 from vestuario_renderer import renderizar as renderizar_vestuario, PrendaInvalida  # noqa: E402
@@ -169,7 +169,16 @@ def cmd_generar(args):
         # salieron el L69 de Miss Doll (bata sin largo) y el L70 (sandalia con
         # medias vestida de "closed toe") — la Ama los pillo en la primera foto.
         # Un fix que no llega a la ruta que genera no es un fix, es un recuerdo.
-        canon = (audit_footwear(lk["bloque_b"], garments=lk["bloque_b"],
+        # 🏙️ VETO DE SETTING (12/09/2026, auditoria visual L834-838). Mismo hueco
+        # que el calzado vetado tenia hasta el 07/09: la regla estaba escrita en
+        # identidad_ele.md §I ("NADA DE INDUSTRIAL") y nada la ejecutaba. El L836
+        # escribio "a converted warehouse studio" en su propio setting y salio en
+        # las 7 poses con ladrillo/acero oxidado/hormigon crudo -- la violacion
+        # nacio en el prompt, nunca en Gemini. Va ANTES de escribir nada, como el
+        # resto de esta puerta.
+        canon = audit_setting(lk["setting"], tag="L%s" % num,
+                              vetados=(pb.perfil.get("setting_vetado") or {}).get("terminos"))
+        canon += (audit_footwear(lk["bloque_b"], garments=lk["bloque_b"],
                                 archetype=lk.get("codigo") or b.get("categoria", ""),
                                 tag="L%s" % num,
                                 vetados=(pb.perfil.get("calzado_vetado") or {}).get("terminos"))
@@ -178,7 +187,20 @@ def cmd_generar(args):
                                              tag="L%s" % num)
                     # sobre el B crudo solo valen los chequeos de DISEÑO (que
                     # falta declarar); las anclas/negative las pone build() despues.
-                    if "BATA sin largo" in v or "FRASE-ORDEN" in v])
+                    # "PRENDA CON DRIFT" ENTRA aca (12/09/2026, auditoria visual
+                    # L834-838/L96-100): es tambien un chequeo de DISEÑO -- si el
+                    # BLOQUE B nunca nombra escote/manga/ruedo, build() puede pegar
+                    # GARMENT_CONSISTENCY ("sigue la descripcion al pie de la letra")
+                    # pero no hay descripcion de manga que seguir, asi que el
+                    # candado protege el vacio. Confirmado en produccion: L834
+                    # (blazer) salio con un hombro desnudo en pov vs manga larga en
+                    # el resto, L838 (bodysuit) con manga larga en 3 poses y sisa
+                    # desnuda en las otras 4 -- las dos prendas SIN una palabra de
+                    # manga en su manifiesto. auditar_canon_flota.py ya detectaba
+                    # esto sobre la flota escrita; aqui se cazaba y se descartaba
+                    # (mismo defecto que "un chequeo que corre despues no evita el
+                    # defecto: lo documenta", la razon de ser de este comando).
+                    if "BATA sin largo" in v or "FRASE-ORDEN" in v or "PRENDA CON DRIFT" in v])
         # 🚫 Anti-safe del BLOQUE B (05/09/2026). El chequeo anti-safe del repo
         # miraba solo las POSES; el outfit nunca. Miss Doll L80 quedo en 0/7
         # porque su clausula de exposicion hacia rebotar el filtro de Gemini.
