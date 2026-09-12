@@ -291,7 +291,54 @@ def imagenes_trackeadas(slug, cfg, diag=None):
     return por_look
 
 
-def construir_indice(cfg_personajes, imagenes_por_personaje, galerias, hallazgos=None):
+CARPETA_VIDEOS = "05_Imagenes/video_cortos"
+
+# Los videos que sube LV-App-3 llevan el look en el nombre (`rutaDestinoVideoDe`);
+# los 18 históricos que ya vivían en el repo se llaman `Anima_esta_imagen (N).mp4`
+# y NO traen número, así que su `look` queda en null a propósito. Renombrarlos
+# sería migración masiva sobre material ya materializado: acá se los acepta como
+# están y se los deja atribuibles al personaje, no al outfit.
+RE_VIDEO_DE_APP = re.compile(r"^(?P<slug>[a-z_]+)_look(?P<n>\d+)_v(?P<i>\d+)\.mp4$", re.IGNORECASE)
+
+
+def look_de_video(nombre_archivo):
+    """El número de look que declara el NOMBRE de un video, o None si no declara ninguno.
+
+    Único lugar donde se interpreta ese nombre. Devuelve None -- nunca adivina --
+    para cualquier archivo fuera del patrón que escribe la app: un video
+    histórico, uno subido a mano, o uno con el nombre mal escrito. Un `look`
+    inventado mandaría un video al outfit equivocado, que es peor que no
+    mostrarlo bajo ninguno.
+    """
+    m = RE_VIDEO_DE_APP.match(nombre_archivo)
+    return int(m.group("n")) if m else None
+
+
+def videos_trackeados(slug):
+    """[{"a": archivo, "ruta": ruta completa, "look": int|None}] desde git ls-files.
+
+    Desde git y no desde el disco, por el mismo motivo que `imagenes_trackeadas`:
+    el repo está clonado en varias máquinas y en algunas los binarios no están
+    bajados. Lo que manda es lo que git tiene trackeado, no lo que hay en disco.
+    """
+    carpeta = f"{CARPETA_VIDEOS}/{slug}/"
+    out = subprocess.run(
+        ["git", "-C", str(REPO_ROOT), "ls-files", carpeta],
+        capture_output=True, text=True, encoding="utf-8", errors="replace",
+    )
+    videos = []
+    for linea in out.stdout.splitlines():
+        ruta = linea.strip()
+        if not ruta.lower().endswith(".mp4"):
+            continue
+        archivo = ruta.rsplit("/", 1)[-1]
+        videos.append({"a": archivo, "ruta": ruta, "look": look_de_video(archivo)})
+    videos.sort(key=lambda v: (v["look"] is None, v["look"] or 0, v["a"]))
+    return videos
+
+
+def construir_indice(cfg_personajes, imagenes_por_personaje, galerias, hallazgos=None,
+                     videos_por_personaje=None):
     """El JSON completo del índice. No toca disco ni git a propósito:
     recibe todo por parámetro, así que se puede probar con fixtures sin
     montar un repo falso.
@@ -359,6 +406,7 @@ def construir_indice(cfg_personajes, imagenes_por_personaje, galerias, hallazgos
         "personajes": cabecera_personajes,
         "looks": looks,
         "metas": metas,
+        "videos": videos_por_personaje or {},
     }
 
 
@@ -404,7 +452,8 @@ def _cargar(diagnosticos=None):
         imagenes[slug] = imagenes_trackeadas(slug, c, diag)
         if diagnosticos is not None:
             diagnosticos[slug] = diag
-    return cfg, galerias, imagenes
+    videos = {slug: videos_trackeados(slug) for slug in cfg}
+    return cfg, galerias, imagenes, videos
 
 
 def _reportar_descartes(diagnosticos, indice, imagenes, hallazgos):
@@ -457,8 +506,8 @@ def main():
 
     diagnosticos = {}
     hallazgos = []
-    cfg, galerias, imagenes = _cargar(diagnosticos)
-    indice = construir_indice(cfg, imagenes, galerias, hallazgos)
+    cfg, galerias, imagenes, videos = _cargar(diagnosticos)
+    indice = construir_indice(cfg, imagenes, galerias, hallazgos, videos)
     prompts = construir_prompts(cfg, galerias)
 
     if args.pretty:

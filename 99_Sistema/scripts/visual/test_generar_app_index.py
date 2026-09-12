@@ -356,3 +356,46 @@ def test_una_pose_sin_prompt_escrito_no_aparece():
 if __name__ == "__main__":
     import pytest
     raise SystemExit(pytest.main([__file__, "-v"]))
+
+
+# ---- Bloque `videos` (Tarea 1 del Plan 5 de LV-App-3, 12/09/2026) ----
+# Nace de un defecto real reportado por la Ama: subio un video para anais/93,
+# `anais_look93_v1.mp4` quedo en el repo, y la app seguia mostrando "Videos (0)"
+# porque su unica fuente era la cola local de subida. Lo que se prueba aca es el
+# PARSEO DEL NOMBRE, que es donde esto falla callado: un `look` inventado mandaria
+# un video al outfit equivocado, que es peor que no mostrarlo bajo ninguno.
+
+def test_el_nombre_que_escribe_la_app_declara_su_look():
+    assert GEN.look_de_video("anais_look93_v1.mp4") == 93
+    assert GEN.look_de_video("ele_look833_v1.mp4") == 833
+    assert GEN.look_de_video("miss_doll_look108_v1.mp4") == 108
+
+
+def test_los_videos_historicos_no_declaran_look_y_eso_esta_bien():
+    assert GEN.look_de_video("Anima_esta_imagen (3).mp4") is None
+    assert GEN.look_de_video("Anima_esta_imagen.mp4") is None
+
+
+def test_un_nombre_fuera_del_patron_nunca_inventa_un_look():
+    for nombre in [
+        "anais_look_v1.mp4",          # sin numero
+        "anais_look93.mp4",           # sin indice de version
+        "anais_look93_v1.mov",        # otra extension
+        "look93_v1.mp4",              # sin personaje
+        "",
+    ]:
+        assert GEN.look_de_video(nombre) is None, nombre
+
+
+def test_el_indice_declara_el_bloque_videos_aunque_venga_vacio():
+    idx = GEN.construir_indice(CFG, IMAGENES, GALERIAS)
+    assert idx["videos"] == {}
+
+
+def test_el_bloque_videos_viaja_tal_cual_al_indice():
+    videos = {"anais": [{"a": "anais_look93_v1.mp4",
+                         "ruta": "05_Imagenes/video_cortos/anais/anais_look93_v1.mp4",
+                         "look": 93}]}
+    idx = GEN.construir_indice(CFG, IMAGENES, GALERIAS, None, videos)
+    assert idx["videos"]["anais"][0]["look"] == 93
+    assert idx["videos"]["anais"][0]["ruta"].endswith("anais_look93_v1.mp4")
