@@ -4,11 +4,51 @@
 
 ---
 
+## 👠 Look 838: Chrome Editorial En El Cyclorama
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_838_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look838_chrome_editorial_en_el_cyclorama/ele_838_standing.png) | ![ele_838_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look838_chrome_editorial_en_el_cyclorama/ele_838_back_view.png) | ![ele_838_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look838_chrome_editorial_en_el_cyclorama/ele_838_seated.png) | ![ele_838_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look838_chrome_editorial_en_el_cyclorama/ele_838_side_profile.png) | ![ele_838_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look838_chrome_editorial_en_el_cyclorama/ele_838_ditzy.png) | ![ele_838_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look838_chrome_editorial_en_el_cyclorama/ele_838_pov.png) | ![ele_838_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look838_chrome_editorial_en_el_cyclorama/ele_838_odalisque.png) |
+
+---
+
+## 👠 Look 837: Violeta Electrico En La Suite
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_837_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look837_violeta_electrico_en_la_suite/ele_837_standing.png) | ![ele_837_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look837_violeta_electrico_en_la_suite/ele_837_back_view.png) | ![ele_837_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look837_violeta_electrico_en_la_suite/ele_837_seated.png) | ![ele_837_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look837_violeta_electrico_en_la_suite/ele_837_side_profile.png) | ![ele_837_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look837_violeta_electrico_en_la_suite/ele_837_ditzy.png) | ![ele_837_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look837_violeta_electrico_en_la_suite/ele_837_pov.png) | ![ele_837_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look837_violeta_electrico_en_la_suite/ele_837_odalisque.png) |
+
+---
+
+## 👠 Look 836: Oxblood Harness En El Estudio
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_836_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look836_oxblood_harness_en_el_estudio/ele_836_standing.png) | ![ele_836_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look836_oxblood_harness_en_el_estudio/ele_836_back_view.png) | ![ele_836_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look836_oxblood_harness_en_el_estudio/ele_836_seated.png) | ![ele_836_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look836_oxblood_harness_en_el_estudio/ele_836_side_profile.png) | ![ele_836_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look836_oxblood_harness_en_el_estudio/ele_836_ditzy.png) | ![ele_836_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look836_oxblood_harness_en_el_estudio/ele_836_pov.png) | ![ele_836_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look836_oxblood_harness_en_el_estudio/ele_836_odalisque.png) |
+
+---
+
+## 👠 Look 835: Sapphire Slip En El Vestier
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_835_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look835_sapphire_slip_en_el_vestier/ele_835_standing.png) | ![ele_835_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look835_sapphire_slip_en_el_vestier/ele_835_back_view.png) | ![ele_835_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look835_sapphire_slip_en_el_vestier/ele_835_seated.png) | ![ele_835_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look835_sapphire_slip_en_el_vestier/ele_835_side_profile.png) | ![ele_835_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look835_sapphire_slip_en_el_vestier/ele_835_ditzy.png) | ![ele_835_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look835_sapphire_slip_en_el_vestier/ele_835_pov.png) | ![ele_835_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look835_sapphire_slip_en_el_vestier/ele_835_odalisque.png) |
+
+---
+
+## 👠 Look 834: Gunmetal Boardroom En Vidrio
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_834_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look834_gunmetal_boardroom_en_vidrio/ele_834_standing.png) | ![ele_834_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look834_gunmetal_boardroom_en_vidrio/ele_834_back_view.png) | ![ele_834_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look834_gunmetal_boardroom_en_vidrio/ele_834_seated.png) | ![ele_834_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look834_gunmetal_boardroom_en_vidrio/ele_834_side_profile.png) | ![ele_834_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look834_gunmetal_boardroom_en_vidrio/ele_834_ditzy.png) | ![ele_834_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look834_gunmetal_boardroom_en_vidrio/ele_834_pov.png) | ![ele_834_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look834_gunmetal_boardroom_en_vidrio/ele_834_odalisque.png) |
+
+---
+
 ## 👠 Look 833: Cheetah Rooftop At Golden Hour
 
-| De Pie | Espalda | Sentada | Perfil | Ditzy |
-| :---: | :---: | :---: | :---: | :---: |
-| ![ele_833_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look833_cheetah_rooftop_at_golden_hour/ele_833_standing.png) | ![ele_833_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look833_cheetah_rooftop_at_golden_hour/ele_833_back_view.png) | ![ele_833_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look833_cheetah_rooftop_at_golden_hour/ele_833_seated.png) | ⏳ | ⏳ |
+| De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![ele_833_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look833_cheetah_rooftop_at_golden_hour/ele_833_standing.png) | ![ele_833_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look833_cheetah_rooftop_at_golden_hour/ele_833_back_view.png) | ![ele_833_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look833_cheetah_rooftop_at_golden_hour/ele_833_seated.png) | ![ele_833_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look833_cheetah_rooftop_at_golden_hour/ele_833_side_profile.png) | ![ele_833_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look833_cheetah_rooftop_at_golden_hour/ele_833_ditzy.png) | ![ele_833_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look833_cheetah_rooftop_at_golden_hour/ele_833_pov.png) | ![ele_833_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look833_cheetah_rooftop_at_golden_hour/ele_833_odalisque.png) |
 
 ---
 
@@ -169,6 +209,14 @@
 | De Pie | Espalda | Sentada | Perfil | Ditzy | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![ele_812_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look812_blush_whisper_babydoll/ele_812_standing.png) | ![ele_812_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look812_blush_whisper_babydoll/ele_812_back_view.png) | ![ele_812_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look812_blush_whisper_babydoll/ele_812_seated.png) | ![ele_812_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look812_blush_whisper_babydoll/ele_812_side_profile.png) | ![ele_812_ditzy.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look812_blush_whisper_babydoll/ele_812_ditzy.png) | ![ele_812_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look812_blush_whisper_babydoll/ele_812_pov.png) | ![ele_812_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look812_blush_whisper_babydoll/ele_812_odalisque.png) |
+
+---
+
+## 👠 Look 811: Nude Bordelle Harness Atelier
+
+| De Pie | Espalda | Sentada | Perfil | Ditzy |
+| :---: | :---: | :---: | :---: | :---: |
+| ![ele_811_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look811_nude_bordelle_harness_atelier/ele_811_standing.png) | ⏳ | ![ele_811_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/ele/look811_nude_bordelle_harness_atelier/ele_811_seated.png) | ⏳ | ⏳ |
 
 ---
 

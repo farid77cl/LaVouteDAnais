@@ -700,7 +700,7 @@
 
 | De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![anais_087_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_standing.png) | ![anais_087_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_back_view.png) | ![anais_087_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_seated.png) | ![anais_087_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_side_profile.png) | ![anais_087_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_sovereign_gaze.png) | ![anais_087_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_pov.png) | ⏳ |
+| ![anais_087_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_standing.png) | ![anais_087_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_back_view.png) | ![anais_087_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_seated.png) | ![anais_087_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_side_profile.png) | ![anais_087_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_sovereign_gaze.png) | ![anais_087_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_pov.png) | ![anais_087_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look87_gasa_de_marfil_antes_del_amanecer/anais_087_odalisque.png) |
 
 ---
 
@@ -736,6 +736,14 @@
 
 ---
 
+## 🌹 Look 92: Azul Medianoche En El Salon Literario
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_092_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look92_azul_medianoche_en_el_salon_literario/anais_092_standing.png) | ![anais_092_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look92_azul_medianoche_en_el_salon_literario/anais_092_back_view.png) | ![anais_092_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look92_azul_medianoche_en_el_salon_literario/anais_092_seated.png) | ![anais_092_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look92_azul_medianoche_en_el_salon_literario/anais_092_side_profile.png) | ![anais_092_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look92_azul_medianoche_en_el_salon_literario/anais_092_sovereign_gaze.png) | ![anais_092_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look92_azul_medianoche_en_el_salon_literario/anais_092_pov.png) | ![anais_092_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look92_azul_medianoche_en_el_salon_literario/anais_092_odalisque.png) |
+
+---
+
 ## 🌹 Look 93: Cuero Negro En El Estudio De Latex
 
 | De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
@@ -757,6 +765,22 @@
 | De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![anais_095_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look95_le_smoking_berenjena_en_el_salon_de_fumar/anais_095_standing.png) | ![anais_095_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look95_le_smoking_berenjena_en_el_salon_de_fumar/anais_095_back_view.png) | ![anais_095_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look95_le_smoking_berenjena_en_el_salon_de_fumar/anais_095_seated.png) | ![anais_095_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look95_le_smoking_berenjena_en_el_salon_de_fumar/anais_095_side_profile.png) | ![anais_095_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look95_le_smoking_berenjena_en_el_salon_de_fumar/anais_095_sovereign_gaze.png) | ![anais_095_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look95_le_smoking_berenjena_en_el_salon_de_fumar/anais_095_pov.png) | ![anais_095_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look95_le_smoking_berenjena_en_el_salon_de_fumar/anais_095_odalisque.png) |
+
+---
+
+## 🌹 Look 96: Marfil Y Encaje En El Tocador
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_L96_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look96_marfil_y_encaje_en_el_tocador/anais_L96_standing.png) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ |
+
+---
+
+## 🌹 Look 98: Champan Liquido En La Sala Privada
+
+| De Pie | Espalda | Sentada | Perfil | Sovereign Gaze | POV | Odalisca |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![anais_098_standing.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look98_champan_liquido_en_la_sala_privada/anais_098_standing.png) | ![anais_098_back_view.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look98_champan_liquido_en_la_sala_privada/anais_098_back_view.png) | ![anais_098_seated.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look98_champan_liquido_en_la_sala_privada/anais_098_seated.png) | ![anais_098_side_profile.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look98_champan_liquido_en_la_sala_privada/anais_098_side_profile.png) | ![anais_098_sovereign_gaze.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look98_champan_liquido_en_la_sala_privada/anais_098_sovereign_gaze.png) | ![anais_098_pov.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look98_champan_liquido_en_la_sala_privada/anais_098_pov.png) | ![anais_098_odalisque.png](https://raw.githubusercontent.com/farid77cl/LaVouteDAnais/main/05_Imagenes/anais/look98_champan_liquido_en_la_sala_privada/anais_098_odalisque.png) |
 
 ---
 
