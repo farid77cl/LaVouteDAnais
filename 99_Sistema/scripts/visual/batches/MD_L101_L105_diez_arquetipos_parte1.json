@@ -1,0 +1,106 @@
+{
+  "_dueno_unico": "Datos del batch. El BLOQUE A lo lee el motor del perfil visual (02_Personajes/_perfiles_visuales/miss_doll.md §2).",
+  "_origen": "Ama, via Ele: lote de 10 outfits nuevos para Miss Doll (L101-L110). Dividido en DOS archivos de 5 a proposito -- ver _porque_dos_archivos.",
+  "_porque_dos_archivos": "Medido antes de escribir: los ultimos 10 looks reales (L91-L100) ya usan las 10 arquitecturas M1-M10 una vez cada una (L91=M5, L92=M8, L93=M1, L94=M9, L95=M3, L96=M6, L97=M2, L98=M7, L99=M4/A5, L100=M10). `outfit.py generar` compara un batch nuevo contra el 'lote anterior' de IGUAL TAMAÑO que el batch mismo (rotp.cross_batch_desde_look, 07/09/2026): un archivo unico de 10 looks se compararia contra esos mismos 10 (L91-L100) y CUALQUIER arquitectura que use ya estaria ahi -- bloqueo garantizado en las 9 no-M4, matematicamente, sin importar el diseño. La ventana de arquitectura (ventana_global=3) y la cuota de silueta cubierta (1 de cada 4) tambien se miden sobre la secuencia completa. Partido en dos archivos de 5 -- el mismo tamaño que TODOS los batches historicos de esta muñeca -- el primero (L101-105) se compara contra L96-100 (usa M6,M2,M7,M4,M10) y usa el complemento exacto (M1,M3,M5,M8,M9); el segundo (L106-110, archivo separado, corrido DESPUES de pegar este en la galeria real) se compara contra L101-105 y usa el complemento de ESE lote (M6,M2,M7,M4,M10 de nuevo, ya libres). Los 10 outfits estan diseñados como una sola tanda coherente; el corte en dos archivos es un artefacto de como el gate mide, no del diseño.",
+  "personaje": "miss_doll",
+  "fecha": "11/09/2026",
+  "batch": "Diez Arquetipos -- Parte 1 de 2 (arquitecturas M1, M3, M5, M8, M9)",
+  "rango": "101-105",
+  "categoria": "Variedad",
+  "tags_comunes": ["#manifiesto", "#batchL101-L110"],
+  "looks": {
+    "101": {
+      "titulo": "Wine Chrome Bodysuit en la Tarima",
+      "polo": "Club / Escenario",
+      "concepto": "Club/Escenario, su arquetipo de mayor peso (18%). Arquitectura M1 (bodysuit, piel) -- libre contra el lote anterior L96-100 (M6,M2,M7,M4,M10) y libre en la ventana global de 3 (L98-100: M7,M4,M10). Vino profundo: familia roja, ausente en la ventana de color de los ultimos 5 looks (L96-100: azul, verde, violeta, metal, neutro-oscuro). Rosa firma en el cordon de las aberturas de cadera y en la suela.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M1_bodysuit", "color": "wine", "color_desc": "deep wine red",
+         "material_desc": "liquid-finish latex", "pieza_desc": "second-skin bodysuit",
+         "descripcion": ", a scooped sweetheart neckline with underwire seaming, two long teardrop cutouts along the ribs closed by three fine chrome bars, the back crossed by a pair of diagonal straps meeting in a low V above the tailbone, its bottom cut high into a g-string at the hip"},
+        {"descripcion": "a hot-pink neon cord threaded through the rib cutouts, her one nod to the signature pink; a slim chrome torque at the throat, unlettered, delicate chrome hoops at each ear"},
+        {"descripcion": "no hosiery tonight, legs bare and glossy; hands ungloved"},
+        {"descripcion": "eyeshadow in deep wine shimmer smoke, lips in high-gloss blood red"},
+        {"descripcion": "stiletto-shaped nails at 5cm, a wine-red chrome gloss"},
+        {"descripcion": "closed pointed-toe platform stiletto pumps in wine-red patent vinyl, 8-inch platform, chrome mirror finish on the platform edge, hot-pink undersole, a razor-thin metal needle heel"}
+      ]},
+      "setting": "a revue stage under a single hard spotlight, black lacquer risers and a haze of chrome dust in the air",
+      "props": {"seat": "the black lacquer riser step", "wall": "the smoked mirror backdrop",
+                "surface": "the stage floor", "upright": "the chrome pole"}
+    },
+    "102": {
+      "titulo": "Pearl Demi Bralette en el Tocador",
+      "polo": "Bikini / Lencería Erótica",
+      "concepto": "Bikini/Lenceria Erotica. Arquitectura M3 (conjunto de lenceria, piel) -- libre contra el lote anterior y contra la ventana global de 3. Perla: familia neutro-claro, ausente en la ventana de color de los ultimos 5 looks. La prenda ES el sujeto de la toma (frontera §6). Rosa firma en el ribete del bralette. Con medias (segunda de la ventana anti-racha: L100 llevo medias, L101 no, esta si -- maximo 2 seguidas, no se toca).",
+      "manifiesto": {"prendas": [
+        {"pieza": "M3_lenceria_dos_piezas", "color": "pearl", "color_desc": "pearl white",
+         "material_desc": "liquid-satin", "pieza_desc": "demi-cup bralette and matching thong",
+         "descripcion": ", the bralette's cups moulded into a deep plunge and closed by a small rose-gold ring at the sternum, the thong's front narrowed to a panel and its back a single fine cord riding high on the hip, a fine hot-pink piping along the bralette's underwire"},
+        {"descripcion": "a rose-gold garter belt with four clips holding the stockings; small rose-gold hoop earrings, nothing at the throat"},
+        {"descripcion": "sheer pearl-white stockings, 15 denier, seamed up the back of each leg"},
+        {"descripcion": "eyeshadow in cobalt-blue shimmer smoke, lips in glossy deep berry"},
+        {"descripcion": "almond-shaped nails at 5cm, a pearl-white chrome gloss"},
+        {"descripcion": "closed pointed-toe platform stiletto pumps in pearl-white patent vinyl, 8-inch platform, rose-gold mirror finish, hot-pink undersole, a razor-thin metal needle heel"}
+      ]},
+      "setting": "a private powder room before the shift starts, brushed marble and a wall of vanity bulbs",
+      "props": {"seat": "the tufted vanity stool", "wall": "the mirrored vanity wall",
+                "surface": "the marble vanity counter", "upright": "the vanity mirror frame"}
+    },
+    "103": {
+      "titulo": "Plum Fashion Harness en la Reja",
+      "polo": "Calabozo / Dungeon",
+      "concepto": "Calabozo/Dungeon, deficit real del roster. Arquitectura M5 (arnes de fashion-bondage, piel) -- libre contra el lote anterior y la ventana global. El bottom se nombra 'g-string', nunca 'thong', para que el clasificador no lo lea como M3 (mismo hueco documentado en el batch del 07/09). Ciruela oscuro: familia violeta, distinta de la del L98 (violeta electrico UV) por saturacion y separada por mas de 3 looks. Corseteria DE DISEÑO (latex + chrome, nunca rigging pesado). Rosa firma en el clip del liguero.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M5_arnes", "color": "plum", "color_desc": "dark plum",
+         "material_desc": "soft-touch vinyl", "pieza_desc": "fashion body harness",
+         "descripcion": ", a single vertical spine strap climbing from a waist belt to a chrome bar set between the collarbones, two diagonal straps buckled at the underbust looping back over each shoulder, a separate hip belt cinched at the left hip by a chrome buckle with a short drape of matching vinyl falling to mid-thigh"},
+        {"pieza": "M4_corseteria_tanga", "color": "plum", "color_desc": "dark plum",
+         "material_desc": "soft-touch vinyl", "pieza_desc": "g-string",
+         "descripcion": " worn beneath it, the waistband sitting low under the hip belt and fastened at one side with a small chrome hook, the back a single thin strip"},
+        {"descripcion": "a hot-pink neon cord knotted at the outer right thigh, her one nod to the signature pink; a fine chrome hoop at each ear, the throat left bare"},
+        {"descripcion": "legs bare tonight, no hosiery; hands ungloved throughout"},
+        {"descripcion": "eyeshadow in deep plum shimmer smoke, lips in high-gloss oxblood"},
+        {"descripcion": "coffin-shaped nails at 5cm, a plum chrome gloss"},
+        {"descripcion": "closed pointed-toe platform stiletto thigh-high boots in plum patent vinyl reaching mid-thigh, 8-inch platform, chrome mirror finish, hot-pink undersole, a razor-thin metal needle heel"}
+      ]},
+      "setting": "a private session room, deep charcoal suede walls and a single hard pool of light on the floor",
+      "props": {"seat": "the low black lacquer bench", "wall": "the deep charcoal suede wall",
+                "surface": "the black steel shelf", "upright": "a polished black steel post"}
+    },
+    "104": {
+      "titulo": "Turquoise Bike Short Two-Piece",
+      "polo": "Gym / Athletic",
+      "concepto": "Gym/Athletic. Arquitectura M8 (dos piezas cubiertas, pierna en bike short en vez de legging completo -- rota la pierna del arquetipo pedida por su §6, el L92 mas reciente uso legging completo). Turquesa: familia azul, eco de su iris cobalto, ausente en la ventana de color de los ultimos 5 looks pese a ser su jugada mas barata. Rosa firma en el ribete lateral y en la muñequera.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M8_pantalon_legging_top", "color": "turquoise", "color_desc": "turquoise",
+         "material_desc": "soft-touch vinyl", "pieza_desc": "cropped sports bra and matching bike shorts",
+         "descripcion": ", a racerback cut crossing between the shoulder blades and a keyhole cutout at the sternum laced shut with a thin chrome cord, the bike shorts sitting on the natural waist with a single hot-pink neon chevron stitched down the outer thigh, the hem cut mid-thigh baring the leg below"},
+        {"descripcion": "a slim hot-pink neon band circling the right wrist, small chrome studs at the ears"},
+        {"descripcion": "no hosiery, legs bare below the shorts; hands ungloved"},
+        {"descripcion": "eyeshadow in icy cobalt shimmer smoke, lips in high-gloss blood red"},
+        {"descripcion": "coffin-shaped nails at 5cm, a turquoise chrome gloss"},
+        {"descripcion": "closed pointed-toe platform stiletto pumps in turquoise patent vinyl, 8-inch platform, chrome mirror finish, black undersole, a razor-thin metal needle heel"}
+      ]},
+      "setting": "a private rooftop gym at first light, pale concrete and a bank of steel free weights",
+      "props": {"seat": "a matte steel weight bench", "wall": "the exposed concrete wall",
+                "surface": "the rubber gym floor", "upright": "a steel squat-rack upright"}
+    },
+    "105": {
+      "titulo": "Mint Liquid Catsuit en el Estudio",
+      "polo": "Editorial / Portada",
+      "concepto": "Editorial/Portada. Arquitectura M9 (catsuit de pierna completa, CUBIERTA) -- el largo de pierna se nombra con todas sus letras ('full-length down to the ankle') para que pague la cuota de silueta cubierta. Menta palida: familia verde, distinta de la ultima verde real (jade, L97, hace 8 looks). Rosa firma en el ribete de la costura lateral.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M9_catsuit_unitard_jumpsuit", "color": "mint", "color_desc": "pale mint",
+         "material_desc": "liquid-finish latex", "pieza_desc": "second-skin catsuit",
+         "descripcion": ", its legs running full-length down to the ankle, a curved diagonal zip crossing from the left shoulder to the right hip left half-open, a single hot-pink neon stripe running down the outer seam of one leg only -- her one nod to the signature pink"},
+        {"descripcion": "a slim chrome collar sitting flat at the base of the throat, small chrome drop earrings"},
+        {"descripcion": "no hosiery needed, the catsuit covers the legs; hands ungloved"},
+        {"descripcion": "eyeshadow in emerald-teal shimmer smoke, lips in high-gloss oxblood"},
+        {"descripcion": "almond-shaped nails at 5cm, a mint-green chrome gloss"},
+        {"descripcion": "closed pointed-toe platform stiletto pumps in mint patent vinyl, 8-inch platform, chrome mirror finish, black undersole, a razor-thin metal needle heel"}
+      ]},
+      "setting": "a raw concrete photography studio under a bank of cold white softboxes",
+      "props": {"seat": "the grey concrete studio block", "wall": "the raw concrete cyclorama",
+                "surface": "the concrete studio floor", "upright": "the studio softbox stand"}
+    }
+  }
+}

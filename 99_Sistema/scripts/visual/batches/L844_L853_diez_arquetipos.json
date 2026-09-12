@@ -1,0 +1,60 @@
+{
+  "_origen": "Pedido directo de la Ama: 10 outfits nuevos, L844-L853. Ultimo look real confirmado en galeria: 843.",
+  "_recorte_11_09_2026": "REDUCIDO de 10 a 2 looks (L844-L845) tras verificar contra el motor real (outfit.py generar), no contra el borrador original que quedo sin correr. Dos techos reales, medidos, no supuestos: (1) ARQUITECTURA REPETIDA CONTRA EL LOTE ANTERIOR (rotacion_prenda.cross_batch_desde_look=828): el lote inmediatamente anterior (L834-L843, 10 looks reales) ya cubre M8(834), M10(835), M3(836), M6(837), M1(838), M9(839), M2(840), M4/A6(841), M7(842), M4/A5(843) -- 8 de los 10 codigos M1-M10 completos mas 2 de las 6 subfamilias de M4. Esa regla bloquea CUALQUIER repeticion de esos 10 codigos en el batch siguiente, sin importar la posicion -- solo quedan libres M4/A2, M4/A4, M4/A7, M4/A8 (las 4 subfamilias de M4 no tocadas) mas M5, deliberadamente descartado por el bug conocido (M5 inalcanzable por orden del regex, ver memoria_sesiones ESTADO ACTUAL). (2) CUOTA DE SILUETA CUBIERTA (>=1 de arquitectura M6-M10 'cubierta' cada 4 looks consecutivos): probado en vivo con un batch de 4 looks M4 -- las primeras 2 posiciones (844,845) pasan porque su ventana de 4 aun incluye el L842 real (M7, cubierta), pero desde la 3ra posicion (846) la ventana queda enteramente dentro del batch nuevo y, como TODA arquitectura cubierta (M6-M10) esta bloqueada por (1), ninguna ventana de 4 puede volver a cerrar -- confirmado con el error real del motor: 'L846: 0 de los ultimos 4 looks (L843-L846) llevan silueta cubierta'. Es decir: con la composicion real del lote anterior, el techo NO es 4 -- es exactamente 2. Los otros 8 looks pedidos (incluida la cuota de animal print planeada para L847 en el intento de 4) quedan sin materializar. Decision de canon pendiente para la Ama: agregar moldes M11+ o revisar el cross-batch para este caso -- anotado en memoria_sesiones.md, no resuelto por esta sesion.",
+  "_colorimetria": "tiger amber-black (print, paga la cuota) / acid chartreuse -- dos familias sin repetir entre si ni contra la cola real (841 esmeralda, 842 cobalto, 843 amatista). Ningun rojo ni cherry como dominante.",
+  "_cuota_animal_print": "El ultimo print fue L840 (leopard, Bikini/Pin-Up). Cuota minima 1 de cada 8 looks -> vence en L848. Se paga en L844 (tiger, Escort): rota depredador (no leopard) y rota sub-arquetipo.",
+  "_arquetipos": "Con solo 2 looks posibles (ver _recorte), ambos usan las unicas 2 subfamilias M4 usadas: Escort (corselette tiger, A7) y Nightclub (bustier chartreuse, A8) -- construccion, cierre, accesorio y calzado deliberadamente distintos entre si (y frente a L841/L843, tambien M4) para no chocar con el detector de CLON DE OUTFIT.",
+  "personaje": "ele",
+  "fecha": "11/09/2026",
+  "batch": "Dos Arquitecturas Libres -- techo real confirmado contra el motor, recortado de diez a dos",
+  "rango": "844-845",
+  "categoria": "Mix",
+  "tags_comunes": ["#manifiesto", "V7poses", "batchL844-L845"],
+  "negative_extra": "cotton, denim, wool, linen, matte natural fabric, flat shoes, sneakers, barefoot, kitten heel, wedge, block heel, platform mule, gloves, opera gloves, lace gloves",
+  "looks": {
+    "844": {
+      "titulo": "Tiger Corselette en la Terraza Privada",
+      "polo": "Escort",
+      "concepto": "Escort Haute. Arquitectura M4/A7 (corselette con ligas integradas, piel) -- subfamilia distinta de A6 (L841) y A5 (L843), libre en la ventana y no usada por el lote anterior L834-L843. PAGA LA CUOTA DE ANIMAL PRINT antes de su vencimiento en L848: el ultimo print fue L840 (leopard); se rota a TIGRE y a un sub-arquetipo distinto. Amber-black sobre latex, redaccion anti-filtro (se describe la construccion del estampado, nunca lo que insinua).",
+      "manifiesto": {"prendas": [
+        {"pieza": "M4_corseteria_tanga", "color": "tiger print", "color_desc": "burnt-amber and black tiger-stripe",
+         "material_desc": "high-gloss latex", "pieza_desc": "corselette with integrated garters",
+         "descripcion": ", a true tiger-stripe coat pattern in black over burnt amber rendered consistently across every inch of the printed latex, boned through the torso from underbust to hip with six garter straps descending to sheer stockings, a mirror-gold busk splitting the centre front and closing on five hidden hooks"},
+        {"descripcion": "a matching tiger-print latex thong beneath the corselette, the front a slender triangle and the back a single fine thread"},
+        {"descripcion": "a slim mirror-gold collar with no lettering and small gold hoop earrings"},
+        {"descripcion": "sheer amber-tinted stockings at 15 denier held by the six integrated garter straps; hands stay uncovered, not a glove anywhere on her"},
+        {"descripcion": "5cm XXXL French tips, an amber lacquer flecked with gold"},
+        {"descripcion": "closed pointed-toe platform stiletto pumps in black mirror patent latex, 15cm of razor-thin gold pin heel plus a 4-inch platform, a single thin amber ankle strap fastened with a gold buckle, mirror-gold sole edge and a gold heel cap"}
+      ]},
+      "setting": "a private rooftop terrace suite at night, a low fire pit throwing warm light against floor-to-ceiling glass, the city skyline spread out beyond the glass rail",
+      "props": {
+        "seat": "the low leather rooftop daybed",
+        "wall": "the floor-to-ceiling terrace glass",
+        "surface": "the stone terrace tiles",
+        "upright": "the glass terrace rail post"
+      }
+    },
+    "845": {
+      "titulo": "Acid Chartreuse Bustier en el VIP Lounge",
+      "polo": "Nightclub",
+      "concepto": "Nightclub. Arquitectura M4/A8 (bustier rigido sin faldon, piel) -- subfamilia libre, no tocada por el lote anterior. Chartreuse acida en vez de la banda rojo-naranja-coral-fucsia que su Sec5.2b marca como la que peor le pelea de dominante. Sin garter ni medias (a diferencia de L844) para diferenciarse del detector de clon de outfit: el bustier no ciñe cadera ni baja pierna, cierra solo torso.",
+      "manifiesto": {"prendas": [
+        {"pieza": "M4_corseteria_tanga", "color": "chartreuse", "color_desc": "acid chartreuse",
+         "material_desc": "high-gloss vinyl", "pieza_desc": "rigid bustier",
+         "descripcion": ", boned from underbust to the natural waist with no skirt or garter panel extending past it, a straight sweetheart top edge sitting low across the chest, closing at the centre back through a row of hidden hook-and-eye fasteners"},
+        {"descripcion": "a matching chartreuse vinyl thong worn beneath it, a narrow front triangle and a single fine cord at the back"},
+        {"descripcion": "a fine chrome body chain draped low across bare hips and a single chrome ankle chain on the left leg"},
+        {"descripcion": "legs bare, no stockings anywhere; hands stay uncovered, no gloves at any point"},
+        {"descripcion": "5cm XXXL French tips finished in glossy chartreuse over a translucent pink base"},
+        {"descripcion": "strappy platform stiletto sandals in clear PVC leave the toes bare, 16cm of razor-thin gold pin heel riding a 5-inch clear platform, a crisscross ankle strap fastened with a gold buckle, mirror-gold sole edge"}
+      ]},
+      "setting": "a VIP lounge past midnight, low velvet banquettes ringing a brass-topped table, a single low chandelier throwing warm copper light, the rest of the room in soft shadow",
+      "props": {
+        "seat": "the curved velvet banquette",
+        "wall": "the mirrored lounge back wall",
+        "surface": "the brass-topped low table",
+        "upright": "a slim brass column beside the banquette"
+      }
+    }
+  }
+}

@@ -48,6 +48,9 @@ graphify-out/cache/
 00_Ele/galeria_audit_report.md
 00_Ele/galeria_link_audit.md
 
+# === Salida de outfit.py generar — se regenera con --out, el destino real es la galería (H2 11/09) ===
+99_Sistema/scripts/visual/output_*.md
+
 # === Respaldos con timestamp de la galería (git YA es el respaldo) ===
 00_Ele/galeria_outfits.BKP*.md
 *.BKP*.md

@@ -1,0 +1,70 @@
+{
+  "_dueno_unico": "Este batch es DATOS, no script (CLAUDE.md, Outfit Engine 29/08/2026). El motor unico es outfit.py generar.",
+  "_origen": "Ama, pedido de 10 looks nuevos (L101-L110). Dividido en DOS archivos de 5 (esta es la tanda 1) por un techo tecnico real encontrado al disenar el lote completo: el chequeo 'ARQUITECTURA REPETIDA CONTRA EL LOTE ANTERIOR' compara contra los ultimos len(batch) looks reales -- con un batch de 10 eso son L91-L100, que YA usan 8 de los 8 codigos M no vetados (M1,M3,M5,M6,M7,M8,M9,M10; solo M2 libre), y la cuota de silueta cubierta (>=1 cada 4) exige un codigo cubierto (M6/M7/M9/M10) justo en L101 -- contradiccion matematica irresoluble en una sola llamada. Partiendo en tandas de 5, la ventana cruzada compara contra solo 5 looks previos y dejan codigos libres de verdad. Documentado, no es un atajo: es el tamano de lote para el que el chequeo esta disenado (los batches historicos de Anais son todos de 3-5).",
+  "_techo_verificado": "Clasificados con clasificar_arquitectura() sobre el BLOQUE B real de la galeria: L91=M7 L92=M6 L93=M9 L94=M1 L95=M8 L96=M3 L97=M10 L98=None L99=M5 L100=None. Los 8 codigos no vetados (M4 vetado por cuota_corseteria=0 desde L91; M8 evitado por canon salvo pedido expreso -- ya gastado en L95 por el Le Smoking S3) aparecen TODOS salvo M2 en esos 10 looks.",
+  "_deficit": "Contado hasta L100 (70 looks desde el reset del L41... base 60 antes de este lote): Noche 19/60=31.7% vs meta 33% (mayor hueco) - Boudoir 16/60=26.7% vs 27% - Latex 12/60=20.0% vs 20% (en meta) - Sesion Literaria 8/60=13.3% vs 13% (en meta) - Ejecutivo 5/60=8.3% vs 7% (sobre meta). Con 10 looks nuevos el reparto elegido es Noche 4 / Boudoir 3 / Latex 2 / Sesion Literaria 1 / Ejecutivo 0 (ya sobre meta, no se alimenta). Esta tanda (L101-105) cubre Noche 1 / Boudoir 2 / Latex 1 / Sesion Literaria 1.",
+  "_step_0": "Codigos maquina de esta tanda, todos limpios (ninguno de los 5 aparece en L96-100): L101=M6 (gown, primera vez libre desde L92) - L102=M1 (bodysuit, libre desde L94) - L103=M9 (catsuit pierna completa, libre desde L93) - L104=M7 (skirt, libre desde L91) - L105=M2 (triangle top, nunca usado en los ultimos 10 -- el unico codigo que la tanda de 10 en una sola llamada SI habria dejado libre). Los 5 codigos de esta tanda son DISTINTOS entre si, asi que tambien satisfacen la ventana de rotacion de 5 sin ayuda de evasion de vocabulario.",
+  "_colorimetria": "Esmeralda (verde, L101) - gris perla (neutro claro, L102) - azul medianoche (L103) - ambar dorado (L104, eco de iris) - negro (L105). Cinco familias distintas, ninguna repite contra los ultimos 5 looks reales (marfil L96, rosa polvo L97, champan/dorado antiguo L98, chocolate/camel L99, plata antigua L100) y metal se queda en su tope de 2 sin sumar un tercero.",
+  "_cuota_piel": "Los tres looks antes de L101 (L98, L99, L100) no llevan piel real (L99 es cuero, no piel) -- cuota de 'ultimos 3 sin piel obliga al siguiente' se paga en L101 con estola de armiño.",
+  "_cuota_bata": "REVISADO tras rediseño de L102 (ya no lleva bata, ver su nota de rediseño): de los dos Boudoir de esta tanda (L102, L105) ninguno lleva bata abierta esta vez — el piso de bata (>=1 de cada 2) se paga con la tercera aparicion de Boudoir del lote completo (L107, tanda 2), no dentro de esta tanda.",
+  "_su_canon": "Corseteria vetada (L91+): ningun BLOQUE B de esta tanda usa corset/overbust/merry widow/guepiere/waspie/corselette/basque. LEG_CUT_LOCK explicito en el short de L105 y en el leg-opening de L102. Guantes de opera en L101 y L103 (2 de 5, dentro del limite de 3-de-5; en L103 se omite el token de uñas por guante cerrado).",
+  "personaje": "anais",
+  "fecha": "11/09/2026",
+  "batch": "El Umbral de la Voute -- tanda 1 de 2 (L101-L105)",
+  "rango": "101-105",
+  "categoria": "Deficit",
+  "tags_comunes": ["#deficit", "#V7poses", "#batchL101-L105"],
+  "negative_extra": "modern clothing, contemporary streetwear, plastic, neon, cyberpunk, athleisure, chrome highlighter, silver strobing, metallic mirror highlight, cool pink blush, platform sole, visible platform, corset, overbust, merry widow, guepiere, waspie, corselette, basque",
+  "looks": {
+    "101": {
+      "titulo": "Esmeralda y Armino en la Escalinata",
+      "codigo": "D8 (maquina: M6)",
+      "polo": "Noche / La Voûte",
+      "concepto": "Noche prioritaria del deficit. D8 (manga capa) estrena en esmeralda, fresco en la ventana de color. Cubre la cuota de piel (armino) que los 3 looks anteriores dejaron pendiente. Guantes de opera -- unico uso de guante de esta tanda.",
+      "bloque_b": "a floor-length emerald silk-velvet gown with dramatic cape sleeves falling open from each shoulder to the elbow, the fitted bodice beneath cut close to the waist and the skirt pooling in a short train behind her; long emerald satin opera gloves reaching above the elbow, closed at the fingers; a stole of white ermine draped over one shoulder and caught at the opposite elbow, the fur pale against the emerald velvet, her tightlaced waist visible in the gap beneath it; a slim antique-gold choker with a single emerald drop at the throat; emerald suede, thigh-high over the knee: her stiletto boots hold a red sole under a pointed closed toe, the heel measured to precisely 12cm",
+      "setting": "the grand marble staircase of La Voûte, a wrought-iron balustrade curving down into the salon below, candlelight from wall sconces",
+      "props": {"seat": "the top stair's velvet-cushioned landing", "wall": "the mirrored stairwell wall",
+                "surface": "the marble balustrade", "upright": "a tall bronze candelabrum"}
+    },
+    "102": {
+      "titulo": "Gris Perla bajo el Alba",
+      "codigo": "A11 bodysuit de encaje + capelet (maquina: M1)",
+      "polo": "Boudoir / Lencería",
+      "concepto": "Boudoir 1 de 3. Rediseño post-gate (2a vuelta): vuelve a bodysuit de encaje (M1, libre en L96-L100) pero SIN la bata de gasa que clonaba L99 — la capa exterior pasa a ser un capelet corto de chinchilla (rota de tipo contra el armiño del L101, no consecutivo del mismo animal) y la espalda/back detail se reescribe entera (low scooped back en vez de narrow lace strip, sin harness). Gris perla, fuera de la ventana de color.",
+      "bloque_b": "a one-piece bodysuit in fine pearl-grey Leavers lace, an open lattice of filigree lace baring the ribs on each side, a low scooped back leaving the spine bare to the waist, the leg openings cut high over the hip baring the hip crease and the top of the thigh on each side; a short capelet of pale chinchilla fur draped over both shoulders and caught loosely at the throat with a single hook, her tightlaced waist bare and visible beneath its hem; sheer ivory fine-seamed nylon stockings on a matching satin suspender belt, six taut straps worn over the bodysuit's hip; bare hands, no gloves; a single strand of grey freshwater pearls at the throat; her nails, 5cm, oval, lacquered a soft antique gold; pearl-grey suede, ending exactly at the knee: her stiletto boots hold a red sole under a pointed closed toe, the heel measured to precisely 12cm",
+      "setting": "a private boudoir alcove at La Voûte, dawn light filtering through gauze curtains, an unmade bed just out of frame",
+      "props": {"seat": "the edge of the bed", "wall": "the gauze-curtained window wall",
+                "surface": "a small marble side table", "upright": "a standing full-length mirror"}
+    },
+    "103": {
+      "titulo": "Azul Medianoche en la Bóveda de Látex",
+      "codigo": "Catsuit canónico (maquina: M9)",
+      "polo": "Látex / Fetichismo",
+      "concepto": "Latex 1 de 2. Rediseño post-gate: el cierre de ganchos en la espalda + keyhole en el esternon + guantelete sin dedos era la misma construccion del L100 (solo cambiaba plata/piton por azul). Nueva construccion: cierre lateral (costura axila-cadera), cuello mandarin + hombros al descubierto tipo halter, recorte ovalado en la cintura (no en el esternon), guante de opera cerrado (no guantelete) — por eso se omite el token de uñas. Azul medianoche, fresco en la ventana.",
+      "bloque_b": "a second-skin sheath of midnight-blue clinical-grade latex, a high mandarin collar standing at the throat, both shoulders bared by a halter-cut yoke, the closure a single seam-zip running from underarm to hip along her left side, an oval cutout baring the midriff between the ribs and the waist, both legs taken entirely to the ankle; full-length midnight-blue latex opera gloves rising above the elbow, closed at the fingers; a slim gunmetal cuff worn over one glove at the wrist; black patent, thigh-high over the knee: her stiletto boots carry a red sole beneath a pointed closed toe, the heel measured to precisely 12cm exactly",
+      "setting": "a private latex vault beneath La Voûte, climate-controlled and softly lit, rows of moulded mannequins holding catsuits along the far wall",
+      "props": {"seat": "a low leather-topped fitting bench", "wall": "the mannequin-lined vault wall",
+                "surface": "a steel preparation table", "upright": "a tall chrome garment rack"}
+    },
+    "104": {
+      "titulo": "Ámbar en el Escritorio Nocturno",
+      "codigo": "Falda lápiz + blusa de seda (maquina: M7)",
+      "polo": "Sesión Literaria",
+      "concepto": "Unico look de Sesion Literaria del lote de 10. Ambar dorado, eco de iris. Manos desnudas (necesita sostener la pluma) -- unas visibles.",
+      "bloque_b": "a fitted amber silk pencil skirt falling to mid-calf with a single back kick-pleat, paired with a matching amber silk blouse with a soft pussy-bow tie at the throat and long fitted sleeves rolled once at the wrist; sheer nude fine-seamed nylon stockings with a delicate back seam; bare hands, no gloves; a pair of black cat-eye glasses with a delicate rhinestone-tipped frame pushed low on her nose; a slim antique-gold fountain pen held loosely between two fingers; a thin antique-gold chain at the throat with no lettering; her nails, 5cm, almond-shaped, lacquered a deep amber-gold; amber suede, ending exactly at the knee: her stiletto boots hold a red sole under a pointed closed toe, the heel measured to precisely 12cm",
+      "setting": "her private study within La Voûte, a mahogany writing desk lit by a single green-glass banker's lamp, towers of manuscript pages stacked at its edge",
+      "props": {"seat": "the tufted leather desk chair", "wall": "the leather-bound bookshelf wall",
+                "surface": "the mahogany writing desk", "upright": "the green-glass banker's lamp"}
+    },
+    "105": {
+      "titulo": "Negro Bettie en el Tocador",
+      "codigo": "S1 (maquina: M2)",
+      "polo": "Boudoir / Lencería",
+      "concepto": "Boudoir 2 de 3, sin bata (alterna con L102/L107). Estreno de S1 (conjunto pin-up de dos piezas, §5.6c) en negro, fresco en la ventana. LEG_CUT_LOCK explicito en el short.",
+      "bloque_b": "a matching black Chantilly lace two-piece set: a structured bullet-cup triangle top tied between the breasts with a thin satin ribbon, paired with high-waisted black lace shorts, the leg openings cut sharply upward to the crest of the hip bone baring the hip and the top of the thigh on each side, never a full-coverage brief; a bare midriff between the two pieces; sheer black fine-seamed nylon stockings on a black satin suspender belt, six taut straps worn over the shorts; bare hands, no gloves; a single strand of black-diamond drops at the throat; her nails, 5cm, almond-shaped, lacquered a deep antique gold; black suede, ending exactly at the knee: her stiletto boots hold a red sole under a pointed closed toe, the heel measured to precisely 12cm",
+      "setting": "her tocador at La Voûte, close beside the mirrored vanity, a scatter of loose pearls across its surface catching the lamp light",
+      "props": {"seat": "the low velvet vanity stool", "wall": "the mirrored vanity wall",
+                "surface": "the vanity table scattered with loose pearls", "upright": "the standing dressing mirror"}
+    }
+  }
+}

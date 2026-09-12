@@ -1,0 +1,60 @@
+{
+  "_dueno_unico": "Este batch es DATOS, no script (CLAUDE.md, Outfit Engine 29/08/2026). El motor unico es outfit.py generar.",
+  "_origen": "Ama, pedido de 10 looks nuevos (L101-L110), tanda 2 de 2. Diseñada DESPUES de pegar la tanda 1 (L101-L105) en la galeria, para calcular la ventana de anti-repeticion sobre datos reales y no sobre una proyeccion.",
+  "_techo_real_encontrado": "Igual que en la tanda 1, un lote de 5 no cabe aca. `ventana_global`=5 (rotacion de arquitectura) obliga a que el codigo de cada look nuevo no repita ninguno de los 5 looks reales inmediatamente anteriores; el chequeo SEPARADO 'arquitectura repetida contra el lote anterior' compara ADEMAS el batch entero contra los ultimos len(batch) looks reales. L101-L105 gastaron 5 de los 8 codigos M no vetados (M6,M1,M9,M7,M2 -- M4 vetado por cuota_corseteria=0). Solo quedan M3,M5,M8,M10 disponibles para un QUINTO look sin violar la ventana de 5 -- y agrandar el batch a 5 vuelve a poner M6/M1/M9/M7/M2 en el set prohibido del chequeo cross-batch para el batch ENTERO (probado en vivo: agregar un L110 con M8 hace que hasta L107=M6 pase a estar prohibido por el chequeo cross-batch, que recalcula su ventana con len(nums_batch)=5 en vez de 4). Con batch de 4 (L106-L109), el cross-batch compara contra los ultimos 4 reales (L102-L105 = M1,M9,M7,M2), lo que deja M6 libre de nuevo para L107 porque L101 ya salio de esa ventana mas corta -- y la ventana rodante de 5 sigue limpia porque para cuando se llega a L107 (L102-L106 en la ventana) L101 tambien salio de ELLA. Encadenando las elecciones asi (M3->M6->M10->M5) los 4 looks pasan las dos reglas a la vez. Un quinto (probado con M8 y con M9) SIEMPRE choca: o la ventana rodante ya gasto ese codigo dos posiciones atras, o el cross-batch (recalculado a tamaño 5) revive la prohibicion de L101-L105 sobre el batch entero. Techo real: 4 looks nuevos en esta tanda, 9 de los 10 pedidos en total. El 10o necesita decision de canon (inventar una arquitectura mas o repetir una silueta antes de los 5 looks) -- no se fuerza, se reporta.",
+  "_deficit": "Tras L101-105 (65 looks desde el reset del L41): Noche 20/65=30.8% vs meta 33% -- Boudoir 18/65=27.7% vs 27% (en meta) -- Latex 13/65=20.0% vs 20% (en meta) -- Sesion Literaria 9/65=13.8% vs 13% (en meta) -- Ejecutivo 5/65=7.7% vs 7% (en meta). Con el techo de 4 (no 5) el reparto se ajusta: Noche 2 (mayor hueco) / Boudoir 1 / Latex 1 -- Sesion Literaria y Ejecutivo ya en meta o sobre, no se alimentan.",
+  "_step_0": "Codigos maquina de esta tanda, encadenados para pasar ventana rodante (5) Y cross-batch (ultimos 4 reales = L102-105 = M1,M9,M7,M2): L106=M3 (lenceria dos piezas, libre desde L96) - L107=M6 (segundo vestido/segunda-piel, libre otra vez porque L101 sale de la ventana de 5 en la posicion de L107) - L108=M10 (slip dress, libre desde L97) - L109=M5 (arnes, libre desde L99). Los 4 codigos de esta tanda son DISTINTOS entre si.",
+  "_colorimetria": "Rosa polvo (L106, ya usado L97 hace 9 looks, fuera de ventana) - champagne (L107, nunca en los ultimos 10) - esmeralda (L108, ultima vez L101, fuera de la ventana de 5) - bronce/cobre antiguo (L109, ultima vez L95, muy fuera de ventana). Ninguno repite contra los 5 looks reales inmediatamente anteriores (L102-106: gris perla, azul medianoche, ambar, negro, rosa polvo) salvo el propio rosa polvo de L106 que ES ese quinto -- se verifica contra L97-101 antes de escribirse: azul medianoche(L103) ambar(L104) negro(L105) esmeralda(L101, aparece de nuevo en L108 pero a 7 looks de distancia) no colisiona con rosa polvo.",
+  "_cuota_piel": "Ninguna piel en L106-109 (arnes de cuero no cuenta como piel real, |seccion 5.1b). Los ultimos 3 looks reales antes de L106 (L103,104,105) tampoco llevan piel real -- la cuota de 'ultimos 3 sin piel obliga al siguiente' se paga DESPUES, en la eventual continuacion del roster (no bloqueante, es piso no techo, y esta tanda no la agrava: L101 y L102 llevaron piel real hace poco).",
+  "_cuota_bata": "L106 (unico Boudoir de esta tanda) lleva bata abierta semitransparente -- sostiene el piso de 50% junto con los Boudoir ya materializados.",
+  "_su_canon": "Corseteria vetada (L91+): ningun BLOQUE B de esta tanda usa corset/overbust/merry widow/guepiere/waspie/corselette/basque. LEG_CUT_LOCK explicito en el briefs de L106. Sin guantes de opera en esta tanda (ya se uso 2 de 5 en la tanda 1).",
+  "personaje": "anais",
+  "fecha": "12/09/2026",
+  "batch": "El Umbral de la Voute -- tanda 2 de 2 (L106-L109, tecnicamente recortada de L106-L110)",
+  "rango": "106-109",
+  "categoria": "Deficit",
+  "tags_comunes": ["#deficit", "#V7poses", "#batchL106-L109"],
+  "negative_extra": "modern clothing, contemporary streetwear, plastic, neon, cyberpunk, athleisure, chrome highlighter, silver strobing, metallic mirror highlight, cool pink blush, platform sole, visible platform, corset, overbust, merry widow, guepiere, waspie, corselette, basque",
+  "looks": {
+    "106": {
+      "titulo": "Rosa Polvo en el Tocador",
+      "codigo": "A3 plunge demi-cup + briefs a juego, con bata (maquina: M3)",
+      "polo": "Boudoir / Lencería",
+      "concepto": "Unico Boudoir de esta tanda. A3 (plunge demi-cup) en dos piezas -- arquitectura M3, libre desde el L96. Bata de gasa semitransparente (piso de bata). Rosa polvo, fuera de la ventana de color reciente.",
+      "bloque_b": "a dusty-rose demi-cup lace bra cut deep and low between the cups in fine Chantilly lace, paired with matching high-waisted lace briefs, the leg openings cut sharply upward to the crest of the hip baring the hip and the top of the thigh on each side; a loose floor-length open robe of sheer dusty-rose silk gauze, translucent under the light and left open from throat to hem, its edges trimmed in a narrow flounce of matching lace, tied at the waist by a slim cord that never actually closes it, the hem trailing behind her on the floor; sheer nude fine-seamed nylon stockings on a matching lace suspender belt, six taut straps worn over the briefs; bare hands, no gloves; a slim strand of dusty-rose freshwater pearls at the throat; her nails, 5cm, almond-shaped, lacquered a soft antique bronze; dusty-rose suede, ending exactly at the knee: her stiletto boots hold a red sole under a pointed closed toe, the heel measured to precisely 12cm",
+      "setting": "her private powder room at La Voûte, a gilt-framed vanity mirror lit by rows of small bulbs, a chaise longue draped in blush silk",
+      "props": {"seat": "the blush silk chaise longue", "wall": "the gilt-framed vanity mirror wall",
+                "surface": "the vanity table scattered with open perfume bottles", "upright": "a standing brass coat rack draped with a second robe"}
+    },
+    "107": {
+      "titulo": "Champagne en la Galería de Retratos",
+      "codigo": "D6 Strapless Sweetheart Gown (maquina: M6)",
+      "polo": "Noche / La Voûte",
+      "concepto": "Noche 1 de 2. D6 (nunca antes en su roster) en champagne, fuera de la ventana de color. M6 vuelve a estar libre en esta posicion porque L101 (tambien M6) ya salio de la ventana rodante de 5.",
+      "bloque_b": "a strapless champagne silk-satin gown with a boned sweetheart bodice, no straps, the shoulders bare, the fitted bodice giving way to a full column skirt that pools in a slight train behind her; a wide antique-gold cuff bracelet on one wrist; a slim antique-gold choker with a single pearl drop at the throat; her nails, 5cm, almond-shaped, lacquered a soft champagne-gold; champagne suede, thigh-high over the knee: her stiletto boots hold a red sole under a pointed closed toe, the heel measured to precisely 12cm",
+      "setting": "the private gallery of La Voûte lined with gilt-framed portraits, a single chandelier lit low, a velvet rope cordoning the far end",
+      "props": {"seat": "a gilt bergère chair against the gallery wall", "wall": "the row of gilt-framed portraits",
+                "surface": "a marble pedestal table", "upright": "the low-lit chandelier's iron stand"}
+    },
+    "108": {
+      "titulo": "Esmeralda en el Invernadero Nocturno",
+      "codigo": "D3 Bias-Cut Slip Gown (maquina: M10)",
+      "polo": "Noche / La Voûte",
+      "concepto": "Noche 2 de 2. D3 (nunca antes en su roster) en esmeralda -- ultima vez L101, fuera de la ventana de 5. M10 libre desde el L97.",
+      "bloque_b": "a floor-length bias-cut emerald silk-charmeuse slip dress, thin straps at the shoulder, the liquid-draping fabric skimming rather than gripping the body, a deep cowl drape at the back falling open to the waist; a wide antique-gold belt cinching the waist over the slip dress; a slim antique-gold choker at the throat; her nails, 5cm, almond-shaped, lacquered a deep emerald; black patent, thigh-high over the knee: her stiletto boots hold a red sole under a pointed closed toe, the heel measured to precisely 12cm",
+      "setting": "the moonlit conservatory at La Voûte, floor-to-ceiling glass panes fogged at the edges, a single wrought-iron bench among the potted palms",
+      "props": {"seat": "the wrought-iron conservatory bench", "wall": "the fogged glass conservatory wall",
+                "surface": "a small iron side table", "upright": "a tall potted palm"}
+    },
+    "109": {
+      "titulo": "Bronce y Cuero en el Taller de Látex",
+      "codigo": "S4 arnés sobre bodysuit de látex (maquina: M5)",
+      "polo": "Látex / Fetichismo",
+      "concepto": "Unico Latex de esta tanda. S4 (arnes fino de cuero, §5.6c) sobre un bodysuit de latex -- distinto de su unico uso previo (L99, arnes sobre cuerpo de encaje). Bronce/cobre antiguo, muy fuera de la ventana de color.",
+      "bloque_b": "a fitted bronze-copper clinical-grade latex second-skin sheath, a low scoop neckline baring the upper chest, both legs taken entirely to the ankle; a fine gunmetal leather harness cinched over it, one narrow band climbing from beneath the ribcage to fasten at a small ring below the collarbone, a second band looping once around the natural waist and a third crossing diagonally over one hip, every strap unboned, soft and unstructured against the latex beneath; a gunmetal collar sitting flush at the throat; her nails, 5cm, lacquered a deep bronze; black patent, thigh-high over the knee: her stiletto boots carry a red sole beneath a pointed closed toe, the heel measured to precisely 12cm",
+      "setting": "the finishing room of the latex atelier beneath La Voûte, a polishing table lit by a single overhead lamp, glass jars of pigment lined along the wall",
+      "props": {"seat": "a low leather-topped stool", "wall": "the pigment-jar shelving wall",
+                "surface": "the polishing table", "upright": "a tall articulated mannequin stand"}
+    }
+  }
+}
