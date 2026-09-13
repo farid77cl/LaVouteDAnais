@@ -17,6 +17,13 @@ on:
       - '99_Sistema/scripts/visual/galeria_parser.py'
       - '99_Sistema/scripts/visual/nombres_canonicos.py'
       - '99_Sistema/scripts/visual/anclas_universales.json'
+      # Tarea 4 del Plan 5 de la app: el índice de relatos. Se regenera con el
+      # mismo job -- son dos scripts independientes que escriben archivos
+      # distintos en `app/`, y tenerlos en dos workflows sólo multiplicaría las
+      # carreras por el push a `main` que ya documenta el bloque `concurrency`.
+      - '03_Literatura/01_En_Progreso/**'
+      - '03_Literatura/02_Finalizadas/**'
+      - '99_Sistema/scripts/literatura/generar_app_relatos.py'
 
 permissions:
   contents: write
@@ -51,15 +58,20 @@ jobs:
           python -m pytest 99_Sistema/scripts/visual/test_galeria_parser.py \
                            99_Sistema/scripts/visual/test_nombres_canonicos.py \
                            99_Sistema/scripts/visual/test_generar_app_index.py -v
+          # El del índice de relatos corre solo: no usa pytest (se escribió
+          # para poder correrlo en la máquina literaria, que no lo tiene).
+          python 99_Sistema/scripts/literatura/test_generar_app_relatos.py
 
       - name: Generar
-        run: python 99_Sistema/scripts/visual/generar_app_index.py
+        run: |
+          python 99_Sistema/scripts/visual/generar_app_index.py
+          python 99_Sistema/scripts/literatura/generar_app_relatos.py
 
       - name: Commitear si cambió
         run: |
           git config user.name  "Ele de Anaïs"
           git config user.email "Ele.de.Anais@proton.me"
-          git add app/index.json app/prompts
+          git add app/index.json app/prompts app/relatos.json
           # Los mismos dos trailers que lleva cualquier commit del repo: un
           # commit automático sin ellos rompe la convención justo en el único
           # commit que nadie escribe a mano.
